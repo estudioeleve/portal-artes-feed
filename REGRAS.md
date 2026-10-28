@@ -58,7 +58,16 @@ Tudo o que o Israel vê é em português.
 6. `node robo/artes.js`. Todos com 3 linhas. Olhe as artes (Read na imagem) antes de publicar: foto não pode estar
    cortando rosto de forma estranha, nem ter marca d'água de outro veículo grande no meio.
 7. `git add -A && git commit && git push` (as imagens precisam estar no GitHub antes de publicar).
-8. Para cada item, um de cada vez: publicar com `create_image_post` (`image_url` = `url_arte`, `caption` = `legenda`),
+8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push) e publique com `create_image_post`
+   (`image_url` = **primeiro link** que ele imprimir, o do jsDelivr; `caption` = `legenda`),
    depois `python3 robo/historico.py <id> <media_id>`, e esperar 8 a 12 minutos antes do próximo
    (comando em segundo plano `sleep 540`).
+   **Se der "Media ID is not available"** (é o Instagram que não terminou de processar a imagem; o post NÃO sai,
+   o Israel confirmou em 28/10): espere **3 minutos** e tente de novo com o **segundo link** (raw.githubusercontent).
+   Se falhar outra vez, espere mais 3 minutos e tente o primeiro link de novo. Depois de 3 falhas, registre em
+   `dados/erros.txt` e passe para o próximo item; o que ficou pendente entra na próxima rodada.
+   Isso não é erro de permissão/token, então não encerra a rodada.
+   Item que não saiu: copie o objeto dele (com `legenda` e `arte`) para a lista em `dados/pendentes.json`.
+   No começo de cada rodada, se `dados/pendentes.json` tiver itens de hoje, publique-os primeiro (a arte já está no GitHub;
+   coloque o item de volta no `dados/lote.json` antes de rodar o `links.py`) e tire-os da lista depois de publicados.
 9. No fim: `git add -A && git commit && git push` do histórico.
