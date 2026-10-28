@@ -460,5 +460,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-10-28/111256_20.jpg",
   "media_id": "18130115218696106"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "08:48",
+  "id": "111259_24",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro perde votação na FMF e Mineiro de 2027 terá mata-mata com final em dois jogos",
+  "titulo_orig": "Cruzeiro tenta impedir mudança no Campeonato Mineiro, mas acaba derrotado; Spindel se manifesta",
+  "link": "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-tenta-impedir-mudanca-no-campeonato-mineiro-mas-acaba-derrotado-spindel-se-manifesta,242658ffd3fee17376cfeb9036ebaf35msw0wwoc.html",
+  "fonte": "Terra",
+  "arte": "artes/2026-10-28/111259_24.jpg",
+  "media_id": "18094173842195929"
  }
 ]

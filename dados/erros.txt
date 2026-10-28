@@ -3,3 +3,4 @@
 28/10/2026 07:43 - Rodada 07h: 101133_38 (piso salarial da PM) retornou "Media ID is not available" duas vezes seguidas (07:42 e 07:44). Não insisti para não arriscar post duplicado; conferir no perfil se saiu. 101136_17 (barragem em Bocaiúva) não foi publicado nesta rodada (arte pronta em artes/2026-10-28/101136_17.jpg).
 28/10/2026 08:02 - Israel confirmou que o 101133_38 (PM) não tinha saído. Publicado às 07:52 pelo link jsDelivr (media 18644245816046291), de primeira. 101136_17 publicado às 08:01 (media 18118586030072216). Nova regra para o erro no REGRAS.md (robo/links.py).
 28/10/2026 08:27 - Rodada 08h: 111253_64 (desapropriações PBH) deu "Media ID is not available" no link jsDelivr às 08:23; publicado às 08:26 pelo link raw.githubusercontent (media 18383162866230492).
+28/10/2026 08:48 - Rodada 08h: 111259_24 (Cruzeiro/FMF) deu "Media ID is not available" no link jsDelivr às 08:45; publicado às 08:48 pelo link raw.githubusercontent (media 18094173842195929).
