@@ -1,0 +1,1 @@
+28/10/2026 05:23 - Rodada 05h: 1ª tentativa de publicar 081051_46 (Flávio Bolsonaro) retornou "Media ID is not available" (não é erro de permissão/token); 2ª tentativa 1 min depois publicou (media 18171053218461126). Conferir se não saiu duplicado.

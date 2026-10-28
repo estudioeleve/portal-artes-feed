@@ -264,5 +264,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-10-28/081049_10.jpg",
   "media_id": "18079920698403122"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "05:23",
+  "id": "081051_46",
+  "bloco": "brasil",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Flávio Bolsonaro e família cruzam a fronteira com a Argentina e embarcam em voo para o Equador",
+  "titulo_orig": "Flávio Bolsonaro e família cruzam fronteira e seguem em voo privado para o Equador, diz Migração argentina | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-e-familia-entraram-na-argentina-e-seguiram-em-voo-privado-para-o-equador-diz-migracao-argentina.ghtml",
+  "fonte": "g1",
+  "arte": "artes/2026-10-28/081051_46.jpg",
+  "media_id": "18171053218461126"
  }
 ]
