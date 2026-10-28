@@ -138,5 +138,19 @@
   "fonte": "",
   "arte": "2026-10-28/p10.jpg",
   "media_id": "NAO_PUBLICADO_leva_teste"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "01:01",
+  "id": "010017_11",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Suspeito apontado como chefe do tráfico é preso com fuzil ao buscar o filho na escola em Igarapé",
+  "titulo_orig": "Suspeito é preso enquanto buscava filho na escola, e fuzil é apreendido em Igarapé, na Grande BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/suspeito-e-preso-enquanto-buscava-filho-na-escola-e-fuzil-e-apreendido-em-igarape-na-grande-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-10-28/010017_11.jpg",
+  "media_id": "18119954264051046"
  }
 ]
