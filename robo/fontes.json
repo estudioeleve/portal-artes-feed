@@ -1,5 +1,4 @@
 {
- "_comentario": "Fontes do radar. bloco: rmbh (Santa Luzia + Grande BH), minas, brasil, mundo, entretenimento, esporte. 'gnews' = busca no Google Notícias das últimas 24h.",
  "rss": [
   ["minas","https://www.agenciaminas.mg.gov.br/rss"],
   ["brasil","https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"],
@@ -13,17 +12,17 @@
  "paginas_g1": [["rmbh","https://g1.globo.com/mg/minas-gerais/"]],
  "gnews": [
   ["rmbh","\"Santa Luzia\" MG"],
+  ["rmbh","\"Câmara de Santa Luzia\" OR \"Câmara Municipal de Santa Luzia\""],
   ["rmbh","\"Belo Horizonte\""],
   ["rmbh","Contagem OR Betim OR \"Ribeirão das Neves\" OR Ibirité"],
   ["rmbh","Vespasiano OR \"Lagoa Santa\" OR \"São José da Lapa\" OR \"Pedro Leopoldo\" OR Confins OR Matozinhos"],
-  ["rmbh","Sabará OR \"Nova Lima\" OR Jaboticatubas OR Taquaraçu OR Caeté"],
+  ["rmbh","Sabará OR \"Nova Lima\" OR Jaboticatubas OR Caeté OR \"Santa Luzia\""],
   ["rmbh","\"Grande BH\" OR \"Região Metropolitana de BH\""],
-  ["minas","\"Minas Gerais\" polícia OR PM OR Bombeiros"],
-  ["minas","\"Minas Gerais\" governo OR Zema OR ALMG OR Cemig OR Copasa"],
-  ["brasil","Brasil governo federal OR STF OR Congresso"],
-  ["entretenimento","famosos OR celebridade OR novela OR BBB"],
+  ["minas","\"Minas Gerais\" polícia OR PM OR Bombeiros OR acidente"],
+  ["minas","\"Minas Gerais\" governo OR ALMG OR Cemig OR Copasa OR Detran"],
+  ["brasil","governo federal OR STF OR Congresso OR Lula"],
+  ["entretenimento","famosos OR celebridade OR novela OR cantor OR atriz"],
   ["esporte","Atlético-MG OR Galo OR Cruzeiro OR América-MG"]
  ],
- "concorrentes": ["virou not", "virounoticia", "portal impacto", "portalimpacto", "vetor norte", "vetornorte", "rm noticia", "rm notícia", "rmnoticia"],
- "proibido_citar": ["virou not", "virounoticia"]
+ "concorrentes": ["virou not", "virounoticia", "portal impacto", "portalimpacto", "vetor norte", "vetornorte", "rm noticia", "rmnoticia"]
 }
