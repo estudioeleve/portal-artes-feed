@@ -362,5 +362,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-10-28/101126_3.jpg",
   "media_id": "18118856390086792"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "07:22",
+  "id": "101129_15",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Colisão entre dois trens de alta velocidade deixa ao menos 10 mortos perto de Toledo, na Espanha",
+  "titulo_orig": "Dois trens de alta velocidade colidem na Espanha; 10 pessoas morreram | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/10/28/dois-trens-de-alta-velocidade-colidem-na-espanha.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-10-28/101129_15.jpg",
+  "media_id": "18186256006421068"
  }
 ]
