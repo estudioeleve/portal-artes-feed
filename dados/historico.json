@@ -320,5 +320,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-10-28/091022_15.jpg",
   "media_id": "18185975824421241"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "06:42",
+  "id": "091057_48",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Trem Vitória-Minas volta a ter viagens noturnas entre BH e o Espírito Santo em dezembro",
+  "titulo_orig": "Trem Vitória-Minas volta a ter viagens noturnas em dezembro | G1",
+  "link": "https://g1.globo.com/google/amp/es/espirito-santo/noticia/2026/10/28/trem-vitoria-minas-tem-passagens-a-venda-para-viagens-noturnas-em-dezembro-veja-precos-e-horarios.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-10-28/091057_48.jpg",
+  "media_id": "18347591746250241"
  }
 ]
