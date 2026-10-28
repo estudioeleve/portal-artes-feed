@@ -446,5 +446,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-10-28/111253_64.jpg",
   "media_id": "18383162866230492"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "08:36",
+  "id": "111256_20",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Cemig religa energia de 99,27% dos clientes atingidos pelo temporal; 4,6 mil ainda estão sem luz",
+  "titulo_orig": "Cemig restabelece energia para 99,27% da população de MG afetada pelo 'maior evento climático da história' | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/cemig-restabelece-energia-para-9927-da-populacao-de-mg-afetada-pelo-maior-evento-climatico-da-historia/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-10-28/111256_20.jpg",
+  "media_id": "18130115218696106"
  }
 ]
