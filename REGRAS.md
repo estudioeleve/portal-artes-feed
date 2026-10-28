@@ -34,6 +34,19 @@ Tudo o que o Israel vê é em português.
 - Termina com `📸 Foto: <crédito>`, `Fonte: <veículo>` e 3 a 5 hashtags (sempre `#PortalONENews`).
 - Não marcar perfis com @.
 
+## Site (portalonenews.com.br, WordPress)
+- Toda notícia publicada no Instagram também vai para o site. O site busca o arquivo `dados/site.json` sozinho a cada 15 minutos.
+- Para cada item, preencha também no `dados/lote.json`:
+  - `linha_fina`: uma frase de resumo (até 160 caracteres);
+  - `categoria`: um destes: santa-luzia, belo-horizonte, regiao-metropolitana, contagem, betim, vespasiano, lagoa-santa,
+    ribeirao-das-neves, sabara, minas-gerais, politica, brasil, mundo, esporte, atletico, cruzeiro, america, entretenimento,
+    saude, educacao, luto;
+  - `texto_site`: a matéria completa em HTML simples (`<p>...</p>`), 4 a 7 parágrafos, 250 a 450 palavras, com texto próprio
+    (nunca copiar frases da fonte), na ordem: o fato principal, detalhes, o que disseram as autoridades/envolvidos, o que acontece agora;
+  - `credito_site`: o crédito da foto (ex.: "Divulgação/PMMG");
+  - `fonte_site`: o veículo de origem (mesma regra dos concorrentes: nunca citar os concorrentes).
+- Depois rode `python3 robo/site.py <id> <id> ...` (antes do passo 7, para a foto do site subir junto).
+
 ## Concorrentes (regra do Israel)
 - Concorrentes: **Jornal Virou Notícia / Virou Notícia**, **Portal Impacto**, qualquer **Vetor Norte**, **RM Notícias**.
 - Pode usar a pauta deles, mas: **nunca citar como fonte**, reescrever o texto e **nunca usar a foto deles**.
@@ -57,7 +70,8 @@ Tudo o que o Israel vê é em português.
    (`python3 robo/coletar.py <URL> --anexar`) e use a foto dela, ou descarte.
 6. `node robo/artes.js`. Todos com 3 linhas. Olhe as artes (Read na imagem) antes de publicar: foto não pode estar
    cortando rosto de forma estranha, nem ter marca d'água de outro veículo grande no meio.
-7. `git add -A && git commit && git push` (as imagens precisam estar no GitHub antes de publicar).
+7. `python3 robo/site.py <ids>` (ver seção Site) e depois `git add -A && git commit && git push`
+   (as imagens precisam estar no GitHub antes de publicar).
 8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push) e publique com `create_image_post`
    (`image_url` = **primeiro link** que ele imprimir, o do jsDelivr; `caption` = `legenda`),
    depois `python3 robo/historico.py <id> <media_id>`, e esperar 8 a 12 minutos antes do próximo
