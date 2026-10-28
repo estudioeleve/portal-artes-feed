@@ -306,5 +306,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-10-28/091027_5.jpg",
   "media_id": "18035373653855110"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "06:32",
+  "id": "091022_15",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Moto com escapamento barulhento vai dar multa de R$ 500 em BH; Damião sanciona nova lei",
+  "titulo_orig": "Damião sanciona lei que multa donos de motos que emitem ruídos acima dos limites permitidos",
+  "link": "https://rede98.com.br/noticias/bh-regiao/damiao-sanciona-lei-que-multa-donos-de-motos-que-emitem-ruidos-acima-dos-limites-permitidos/",
+  "fonte": "Rede 98",
+  "arte": "artes/2026-10-28/091022_15.jpg",
+  "media_id": "18185975824421241"
  }
 ]
