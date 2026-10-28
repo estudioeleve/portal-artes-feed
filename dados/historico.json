@@ -390,5 +390,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-10-28/101123_13.jpg",
   "media_id": "18286531117293002"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "07:52",
+  "id": "101133_38",
+  "bloco": "brasil",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo Lula estuda criar piso salarial nacional para policiais militares, com ajuda da União",
+  "titulo_orig": "Salário da Polícia Militar: governo Lula estuda criar piso para categoria",
+  "link": "https://www.estadao.com.br/brasil/equipe-de-lula-estuda-criar-piso-salarial-da-pm-com-ajuda-federal-mas-restricao-fiscal-e-desafio/",
+  "fonte": "Estadão",
+  "arte": "artes/2026-10-28/101133_38.jpg",
+  "media_id": "18644245816046291"
  }
 ]
