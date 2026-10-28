@@ -152,5 +152,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-10-28/010017_11.jpg",
   "media_id": "18119954264051046"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "01:09",
+  "id": "010020_14",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Engenheiro Otto Levy aceita convite do governador eleito Cleitinho e vai presidir a Cemig",
+  "titulo_orig": "Otto Levy será o novo presidente da Cemig",
+  "link": "https://www.em.com.br/politica/2026/10/7529186-otto-levy-sera-o-novo-presidente-da-cemig.html",
+  "fonte": "Estado de Minas",
+  "arte": "artes/2026-10-28/010020_14.jpg",
+  "media_id": "18168587407480355"
  }
 ]
