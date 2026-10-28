@@ -292,5 +292,19 @@
   "fonte": "Jornal Diário de Contagem",
   "arte": "artes/2026-10-28/091305_78.jpg",
   "media_id": "18003250608006776"
+ },
+ {
+  "data": "2026-10-28",
+  "hora": "06:23",
+  "id": "091027_5",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro encara o Olimpia nesta quarta por vaga inédita na final da Libertadores Feminina",
+  "titulo_orig": "Cruzeiro volta a enfrentar o Olimpia por histórica vaga na final da Libertadores Feminina",
+  "link": "https://www.otempo.com.br/sports/cruzeiro/2026/10/28/cruzeiro-volta-a-enfrentar-o-olimpia-por-historica-vaga-na-final-da-libertadores-feminina",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-10-28/091027_5.jpg",
+  "media_id": "18035373653855110"
  }
 ]
