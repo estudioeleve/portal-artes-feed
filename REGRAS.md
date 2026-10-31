@@ -77,6 +77,26 @@ Tudo o que o Israel vê é em português.
   - `fonte_site`: o veículo de origem (mesma regra dos concorrentes: nunca citar os concorrentes).
 - Depois rode `python3 robo/site.py <id> <id> ...` (antes do passo 7, para a foto do site subir junto).
 
+## Notícias só para o site (pedido do Israel, 31/10/2026: "o máximo de notícias que conseguir, de todos os temas")
+- Além dos posts do Instagram, cada rodada escreve notícias **só para o site** (não vão para o Instagram e não contam nos 100 do Instagram).
+  Meta por rodada: **8** entre 6h e meia-noite; **3** na madrugada. Dá cerca de 160 por dia a mais no site, além das ~100 que também vão para o Instagram.
+- Faça essas notícias **enquanto espera** os 8 a 12 minutos entre um post e outro do Instagram (não atrasa nada).
+  Se o Instagram já bateu 100 no dia, a rodada faz só estas.
+- Todos os temas, com a mesma divisão: pelo menos 30% Santa Luzia + região, Comércio (preferir Santa Luzia), política, BH, Minas, Brasil,
+  mundo, esporte, educação, saúde, entretenimento. O site tem blocos próprios para Santa Luzia (Portal Luziense), Comércio e Política:
+  manter esses três sempre abastecidos ao longo do dia.
+- Mesmas regras de texto e de concorrentes da seção Site e Concorrentes (texto próprio, 250 a 450 palavras, nunca copiar frases,
+  nunca citar concorrente, não inventar nada que a fonte não diga).
+- **Foto (regra mais rígida que a do Instagram): só foto liberada para uso.** Valem: Agência Brasil, Agência Minas, Agência Senado,
+  Agência Câmara, fotos de divulgação de prefeituras, câmaras, governo, polícias, bombeiros, empresas e assessorias (crédito
+  "Divulgação/<órgão>" ou o fotógrafo + órgão). **Não usar foto de jornal, TV ou portal** (Itatiaia, O Tempo, Globo, CNN, Estado de Minas etc.).
+  Sem foto liberada: publique **sem foto** (antes do site.py, deixe `"foto": ""` no item); o site mostra a notícia só com o texto.
+- Como fazer: colete com `python3 robo/coletar.py <n> ... --anexar`, marque cada item com `"so_site": true` e preencha `titulo`
+  (não precisa caber em 3 linhas), `bloco`, `portal`, `ed`, `linha_fina`, `categoria`, `texto_site`, `credito_site`, `fonte_site`.
+  Rode `python3 robo/site.py <ids>` e registre cada um com `python3 robo/historico.py <id> SITE` (assim o radar não repete a pauta).
+  Itens com `"so_site": true` **nunca** passam pelo artes.js nem pelo Instagram.
+- Commit + push a cada lote (o site busca o arquivo de 15 em 15 minutos).
+
 ## Concorrentes (regra do Israel)
 - Concorrentes: **Jornal Virou Notícia / Virou Notícia**, **Portal Impacto**, qualquer **Vetor Norte**, **RM Notícias**.
 - Pode usar a pauta deles, mas: **nunca citar como fonte**, reescrever o texto e **nunca usar a foto deles**.
