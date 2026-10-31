@@ -44,6 +44,8 @@ Tudo o que o Israel vê é em português.
   (CDL, ACISL, Sebrae, Fecomércio, feiras).
 - Moldura `comercio`, `ed` COMÉRCIO (ou SANTA LUZIA quando for de lá), `categoria` do site `comercio`, `bloco` `comercio`.
 - Não publicar propaganda disfarçada de notícia: tem que ter fato e fonte.
+- Moldura do feed (31/10/2026, pedido do Israel): a do Canva "Feed comercio" (canva.link/fbyi7bmmn43h5gm), já aplicada no
+  `robo/modelo/moldura.html` (classe `.c`). A moldura de Reels não serve para post de imagem.
 
 ## Título (vai na arte)
 - Sempre **exatamente 3 linhas** na moldura (cerca de 80 a 98 caracteres). O `robo/artes.js` mede: se não der 3, reescreva e gere de novo.
