@@ -4,12 +4,10 @@ Este arquivo é a instrução de cada rodada automática. Quem roda é o Claude,
 Tudo o que o Israel vê é em português.
 
 ## Autorização
-- O Israel autorizou em 28/10/2026 a publicação **automática** de até **100 posts nesse dia** no Instagram **@portalonenews**,
-  sem aprovação prévia, pelo Windsor.ai (conector `instagram`, conta `17841461417663539`, ação `create_image_post`).
-- Fora dessa data ou passando de 100 posts no dia: **não publicar nada**. Encerrar a rodada.
-- 31/10/2026: o Israel pediu que o robô passe a publicar **100 notícias por dia**. As regras abaixo já valem para isso,
-  mas só se publica nos dias que o **prompt da tarefa agendada** autorizar (hoje ele só libera 28/10/2026).
-  Para valer todos os dias, o Israel precisa trocar a data no prompt da tarefa agendada.
+- O Israel autorizou em 31/10/2026 a publicação **automática** de até **100 posts por dia, todos os dias**, no Instagram
+  **@portalonenews**, sem aprovação prévia, pelo Windsor.ai (conector `instagram`, conta `17841461417663539`, ação `create_image_post`).
+  Vale a partir de 31/10/2026 (por volta das 19h).
+- Passando de 100 posts no dia: **não publicar nada**. Encerrar a rodada. O contador zera à meia-noite (America/Sao_Paulo).
 
 ## Meta e ritmo
 - Meta do dia: **100 posts**, espaçados. Nunca vários de uma vez: **um post a cada 8 a 12 minutos** dentro da rodada.
