@@ -11,6 +11,7 @@
 .lg{position:absolute;left:50%;bottom:44px;transform-origin:0 0;transform:rotate(-90deg) translate(0,-50%);display:flex;align-items:baseline;gap:7px;white-space:nowrap}
 .lg img{display:block}.lg span{font:400 27px/1 PP;color:#fff;letter-spacing:-.01em;position:relative;top:1px}
 .tab.politica{background:linear-gradient(180deg,#2A2A2A,#050505)}
+.tab.comercio{background:linear-gradient(180deg,#FF5400,#E2240F)}
 .txt{position:absolute;left:108px;top:887px;width:868px;color:#fff}
 .ed{font:700 40px/.99 RB;letter-spacing:-.062em;text-transform:uppercase;height:90px}
 .ti{font:700 60px/1.11 RB;letter-spacing:-.05em}
@@ -28,7 +29,7 @@ if(q.get('ed'))document.getElementById('ed').textContent=q.get('ed');
 if(q.get('ti'))document.getElementById('ti').textContent=q.get('ti');
 if(q.get('foto'))document.getElementById('foto').style.backgroundImage='url("'+q.get('foto')+'")';
 const portal=q.get('portal')||'one';
-if(portal!=='one'){const nome=portal==='luziense'?'luziense':'política';document.getElementById('lg').innerHTML='<img src="portal.png" style="height:29px"><span>'+nome+'</span>';if(portal==='politica')document.getElementById('tab').classList.add('politica');}
+if(portal!=='one'){const nome={luziense:'luziense',politica:'política',comercio:'comércio'}[portal]||portal;document.getElementById('lg').innerHTML='<img src="portal.png" style="height:29px"><span>'+nome+'</span>';if(portal==='politica'||portal==='comercio')document.getElementById('tab').classList.add(portal);}
 // título: até 3 linhas; reduz se passar
 const t=document.getElementById('ti');let fs=60;
 while(t.scrollHeight>fs*1.11*3+4&&fs>46){fs-=2;t.style.fontSize=fs+'px'}

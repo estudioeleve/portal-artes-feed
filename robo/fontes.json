@@ -1,28 +1,154 @@
 {
  "rss": [
-  ["minas","https://www.agenciaminas.mg.gov.br/rss"],
-  ["brasil","https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"],
-  ["mundo","https://g1.globo.com/rss/g1/mundo/"],
-  ["entretenimento","https://g1.globo.com/rss/g1/pop-arte/"],
-  ["esporte","https://ge.globo.com/rss/ge/futebol/times/atletico-mg/"],
-  ["esporte","https://ge.globo.com/rss/ge/futebol/times/cruzeiro/"],
-  ["esporte","https://ge.globo.com/rss/ge/futebol/times/america-mg/"],
-  ["esporte","https://ge.globo.com/rss/ge/"]
+  [
+   "minas",
+   "https://www.agenciaminas.mg.gov.br/rss"
+  ],
+  [
+   "brasil",
+   "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+  ],
+  [
+   "mundo",
+   "https://g1.globo.com/rss/g1/mundo/"
+  ],
+  [
+   "entretenimento",
+   "https://g1.globo.com/rss/g1/pop-arte/"
+  ],
+  [
+   "esporte",
+   "https://ge.globo.com/rss/ge/futebol/times/atletico-mg/"
+  ],
+  [
+   "esporte",
+   "https://ge.globo.com/rss/ge/futebol/times/cruzeiro/"
+  ],
+  [
+   "esporte",
+   "https://ge.globo.com/rss/ge/futebol/times/america-mg/"
+  ],
+  [
+   "esporte",
+   "https://ge.globo.com/rss/ge/"
+  ]
  ],
- "paginas_g1": [["rmbh","https://g1.globo.com/mg/minas-gerais/"]],
+ "paginas_g1": [
+  [
+   "rmbh",
+   "https://g1.globo.com/mg/minas-gerais/"
+  ]
+ ],
  "gnews": [
-  ["rmbh","\"Santa Luzia\" MG"],
-  ["rmbh","\"Câmara de Santa Luzia\" OR \"Câmara Municipal de Santa Luzia\""],
-  ["rmbh","\"Belo Horizonte\""],
-  ["rmbh","Contagem OR Betim OR \"Ribeirão das Neves\" OR Ibirité"],
-  ["rmbh","Vespasiano OR \"Lagoa Santa\" OR \"São José da Lapa\" OR \"Pedro Leopoldo\" OR Confins OR Matozinhos"],
-  ["rmbh","Sabará OR \"Nova Lima\" OR Jaboticatubas OR Caeté OR \"Santa Luzia\""],
-  ["rmbh","\"Grande BH\" OR \"Região Metropolitana de BH\""],
-  ["minas","\"Minas Gerais\" polícia OR PM OR Bombeiros OR acidente"],
-  ["minas","\"Minas Gerais\" governo OR ALMG OR Cemig OR Copasa OR Detran"],
-  ["brasil","governo federal OR STF OR Congresso OR Lula"],
-  ["entretenimento","famosos OR celebridade OR novela OR cantor OR atriz"],
-  ["esporte","Atlético-MG OR Galo OR Cruzeiro OR América-MG"]
+  [
+   "rmbh",
+   "\"Santa Luzia\" MG"
+  ],
+  [
+   "rmbh",
+   "\"Câmara de Santa Luzia\" OR \"Câmara Municipal de Santa Luzia\""
+  ],
+  [
+   "rmbh",
+   "\"Belo Horizonte\""
+  ],
+  [
+   "rmbh",
+   "Contagem OR Betim OR \"Ribeirão das Neves\" OR Ibirité"
+  ],
+  [
+   "rmbh",
+   "Vespasiano OR \"Lagoa Santa\" OR \"São José da Lapa\" OR \"Pedro Leopoldo\" OR Confins OR Matozinhos"
+  ],
+  [
+   "rmbh",
+   "Sabará OR \"Nova Lima\" OR Jaboticatubas OR Caeté OR \"Santa Luzia\""
+  ],
+  [
+   "rmbh",
+   "\"Grande BH\" OR \"Região Metropolitana de BH\""
+  ],
+  [
+   "minas",
+   "\"Minas Gerais\" polícia OR PM OR Bombeiros OR acidente"
+  ],
+  [
+   "minas",
+   "\"Minas Gerais\" governo OR ALMG OR Cemig OR Copasa OR Detran"
+  ],
+  [
+   "brasil",
+   "governo federal OR STF OR Congresso OR Lula"
+  ],
+  [
+   "entretenimento",
+   "famosos OR celebridade OR novela OR cantor OR atriz"
+  ],
+  [
+   "esporte",
+   "Atlético-MG OR Galo OR Cruzeiro OR América-MG"
+  ],
+  [
+   "rmbh",
+   "\"Venda Nova\" BH OR \"Ribeirão das Neves\" polícia OR ônibus OR acidente"
+  ],
+  [
+   "rmbh",
+   "\"Santa Luzia\" OR Vespasiano OR \"Pedro Leopoldo\" OR Matozinhos ônibus OR metrô OR transporte OR MOVE"
+  ],
+  [
+   "rmbh",
+   "\"Santa Luzia\" OR Vespasiano OR \"Pedro Leopoldo\" OR Matozinhos OR Jaboticatubas polícia OR PM OR preso OR crime"
+  ],
+  [
+   "rmbh",
+   "\"Belo Horizonte\" ônibus OR metrô OR BHTrans OR \"transporte coletivo\""
+  ],
+  [
+   "rmbh",
+   "\"Belo Horizonte\" polícia OR PM OR \"Polícia Civil\" OR preso"
+  ],
+  [
+   "comercio",
+   "\"Santa Luzia\" comércio OR CDL OR lojistas OR empreendedor OR ACISL"
+  ],
+  [
+   "comercio",
+   "CDL-BH OR Fecomércio-MG OR Sebrae Minas OR lojistas OR \"comércio de BH\""
+  ],
+  [
+   "comercio",
+   "Black Friday OR Natal OR \"13º salário\" comércio vendas expectativa"
+  ],
+  [
+   "comercio",
+   "MEI OR empreendedor OR \"pequenas empresas\" crédito OR benefício OR programa OR Simples"
+  ],
+  [
+   "comercio",
+   "\"horário do comércio\" OR \"comércio funciona\" OR \"abertura do comércio\" Minas OR BH"
+  ],
+  [
+   "politica",
+   "STF OR Congresso OR Senado OR \"Câmara dos Deputados\" OR Planalto"
+  ],
+  [
+   "politica",
+   "ALMG OR Zema OR \"Governo de Minas\" OR \"Câmara Municipal\" vereadores Minas"
+  ],
+  [
+   "esporte",
+   "\"futebol amador\" OR várzea OR \"Copa Itatiaia\" BH OR Minas"
+  ]
  ],
- "concorrentes": ["virou not", "virounoticia", "portal impacto", "portalimpacto", "vetor norte", "vetornorte", "rm noticia", "rmnoticia"]
+ "concorrentes": [
+  "virou not",
+  "virounoticia",
+  "portal impacto",
+  "portalimpacto",
+  "vetor norte",
+  "vetornorte",
+  "rm noticia",
+  "rmnoticia"
+ ]
 }

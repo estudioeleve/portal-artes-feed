@@ -10,7 +10,7 @@ SF=f'{R}/dados/site.json'
 S=json.load(open(SF)) if os.path.exists(SF) else []
 ja={s['id'] for s in S}
 dia=time.strftime('%Y-%m-%d',time.gmtime(time.time()-3*3600))
-CATS={'santa-luzia','grande-bh','belo-horizonte','regiao-metropolitana','contagem','betim','vespasiano','lagoa-santa','ribeirao-das-neves','sabara','minas-gerais','politica','brasil','mundo','esporte','atletico','cruzeiro','america','entretenimento','saude','educacao','luto'}
+CATS={'santa-luzia','grande-bh','belo-horizonte','regiao-metropolitana','contagem','betim','vespasiano','lagoa-santa','ribeirao-das-neves','sabara','pedro-leopoldo','matozinhos','jaboticatubas','venda-nova','comercio','minas-gerais','politica','brasil','mundo','esporte','atletico','cruzeiro','america','entretenimento','saude','educacao','luto'}
 for i in sys.argv[1:]:
   o=L[i]
   falta=[k for k in ('titulo','linha_fina','categoria','texto_site') if not o.get(k)]
