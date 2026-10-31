@@ -586,5 +586,19 @@
   "fonte": "Diário do Transporte",
   "arte": "artes/2026-10-31/230848_55.jpg",
   "media_id": "18129788122831609"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "20:30",
+  "id": "230856_214",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "BH vai ganhar 250 novos leitos hospitalares e 70 pontos de hemodiálise exclusivos para o SUS",
+  "titulo_orig": "BH ganha 250 novos leitos hospitalares e 70 pontos de hemodiálise pelo SUS",
+  "link": "https://www.metropoles.com/minas-gerais/bh-ganha-250-novos-leitos-hospitalares-e-70-pontos-de-hemodialise-pelo-sus",
+  "fonte": "Metrópoles",
+  "arte": "artes/2026-10-31/230856_214.jpg",
+  "media_id": "18640476493054095"
  }
 ]
