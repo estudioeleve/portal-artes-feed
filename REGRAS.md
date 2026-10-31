@@ -87,13 +87,14 @@ Tudo o que o Israel vê é em português.
   manter esses três sempre abastecidos ao longo do dia.
 - Mesmas regras de texto e de concorrentes da seção Site e Concorrentes (texto próprio, 250 a 450 palavras, nunca copiar frases,
   nunca citar concorrente, não inventar nada que a fonte não diga).
-- **Foto (regra mais rígida que a do Instagram): só foto liberada para uso.** Valem: Agência Brasil, Agência Minas, Agência Senado,
-  Agência Câmara, fotos de divulgação de prefeituras, câmaras, governo, polícias, bombeiros, empresas e assessorias (crédito
-  "Divulgação/<órgão>" ou o fotógrafo + órgão). **Não usar foto de jornal, TV ou portal** (Itatiaia, O Tempo, Globo, CNN, Estado de Minas etc.).
-  Sem foto liberada: publique **sem foto** (antes do site.py, deixe `"foto": ""` no item); o site mostra a notícia só com o texto.
+- **Foto: toda notícia do site tem foto (decisão do Israel, 31/10/2026).** Use a foto da matéria de origem e dê o crédito com o
+  nome do veículo, por exemplo "Foto: João Silva/Itatiaia" ou "Foto: Reprodução/O Tempo" (campo `credito_site`).
+  Prefira foto oficial ou de divulgação quando houver (Agência Brasil, Agência Minas, prefeituras, polícias, assessorias).
+  **Nunca** usar foto dos concorrentes (Jornal Virou Notícia, Portal Impacto, Vetor Norte, RM Notícias).
+  Se a matéria não tiver foto, busque outra matéria do mesmo fato com foto (`coletar.py <URL> --anexar`); se não achar, **não publique** essa notícia.
 - Como fazer: colete com `python3 robo/coletar.py <n> ... --anexar`, marque cada item com `"so_site": true` e preencha `titulo`
   (não precisa caber em 3 linhas), `bloco`, `portal`, `ed`, `linha_fina`, `categoria`, `texto_site`, `credito_site`, `fonte_site`.
-  Rode `python3 robo/site.py <ids>` e registre cada um com `python3 robo/historico.py <id> SITE` (assim o radar não repete a pauta).
+  Confira que todo item tem `foto` antes do site.py (o site.py avisa "SEM FOTO": nesse caso tire o item). Rode `python3 robo/site.py <ids>` e registre cada um com `python3 robo/historico.py <id> SITE` (assim o radar não repete a pauta).
   Itens com `"so_site": true` **nunca** passam pelo artes.js nem pelo Instagram.
 - Commit + push a cada lote (o site busca o arquivo de 15 em 15 minutos).
 
