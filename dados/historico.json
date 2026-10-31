@@ -544,5 +544,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-10-31/220850_144.jpg",
   "media_id": "18142293331619090"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "19:53",
+  "id": "220855_237",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Doorgal Andrada, 34 anos, vira nome de consenso para presidir a Assembleia de Minas em 2027",
+  "titulo_orig": "Quem é Doorgal Andrada, nome de consenso para presidir a ALMG | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/31/quem-e-doorgal-andrada-nome-de-consenso-para-presidir-a-almg-a-partir-de-2027.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-10-31/220855_237.jpg",
+  "media_id": "17994955149024627"
  }
 ]
