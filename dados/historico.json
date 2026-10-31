@@ -530,5 +530,19 @@
   "fonte": "Regionalzão",
   "arte": "artes/2026-10-31/220847_225.jpg",
   "media_id": "18442756561197690"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "19:44",
+  "id": "220850_144",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Ônibus perde o controle na pista molhada e atinge bar em Contagem; ninguém se feriu",
+  "titulo_orig": "Motorista perde controle em pista molhada, e ônibus atinge bar em Contagem, na Grande BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/motorista-perde-controle-em-pista-molhada-e-onibus-atinge-bar-em-contagem-na-grande-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-10-31/220850_144.jpg",
+  "media_id": "18142293331619090"
  }
 ]
