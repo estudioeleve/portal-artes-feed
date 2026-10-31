@@ -502,5 +502,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-10-31/220839_26.jpg",
   "media_id": "18122031544948754"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "19:26",
+  "id": "220843_279",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Finados: BHTrans muda trânsito e linhas de ônibus no entorno dos cemitérios de BH nesta segunda",
+  "titulo_orig": "BHTrans fará operação especial no entorno dos cemitérios de BH no Dia de Finados",
+  "link": "https://mobilidadebh.com.br/cemiterios-operacao-transito-bh-dia-finados/",
+  "fonte": "Mobilidade BH",
+  "arte": "artes/2026-10-31/220843_279.jpg",
+  "media_id": "18067387655619333"
  }
 ]
