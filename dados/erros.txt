@@ -16,3 +16,6 @@
 01/11/2026 16:14 - Rodada 16h: 180931_65 (desfile das Cabulosas, pendente) deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw.githubusercontent (media 17978484678170480).
 01/11/2026 16:27 - Rodada 16h: 190927_22 (carro capota no Aparecida) deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw.githubusercontent (media 17910374064582900).
 01/11/2026 16:38 - Rodada 16h: 190931_47 (chuva Pedro Leopoldo) deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw (media 18119760995603466). ERRO MEU: 180931_65 (Cabulosas) saiu SEM FOTO no Instagram (media 17978484678170480): a foto do pendente não estava no repositório e o artes.js refez a arte sem foto. Israel reclamou; apagar à mão.
+2026-11-01 18:40 213303_162: Media ID is not available (jsdelivr), tentando raw em 3 min
+2026-11-01 18:44 213303_162: Media ID is not available (raw), tentando jsdelivr em 3 min
+2026-11-01 18:55 213307_166: Media ID is not available (jsdelivr)

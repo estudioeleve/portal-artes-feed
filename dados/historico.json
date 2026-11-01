@@ -3428,5 +3428,47 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:41",
+  "id": "213303_162",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "RIBEIRÃO DAS NEVES",
+  "titulo": "Incêndio destrói galpão de empresa ambiental na BR-040, em Ribeirão das Neves; ninguém se feriu",
+  "titulo_orig": "Bombeiros realizam rescaldo após incêndio destruir galpão na Grande BH | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/bombeiros-realizam-rescaldo-apos-incendio-destruir-galpao-de-empresa-ambiental-na-grande-bh.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-01/213303_162.jpg",
+  "media_id": "18189139735418191"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:52",
+  "id": "213307_166",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Metrô de BH abre as estações Nova Suíça e Amazonas também aos fins de semana",
+  "titulo_orig": "Metrô de Belo Horizonte amplia funcionamento de duas estações a partir de hoje",
+  "link": "https://www.gazetadevarginha.com.br/post/metr%C3%B4-de-belo-horizonte-amplia-funcionamento-de-duas-esta%C3%A7%C3%B5es-a-partir-de-hoje",
+  "fonte": "Gazeta De Varginha",
+  "arte": "artes/2026-11-01/213307_166.jpg",
+  "media_id": "17889019767619811"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:52",
+  "id": "213200_31",
+  "bloco": "brasil",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Defesa de Bolsonaro aposta em revisão criminal no STF para tentar anular a condenação de 27 anos",
+  "titulo_orig": "Bolsonaro aposta em revisão no STF para tentar anular condenação a 27 anos de prisão | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/politica/revisao-criminal-bolsonaro-stf-defesa-condenacao/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-01/213200_31.jpg",
+  "media_id": "SITE"
  }
 ]
