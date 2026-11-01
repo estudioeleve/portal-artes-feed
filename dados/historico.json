@@ -1482,5 +1482,19 @@
   "fonte": "CNN Brasil",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "04:11",
+  "id": "070906_1",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Linha 2 do Metrô BH: estações Nova Suíça e Amazonas passam a abrir todos os dias",
+  "titulo_orig": "Estações da linha 2 do Metrô BH iniciam operação plena neste domingo | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/estacoes-nova-suica-e-amazonas-da-linha-2-do-metro-bh-iniciam-operacao-plena-neste-domingo.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-01/070906_1.jpg",
+  "media_id": "18118921208043908"
  }
 ]
