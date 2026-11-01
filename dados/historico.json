@@ -3008,5 +3008,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-01/161605_123.jpg",
   "media_id": "18116866994146389"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "13:36",
+  "id": "161100_31",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "VR e VA de qualquer operadora devem passar em toda maquininha habilitada a partir do dia 7",
+  "titulo_orig": "Recebimento de vales-alimentação e refeição mudam a partir do dia 7",
+  "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/recebimento-de-vales-alimentacao-e-refeicao-mudam-partir-do-dia-7",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-01/161100_31.jpg",
+  "media_id": "17914977753512202"
  }
 ]
