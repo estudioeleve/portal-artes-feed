@@ -3526,5 +3526,61 @@
   "fonte": "O TEMPO",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "20:12",
+  "id": "231100_39",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Médico denuncia esquema de plantões 'fantasmas' no hospital municipal e na UPA de Santa Luzia",
+  "titulo_orig": "Médico denuncia pagamento de plantões 'fantasmas' em hospital na Grande BH",
+  "link": "https://noticias.r7.com/minas-gerais/mg-record/video/medico-denuncia-pagamento-de-plantoes-fantasmas-em-hospital-na-grande-bh-01112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "20:12",
+  "id": "231057_37",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Caminhão sem freio invade relojoaria no bairro Paulo VI, em BH, e atinge cliente de 72 anos",
+  "titulo_orig": "Caminhão desgovernado invade relojoaria e atropela cliente em BH",
+  "link": "https://noticias.r7.com/minas-gerais/mg-record/video/caminhao-desgovernado-invade-relojoaria-e-atropela-cliente-em-bh-01112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "20:12",
+  "id": "231119_34",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SETE LAGOAS",
+  "titulo": "Sete Lagoas investiga morte de idosa liberada da UPA de madrugada; médica foi afastada",
+  "titulo_orig": "Prefeitura de Sete Lagoas, na Grande BH, investiga morte de idosa em UPA da cidade",
+  "link": "https://noticias.r7.com/minas-gerais/mg-record/video/prefeitura-de-sete-lagoas-na-grande-bh-investiga-morte-de-idosa-em-upa-da-cidade-01112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "20:12",
+  "id": "231104_22",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Finados em Matozinhos: paróquia divulga horários das missas nos cemitérios nesta segunda",
+  "titulo_orig": "Paróquia de Matozinhos divulga horários das missas de Finados; confira a programação",
+  "link": "https://pordentrodetudo.com.br/paroquia-de-matozinhos-divulga-horarios-das-missas-de-finados-confira-a-programacao/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
