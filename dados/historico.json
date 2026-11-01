@@ -2266,5 +2266,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "09:30",
+  "id": "121043_25",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF decide que prazos menores de registro de armas valem para certificados anteriores a 2023",
+  "titulo_orig": "STF acolhe tese da AGU e valida aplicação imediata de novos prazos para registro de armas",
+  "link": "https://www.rotajuridica.com.br/stf-valida-reducao-de-prazo-de-registro-de-armas-de-fogo-inclusive-para-certificados-emitidos-antes-de-2023/",
+  "fonte": "Rota Jurídica",
+  "arte": "artes/2026-11-01/121043_25.jpg",
+  "media_id": "18120740776979673"
  }
 ]
