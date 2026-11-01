@@ -1174,5 +1174,61 @@
   "fonte": "BHAZ",
   "arte": "artes/2026-10-31/021015_306.jpg",
   "media_id": "17870580687661358"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "00:11",
+  "id": "030927_180",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Pix MEI: governo prepara apoio de até R$ 5 mil para microempreendedores, mas cadastro ainda não abriu",
+  "titulo_orig": "Pix MEI: R$ 5 mil poderão ser solicitados pelo app; veja como irá funcionar",
+  "link": "https://www.techtudo.com.br/noticias/2026/10/pix-mei-r-5-mil-poderao-ser-solicitados-pelo-app-veja-como-ira-funcionar-edapps.ghtml",
+  "fonte": "TechTudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "00:11",
+  "id": "030950_245",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "PEDRO LEOPOLDO",
+  "titulo": "Pedro Leopoldo realiza Conferência Municipal dos Direitos da Criança e do Adolescente nesta quinta-feira (5)",
+  "titulo_orig": "Pedro Leopoldo realiza Conferência Municipal dos Direitos da Criança e do Adolescente no dia 5 de novembro",
+  "link": "https://pordentrodetudo.com.br/pedro-leopoldo-realiza-conferencia-municipal-dos-direitos-da-crianca-e-do-adolescente-no-dia-5-de-novembro/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "00:11",
+  "id": "031004_58",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "MINAS GERAIS",
+  "titulo": "Governo de Minas apresenta rodovias, concessões e projetos de mobilidade da Grande BH à equipe de transição",
+  "titulo_orig": "Governo de Minas apresenta infraestrutura e obras à equipe de transição - RCWTV",
+  "link": "https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-infraestrutura-e-obras-a-equipe-de-transicao",
+  "fonte": "RCWTV",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "00:12",
+  "id": "030916_15",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro busca empate contra o Corinthians, vence nos pênaltis e conquista a Libertadores Feminina",
+  "titulo_orig": "Cruzeiro conquista Libertadores e chega a cinco títulos oficiais no futebol feminino | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/esportes/futebol/futebol-feminino/cruzeiro-conquista-libertadores-e-chega-a-cinco-titulos-oficiais-no-futebol-feminino/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-01/030916_15.jpg",
+  "media_id": "18130499270478679"
  }
 ]
