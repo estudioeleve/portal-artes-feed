@@ -2812,5 +2812,19 @@
   "fonte": "Diário do Transporte",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "12:29",
+  "id": "151312_37",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Antiga maternidade Octaviano Neves vira hospital 100% SUS em BH, com 250 leitos e hemodiálise",
+  "titulo_orig": "Hospital Universitário da Feluma terá nova unidade 100% SUS em Belo Horizonte - BH 24 Horas",
+  "link": "https://bh24horas.com.br/grande-bh/hospital-universitario-da-feluma-tera-nova-unidade-100-sus-em-belo-horizonte/",
+  "fonte": "BH 24 Horas",
+  "arte": "artes/2026-11-01/151312_37.jpg",
+  "media_id": "18117448286030032"
  }
 ]
