@@ -992,5 +992,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-10-31/010909_176.jpg",
   "media_id": "18079481300759300"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "22:49",
+  "id": "010927_4",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Galo encara o Grêmio neste domingo, em Porto Alegre, na ida da semifinal da Copa do Brasil",
+  "titulo_orig": "Escalações de Grêmio e Atlético-MG: veja times prováveis da semifinal",
+  "link": "https://www.band.com.br/esportes/futebol/copa-do-brasil/escalacoes-de-gremio-e-atletico-mg-veja-times-provaveis-da-semifinal",
+  "fonte": "Band",
+  "arte": "artes/2026-10-31/010927_4.jpg",
+  "media_id": "18125219309007111"
  }
 ]
