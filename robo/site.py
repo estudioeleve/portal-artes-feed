@@ -17,6 +17,9 @@ for i in sys.argv[1:]:
   if falta: print(i,'FALTA',falta);continue
   if o['categoria'] not in CATS: print(i,'categoria inválida:',o['categoria'],'| use uma de',sorted(CATS));continue
   if i in ja: print(i,'já está no site.json');continue
+  sys.path.insert(0,B);from repetido import achar
+  h=achar(o)
+  if h: print(i,'REPETIDO: já saiu em',h['data'],h.get('hora',''),'-',h.get('titulo','')[:80],'-> não vai para o site');continue
   foto=''
   if o.get('foto') and os.path.exists(f"{R}/{o['foto']}"):
     os.makedirs(f'{R}/site/{dia}',exist_ok=True)

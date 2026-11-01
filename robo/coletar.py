@@ -34,6 +34,9 @@ for a in [x for x in sys.argv[1:] if x!='--anexar']:
     for k in ('texto','titulo_orig','credito_foto'): o[k]=fix_text(o[k])
     print(o['id'],'| fonte:',o['fonte'],'| conc' if o.get('concorrente') else '','| texto',len(o['texto']),'| foto',bool(o['foto']),'|',o['titulo_orig'][:80])
     print('   crédito:',o['credito_foto'][-120:])
+    sys.path.insert(0,B);from repetido import achar
+    h=achar(o)
+    if h: print('   REPETIDO (já saiu em',h['data'],h.get('hora',''),'):',h.get('titulo','')[:80],'-> item descartado');continue
     lote.append(o)
   except Exception as ex: print('ERRO',a,ex)
 json.dump(lote,open(f'{R}/dados/lote.json','w'),ensure_ascii=False,indent=1)

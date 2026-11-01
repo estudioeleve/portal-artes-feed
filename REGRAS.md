@@ -110,6 +110,17 @@ Tudo o que o Israel vê é em português.
   Nada de notificação. O Israel pergunta quando quiser saber. Erros ficam só em `dados/erros.txt`.
 - No fim da rodada, a resposta da sessão é no máximo uma linha, sem lista de títulos.
 
+## Nunca repetir notícia (Israel, 01/11/2026: "Post repetido. Não deixa isso acontecer mais")
+- Em 01/11 à 1h saiu de novo o ônibus 402A que bateu num bar em Contagem (já publicado em 31/10 às 19h44), porque a matéria
+  entrou por link avulso (`coletar.py <URL> --anexar`), que não passava pelo filtro do radar.
+- Agora a trava `robo/repetido.py` compara cada item com tudo o que saiu nos últimos 10 dias (Instagram **e** site): mesmo link
+  ou título parecido. Ela roda sozinha no `coletar.py` (descarta o item), no `site.py` (não manda) e no `links.py` (não dá link).
+- Se o `links.py` imprimir **REPETIDO**, **não publique** de jeito nenhum, nem com o link de outra forma. Tire o item do lote.
+- Antes de escolher pautas, confira também a olho o `dados/historico.json` do dia anterior e do dia: o mesmo fato com outra
+  fonte ou outro título também é repetido. Só vale nova publicação se houver fato novo de verdade (ex.: resultado de jogo
+  depois da prévia), e o título tem que deixar claro o que é novo.
+- Pode testar à mão: `python3 robo/repetido.py <id> ...` ou `python3 robo/repetido.py --link <URL>`.
+
 ## Cuidados
 - Polícia: não dizer que alguém é culpado; usar "suspeito", "segundo a polícia". Não expor menores de idade.
 - Não publicar imagem chocante (sangue, corpos). Escolher outra foto ou não publicar a notícia.
@@ -128,7 +139,7 @@ Tudo o que o Israel vê é em português.
    cortando rosto de forma estranha, nem ter marca d'água de outro veículo grande no meio.
 7. `python3 robo/site.py <ids>` (ver seção Site) e depois `git add -A && git commit && git push`
    (as imagens precisam estar no GitHub antes de publicar).
-8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push) e publique com `create_image_post`
+8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push; se sair REPETIDO, não publique) e publique com `create_image_post`
    (`image_url` = **primeiro link** que ele imprimir, o do jsDelivr; `caption` = `legenda`),
    depois `python3 robo/historico.py <id> <media_id>`, e esperar 8 a 12 minutos antes do próximo
    (comando em segundo plano `sleep 540`).
