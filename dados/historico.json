@@ -1930,5 +1930,19 @@
   "fonte": "BPMoney",
   "arte": "artes/2026-11-01/100941_435.jpg",
   "media_id": "17870505270661315"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "07:44",
+  "id": "101009_35",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Congresso torna o Enamed obrigatório para que novos médicos consigam o registro no CRM",
+  "titulo_orig": "Enamed: Congresso aprova exame obrigatório para registro de novos médicos",
+  "link": "https://www.correiobraziliense.com.br/euestudante/trabalho-e-formacao/2026/11/7528856-enamed-congresso-aprova-exame-obrigatorio-para-registro-de-novos-medicos.html",
+  "fonte": "Correio Braziliense",
+  "arte": "artes/2026-11-01/101009_35.jpg",
+  "media_id": "18107746262200932"
  }
 ]
