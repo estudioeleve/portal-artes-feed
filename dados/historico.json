@@ -2826,5 +2826,19 @@
   "fonte": "BH 24 Horas",
   "arte": "artes/2026-11-01/151312_37.jpg",
   "media_id": "18117448286030032"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "12:38",
+  "id": "151321_28",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "VIRALIZOU",
+  "titulo": "Jacaré aparece em frente ao Zoológico de BH, na Pampulha, e assusta mãe e filho em caminhada",
+  "titulo_orig": "VÍDEO: Jacaré faz caminhada matinal na Pampulha e assusta mãe e filho em frente ao Zoo de BH",
+  "link": "https://bhaz.com.br/noticias/jacare-pampulha-em-frente-ao-zoo-de-bh/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-01/151321_28.jpg",
+  "media_id": "18648100951035702"
  }
 ]
