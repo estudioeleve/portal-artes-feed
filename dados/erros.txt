@@ -7,3 +7,4 @@
 31/10/2026 19:14 - Rodada 19h: 220839_26 (incêndio Neves) deu "Media ID is not available" no jsDelivr; publicado 3 min depois pelo raw.githubusercontent (media 18122031544948754).
 31/10/2026 19:26 - Rodada 19h: 220843_279 (Finados BHTrans) deu "Media ID is not available" no jsDelivr; publicado 3 min depois pelo raw.githubusercontent (media 18067387655619333).
 31/10/2026 23:22 - Rodada 23h: robo/artes.js marcou 'linhas: 3 OK' em 3 títulos que saíram com 4 linhas na arte (020949_314, 021015_306, 021017_218). Títulos encurtados (~82-86 caracteres) e artes refeitas antes de publicar. Conferir a medição no moldura.html.
+01/11/2026 07:14 - Rodada 07h: 100937_450 (A Rua é Nossa) deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw.githubusercontent (media 18114733478125137).
