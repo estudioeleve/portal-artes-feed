@@ -17,7 +17,7 @@ Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outr
   base nem categorias menores (nem no Instagram nem no site), mesmo de Cruzeiro ou Atlético.
 - O que importa: **time principal de Atlético e Cruzeiro** — jogos grandes (prévia no dia com horário e onde assistir,
   resultado logo depois do jogo), contratações, lesões de titulares, técnico, decisões. Equilibrar Atlético e Cruzeiro:
-  não postar só de um. Ex.: Grêmio x Atlético, semifinal da Copa do Brasil, 01/11 18h30 — tinha que ter saído de manhã.
+  não postar só de um. Ex.: Grêmio x Atlético, semifinal da Copa do Brasil, 01/11 18h30 (a prévia saiu em 31/10 22h49; falta o resultado depois do jogo, ~20h30).
 - Se não houver notícia de esporte que interesse de verdade, **não poste esporte** (as vagas vão para outros temas).
 
 ## ⚠️ NUNCA POST SEM FOTO (01/11/2026: o pendente das Cabulosas saiu com a moldura vazia)
