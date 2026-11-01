@@ -1734,5 +1734,19 @@
   "fonte": "Poder360",
   "arte": "artes/2026-11-01/090947_0.jpg",
   "media_id": "18101373422651801"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "06:45",
+  "id": "090950_528",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Confiança do comércio sobe em outubro, mas lojistas esperam vender menos nos próximos meses",
+  "titulo_orig": "Confiança do comércio sobe em outubro, mas expectativa de vendas cai antes da Black Friday",
+  "link": "https://melhorinvestimento.net/noticias/confianca-do-comercio-outubro-2026",
+  "fonte": "melhorinvestimento.net",
+  "arte": "artes/2026-11-01/090950_528.jpg",
+  "media_id": "18116414485840077"
  }
 ]
