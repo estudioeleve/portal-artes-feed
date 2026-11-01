@@ -978,5 +978,19 @@
   "fonte": "Gazeta do Povo",
   "arte": "artes/2026-10-31/010929_328.jpg",
   "media_id": "18072695999773569"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "22:40",
+  "id": "010909_176",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Americanas abre 286 vagas temporárias de fim de ano em Minas, com chances em BH",
+  "titulo_orig": "Rede de varejo está com vagas temporárias abertas para o fim de ano em Minas Gerais | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/juizdefora/rede-de-varejo-esta-com-vagas-temporarias-abertas-para-o-fim-de-ano-em-minas-gerais/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-10-31/010909_176.jpg",
+  "media_id": "18079481300759300"
  }
 ]
