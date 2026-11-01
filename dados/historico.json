@@ -1132,5 +1132,19 @@
   "fonte": "TV Sim Brasil",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "23:20",
+  "id": "020949_314",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Moraes manda soltar desembargador preso na Operação Unha e Carne, com tornozeleira",
+  "titulo_orig": "STF determina soltura de desembargador preso na Operação Unha e Carne",
+  "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-determina-soltura-de-desembargador-preso-na-operacao-unha-e-carne",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-10-31/020949_314.jpg",
+  "media_id": "18113407681891928"
  }
 ]
