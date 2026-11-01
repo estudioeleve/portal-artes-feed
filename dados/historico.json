@@ -2630,5 +2630,19 @@
   "fonte": "Plox",
   "arte": "artes/2026-11-01/141331_46.jpg",
   "media_id": "18091673000243699"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "11:36",
+  "id": "141334_50",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Câmara de BH decide na terça se derruba veto a cartazes sobre entrega legal de bebês para adoção",
+  "titulo_orig": "Câmara de BH avaliará veto total a projeto que prevê cartazes sobre 'entrega legal' de recém-nascidos em unidades de saúde | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/politica/camara-de-bh-avaliara-veto-total-a-projeto-que-preve-cartazes-sobre-entrega-legal-de-recem-nascidos-em-unidades-de-saude/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-01/141334_50.jpg",
+  "media_id": "18137765170636079"
  }
 ]
