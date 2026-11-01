@@ -60,6 +60,16 @@ Tudo o que o Israel vê é em português.
 - Moldura do feed (31/10/2026, pedido do Israel): a do Canva "Feed comercio" (canva.link/fbyi7bmmn43h5gm), já aplicada no
   `robo/modelo/moldura.html` (classe `.c`). A moldura de Reels não serve para post de imagem.
 
+## Foto na arte (Israel, 01/11/2026: "nunca deixar borda" e "fazer o motivo da matéria aparecer")
+- **Nunca deixar borda** na arte: a foto tem que preencher a moldura inteira. O `coletar.py` já roda o `robo/aparar.py`
+  (tira faixas pretas, brancas ou cinza da foto); se ainda sobrar borda, faixa ou foto dentro de foto, aumente o `zoom` ou troque a foto.
+- **O assunto da matéria tem que aparecer** (ex.: jacaré na Pampulha saiu só com o rabo, em 01/11). Foto deitada vira retrato
+  e perde os lados: veja onde está o assunto e ajuste no item do `dados/lote.json`:
+  - `foco`: posição do assunto, horizontal e vertical (ex.: `"85% 50%"` = assunto à direita; padrão `"center 25%"`);
+  - `zoom`: 100 a 250 (aproxima mantendo a moldura cheia).
+  Montagem/colagem de duas fotos lado a lado: escolha o lado com o assunto (`foco` `"0% 50%"` ou `"100% 50%"`) ou outra foto.
+- Ao olhar as artes (passo 6), confira estes dois pontos em **todas**. Se não der para mostrar o assunto, não publique com aquela foto.
+
 ## Título (vai na arte)
 - Sempre **exatamente 3 linhas** na moldura (cerca de 80 a 98 caracteres). O `robo/artes.js` mede: se não der 3, reescreva e gere de novo.
 - Texto próprio, factual, sem exagero nem sensacionalismo enganoso. Nunca copiar o título original.

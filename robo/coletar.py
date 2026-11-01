@@ -30,6 +30,10 @@ for a in [x for x in sys.argv[1:] if x!='--anexar']:
       r=requests.get(o['img'],headers=UA,timeout=25)
       if r.ok and len(r.content)>15000:
         fn=f"fotos/{o['id']}.jpg";open(f'{R}/{fn}','wb').write(r.content);o['foto']=fn
+        sys.path.insert(0,B)
+        try:
+          from aparar import aparar;aparar(f'{R}/{fn}')
+        except Exception as e: print('   aparar falhou:',e)
     from ftfy import fix_text
     for k in ('texto','titulo_orig','credito_foto'): o[k]=fix_text(o[k])
     print(o['id'],'| fonte:',o['fonte'],'| conc' if o.get('concorrente') else '','| texto',len(o['texto']),'| foto',bool(o['foto']),'|',o['titulo_orig'][:80])
