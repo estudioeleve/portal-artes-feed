@@ -1902,5 +1902,19 @@
   "fonte": "Regionalzão",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "07:24",
+  "id": "100934_502",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Perseguição da PM termina com carro capotado e dois suspeitos presos com revólver em Betim",
+  "titulo_orig": "Perseguição termina com capotamento e prisão de dois suspeitos em Betim",
+  "link": "https://www.otempobetim.com.br/cidades/2026/10/31/perseguicao-termina-com-capotamento-e-prisao-de-dois-suspeitos-em-betim",
+  "fonte": "O TEMPO Betim",
+  "arte": "artes/2026-11-01/100934_502.jpg",
+  "media_id": "18401522239201538"
  }
 ]
