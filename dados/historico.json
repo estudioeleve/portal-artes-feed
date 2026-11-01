@@ -1160,5 +1160,19 @@
   "fonte": "Band",
   "arte": "artes/2026-10-31/020952_54.jpg",
   "media_id": "18111982316223087"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "23:38",
+  "id": "021015_306",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Homem esfaqueia jovem e ataca a ex na rua na Pampulha; populares contêm o suspeito",
+  "titulo_orig": "Homem esfaqueia filho da ex, tenta matá-la ao voltar da igreja, é agredido por populares e preso em BH",
+  "link": "https://bhaz.com.br/noticias/bh/homem-agredido-tentar-matar-ex-bh/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-10-31/021015_306.jpg",
+  "media_id": "17870580687661358"
  }
 ]
