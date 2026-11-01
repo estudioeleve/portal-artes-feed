@@ -1958,5 +1958,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-01/100946_13.jpg",
   "media_id": "18120498956051013"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "08:14",
+  "id": "111009_33",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Nevoeiro em Confins faz 19 voos serem desviados e dois cancelados na madrugada de sábado",
+  "titulo_orig": "Nevoeiro intenso provoca desvios e cancelamentos de voos no aeroporto de Confins",
+  "link": "https://www.diarioesp.com.br/brasil/2026/11/01/nevoeiro-intenso-provoca-desvios-e-cancelamentos-de-voos-no-aeroporto-de-confins.html",
+  "fonte": "www.diarioesp.com.br",
+  "arte": "artes/2026-11-01/111009_33.jpg",
+  "media_id": "18143845717607977"
  }
 ]
