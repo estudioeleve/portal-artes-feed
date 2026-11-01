@@ -1566,5 +1566,19 @@
   "fonte": "Jornal Diário de Contagem",
   "arte": "artes/2026-11-01/080946_98.jpg",
   "media_id": "18451760704123791"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "05:25",
+  "id": "080955_96",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Bolsa Família de novembro começa a ser pago no dia 16 e fica concentrado em apenas três dias",
+  "titulo_orig": "Bolsa Família 2026: veja calendário de pagamentos em novembro | G1",
+  "link": "https://g1.globo.com/google/amp/economia/noticia/2026/11/01/bolsa-familia-2026-veja-calendario-de-pagamentos-em-novembro.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-01/080955_96.jpg",
+  "media_id": "17938937532125481"
  }
 ]
