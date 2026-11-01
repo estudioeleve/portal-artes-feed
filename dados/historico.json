@@ -2616,5 +2616,19 @@
   "fonte": "Jovem Pan",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "11:27",
+  "id": "141331_46",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "BR-381: motoristas têm até 16 de novembro para pagar pedágio free flow atrasado e evitar multa",
+  "titulo_orig": "Passagens sem pagamento na BR-381 podem gerar multas após 16 de novembro",
+  "link": "https://plox.com.br/noticia/01/11/2026/multas-free-flow-br-381",
+  "fonte": "Plox",
+  "arte": "artes/2026-11-01/141331_46.jpg",
+  "media_id": "18091673000243699"
  }
 ]
