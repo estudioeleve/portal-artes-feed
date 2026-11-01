@@ -2098,5 +2098,19 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-01/111014_21.jpg",
   "media_id": "18129292417892362"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "08:33",
+  "id": "111021_64",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula deve enviar ao Congresso nesta semana projeto que endurece as regras da meta fiscal",
+  "titulo_orig": "Governo deve enviar ao Congresso nesta semana projeto para endurecer regras da meta fiscal",
+  "link": "https://cbn.globo.com/politica/noticia/2026/11/01/governo-deve-enviar-ao-congresso-nesta-semana-projeto-para-endurecer-regras-da-meta-fiscal.ghtml",
+  "fonte": "CBN",
+  "arte": "artes/2026-11-01/111021_64.jpg",
+  "media_id": "18472660663189563"
  }
 ]
