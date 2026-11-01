@@ -3470,5 +3470,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-01/213200_31.jpg",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "19:12",
+  "id": "221045_37",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Mulher é esfaqueada pelo companheiro após defender a filha em briga por secador em Contagem",
+  "titulo_orig": "Mulher é esfaqueada por companheiro após defender filha em discussão por secador na Grande BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/1/mulher-e-esfaqueada-por-companheiro-apos-defender-filha-em-discussao-por-secador-na-grande-bh",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "19:12",
+  "id": "221106_172",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fim da escala 6x1 às vésperas do Natal deve aumentar contratações temporárias no comércio",
+  "titulo_orig": "Escala 5x2 às vésperas do Natal força aumento de contratações temporárias no varejo",
+  "link": "https://www.otempo.com.br/economia/2026/11/1/escala-5x2-as-vesperas-do-natal-forca-aumento-de-contratacoes-temporarias-no-varejo.amp",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "19:12",
+  "id": "221119_124",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Suspeito de tráfico invade casa e se esconde abraçado a criança durante fuga da PM em BH",
+  "titulo_orig": "Homem foge da PM, invade casa e se esconde com criança no colo durante fuga em BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/1/homem-foge-da-pm-invade-casa-e-se-esconde-com-crianca-no-colo-durante-fuga-em-bh.amp",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "19:12",
+  "id": "221206_266",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PL reúne mais da metade dos seguidores dos deputados estaduais eleitos em Minas",
+  "titulo_orig": "PL concentra mais da metade dos seguidores dos deputados eleitos para a ALMG",
+  "link": "https://www.otempo.com.br/politica/2026/11/1/pl-concentra-mais-da-metade-dos-seguidores-dos-deputados-eleitos-para-a-almg",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
