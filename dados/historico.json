@@ -1916,5 +1916,19 @@
   "fonte": "O TEMPO Betim",
   "arte": "artes/2026-11-01/100934_502.jpg",
   "media_id": "18401522239201538"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "07:34",
+  "id": "100941_435",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Teto do MEI sobe para R$ 110 mil em 2027 e microempresas poderão voltar ao regime simplificado",
+  "titulo_orig": "Novo teto do MEI pode reduzir impostos de empresas em 2027 - BPMoney",
+  "link": "https://bpmoney.com.br/economia/novo-teto-do-mei-pode-reduzir-impostos-de-empresas-em-2027/",
+  "fonte": "BPMoney",
+  "arte": "artes/2026-11-01/100941_435.jpg",
+  "media_id": "17870505270661315"
  }
 ]
