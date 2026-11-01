@@ -3064,5 +3064,61 @@
   "fonte": "ge.globo.com",
   "arte": "artes/2026-11-01/161134_83.jpg",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "14:11",
+  "id": "170955_268",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Dois homens morrem após ataque a tiros no bairro São Jorge, na região Oeste de BH",
+  "titulo_orig": "Dois homens morrem após ataque a tiros no bairro São Jorge, em Belo Horizonte\n",
+  "link": "https://www.otempo.com.br/cidades/2026/11/1/dois-homens-morrem-apos-ataque-a-tiros-no-bairro-sao-jorge-em-belo-horizonte",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "14:11",
+  "id": "170931_64",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "PM prende dois homens por suspeita de tráfico de drogas perto de bar no Centro de Betim",
+  "titulo_orig": "Dois homens são presos por suspeita de tráfico de drogas no Centro de Betim\n",
+  "link": "https://www.otempobetim.com.br/cidades/2026/11/1/dois-homens-sao-presos-por-suspeita-de-trafico-de-drogas-no-centro-de-betim",
+  "fonte": "O TEMPO Betim",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "14:11",
+  "id": "171046_50",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Atlético vira sobre o Cruzeiro, vence por 5 a 2 e é campeão do Mineiro Feminino Sub-20",
+  "titulo_orig": "Atlético vence Cruzeiro e é campeão do Mineiro Feminino Sub-20",
+  "link": "https://noataque.com.br/futebol/campeonato-mineiro/noticia/2026/11/01/atletico-vence-cruzeiro-e-e-campeao-do-mineiro-feminino-sub-20/",
+  "fonte": "No Ataque",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "14:11",
+  "id": "171057_301",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Da prestação de contas à posse: veja o calendário dos eleitos em 2026 até janeiro de 2027",
+  "titulo_orig": "Pós eleição: Entenda os passos até a posse dos vencedores de 2026",
+  "link": "https://www.congressoemfoco.com.br/noticia/129709/pos-eleicao-entenda-os-passos-ate-a-posse-dos-vencedores-de-2026",
+  "fonte": "Congresso em Foco",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
