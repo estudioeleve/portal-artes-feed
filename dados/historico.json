@@ -782,5 +782,19 @@
   "fonte": "BH 24 Horas",
   "arte": "artes/2026-10-31/001016_369.jpg",
   "media_id": "17890409685623510"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "21:34",
+  "id": "001007_319",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "PM procura dois suspeitos de roubar R$ 35 mil em joias de dono de agência de carros em Contagem",
+  "titulo_orig": "PM procura dupla suspeita de roubar itens de R$ 35 mil na Grande BH | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/31/pm-procura-por-dois-suspeitos-de-roubar-itens-de-ouro-de-r-35-mil-de-um-dono-de-agencia-de-veiculos-na-grande-bh-veja-video.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-10-31/001007_319.jpg",
+  "media_id": "18134185462689140"
  }
 ]
