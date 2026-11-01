@@ -964,5 +964,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-10-31/010902_169.jpg",
   "media_id": "18112998320185028"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "22:30",
+  "id": "010929_328",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PF pede indiciamento de Vorcaro e mais 14 no caso Master; ministros do STF ficam fora do relatório",
+  "titulo_orig": "PF indicia Daniel Vorcaro e poupa ministros do STF em fraude bilionária",
+  "link": "https://www.gazetadopovo.com.br/republica/policia-federal-deixa-ministros-do-stf-fora-de-indiciamentos-do-caso-master/",
+  "fonte": "Gazeta do Povo",
+  "arte": "artes/2026-10-31/010929_328.jpg",
+  "media_id": "18072695999773569"
  }
 ]
