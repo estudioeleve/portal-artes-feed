@@ -754,5 +754,19 @@
   "fonte": "GZH",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "21:15",
+  "id": "001012_84",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Metrô de BH terá intervalos de até 24 minutos e via única em estações até o dia 6 de novembro",
+  "titulo_orig": "Metrô BH terá intervalos maiores e circulação em via única entre 31 de outubro e 6 de novembro",
+  "link": "https://mobilidadebh.com.br/metro-de-bh-intervalos-circulacao-via-unica/",
+  "fonte": "Mobilidade BH",
+  "arte": "artes/2026-10-31/001012_84.jpg",
+  "media_id": "17954516121273235"
  }
 ]
