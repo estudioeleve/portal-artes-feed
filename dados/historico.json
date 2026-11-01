@@ -2448,5 +2448,19 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "artes/2026-11-01/131334_2.jpg",
   "media_id": "18110641072920085"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "10:28",
+  "id": "131338_97",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo corta R$ 226 milhões da Defesa e reforça BPC e remédios do SUS em remanejamento",
+  "titulo_orig": "Governo corta R$ 226 milhões em verbas militares e reforça BPC e medicamentos",
+  "link": "https://iclnoticias.com.br/governo-corta-verbas-militares-e-reforca-bpc/",
+  "fonte": "ICL Notícias",
+  "arte": "artes/2026-11-01/131338_97.jpg",
+  "media_id": "17954580231314674"
  }
 ]
