@@ -2644,5 +2644,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-01/141334_50.jpg",
   "media_id": "18137765170636079"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "11:45",
+  "id": "141340_29",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Mais de 230 cidades de Minas estão em alerta amarelo para chuva forte e ventos de até 60 km/h",
+  "titulo_orig": "Chuva intensa: mais de 230 cidades de MG podem ser atingidas nas próximas horas | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/chuva-intensa-mais-de-230-cidades-de-mg-podem-ser-atingidas-nas-proximas-horas/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-01/141340_29.jpg",
+  "media_id": "17983828988908580"
  }
 ]
