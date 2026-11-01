@@ -796,5 +796,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-10-31/001007_319.jpg",
   "media_id": "18134185462689140"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "21:44",
+  "id": "001038_10",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Kassab diz que Lula convidou o PSD para a base do novo governo e cobra sinal de equilíbrio fiscal",
+  "titulo_orig": "Kassab diz que Lula procurou PSD para novo governo",
+  "link": "https://www.poder360.com.br/poder-partidos-politicos/kassab-diz-que-lula-procurou-psd-para-novo-governo/",
+  "fonte": "Poder360",
+  "arte": "artes/2026-10-31/001038_10.jpg",
+  "media_id": "18480045889117801"
  }
 ]
