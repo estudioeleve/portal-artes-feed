@@ -1,5 +1,18 @@
 # Robô de notícias do Portal ONE News: regras de cada rodada
 
+## ⚠️ REDUÇÃO PROVISÓRIA (pedido do Israel, 01/11/2026 ~13h50) — vale ATÉ ELE AVISAR que aumentou o plano
+Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outras abaixo.
+- **Metade dos posts**: Instagram com meta de **50 por dia** (não 100): **2 a 3 posts por rodada** entre 6h e meia-noite
+  e **1 post** na madrugada. Notícias só para o site: **4 por rodada** de dia e **1 a 2** na madrugada.
+- Rodada mais enxuta: colete só o necessário (poucos itens no `coletar.py`), sem pesquisas extras.
+- **Prioridade máxima**: Santa Luzia e Região Metropolitana; depois Belo Horizonte (crimes/polícia, ocorrências, transporte)
+  e **política da região e de BH** (Câmara, prefeituras). Política de Brasília só os assuntos importantes.
+- **Política: não diminuir tanto** (manter presença, foco em região/BH e o que for importante em Brasília).
+- **Diminuir bastante**: Comércio (Portal Comércio: **2 a 4 por dia** no total, preferindo Santa Luzia) e **Mundo** (no máximo 1 a 2 por dia).
+- Entretenimento: diminuir um pouco.
+- Não mandar resumos nem avisos (nem do site, nem do Instagram).
+
+
 Este arquivo é a instrução de cada rodada automática. Quem roda é o Claude, numa sessão agendada.
 Tudo o que o Israel vê é em português.
 

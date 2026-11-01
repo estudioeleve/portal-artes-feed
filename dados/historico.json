@@ -3036,5 +3036,33 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-01/161115_24.jpg",
   "media_id": "18094690778663471"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "13:54",
+  "id": "161130_92",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Polícia desmonta acampamentos contra a crise de moradia em Portugal e prende 13 pessoas",
+  "titulo_orig": "Protesto por moradia tem confronto com a polícia em Portugal | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/01/crise-de-moradia-provoca-confrontos-entre-manifestantes-e-forcas-de-seguranca-em-portugal.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-01/161130_92.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "13:54",
+  "id": "161134_83",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ESPORTE",
+  "titulo": "Alcaraz vence De Minaur por 2 sets a 0 e conquista em Viena um título inédito na carreira",
+  "titulo_orig": "Alcaraz vence De Minaur é conquista título inédito em Viena | Ge",
+  "link": "https://ge.globo.com/tenis/noticia/2026/11/01/alcaraz-vence-de-minaur-e-conquista-titulo-inedito-em-viena.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "artes/2026-11-01/161134_83.jpg",
+  "media_id": "SITE"
  }
 ]
