@@ -3386,5 +3386,47 @@
   "fonte": "Ultima Hora Online",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:34",
+  "id": "213210_36",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Paraguai abre atendimento para regularizar brasileiros em Ciudad del Este até sexta-feira",
+  "titulo_orig": "Paraguai define prazo para receber e regularizar brasileiros após eleição de Lula",
+  "link": "https://www.tribunapr.com.br/noticias/parana/paraguai-define-prazo-para-receber-e-regularizar-brasileiros-apos-eleicao-de-lula/",
+  "fonte": "Tribuna do Paraná",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:34",
+  "id": "213144_47",
+  "bloco": "mundo",
+  "portal": "politica",
+  "ed": "MUNDO",
+  "titulo": "Eleições nos EUA: Trump intensifica campanha para tentar manter o controle do Congresso",
+  "titulo_orig": "Trump corre contra o tempo para segurar o Congresso nas eleições de meio de mandato",
+  "link": "https://spdiario.com.br/noticias/mundo/trump-corre-contra-o-tempo-para-segurar-o-congresso-nas-eleicoes-de-meio-de-mandato.html",
+  "fonte": "Diário de São Paulo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:34",
+  "id": "213242_35",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Jatinho cai em área residencial perto de Miami e todos os nove ocupantes morrem",
+  "titulo_orig": "Avião cai em avenida movimentada ao norte de Miami | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/01/aviao-caiu-miami.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
