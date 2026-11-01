@@ -2294,5 +2294,19 @@
   "fonte": "Itabira Online",
   "arte": "artes/2026-11-01/121058_21.jpg",
   "media_id": "17994154275113773"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "09:48",
+  "id": "121107_16",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Petrobras e Sebrae vão levar a mais 5 estados programa que prepara pequenas empresas",
+  "titulo_orig": "Petrobras amplia oportunidades para pequenas empresas e prepara expansão de programa em cinco estados",
+  "link": "https://www.brasil247.com/empreender/petrobras-amplia-oportunidades-para-pequenas-empresas-e-prepara-expansao-de-programa-em-cinco-estados/",
+  "fonte": "Brasil 247",
+  "arte": "artes/2026-11-01/121107_16.jpg",
+  "media_id": "18127166545911500"
  }
 ]
