@@ -1440,5 +1440,47 @@
   "fonte": "Tapiraí TV",
   "arte": "artes/2026-11-01/060939_0.jpg",
   "media_id": "17870505723660195"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "04:11",
+  "id": "070918_2",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Cerveja sem álcool ganha espaço em Minas, e rótulo de microcervejaria de BH leva ouro em concurso latino-americano",
+  "titulo_orig": "Cerveja sem álcool ganha espaço em MG | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/cerveja-sem-alcool-ganha-espaco-em-mg-e-rotulo-artesanal-leva-ouro-em-concurso-latino-americano.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "04:11",
+  "id": "070921_18",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Há 11 anos parado: Congresso tem ao menos 13 projetos para tornar inelegível quem comete violência contra a mulher",
+  "titulo_orig": "Congresso analisa inelegibilidade por violência contra mulher há 11 anos | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/congresso-analisa-inelegibilidade-por-violencia-contra-mulher-ha-11-anos/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "04:11",
+  "id": "070955_20",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Após derrota de Flávio, revisão criminal no STF vira principal aposta da defesa de Bolsonaro",
+  "titulo_orig": "Após derrota de Flávio, revisão no STF vira principal aposta para Bolsonaro | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/apos-derrota-de-flavio-revisao-no-stf-vira-principal-aposta-para-bolsonaro/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
