@@ -2434,5 +2434,19 @@
   "fonte": "Poder360",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "10:21",
+  "id": "131334_2",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Empreendedores do turismo de Jaboticatubas aprendem vendas digitais em capacitação do Sebrae",
+  "titulo_orig": "empreendedores do turismo em Jaboticatubas - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/empreendedores-do-turismo-de-jaboticatubas-participam-do-digitrade/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "artes/2026-11-01/131334_2.jpg",
+  "media_id": "18110641072920085"
  }
 ]
