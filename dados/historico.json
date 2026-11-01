@@ -1748,5 +1748,19 @@
   "fonte": "melhorinvestimento.net",
   "arte": "artes/2026-11-01/090950_528.jpg",
   "media_id": "18116414485840077"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "06:54",
+  "id": "091000_614",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Metrô de BH tem intervalo maior e trens em via única até sexta por causa das obras na Linha 1",
+  "titulo_orig": "Pega o metrô? Atenção! Intervalo entre viagens aumenta e trens circularão em uma só via",
+  "link": "https://www.hojeemdia.com.br/minas/pega-o-metro-atenc-o-intervalo-entre-viagens-aumenta-e-trens-circular-o-em-uma-so-via-1.1139063",
+  "fonte": "Hoje em Dia",
+  "arte": "artes/2026-11-01/091000_614.jpg",
+  "media_id": "18288330037291260"
  }
 ]
