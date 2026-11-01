@@ -768,5 +768,19 @@
   "fonte": "Mobilidade BH",
   "arte": "artes/2026-10-31/001012_84.jpg",
   "media_id": "17954516121273235"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "21:24",
+  "id": "001016_369",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Finados: lojas do BH Shopping, DiamondMall e Pátio Savassi vão abrir das 14h às 20h na segunda",
+  "titulo_orig": "Shoppings de Belo Horizonte terão funcionamento especial no feriado de Finados - BH 24 Horas",
+  "link": "https://bh24horas.com.br/grande-bh/belo-horizonte/shoppings-de-belo-horizonte-terao-funcionamento-especial-no-feriado-de-finados/",
+  "fonte": "BH 24 Horas",
+  "arte": "artes/2026-10-31/001016_369.jpg",
+  "media_id": "17890409685623510"
  }
 ]
