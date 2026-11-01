@@ -14,3 +14,4 @@
 01/11/2026 15:15 - Rodada 15h: 180928_30 (Betim cocaína) deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw.githubusercontent (media 17876315763638304).
 01/11/2026 15:31 - Rodada 15h: 180931_65 (desfile das Cabulosas em BH) deu "Media ID is not available" 3 vezes (jsDelivr, raw, jsDelivr); não publicado, movido para dados/pendentes.json.
 01/11/2026 16:14 - Rodada 16h: 180931_65 (desfile das Cabulosas, pendente) deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw.githubusercontent (media 17978484678170480).
+01/11/2026 16:27 - Rodada 16h: 190927_22 (carro capota no Aparecida) deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw.githubusercontent (media 17910374064582900).
