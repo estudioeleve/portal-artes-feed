@@ -1510,5 +1510,61 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-01/070910_0.jpg",
   "media_id": "18030467096879048"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "05:11",
+  "id": "080952_15",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Tadeu Leite governa Minas até 14 de novembro enquanto Mateus Simões cumpre missão oficial na China",
+  "titulo_orig": "Assembleia aprova licença do governador Mateus Simões - RCWTV",
+  "link": "https://www.rcwtv.com.br/noticia/assembleia-aprova-licenca-do-governador-mateus-simoes",
+  "fonte": "RCWTV",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "05:11",
+  "id": "081000_138",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Moradores de Nova Lima reclamam de barulho, sujeira e brigas em adega no bairro Nova Lima",
+  "titulo_orig": "\"Ninguém aguenta mais\": moradores denunciam transtornos causados por adega no Nova Lima - Nova Lima News",
+  "link": "https://novalima.news/ninguem-aguenta-mais-moradores-denunciam-transtornos-causados-por-adega-no-nova-lima/",
+  "fonte": "Nova Lima News",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "05:11",
+  "id": "081015_14",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Kaio Jorge faz sete gols em nove jogos e fica a quatro de igualar a melhor temporada pelo Cruzeiro",
+  "titulo_orig": "Kaio Jorge recupera protagonismo no Cruzeiro e se aproxima de marca alcançada em 2025 | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/kaio-jorge-recupera-protagonismo-no-cruzeiro-e-se-aproxima-de-marca-alcancada-em-2025/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "05:12",
+  "id": "080946_98",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Professora de Contagem corre hoje a Maratona de Nova York em busca de medalha inédita",
+  "titulo_orig": "Atleta de Contagem busca conquista histórica na Maratona de Nova York",
+  "link": "https://www.diariodecontagem.com.br/Materia/21139/11/atleta-de-contagem-busca-conquista-historica-na-maratona-de-nova-york/",
+  "fonte": "Jornal Diário de Contagem",
+  "arte": "artes/2026-11-01/080946_98.jpg",
+  "media_id": "18451760704123791"
  }
 ]
