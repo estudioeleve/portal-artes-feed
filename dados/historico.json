@@ -1720,5 +1720,19 @@
   "fonte": "RCWTV",
   "arte": "artes/2026-11-01/090944_575.jpg",
   "media_id": "18203383636378813"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "06:35",
+  "id": "090947_0",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Partidos com 338 deputados apoiam reeleição de Hugo Motta para presidir a Câmara em 2027",
+  "titulo_orig": "Partidos que apoiam reeleição de Motta terão 338 deputados",
+  "link": "https://www.poder360.com.br/poder-congresso/hugo-motta-soma-apoio-de-338-deputados-para-reeleicao-na-camara/",
+  "fonte": "Poder360",
+  "arte": "artes/2026-11-01/090947_0.jpg",
+  "media_id": "18101373422651801"
  }
 ]
