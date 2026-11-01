@@ -1706,5 +1706,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-01/090940_31.jpg",
   "media_id": "18114885269467854"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "06:26",
+  "id": "090944_575",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "VESPASIANO",
+  "titulo": "Polícia Civil prende em Vespasiano o último foragido da Operação Gargântua, que apura agiotagem",
+  "titulo_orig": "PCMG prende último foragido da operação Gargântua em Vespasiano - RCWTV",
+  "link": "https://www.rcwtv.com.br/noticia/pcmg-prende-ultimo-foragido-da-operacao-gargantua-em-vespasiano",
+  "fonte": "RCWTV",
+  "arte": "artes/2026-11-01/090944_575.jpg",
+  "media_id": "18203383636378813"
  }
 ]
