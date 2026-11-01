@@ -1300,5 +1300,61 @@
   "fonte": "G1",
   "arte": "artes/2026-11-01/040928_30.jpg",
   "media_id": "18081334493715934"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "02:12",
+  "id": "051045_43",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Pé-de-Meia de novembro: sétima parcela do Incentivo Frequência sai entre 23 e 30; veja o calendário",
+  "titulo_orig": "Calendário Pé-de-Meia novembro: veja quem recebe e datas do pagamento | G1",
+  "link": "https://g1.globo.com/educacao/noticia/2026/11/01/calendario-pe-de-meia-de-novembro.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "02:12",
+  "id": "051047_html",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Bombeiros suspendem buscas por homem arrastado pela enxurrada do córrego Guará, na Zona da Mata",
+  "titulo_orig": "Buscas por homem arrastado por enxurrada em córrego são suspensas em MG",
+  "link": "https://www.em.com.br/gerais/2026/10/7531603-buscas-por-homem-arrastado-por-enxurrada-em-corrego-sao-suspensas-em-mg.html",
+  "fonte": "www.em.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "02:12",
+  "id": "051109_116",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Ministério da Saúde envia mais vacinas contra mpox ao Rio após alta de casos, mas descarta surto nacional",
+  "titulo_orig": "Mpox: Governo Lula reforça vacinação após aumento de casos no Rio de Janeiro - Revista Fórum",
+  "link": "https://revistaforum.com.br/saude/mpox-governo-lula-vacinacao-rio/",
+  "fonte": "Revista Fórum",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "02:12",
+  "id": "051010_86",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA 'quanto tempo quiser' e nega plano de encontro",
+  "titulo_orig": "Trump diz não ter planos de encontrar Flávio Bolsonaro e que senador pode ficar nos EUA 'quanto tempo quiser' | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/10/31/trump-diz-que-flavio-bolsonaro-pode-ficar-nos-eua-quanto-tempo-que-quiser.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-01/051010_86.jpg",
+  "media_id": "17978838237135116"
  }
 ]
