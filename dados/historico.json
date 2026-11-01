@@ -1230,5 +1230,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-01/030916_15.jpg",
   "media_id": "18130499270478679"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "00:25",
+  "id": "030919_163",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Domingo em BH terá pancadas de chuva, raios e vento; alerta de temporal segue até segunda (2)",
+  "titulo_orig": " BH terá domingo de chuva e ventos que podem chegar a 80 km/h; veja previsão",
+  "link": "https://www.otempo.com.br/cidades/2026/10/31/bh-tera-domingo-de-chuva-e-ventos-que-podem-chegar-a-80-km-h-veja-previsao",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-01/030919_163.jpg",
+  "media_id": "18120438725470209"
  }
 ]
