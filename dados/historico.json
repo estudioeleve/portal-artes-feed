@@ -3190,5 +3190,61 @@
   "fonte": "O TEMPO Betim",
   "arte": "artes/2026-11-01/180928_30.jpg",
   "media_id": "17876315763638304"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "16:11",
+  "id": "190933_20",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Suspeito de tráfico invade casa e abraça criança para tentar enganar a PM no Jardim Filadélfia, em BH",
+  "titulo_orig": "Homem invade casa, em BH, e finge ser parente de criança para fugir da polícia | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/homem-invade-casa-em-bh-e-finge-ser-parente-de-crianca-para-fugir-da-policia/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "16:11",
+  "id": "190936_10",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Aliados aconselham Lula a indicar nome de consenso ao STF ainda em 2026; Pacheco ganha força",
+  "titulo_orig": "Lula é aconselhado a indicar nome de consenso ao STF ainda em 2026 | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/politica/direto-de-brasilia/lula-e-aconselhado-a-indicar-nome-de-consenso-ao-stf-ainda-em-2026/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "16:11",
+  "id": "190939_55",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "BH abre seleção de empresa para supervisionar obras do BRT Amazonas, na Área Hospitalar e no Barreiro",
+  "titulo_orig": "Belo Horizonte abre seleção para supervisionar obras do BRT Amazonas, novas estações na Área Hospitalar e faixas exclusivas de ônibus no Barreiro",
+  "link": "https://diariodotransporte.com.br/2026/11/01/belo-horizonte-abre-selecao-para-supervisionar-obras-do-brt-amazonas-novas-estacoes-na-area-hospitalar-e-faixas-exclusivas-de-onibus-no-barreiro/",
+  "fonte": "Diário do Transporte",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "16:11",
+  "id": "190940_70",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Enem 2026 começa no próximo domingo: veja horários, documentos aceitos e o que levar",
+  "titulo_orig": "Falta uma semana para o Enem 2026; veja horários e o que levar",
+  "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-uma-semana-para-o-enem-2026-veja-horarios-e-o-que-levar",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
