@@ -824,5 +824,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-10-31/001022_186.jpg",
   "media_id": "17978538291133126"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "22:11",
+  "id": "010900_10",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Muro desaba sobre carro durante chuva forte no bairro Ribeiro de Abreu, na região Nordeste de BH",
+  "titulo_orig": "Muro desaba sobre carro após chuva forte no bairro Ribeiro de Abreu, em BH - PAIPEE",
+  "link": "https://br.paipee.com/2026/10/31/muro-desaba-sobre-carro-apos-chuva-forte-no-bairro-ribeiro-de-abreu-em-bh/",
+  "fonte": "PAIPEE -",
+  "arte": "artes/2026-10-31/010900_10.jpg",
+  "media_id": "18111512672187559"
  }
 ]
