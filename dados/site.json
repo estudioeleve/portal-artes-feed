@@ -850,5 +850,65 @@
   "credito_foto": "Foto: Octavio Jones/Reuters/g1",
   "fonte": "g1",
   "resumos": ""
+ },
+ {
+  "id": "070906_1",
+  "data": "2026-11-01T04:11:07-03:00",
+  "titulo": "Linha 2 do Metrô BH: estações Nova Suíça e Amazonas passam a abrir todos os dias",
+  "linha_fina": "Trecho da linha 2 passa a funcionar das 5h15 às 23h também aos sábados e domingos; testes de sinalização seguem em novembro",
+  "categoria": "belo-horizonte",
+  "texto": "<p>As estações Nova Suíça e Amazonas, que fazem parte da linha 2 do Metrô de Belo Horizonte, passam a funcionar todos os dias da semana a partir deste domingo (1º). O horário de operação será das 5h15 às 23h. Até então, o trecho atendia os passageiros apenas de segunda a sexta-feira.</p>\n<p>A informação foi divulgada pela Prefeitura de Belo Horizonte (PBH), que destaca a ampliação da disponibilidade do serviço para quem usa o metrô na Região Oeste da capital, inclusive nos fins de semana.</p>\n<p>Mesmo com a mudança, a linha 2 ainda passará por testes programados no sistema de sinalização. Eles estão previstos para os períodos de 3 a 6, de 9 a 13 e de 16 a 20 de novembro. Hoje, a operação no trecho é feita em via única, e os testes servem para verificar o funcionamento da sinalização nas duas vias.</p>\n<p>De acordo com a prefeitura, a alteração é temporária e vale apenas para a linha 2. A linha 1 do metrô continua funcionando normalmente, sem mudança de horários. Depois da validação dos sistemas, a expectativa é que as duas vias do trecho fiquem aptas para operar, e a linha 2 volte a funcionar normalmente, das 5h15 às 23h, todos os dias.</p>\n<p>A linha 2 terá ao todo sete estações. Em setembro começaram as obras das estações Nova Gameleira, Nova Cintra e Vista Alegre. A previsão é que a operação completa da linha, já com as estações Ferrugem e Barreiro, comece em março de 2028.</p>\n<p>Quem depende do metrô deve acompanhar os avisos nas estações e nos canais oficiais do Metrô BH durante o período de testes, quando o intervalo entre as viagens pode ser maior.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/070906_1.jpg",
+  "credito_foto": "Foto: Metrô BH/Divulgação",
+  "fonte": "g1 Minas",
+  "resumos": ""
+ },
+ {
+  "id": "070910_0",
+  "data": "2026-11-01T04:11:07-03:00",
+  "titulo": "Minas foi o único estado onde a liderança mudou no 2º turno: Lula virou por 109 mil votos",
+  "linha_fina": "Flávio Bolsonaro liderava no 1º turno, mas Lula venceu no estado com 50,43% dos votos válidos; abstenção caiu 10,9%",
+  "categoria": "politica",
+  "texto": "<p>Minas Gerais foi o único estado brasileiro em que a liderança da disputa presidencial mudou entre o primeiro e o segundo turno das eleições de 2026. No segundo turno, realizado no domingo (25), o presidente Luiz Inácio Lula da Silva (PT) recebeu 50,43% dos votos válidos no estado, somando 6.351.099 votos, contra 49,57% (6.241.786) de Flávio Bolsonaro (PL). A diferença foi de 109.313 votos.</p>\n<p>No primeiro turno, em 4 de outubro, o cenário era outro: Flávio havia ficado à frente em Minas com 48,24% dos votos válidos, enquanto Lula teve 43,33%. Entre uma votação e outra, Lula ganhou mais de 1,1 milhão de votos no estado, e o candidato do PL ampliou a votação em cerca de 464 mil.</p>\n<p>Apesar do resultado estadual, Flávio Bolsonaro foi o mais votado em oito das dez maiores cidades mineiras: Belo Horizonte, Uberlândia, Contagem, Betim, Montes Claros, Uberaba, Governador Valadares e Ipatinga. Lula venceu em Juiz de Fora, com 57,66% dos votos válidos, e em Ribeirão das Neves, na Região Metropolitana, com 52,27%.</p>\n<p>Na capital, Flávio teve 50,80% dos votos válidos, contra 49,20% de Lula. A vantagem do candidato do PL em BH, que no primeiro turno era de quase 99 mil votos, caiu para pouco mais de 24 mil. Mesmo assim, apoiadores do presidente reeleito comemoraram na noite da eleição em pontos como a Rua Sapucaí, a Praça Sete e o Viaduto Santa Tereza.</p>\n<p>Outro destaque foi a queda da abstenção. Segundo dados da Justiça Eleitoral, o número de eleitores que não foram às urnas caiu de 3.735.098 no primeiro turno para 3.327.941 no segundo, uma redução de 10,9%. Em percentual, a abstenção passou de 22,81% para 20,33%. Especialistas apontaram a mobilização de jovens e de eleitores mais velhos e o engajamento nas redes como possíveis explicações.</p>\n<p>O dia de votação em Minas também foi marcado por chuvas fortes em parte do estado e por denúncias de assédio eleitoral, tema em que Minas aparece entre os estados com mais registros.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/070910_0.jpg",
+  "credito_foto": "Foto: Fernanda Torquato/TV Globo",
+  "fonte": "g1 Minas",
+  "resumos": ""
+ },
+ {
+  "id": "070918_2",
+  "data": "2026-11-01T04:11:07-03:00",
+  "titulo": "Cerveja sem álcool ganha espaço em Minas, e rótulo de microcervejaria de BH leva ouro em concurso latino-americano",
+  "linha_fina": "Produtores mineiros apostam na bebida para o fim de ano; vendas de rótulo sem álcool de cervejaria artesanal cresceram 78%",
+  "categoria": "comercio",
+  "texto": "<p>A cerveja sem álcool está deixando de ser um produto de nicho em Minas Gerais e virou aposta da indústria de bebidas para o fim de ano. Depois da onda dos drinques prontos e de baixa caloria, cervejarias mineiras, das microcervejarias às de maior porte, têm investido em rótulos sem álcool para atrair um consumidor que passou a beber menos.</p>\n<p>Para o Sindicato das Indústrias de Cerveja e Bebidas de Minas Gerais (SindBebidas), lançar esse tipo de produto é uma forma de o produtor se diferenciar da concorrência. Segundo o representante da entidade, Cristiano Lamengo, a bebida passou a integrar as estratégias de inovação de várias cervejarias e está ligada a momentos como direção segura, atividade física, trabalho e escolhas mais equilibradas.</p>\n<p>A mudança de hábito aparece em pesquisa da Ipsos-Ipec feita para o Centro de Informações sobre Saúde e Álcool (Cisa): a abstinência de álcool entre pessoas de 18 a 24 anos subiu de 46% para 64%. Na faixa de 25 a 34 anos, passou de 47% para 61%.</p>\n<p>De olho nesse público, a microcervejaria Mythic Beer, no bairro Padre Eustáquio, na Região Oeste de Belo Horizonte, lançou a Iara, uma cerveja leve e cítrica com 0,5% de teor alcoólico, o que a classifica como sem álcool. O rótulo ganhou prata no Concurso Mineiro de Cervejas e ouro no Brasil Beer Cup 2026, que reuniu 80 jurados de 16 países e mais de 2 mil rótulos. Outras 16 cervejarias mineiras também foram premiadas.</p>\n<p>O primeiro lote da Iara teve 250 litros; o segundo, 500 litros, e a meta é produzir mais mil litros até o fim do ano, segundo o mestre cervejeiro e dono da Mythic Beer.</p>\n<p>Em escala maior, a Krug Bier informou que as vendas da Krug Zero, sem álcool e sem glúten, cresceram 78% entre julho e setembro em comparação com o mesmo período de 2025. De acordo com o diretor da empresa, Alexandre Bruzzi, o rótulo está entre os mais vendidos da cervejaria, e a expectativa é de procura forte nas festas de fim de ano.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/070918_2.jpg",
+  "credito_foto": "Foto: Mythic Beer/Divulgação (via g1)",
+  "fonte": "g1 Minas",
+  "resumos": ""
+ },
+ {
+  "id": "070921_18",
+  "data": "2026-11-01T04:11:07-03:00",
+  "titulo": "Há 11 anos parado: Congresso tem ao menos 13 projetos para tornar inelegível quem comete violência contra a mulher",
+  "linha_fina": "Tema voltou à pauta depois que o TSE decidiu que condenação por violência de gênero pode barrar candidatura e pediu mudança na lei",
+  "categoria": "politica",
+  "texto": "<p>Propostas para incluir de forma expressa a violência contra a mulher entre os motivos que impedem uma candidatura estão paradas no Congresso Nacional há pelo menos 11 anos. Levantamento da CNN Brasil encontrou ao menos 13 projetos apresentados na Câmara e no Senado desde 2015 com esse objetivo. Nenhum deles foi aprovado em plenário até agora.</p>\n<p>O assunto voltou ao debate na quinta-feira (29), quando o Tribunal Superior Eleitoral (TSE) decidiu, por unanimidade, que a condenação por órgão colegiado por lesão corporal contra a mulher, cometida em razão do gênero, pode tornar o réu inelegível. O caso julgado foi o registro de candidatura de um homem que tentou disputar uma vaga de deputado federal por Alagoas e havia sido condenado a quatro anos e dois meses de prisão pela Justiça do estado.</p>\n<p>Hoje, a Lei de Inelegibilidade não cita a violência doméstica e familiar contra a mulher. Ela prevê, porém, a inelegibilidade de condenados por colegiado em alguns grupos de crimes, como os praticados contra a vida e contra a dignidade sexual. Relator do caso, o ministro Dias Toffoli argumentou que a Justiça Eleitoral deve considerar o bem jurídico protegido pela lei penal, e não apenas a classificação formal do crime.</p>\n<p>Os ministros afirmaram que a decisão não cria uma nova causa de inelegibilidade, apenas define o alcance de uma regra que já existe. Ainda assim, defenderam que o tema seja tratado de forma clara na lei. O ministro Ricardo Villas Bôas Cueva propôs que Câmara e Senado sejam comunicados para avaliar a mudança com urgência, o que, segundo ele, traria mais segurança jurídica.</p>\n<p>Entre os projetos parados, há textos que tornam inelegíveis condenados por crimes previstos na Lei Maria da Penha, por feminicídio ou por violência doméstica, com diferenças sobre o tipo de condenação exigida e por quanto tempo a restrição valeria. Alguns propõem que o impedimento dure até oito anos após o cumprimento da pena.</p>\n<p>Agora, cabe ao Congresso decidir se coloca algum desses projetos em votação. Sem mudança na lei, casos semelhantes continuarão dependendo da interpretação da Justiça Eleitoral.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/070921_18.jpg",
+  "credito_foto": "Foto: Pedro França/Agência Senado",
+  "fonte": "CNN Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "070955_20",
+  "data": "2026-11-01T04:11:07-03:00",
+  "titulo": "Após derrota de Flávio, revisão criminal no STF vira principal aposta da defesa de Bolsonaro",
+  "linha_fina": "Ministro Kassio Nunes Marques deu dez dias para a PGR se manifestar; ala do STF próxima a Moraes vê chance mínima de mudança",
+  "categoria": "politica",
+  "texto": "<p>Com a derrota de Flávio Bolsonaro (PL) para o presidente Lula (PT) no segundo turno, a revisão criminal em análise no Supremo Tribunal Federal (STF) passou a ser a principal aposta da defesa do ex-presidente Jair Bolsonaro para tentar reverter a condenação a 27 anos de prisão por tentativa de golpe de Estado.</p>\n<p>Durante a campanha, Flávio chegou a dizer que, se eleito, gostaria de ter o pai ao seu lado na subida da rampa do Palácio do Planalto, o que dependeria da saída de Bolsonaro da prisão domiciliar. Esse cenário deixou de existir com a reeleição de Lula.</p>\n<p>O relator do pedido, ministro Kassio Nunes Marques, deu dez dias para a Procuradoria-Geral da República (PGR) se manifestar. A decisão foi assinada na segunda-feira (26), um dia depois da eleição. Kassio, que também preside o Tribunal Superior Eleitoral, havia dito que só trataria do tema após o pleito para evitar a interpretação de interferência na disputa.</p>\n<p>A defesa pede, em caráter liminar, a suspensão da prisão até o julgamento. No mérito, quer anular as decisões que deram origem às investigações no inquérito das fake news e, com isso, as provas e depoimentos reunidos desde maio de 2025. O pedido traz ainda um parecer técnico que, segundo os advogados, aponta falhas na coleta e preservação de dados digitais, como mensagens extraídas do celular de Mauro Cid.</p>\n<p>Este é o segundo pedido de revisão sob relatoria de Kassio. O primeiro, de maio, recebeu parecer contrário da PGR e aguarda decisão do ministro. Kassio pretende levar o caso ao plenário do STF, e caberá ao presidente da Corte, Edson Fachin, marcar a data. Assim, ministros que não participaram da condenação na Primeira Turma, como André Mendonça, Gilmar Mendes, Dias Toffoli, Fachin e o próprio Kassio, também vão votar.</p>\n<p>Segundo a CNN Brasil, não está descartada uma decisão individual do relator sobre o pedido de liberdade antes do julgamento em plenário. Uma ala do STF próxima ao ministro Alexandre de Moraes, no entanto, rejeita tanto a anulação da condenação quanto a soltura do ex-presidente por meio da revisão criminal.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/070955_20.jpg",
+  "credito_foto": "Foto: Diego Herculano/Reuters (via CNN Brasil)",
+  "fonte": "CNN Brasil",
+  "resumos": ""
  }
 ]
