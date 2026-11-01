@@ -2980,5 +2980,19 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "13:17",
+  "id": "161214_117",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "MPMG vê queda de jovens em medidas socioeducativas em BH e alerta para falta de técnicos",
+  "titulo_orig": "Ministério Público aponta avanços e desafios no sistema socioeducativo em Belo Horizonte - RCWTV",
+  "link": "https://www.rcwtv.com.br/noticia/ministerio-publico-aponta-avancos-e-desafios-no-sistema-socioeducativo-em-belo-horizonte",
+  "fonte": "RCWTV",
+  "arte": "artes/2026-11-01/161214_117.jpg",
+  "media_id": "18638467084031056"
  }
 ]
