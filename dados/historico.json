@@ -950,5 +950,19 @@
   "fonte": "BH 24 Horas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-10-31",
+  "hora": "22:21",
+  "id": "010902_169",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Homem é morto a tiros na porta de casa em Ibirité; atirador fugiu de moto com comparsa",
+  "titulo_orig": "Homem é morto a tiros em Ibirité; suspeitos são procurados | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/homem-e-morto-a-tiros-em-ibirite-suspeitos-sao-procurados/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-10-31/010902_169.jpg",
+  "media_id": "18112998320185028"
  }
 ]
