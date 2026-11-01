@@ -2308,5 +2308,19 @@
   "fonte": "Brasil 247",
   "arte": "artes/2026-11-01/121107_16.jpg",
   "media_id": "18127166545911500"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "09:58",
+  "id": "121108_49",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Câncer de próstata matou cerca de 50 homens por dia no Brasil em 2025; urologistas alertam",
+  "titulo_orig": "Câncer de próstata matou 50 homens por dia no país em 2025",
+  "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-01/121108_49.jpg",
+  "media_id": "18380205319211068"
  }
 ]
