@@ -1356,5 +1356,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-01/051010_86.jpg",
   "media_id": "17978838237135116"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "02:27",
+  "id": "051007_228",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Gestão Tarcísio exonera servidora que criticou fala de Flávio sobre os 'nove dedos' de Lula",
+  "titulo_orig": "Servidora é exonerada da gestão Tarcísio após criticar fala de Flávio  | G1",
+  "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/31/servidora-e-exonerada-por-gestao-tarcisio-apos-criticar-fala-de-flavio-bolsonaro-sobre-9-dedos-de-lula-secretario-nega-motivos-politicos.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-01/051007_228.jpg",
+  "media_id": "17883898707534156"
  }
 ]
