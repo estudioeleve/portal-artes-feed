@@ -2056,5 +2056,33 @@
   "fonte": "O Tempo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "08:15",
+  "id": "111531_32",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Protestos da geração Z reúnem milhares em 34 cidades da Alemanha, e lojas são saqueadas em Frankfurt",
+  "titulo_orig": "Lojas são saqueadas durante protestos da geração Z na Alemanha; FOTOS | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/01/lojas-sao-saqueadas-durante-protestos-na-alemanha.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "08:15",
+  "id": "111536_ct1",
+  "bloco": "rmbh",
+  "portal": "comercio",
+  "ed": "CONTAGEM",
+  "titulo": "Casal arromba loja de roupas no bairro Industrial, em Contagem, e comerciante calcula prejuízo de R$ 1.550",
+  "titulo_orig": "Vídeo: casal arromba loja de roupas na Grande BH e empresária amarga prejuízos",
+  "link": "https://www.otempo.com.br/cidades/2026/10/30/video-casal-arromba-loja-de-roupas-na-grande-bh-e-empresaria-amarga-prejuizos.amp",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
