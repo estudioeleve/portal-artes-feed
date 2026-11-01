@@ -12,6 +12,19 @@ Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outr
 - Entretenimento: diminuir um pouco.
 - Não mandar resumos nem avisos (nem do site, nem do Instagram).
 
+## ⚠️ ESPORTE (bronca do Israel, 01/11/2026 16h20) — manda mais que as outras regras de esporte
+- "Ninguém quer saber de futebol feminino, ninguém quer saber de sub-20." **Não publicar** futebol feminino, sub-20,
+  base nem categorias menores (nem no Instagram nem no site), mesmo de Cruzeiro ou Atlético.
+- O que importa: **time principal de Atlético e Cruzeiro** — jogos grandes (prévia no dia com horário e onde assistir,
+  resultado logo depois do jogo), contratações, lesões de titulares, técnico, decisões. Equilibrar Atlético e Cruzeiro:
+  não postar só de um. Ex.: Grêmio x Atlético, semifinal da Copa do Brasil, 01/11 18h30 — tinha que ter saído de manhã.
+- Se não houver notícia de esporte que interesse de verdade, **não poste esporte** (as vagas vão para outros temas).
+
+## ⚠️ NUNCA POST SEM FOTO (01/11/2026: o pendente das Cabulosas saiu com a moldura vazia)
+- A foto de item pendente pode não estar no repositório (fotos/ não vai para o GitHub). **Nunca rode o artes.js de novo
+  num pendente**: use a arte que já está no GitHub. O `artes.js` agora pula item sem foto e não refaz arte de pendente.
+- **Antes de cada `create_image_post`, abra a arte (Read) e confira que tem foto.** Moldura vazia/cinza = não publique.
+
 
 Este arquivo é a instrução de cada rodada automática. Quem roda é o Claude, numa sessão agendada.
 Tudo o que o Israel vê é em português.

@@ -6,6 +6,9 @@ const R=path.resolve(__dirname,'..');
 const dia=new Date(Date.now()-3*3600e3).toISOString().slice(0,10);fs.mkdirSync(R+'/artes/'+dia,{recursive:true});
 const b=await chromium.launch();const p=await b.newPage({viewport:{width:1080,height:1350}});
 for(const n of L){ if(!n.titulo||!n.portal||!n.ed) continue;
+ if(n.so_site) continue; // so_site nunca vira arte
+ if(n.arte&&fs.existsSync(R+'/'+n.arte)&&!(n.foto&&fs.existsSync(path.resolve(R,n.foto)))){console.log(n.id,'arte já existe e a foto não está aqui: mantida',n.arte);continue}
+ if(!n.foto||!fs.existsSync(path.resolve(R,n.foto))){console.log(n.id,'<<< SEM FOTO: NÃO PUBLICAR (arte não gerada)');delete n.arte;delete n.url_arte;continue}
  const u=new URL('file://'+path.resolve(__dirname,'modelo/moldura.html'));
  u.searchParams.set('portal',n.portal);u.searchParams.set('ed',n.ed);u.searchParams.set('ti',n.titulo);
  if(n.foto)u.searchParams.set('foto','file://'+path.resolve(R,n.foto));
