@@ -1244,5 +1244,61 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-01/030919_163.jpg",
   "media_id": "18120438725470209"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "01:12",
+  "id": "041019_mbro",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Concurso da Prefeitura de Santa Luzia tem 454 vagas; inscrições começam em 17 de dezembro",
+  "titulo_orig": "Concurso Santa Luzia MG: edital com 454 vagas e inscrições",
+  "link": "https://cursosdoportal.com.br/noticias/concurso-santa-luzia-mg-edital-com-454-vagas-e-inscricoes-em-dezembro",
+  "fonte": "cursosdoportal.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "01:12",
+  "id": "040937_131",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fim do prazo de escolha no Simples Nacional leva empresas a se preparar para os impactos da Reforma Tributária",
+  "titulo_orig": "Simples Nacional: implementação da Reforma Tributária mobiliza setor produtivo e Congresso",
+  "link": "https://brasil61.com/n/simples-nacional-implementacao-da-reforma-tributaria-mobiliza-setor-produtivo-e-congresso-cacb260276",
+  "fonte": "Brasil 61",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "01:12",
+  "id": "040938_241",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Força Nacional terá reforço para proteger aldeias Guarani Kaiowá em Mato Grosso do Sul após denúncias de violência",
+  "titulo_orig": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
+  "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "01:12",
+  "id": "041018_-bh",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Ônibus da linha 402A perde o controle na pista molhada e atinge fachada de bar em Contagem",
+  "titulo_orig": "Motorista perde controle em pista molhada, e ônibus atinge bar em Contagem, na Grande BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/motorista-perde-controle-em-pista-molhada-e-onibus-atinge-bar-em-contagem-na-grande-bh/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "artes/2026-11-01/041018_-bh.jpg",
+  "media_id": "18139066330734021"
  }
 ]
