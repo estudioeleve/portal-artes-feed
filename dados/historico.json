@@ -1370,5 +1370,47 @@
   "fonte": "G1",
   "arte": "artes/2026-11-01/051007_228.jpg",
   "media_id": "17883898707534156"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "03:11",
+  "id": "060942_30",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Custo de vida, guerra contra o Irã e imigração dominam a eleição de meio de mandato nos EUA nesta terça",
+  "titulo_orig": "Os principais temas das eleições legislativas de meio de mandato nos EUA | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/01/os-principais-temas-das-eleicoes-legislativas-de-meio-de-mandato-nos-eua.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "03:11",
+  "id": "060946_74",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Bombeiros e Defesa Civil orientam moradores de áreas de risco de Patos de Minas sobre o Super El Niño",
+  "titulo_orig": "Corpo de Bombeiros MG e Defesa Civil debatem efeitos do Super El Niño - RCWTV",
+  "link": "https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-mg-e-defesa-civil-debatem-efeitos-do-super-el-nino",
+  "fonte": "RCWTV",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "03:11",
+  "id": "060903_142",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "PBH abre licitação de R$ 12,4 milhões para nova área de escape na descida do Betânia, no Anel",
+  "titulo_orig": "PBH licita nova área de escape para o Novo Anel em BH",
+  "link": "https://mobilidadebh.com.br/area-de-escape-pbh-nova-licita-novo-anel/",
+  "fonte": "Mobilidade BH",
+  "arte": "artes/2026-11-01/060903_142.jpg",
+  "media_id": "18010535393779240"
  }
 ]
