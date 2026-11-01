@@ -3330,5 +3330,61 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:11",
+  "id": "211022_56",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Finados em Betim: quatro cemitérios abrem das 7h às 17h e esperam mais de 6 mil visitantes nesta segunda",
+  "titulo_orig": "Betim reforça manutenção dos cemitérios municipais; expectativa é receber mais de 6 mil visitantes no Dia de Finados",
+  "link": "https://portalagita.com.br/betim-reforca-manutencao-dos-cemiterios-municipais-expectativa-e-receber-mais-de-6-mil-visitantes-no-dia-de-finados/",
+  "fonte": "Portal Agita",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:11",
+  "id": "211032_27",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Pneu de moto estoura e casal fica ferido em acidente na BR-352, em Pará de Minas",
+  "titulo_orig": "Pneu de motocicleta estoura e deixa dois feridos em acidente na BR-352, em MG",
+  "link": "https://www.otempo.com.br/cidades/2026/11/1/pneu-de-motocicleta-estoura-e-deixa-dois-feridos-em-acidente-na-br-352-em-mg",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:11",
+  "id": "211049_77",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Papai Noel chega ao Partage Shopping Betim no sábado (7) com chuva de 2 mil balões e programação gratuita",
+  "titulo_orig": "Papai Noel chega ao Partage Shopping no sábado (7) com chuva de 2 mil balões\n",
+  "link": "https://www.otempobetim.com.br/cultura/2026/11/1/papai-noel-chega-ao-partage-shopping-no-sabado-7-com-chuva-de-2-mil-baloes",
+  "fonte": "O TEMPO Betim",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "18:11",
+  "id": "211136_64",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF tem 5 votos a 3 a favor de aposentadas da Previ, mas suspende julgamento sobre regra igual para homens e mulheres",
+  "titulo_orig": "STF suspende julgamento sobre igualdade entre homens e mulheres na previdência complementar",
+  "link": "https://www.ultimahoraonline.com.br/noticia/stf-suspende-julgamento-sobre-igualdade-entre-homens-e-mulheres-na-previdencia-complementar",
+  "fonte": "Ultima Hora Online",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
