@@ -1496,5 +1496,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-01/070906_1.jpg",
   "media_id": "18118921208043908"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "04:25",
+  "id": "070910_0",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Minas foi o único estado onde a liderança mudou no 2º turno: Lula virou por 109 mil votos",
+  "titulo_orig": "Segundo turno em Minas Gerais: veja balanço | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/11/01/segundo-turno-em-mg-teve-virada-de-lula-queda-na-abstencao-e-denuncias-de-assedio-eleitoral-veja-balanco.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-01/070910_0.jpg",
+  "media_id": "18030467096879048"
  }
 ]
