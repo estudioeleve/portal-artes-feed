@@ -1412,5 +1412,19 @@
   "fonte": "Mobilidade BH",
   "arte": "artes/2026-11-01/060903_142.jpg",
   "media_id": "18010535393779240"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "03:12",
+  "id": "061215_141",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Governo Trump planeja deportar afegãos para o Afeganistão via Paquistão, e grupos temem represálias do Talibã",
+  "titulo_orig": "Plano do governo Trump de deportar afegãos gera temor de represálias do Talibã; entenda | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/10/31/plano-do-governo-trump-de-deportar-afegaos-gera-temor-de-represalias-do-taliba-entenda.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
