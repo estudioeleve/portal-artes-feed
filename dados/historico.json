@@ -2854,5 +2854,19 @@
   "fonte": "Congresso em Foco",
   "arte": "artes/2026-11-01/151345_93.jpg",
   "media_id": "17892422850617508"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "12:57",
+  "id": "151500_239",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Escala 5x2 a partir de 15 de dezembro preocupa comércio de BH, que corre para fechar acordos",
+  "titulo_orig": "Escala 5x2: corrida contra o tempo para definir acordos trabalhistas preocupa empresários",
+  "link": "https://www.otempo.com.br/economia/2026/11/1/escala-5x2-corrida-contra-o-tempo-para-definir-acordos-trabalhistas-preocupa-empresarios",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-01/151500_239.jpg",
+  "media_id": "18129151762845920"
  }
 ]
