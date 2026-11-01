@@ -2140,5 +2140,19 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "artes/2026-11-01/111053_vp1.jpg",
   "media_id": "18121868824754278"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "09:13",
+  "id": "121030_17",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Ataque a tiros no Morro das Pedras, em BH, deixa dois mortos; polícia investiga disputa entre facções",
+  "titulo_orig": "Guerra de facções no Morro das Pedras deixa dois mortos após ataque a tiros em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/guerra-de-faccoes-no-morro-das-pedras-deixa-dois-mortos-apos-ataque-a-tiros-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-01/121030_17.jpg",
+  "media_id": "18025038593941772"
  }
 ]
