@@ -3288,5 +3288,47 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-01/190931_47.jpg",
   "media_id": "18119760995603466"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "17:11",
+  "id": "200958_48",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "NOVA LIMA",
+  "titulo": "Suspeito baleado em perseguição foge pela janela do banheiro de hospital em Nova Lima",
+  "titulo_orig": "Preso foge pelo banheiro do hospital após ser baleado durante perseguição em Nova Lima | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/preso-pede-para-ir-ao-banheiro-e-foge-de-hospital-apos-ser-baleado-durante-perseguicao-em-nova-lima/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "17:11",
+  "id": "201019_29",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF valida fim do \"duplo teto\" e servidores aposentados com doença incapacitante seguem pagando desconto maior",
+  "titulo_orig": "STF enterra a esperança de aposentados doentes que pagam desconto a mais desde 2019",
+  "link": "https://www.otempo.com.br/economia/2026/11/1/stf-mantem-fim-do-duplo-teto-e-aposentados-com-doenca-incapacitante-seguem-pagando-desconto-maior",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "17:11",
+  "id": "201042_207",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Três homens são presos suspeitos de furtar R$ 20 mil em equipamentos de som de carro em São Gotardo",
+  "titulo_orig": "Trio é preso após furtar R$ 20 mil em equipamentos de som de carro em Minas",
+  "link": "https://pordentrodetudo.com.br/trio-e-preso-apos-furtar-r-20-mil-em-equipamentos-de-som-de-carro-em-minas/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
