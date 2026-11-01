@@ -2658,5 +2658,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-01/141340_29.jpg",
   "media_id": "17983828988908580"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "11:53",
+  "id": "141355_223",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Empreendedor investe R$ 500 mil e abre escola para formar mecânicos de bicicleta com certificação",
+  "titulo_orig": "Empreendedor investe R$ 500 mil e cria escola para formar mecânicos de bicicletas | Ideias de negócios | PEGN",
+  "link": "https://revistapegn.globo.com/google/amp/ideias-de-negocios/noticia/2026/11/empreendedor-investe-r-500-mil-e-cria-escola-para-formar-mecanicos-de-bicicletas.ghtml",
+  "fonte": "Pequenas Empresas & Grandes Negócios",
+  "arte": "artes/2026-11-01/141355_223.jpg",
+  "media_id": "17914936026283974"
  }
 ]
