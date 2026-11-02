@@ -3708,5 +3708,61 @@
   "fonte": "Culturaliza BH",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "23:12",
+  "id": "020934_25",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "VESPASIANO",
+  "titulo": "Ataque a tiros deixa um morto e um ferido na noite deste domingo em Nova Pampulha, Vespasiano",
+  "titulo_orig": "Ataque a tiros deixa uma pessoa morta e outra ferida em Vespasiano",
+  "link": "https://pordentrodetudo.com.br/ataque-a-tiros-deixa-uma-pessoa-morta-e-outra-ferida-em-vespasiano/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-01/020934_25.jpg",
+  "media_id": "17978050865960052"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "23:12",
+  "id": "021006_257",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "PEDRO LEOPOLDO",
+  "titulo": "Chuva forte provoca vazamento no Hospital Municipal Francisco Gonçalves, em Pedro Leopoldo",
+  "titulo_orig": "VÍDEO: Chuva forte provoca vazamento no Hospital Municipal de Pedro Leopoldo",
+  "link": "https://pordentrodetudo.com.br/video-chuva-forte-provoca-vazamento-no-hospital-municipal-de-pedro-leopoldo/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "23:12",
+  "id": "021050_152",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula diz que vai cumprir promessas de campanha, como o Pé-de-Meia Universitário e a ampliação do Desenrola",
+  "titulo_orig": "Lula confirma pacote para MEI e Pé-de-Meia Universitário após reeleição",
+  "link": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/01/lula-confirma-pacote-mei-pe-de-meia-universitario-reeleicao",
+  "fonte": "TV Sim Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "23:12",
+  "id": "021055_231",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Semáforo estragado na Avenida Caio Martins, em Matozinhos, preocupa motoristas e quase causa acidente",
+  "titulo_orig": "Semáforo estragado preocupa motoristas e quase provoca acidente na Avenida Caio Martins, em Matozinhos",
+  "link": "https://pordentrodetudo.com.br/semaforo-estragado-preocupa-motoristas-e-quase-provoca-acidente-na-avenida-caio-martins-em-matozinhos/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
