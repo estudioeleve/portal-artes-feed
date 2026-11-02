@@ -5178,5 +5178,61 @@
   "fonte": "O TEMPO Betim",
   "arte": "artes/2026-11-02/210919_50.jpg",
   "media_id": "18374822878211371"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "19:13",
+  "id": "221038_269",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Seter de Betim oferece 140 vagas nesta terça, das 8h às 15h, para logística e indústria",
+  "titulo_orig": "Seter disponibiliza 140 vagas de emprego em três profissões nesta terça-feira",
+  "link": "https://www.otempobetim.com.br/cidades/2026/11/2/seter-disponibiliza-140-vagas-de-emprego-em-tres-profissoes-nesta-terca-feira",
+  "fonte": "O TEMPO Betim",
+  "arte": "artes/2026-11-02/221038_269.jpg",
+  "media_id": "18075845435778899"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "19:13",
+  "id": "220951_30",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Rojas admite que não tem os minutos que queria no Cruzeiro e diz que futuro será avaliado em dezembro",
+  "titulo_orig": "Rojas admite insatisfação com falta de espaço no Cruzeiro e deixa futuro em aberto",
+  "link": "https://rede98.com.br/esportes/cruzeiro/gabriel-rojas-futuro-cruzeiro-dezembro/",
+  "fonte": "Rede 98",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "19:13",
+  "id": "221054_20",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "ALMG abre nesta terça encontros em BH para discutir onde o Estado vai investir em 2027",
+  "titulo_orig": "Revisão do planejamento de Minas terá encontros presenciais na capital a partir de terça",
+  "link": "https://www.otempo.com.br/politica/2026/11/2/revisao-do-planejamento-de-minas-tera-encontros-presenciais-na-capital-a-partir-de-terca",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "19:13",
+  "id": "221005_159",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "LAGOA SANTA",
+  "titulo": "Lagoa Santa terá quatro atletas no Campeonato Sul-Americano de Canoagem, nesta semana, no Chile",
+  "titulo_orig": "- Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/lagoa-santa-tera-quatro-atletas-no-campeonato-sul-americano-de-canoagem-2026-no-chile/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
