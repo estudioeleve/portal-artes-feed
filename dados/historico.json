@@ -4370,20 +4370,6 @@
  {
   "data": "2026-11-02",
   "hora": "10:41",
-  "id": "133904_194",
-  "bloco": "bh",
-  "portal": "one",
-  "ed": "BELO HORIZONTE",
-  "titulo": "Cemitérios de BH esperam mais de 80 mil visitantes neste Finados, com reforço na segurança e no trânsito",
-  "titulo_orig": "Cemitérios de BH devem receber mais de 80 mil pessoas neste 2 de novembro",
-  "link": "https://ncnews.com.br/2026/11/02/cemiterios-bh-visitas-finados/",
-  "fonte": "ncnews.com.br",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-02",
-  "hora": "10:41",
   "id": "133928_126",
   "bloco": "minas",
   "portal": "one",
@@ -4408,5 +4394,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "10:42",
+  "id": "133838_37",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Criminosos invadem concessionária em Contagem e levam joias de R$ 50 mil do dono",
+  "titulo_orig": "Criminosos invadem concessionária e roubam corrente e pulseira de ouro na Grande BH",
+  "link": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/video/criminosos-invadem-concessionaria-e-roubam-corrente-e-pulseira-de-ouro-na-grande-bh-02112026/",
+  "fonte": "R7",
+  "arte": "artes/2026-11-02/133838_37.jpg",
+  "media_id": "18340151587273345"
  }
 ]
