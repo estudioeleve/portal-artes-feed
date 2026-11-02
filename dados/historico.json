@@ -4450,5 +4450,61 @@
   "fonte": "AJN1",
   "arte": "artes/2026-11-02/133849_2.jpg",
   "media_id": "18218404906309997"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "11:52",
+  "id": "145007_28",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Suspeito de integrar a Tropa da Torre é preso em Valadares com arma furtada em Vespasiano em 2019",
+  "titulo_orig": "Integrante da 'Tropa da Torre' é preso com arma furtada em 2019 na Grande BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/2/integrante-da-tropa-da-torre-e-preso-com-arma-furtada-em-2019-na-grande-bh",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "11:52",
+  "id": "145011_124",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Caramujos gigantes africanos infestam ruas do Caiçara, em BH, e moradores cobram limpeza",
+  "titulo_orig": "Infestação de caramujos africanos causa preocupação para moradores do bairro Caiçara, em BH",
+  "link": "https://noticias.r7.com/minas-gerais/mg-no-ar/video/infestacao-de-caramujos-africanos-causa-preocupacao-para-moradores-do-bairro-caicara-em-bh-02112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "11:52",
+  "id": "144924_101",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Preso suspeito de agredir a ex e arrancar parte dos dentes dela com alicate na Zona da Mata",
+  "titulo_orig": "Suspeito de agredir a ex e arrancar os dentes de dela é preso em Minas",
+  "link": "https://www.otempo.com.br/cidades/2026/11/2/suspeito-de-agredir-a-ex-e-arrancar-os-dentes-de-dela-e-preso-em-minas",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "11:52",
+  "id": "144928_363",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "TJMG adia provas escritas do concurso para juiz substituto e ainda não tem nova data",
+  "titulo_orig": "TJMG adia prova de concurso para juiz em Minas sem nova data",
+  "link": "https://tvsimbrasil.com.br/mg/belo-horizonte/concursos/noticia/2026/11/02/tjmg-adia-prova-concurso-juiz-minas-sem-nova-data",
+  "fonte": "TV Sim Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
