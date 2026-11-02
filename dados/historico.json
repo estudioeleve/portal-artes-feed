@@ -5080,5 +5080,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/201051_267.jpg",
   "media_id": "18114510659143852"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "17:37",
+  "id": "201308_7",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Flávio Bolsonaro recorre ao STF para reaver passaportes e pede saída de Moraes da relatoria",
+  "titulo_orig": "Flávio Bolsonaro recorre ao STF para derrubar medidas de Moraes - Jornal de Brasília",
+  "link": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-bolsonaro-recorre-ao-stf-para-derrubar-medidas-de-moraes/",
+  "fonte": "Jornal de Brasília",
+  "arte": "artes/2026-11-02/201308_7.jpg",
+  "media_id": "18110614424226106"
  }
 ]
