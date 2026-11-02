@@ -3862,5 +3862,33 @@
   "fonte": "ge.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "02:11",
+  "id": "051011_118",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Preso de 27 anos pede para tirar algemas, toma banho e foge de hospital em Nova Lima",
+  "titulo_orig": "Preso pede para tirar algemas, toma banho e foge de hospital em Nova Lima",
+  "link": "https://tvsimbrasil.com.br/mg/nova-lima/noticias/noticia/2026/11/01/preso-pede-tirar-algemas-banho-foge-hospital-nova-lima",
+  "fonte": "TV Sim Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "02:11",
+  "id": "051007_2",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Cesta básica em BH sobe 11,72% em um ano e chega a R$ 802,99, segundo o Dieese",
+  "titulo_orig": "Cesta básica sobe 11,72% em 1 ano em BH e custa metade do salário mínimo",
+  "link": "https://www.metropoles.com/minas-gerais/cesta-basica-sobe-1172-em-1-ano-em-bh-e-custa-metade-do-salario-minimo",
+  "fonte": "Metrópoles",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
