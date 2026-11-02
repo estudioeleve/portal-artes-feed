@@ -5346,5 +5346,19 @@
   "fonte": "ge.globo.com",
   "arte": "artes/2026-11-02/231219_231.jpg",
   "media_id": "18224410030354358"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "20:25",
+  "id": "232536_118",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Petróleo fecha em queda de mais de 7% com sinais de avanço nas negociações entre EUA e Irã",
+  "titulo_orig": "Petróleo despenca mais de 7% com expectativa de acordo entre EUA e Irã",
+  "link": "https://veja.abril.com.br/economia/petroleo-despenca-em-mais-de-7-com-expectativa-de-acordo-entre-eua-e-ira/",
+  "fonte": "VEJA",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
