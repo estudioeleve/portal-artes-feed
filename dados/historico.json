@@ -4548,5 +4548,61 @@
   "fonte": "ecbahia.com",
   "arte": "artes/2026-11-02/145005_13.jpg",
   "media_id": "18019436231953003"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "13:04",
+  "id": "160117_145",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Cabo da PM de férias é morto a tiros em Fronteira; suspeitos são presos no interior de São Paulo",
+  "titulo_orig": "Cabo da Polícia Militar é morto a tiros em Fronteira (MG)",
+  "link": "https://pordentrodeminas.com.br/noticias/gerais/2026/11/cabo-da-policia-militar-e-morto-a-tiros-em-fronteira-mg/",
+  "fonte": "Por Dentro de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "13:04",
+  "id": "160120_147",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro avalia comprar Matías Viña em definitivo; opção com o Flamengo é de US$ 4,5 milhões",
+  "titulo_orig": "Cruzeiro planeja comprar Matías Viña do Flamengo",
+  "link": "https://www.terra.com.br/esportes/futebol/cruzeiro-planeja-comprar-matias-vina-do-flamengo,738227653ba696326f88c4651b2581a8w4qff6at.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "13:04",
+  "id": "160341_13",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "TJMG mantém condenação de morador que fraturou o rosto de síndico em BH em briga por salão de festas",
+  "titulo_orig": "Justiça mantém condenação de morador que agrediu síndico em BH após discussão sobre salão de festas",
+  "link": "https://bhaz.com.br/noticias/bh/justica-condenacao-morador-agrediu-sindico-predio-bh/",
+  "fonte": "BHAZ",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "13:04",
+  "id": "160345_366",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Câmara de Pouso Alegre aprova em 1º turno integração de câmeras particulares ao monitoramento da cidade",
+  "titulo_orig": "Projeto que permite integração de câmeras particulares ao sistema de monitoramento é aprovado em 1º turno em Pouso Alegre, MG | G1",
+  "link": "https://g1.globo.com/google/amp/mg/sul-de-minas/noticia/2026/11/02/projeto-que-permite-integracao-de-cameras-particulares-ao-sistema-de-monitoramento-e-aprovado-em-1o-turno-em-pouso-alegre-mg.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
