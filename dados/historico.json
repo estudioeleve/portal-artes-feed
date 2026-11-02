@@ -3666,5 +3666,47 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-01/001255_267.jpg",
   "media_id": "18136067539668801"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "22:11",
+  "id": "011019_259",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Câmara de BH volta ao Plenário nesta terça com dois vetos de Damião na pauta e sucessão da presidência no radar",
+  "titulo_orig": "Câmara de BH inicia na terça penúltima sessão ordinária de Plenário do ano",
+  "link": "https://www.otempo.com.br/politica/2026/11/1/camara-de-bh-inicia-na-terca-penultima-sessao-ordinaria-de-plenario-do-ano.amp",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "22:12",
+  "id": "011206_125",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Esquina do Clube da Esquina, em Santa Tereza, recebe homenagem gratuita a Lô Borges nesta segunda",
+  "titulo_orig": "Homenagem a Lô Borges reúne músicos em evento gratuito em BH - Jornal Voz Ativa",
+  "link": "https://jornalvozativa.com/cultura/homenagem-lo-borges-bh-santa-tereza/",
+  "fonte": "Jornal Voz Ativa",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "22:12",
+  "id": "011209_182",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Big Shopping comemora 32 anos com festival de rock gratuito no Eldorado, em Contagem, neste sábado (7)",
+  "titulo_orig": "Big Rock Festival celebra os 32 anos do Big Shopping com tributos ao rock e entrada gratuita em Contagem neste sábado",
+  "link": "https://culturalizabh.com.br/index.php/2026/11/01/big-rock-festival-celebra-os-32-anos-do-big-shopping-com-tributos-ao-rock-e-entrada-gratuita-em-contagem-neste-sabado/",
+  "fonte": "Culturaliza BH",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
