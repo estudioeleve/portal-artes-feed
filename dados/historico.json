@@ -4226,5 +4226,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/111953_24.jpg",
   "media_id": "17977827099158176"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:32",
+  "id": "111958_59",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Gasolina sobe na Grande BH e chega a R$ 6,89 nos postos; Santa Luzia tem o menor preço médio",
+  "titulo_orig": "Preço dos combustíveis sobe na Grande BH; gasolina chega a R$ 6,89 e etanol a R$ 4,96",
+  "link": "https://rede98.com.br/noticias/bh-regiao/preco-dos-combustiveis-sobe-na-grande-bh-gasolina-chega-a-r-689-e-etanol-a-r-496/",
+  "fonte": "Rede 98",
+  "arte": "artes/2026-11-02/111958_59.jpg",
+  "media_id": "18027121490919490"
  }
 ]
