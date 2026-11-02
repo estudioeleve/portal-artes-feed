@@ -4828,5 +4828,61 @@
   "fonte": "TV Sim Brasil",
   "arte": "artes/2026-11-02/173122_44.jpg",
   "media_id": "18119480444068147"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "15:18",
+  "id": "181452_36",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Feira agropecuária de Januária reúne cerca de 35 mil visitantes e fecha parceria para pequenos produtores",
+  "titulo_orig": "3ª FEAGRO atrai 35 mil pessoas em Januária e consolida força do agronegócio no Norte de Minas | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/agro/3a-feagro-atrai-35-mil-pessoas-em-januaria-e-consolida-forca-do-agronegocio-no-norte-de-minas/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "15:18",
+  "id": "181500_249",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Jazigo perpétuo em cemitério público de BH custa de R$ 6,1 mil a R$ 51,3 mil; veja regras e como pedir",
+  "titulo_orig": "Quanto custam os jazigos perpétuos em BH? Preços chegam a R$ 51 mil",
+  "link": "https://ncnews.com.br/2026/11/02/preco-jazigos-cemiterios-bh/",
+  "fonte": "ncnews.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "15:18",
+  "id": "181600_17",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governadora do Rio Grande do Norte, Fátima Bezerra entra no radar para ministério social de Lula",
+  "titulo_orig": "Fátima Bezerra é cotada para ministério da área social no governo Lula | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/politica/direto-de-brasilia/fatima-bezerra-e-cotada-para-ministerio-da-area-social-no-governo-lula/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "15:18",
+  "id": "181604_268",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Finados: Gerardo Renault, Odelmo Leão e Olinto Godinho são os políticos mineiros que morreram em 2026",
+  "titulo_orig": "Dia de Finados: Minas Gerais perde três nomes históricos da política em 2026",
+  "link": "https://jmonline.com.br/geral/dia-de-finados-minas-gerais-perde-tres-nomes-historicos-da-politica-em-2026-1.680169",
+  "fonte": "JM Online",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
