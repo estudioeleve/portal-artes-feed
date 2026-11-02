@@ -12,6 +12,14 @@ Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outr
 - Entretenimento: diminuir um pouco.
 - Não mandar resumos nem avisos (nem do site, nem do Instagram).
 
+## ⚠️ FOCO REGIONAL: VETOR NORTE EM PRIMEIRO, MENOS BETIM (Israel, 02/11/2026 ~19h35) — manda mais que as outras regras de região
+- "Tá colocando Betim demais." **Menos notícias de Betim**: só quando for realmente forte, nunca como escolha fácil para cumprir a cota regional.
+- Ordem de prioridade: **1º Santa Luzia (em primeiro lugar de tudo)**; depois **Vespasiano, Pedro Leopoldo, Jaboticatubas, Matozinhos e São José da Lapa**;
+  depois **Belo Horizonte, principalmente região Norte e Venda Nova**; só então os outros temas e cidades.
+- Antes de escolher pauta, procure primeiro por essas cidades no radar (e com busca própria, se o radar não trouxer). Cuidado: "Santa Luzia" no radar pode ser
+  de outro estado (MA, PB, AL): confira que é a de Minas.
+- **Esporte: mesclar Cruzeiro e Atlético** (a mensagem dele foi cortada em "cruzeiro e"; entendido como Cruzeiro e Atlético, como na regra de esporte abaixo).
+
 ## ⛔ ASSUNTO PROIBIDO: PLANTÃO FAKE EM SANTA LUZIA (Israel, 01/11/2026 22h)
 - **Nada** sobre a Operação Plantão Fake / plantões "fantasmas" no Hospital Municipal Madalena Parrillo Calixto ou na
   UPA São Benedito de Santa Luzia: **nem no Instagram, nem no site**, de nenhuma fonte, nem atualização do caso.
