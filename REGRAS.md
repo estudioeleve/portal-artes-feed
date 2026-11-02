@@ -12,6 +12,12 @@ Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outr
 - Entretenimento: diminuir um pouco.
 - Não mandar resumos nem avisos (nem do site, nem do Instagram).
 
+## ⛔ ASSUNTO PROIBIDO: PLANTÃO FAKE EM SANTA LUZIA (Israel, 01/11/2026 22h)
+- **Nada** sobre a Operação Plantão Fake / plantões "fantasmas" no Hospital Municipal Madalena Parrillo Calixto ou na
+  UPA São Benedito de Santa Luzia: **nem no Instagram, nem no site**, de nenhuma fonte, nem atualização do caso.
+- A matéria 231100_39 (20h11) foi tirada do `dados/site.json` a pedido dele. A trava `robo/repetido.py` agora bloqueia
+  o assunto sozinha (coletar, site.py e links.py imprimem REPETIDO/PROIBIDO). Se aparecer no radar, pule.
+
 ## ⚠️ ESPORTE (bronca do Israel, 01/11/2026 16h20) — manda mais que as outras regras de esporte
 - "Ninguém quer saber de futebol feminino, ninguém quer saber de sub-20." **Não publicar** futebol feminino, sub-20,
   base nem categorias menores (nem no Instagram nem no site), mesmo de Cruzeiro ou Atlético.

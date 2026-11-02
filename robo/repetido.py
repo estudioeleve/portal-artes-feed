@@ -23,8 +23,17 @@ def historico(dias=10):
   H=json.load(open(f'{R}/dados/historico.json')) if os.path.exists(f'{R}/dados/historico.json') else []
   lim=time.strftime('%Y-%m-%d',time.gmtime(time.time()-3*3600-dias*86400))
   return [h for h in H if h.get('data','')>=lim and h.get('media_id')!='NAO_PUBLICADO_leva_teste']
+# Assuntos proibidos (Israel, 01/11/2026 22h): nada sobre o "Plantão Fake" / plantões fantasmas de Santa Luzia,
+# nem no Instagram nem no site.
+def proibido(o):
+  t=' '.join(str(o.get(k) or '') for k in ('titulo','titulo_orig','link','linha_fina','texto','texto_site','legenda'))
+  t=unicodedata.normalize('NFKD',t.lower()).encode('ascii','ignore').decode().replace('-',' ')
+  if re.search(r'plantao fake|plantoes? fantasmas?|plantoes? ?.?fantasmas?',t): return True
+  if 'santa luzia' in t and 'plant' in t and re.search(r'fraude|fantasma|fake|madalena parrillo|sao benedito',t): return True
+  return False
 def achar(o,H=None):
   """Devolve o registro já publicado igual/parecido ao item o (ou None)."""
+  if proibido(o): return dict(data='PROIBIDO',hora='',media_id='PROIBIDO',titulo='Assunto proibido pelo Israel: Plantão Fake / plantões fantasmas de Santa Luzia')
   H=historico() if H is None else H
   lk=norm_link(o.get('link'))
   for h in H:
