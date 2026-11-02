@@ -4604,5 +4604,19 @@
   "fonte": "G1",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "13:05",
+  "id": "160055_42",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SABARÁ",
+  "titulo": "Três jovens são presos em Sabará suspeitos de dar dez tiros contra comparsa durante perseguição",
+  "titulo_orig": "Trio é preso após disparar dez vezes contra comparsa em Sabará, na Grande BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/trio-e-preso-apos-disparar-dez-vezes-contra-comparsa-em-sabara-na-grande-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/160055_42.jpg",
+  "media_id": "18112722443614558"
  }
 ]
