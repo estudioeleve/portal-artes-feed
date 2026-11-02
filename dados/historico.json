@@ -4646,5 +4646,61 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-02/160108_89.jpg",
   "media_id": "18204868846330914"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:05",
+  "id": "170322_175",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Domínguez diz que erro de Lyanco \"custou caro\", mas divide responsabilidade por derrota do Atlético para o Grêmio",
+  "titulo_orig": "Técnico do Galo analisa erro de Lyanco contra o Grêmio: \"Custou caro\" | Ge",
+  "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/02/tecnico-do-atletico-mg-analisa-erro-de-lyanco-e-pondera-vejo-o-que-acontece.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:05",
+  "id": "170328_63",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "\"Vicentina Pede Desculpas\", filme rodado em BH, estreia na quinta com sessões especiais no Belas Artes",
+  "titulo_orig": "'Vicentina Pede Desculpas' estreia nos cinemas nesta quinta-feira, com sessões especiais em BH",
+  "link": "https://bhaz.com.br/noticias/bh/vicentina-pede-desculpas-estreia-nos-cinemas-com-sessoes-especiais-em-bh/",
+  "fonte": "BHAZ",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:05",
+  "id": "170355_154",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Confins ganha voo direto para Macapá, com quatro frequências por semana e mais de 6 mil assentos por mês",
+  "titulo_orig": "Voo Macapá Belo Horizonte: Nova rota direta começa a operar | G1",
+  "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/02/nova-rota-aerea-entre-amapa-e-minas-gerais-comeca-a-operar-com-quatro-voos-semanais.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:05",
+  "id": "170358_179",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Pacheco volta a ser favorito para vaga no STF; Lula ainda avalia Messias e nome não foi oficializado",
+  "titulo_orig": "Pacheco, que blindou STF, pode virar ministro e ainda emplacar Código Civil explosivo",
+  "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/pacheco-que-blindou-stf-pode-virar-ministro-e-ainda-emplacar-codigo-civil-explosivo/",
+  "fonte": "Gazeta do Povo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
