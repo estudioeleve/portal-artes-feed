@@ -4730,5 +4730,61 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-02/170239_404.jpg",
   "media_id": "18080470463387863"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:32",
+  "id": "172746_90",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Motorista da Mercedes que invadiu loja no Barro Preto não tinha CNH e fugia da PM, diz boletim",
+  "titulo_orig": "Motorista que invadiu loja em BH fugiu da PM, não tem CNH e tinha sinais de embriaguez | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/motorista-que-invadiu-loja-em-bh-fugiu-da-pm-nao-tem-cnh-e-tinha-sinais-de-embriaguez/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:32",
+  "id": "172800_31",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Defesa de Vorcaro vai ao STF nesta terça pedir análise de soltura, após denunciar o Brasil à OEA",
+  "titulo_orig": "Após acionar OEA, defesa de Vorcaro terá audiência no STF",
+  "link": "https://www.metropoles.com/colunas/manoela-alcantara/apos-acionar-oea-defesa-de-vorcaro-tera-audiencia-no-stf",
+  "fonte": "Metrópoles",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:32",
+  "id": "172833_65",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Batida entre dois carros mata uma pessoa e deixa cinco feridos na BR-259, em Resplendor",
+  "titulo_orig": "Acidente deixa uma pessoa morta e cinco feridas na BR-116, em MG | G1",
+  "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/02/acidente-entre-dois-carros-deixa-uma-pessoa-morta-e-cinco-feridas-na-br-259-em-mg.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:32",
+  "id": "172953_34",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Planalto quer levar maioridade penal para outra PEC e destravar a da Segurança no Senado",
+  "titulo_orig": "Planalto articula redução de maioridade penal em outra proposta | Blogs | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/blogs/isabel-mega/politica/planalto-articula-reducao-de-maioridade-penal-em-outra-proposta/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
