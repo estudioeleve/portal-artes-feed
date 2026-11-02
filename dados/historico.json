@@ -5094,5 +5094,61 @@
   "fonte": "Jornal de Brasília",
   "arte": "artes/2026-11-02/201308_7.jpg",
   "media_id": "18110614424226106"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "18:12",
+  "id": "210932_171",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Carro perde força em ladeira íngreme e capota no bairro Aparecida, em BH; motorista teve ferimentos leves",
+  "titulo_orig": "Carro sobe ladeira, perde potência e capota várias vezes, na região Noroeste de BH",
+  "link": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/video/carro-sobe-ladeira-perde-potencia-e-capota-varias-vezes-na-regiao-noroeste-de-bh-02112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "18:12",
+  "id": "210935_14",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Tempo de Bolsonaro em regime fechado pode cair para 2 anos e 4 meses se STF validar dosimetria",
+  "titulo_orig": "STF pode reduzir prisão de Bolsonaro a 2 anos e 4 meses | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/stf-pode-reduzir-prisao-de-bolsonaro-a-2-anos-e-4-meses/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "18:12",
+  "id": "210938_1",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Batida entre carro e caminhonete mata motorista e interdita a BR-040 em Conselheiro Lafaiete",
+  "titulo_orig": "BR-040 é interditada após acidente que matou homem e deixou mulher ferida em MG | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/br-040-e-interditada-apos-acidente-que-matou-homem-e-deixou-mulher-ferida-em-mg/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "18:12",
+  "id": "211051_7",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Santa Casa BH recebe mais de mil livros doados por voluntários da Copasa para vender em bazar beneficente",
+  "titulo_orig": "Doação de livros: Copasa entrega mil obras à Santa Casa BH",
+  "link": "https://soubh.uai.com.br/noticias/literatura/doacao-de-livros-copasa-entrega-mil-obras-a-santa-casa-bh/",
+  "fonte": "SouBH",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
