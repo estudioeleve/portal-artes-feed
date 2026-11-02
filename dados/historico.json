@@ -4618,5 +4618,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/160055_42.jpg",
   "media_id": "18112722443614558"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "13:14",
+  "id": "160106_7",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "RIBEIRÃO DAS NEVES",
+  "titulo": "Funcionários da Copasa encontram feto em estação de esgoto de Ribeirão das Neves",
+  "titulo_orig": "Feto é encontrado por funcionários em estação de esgoto da Copasa na Grande BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/2/feto-e-encontrado-por-funcionarios-em-estacao-de-esgoto-da-copasa-na-grande-bh",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-02/160106_7.jpg",
+  "media_id": "17874771114639718"
  }
 ]
