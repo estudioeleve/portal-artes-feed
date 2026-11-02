@@ -4422,5 +4422,19 @@
   "fonte": "Plox",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "10:51",
+  "id": "133846_6",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Pit bulls fogem de canil, atacam idoso em São Gonçalo do Pará e acabam mortos por policiais",
+  "titulo_orig": "Vídeo: pit bulls fogem, atacam moradores e são mortos por policiais em MG | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/video-pit-bulls-fogem-atacam-moradores-e-sao-mortos-por-policiais-em-mg/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/133846_6.jpg",
+  "media_id": "17991043164078771"
  }
 ]
