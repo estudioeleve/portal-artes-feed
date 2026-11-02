@@ -23,3 +23,4 @@
 02/11/2026 02:15 - Rodada 2h: 051004_1 publicado ~3 min depois pelo raw.githubusercontent (media 18101559878563210).
 02/11/2026 05:22 - Rodada 5h: 081545_20 (Cruzeiro x Bahia) deu "Media ID is not available" no jsDelivr; tentando raw em 3 min.
 02/11/2026 05:25 - Rodada 5h: 081545_20 publicado pelo raw.githubusercontent (media 18025432034868762). g1 (jazigos em BH) não foi coletado: coletar.py deu erro no link e a checagem foi barrada; pauta ficou de fora.
+02/11/2026 06:21 - Rodada 6h: 091349_109 deu "Media ID is not available" no jsDelivr; publicado ~3 min depois pelo raw.githubusercontent (media 18025205882719952).
