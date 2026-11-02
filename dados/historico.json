@@ -4352,5 +4352,61 @@
   "fonte": "NC News",
   "arte": "artes/2026-11-02/122055_130.jpg",
   "media_id": "18155881048523042"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "10:41",
+  "id": "133852_96",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Decreto de Damião reorganiza cargos da mobilidade em BH e define 82 postos na Secretaria e na Sumob",
+  "titulo_orig": "Prefeitura de Belo Horizonte reorganiza cargos e chefias da mobilidade e estabelece estrutura com 82 postos na Secretaria e na Sumob",
+  "link": "https://diariodotransporte.com.br/2026/11/02/prefeitura-de-belo-horizonte-reorganiza-cargos-e-chefias-da-mobilidade-e-estabelece-estrutura-com-82-postos-na-secretaria-e-na-sumob/",
+  "fonte": "Diário do Transporte",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "10:41",
+  "id": "133904_194",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Cemitérios de BH esperam mais de 80 mil visitantes neste Finados, com reforço na segurança e no trânsito",
+  "titulo_orig": "Cemitérios de BH devem receber mais de 80 mil pessoas neste 2 de novembro",
+  "link": "https://ncnews.com.br/2026/11/02/cemiterios-bh-visitas-finados/",
+  "fonte": "ncnews.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "10:41",
+  "id": "133928_126",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Cemig abre editais para apoiar projetos de esporte, crianças e idosos; primeira seleção vai até 13 de novembro",
+  "titulo_orig": "Cemig abre inscrições para editais que selecionam projetos voltados ao esporte, à população idosa e a crianças e adolescentes - Gerais News",
+  "link": "https://geraisnews.com.br/2026/11/02/cemig-abre-inscricoes-para-editais-que-selecionam-projetos-voltados-ao-esporte-a-populacao-idosa-e-a-criancas-e-adolescentes/",
+  "fonte": "Gerais News",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "10:41",
+  "id": "134016_198",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Incêndio destrói casa de quatro cômodos em Poços de Caldas; bombeiros fazem varredura nos escombros",
+  "titulo_orig": "Incêndio destrói casa em Poços de Caldas e Mobiliza Bombeiros e Polícia Militar | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/suldeminas/incendio-destroi-casa-em-pocos-de-caldas-e-mobiliza-bombeiros-e-policia-militar/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
