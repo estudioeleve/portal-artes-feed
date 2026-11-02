@@ -5280,20 +5280,6 @@
  {
   "data": "2026-11-02",
   "hora": "20:15",
-  "id": "231224_286",
-  "bloco": "rmbh",
-  "portal": "one",
-  "ed": "REGIÃO METROPOLITANA",
-  "titulo": "Preso foge de hospital em Nova Lima após pedir para tirar algemas e tomar banho; vídeo mostra janela danificada",
-  "titulo_orig": "Preso foge de hospital em Nova Lima; vídeo mostra janela e sangue | G1",
-  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/02/video-mostra-janela-danificada-por-onde-preso-fugiu-de-hospital-na-grande-bh.ghtml",
-  "fonte": "g1.globo.com",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-02",
-  "hora": "20:15",
   "id": "231245_oc=5",
   "bloco": "bh",
   "portal": "one",
@@ -5332,5 +5318,19 @@
   "fonte": "BandNews",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "20:16",
+  "id": "231213_3",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Granizo faz motoristas se abrigarem em túnel e forma fila de carros na região Noroeste de BH",
+  "titulo_orig": "Vídeo: em meio à tempestade de granizo, motoristas se abrigam e formam fila de carros em túnel de BH",
+  "link": "https://www.otempo.com.br/content/gruposada/sempreeditora/otempo/editorias/cidades/2026/11/2/video-em-meio-a-tempestade-de-granizo-motoristas-se-abrigam-e-formam-fila-de-carros-em-tunel-de-bh.html",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-02/231213_3.jpg",
+  "media_id": "17896726824427657"
  }
 ]
