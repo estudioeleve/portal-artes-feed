@@ -3806,5 +3806,33 @@
   "fonte": "Poder360",
   "arte": "artes/2026-11-01/021013_1.jpg",
   "media_id": "18375561562215220"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "00:12",
+  "id": "030937_html",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Bombeiros encontram corpo de homem arrastado por córrego em Guarará; caso pode ser a primeira morte da temporada de chuvas em Minas",
+  "titulo_orig": "Minas em alerta: encontrado corpo da primeira vítima do período chuvoso",
+  "link": "https://www.em.com.br/gerais/2026/11/7531789-minas-em-alerta-encontrado-corpo-da-primeira-vitima-do-periodo-chuvoso.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "00:12",
+  "id": "031125_60",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Cemig leiloa terreno de 1.380 m² no Gutierrez, em BH, por R$ 352 mil; área está ocupada e tem restrições",
+  "titulo_orig": "Cemig leiloa terreno de 1.380 m² no Gutierrez por R$ 352 mil; veja as restrições",
+  "link": "https://moonbh.com.br/bh-news/2026/11/01/terreno-cemig-gutierrez-leilao-belo-horizonte/",
+  "fonte": "Moon BH",
+  "arte": "artes/2026-11-02/031125_60.jpg",
+  "media_id": "18146291470510207"
  }
 ]
