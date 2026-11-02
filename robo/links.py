@@ -10,6 +10,8 @@ import json,os,subprocess,sys,time,requests
 B=os.path.dirname(os.path.abspath(__file__));R=os.path.dirname(B)
 i=sys.argv[1]
 n=next(o for o in json.load(open(f'{R}/dados/lote.json')) if o['id']==i)
+# Traz o histórico mais novo do GitHub: outra rodada pode estar rodando ao mesmo tempo (Betim saiu 2 vezes em 02/11).
+subprocess.run(['git','-C',R,'pull','-q','--rebase','--autostash','origin','main'],check=True)
 sys.path.insert(0,B);from repetido import achar
 h=achar(n)
 if h:

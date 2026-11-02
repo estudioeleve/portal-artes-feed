@@ -152,6 +152,14 @@ Tudo o que o Israel vê é em português.
   Nada de notificação. O Israel pergunta quando quiser saber. Erros ficam só em `dados/erros.txt`.
 - No fim da rodada, a resposta da sessão é no máximo uma linha, sem lista de títulos.
 
+## ⛔ DUAS RODADAS AO MESMO TEMPO (02/11/2026: Finados em Betim saiu 2 vezes, 14h32 e 14h38)
+- A rodada pode começar atrasada e pegar a anterior ainda publicando. A pauta da outra só entrava no histórico depois do post.
+- **No começo da rodada**: `git pull`; veja em `dados/site.json` os ids de hoje que ainda não estão em `dados/historico.json`:
+  são pautas de outra rodada em andamento. **Não escolha o mesmo fato** (mesmo link ou mesma cidade e assunto).
+- Se o último commit "Rodada" tiver menos de 15 minutos, **conte o intervalo a partir dele** antes de publicar.
+- O `links.py` agora faz `git pull` antes de conferir a trava; **rode-o de novo logo antes de cada tentativa de publicar**,
+  inclusive depois da espera do "Media ID".
+
 ## Nunca repetir notícia (Israel, 01/11/2026: "Post repetido. Não deixa isso acontecer mais")
 - Em 01/11 à 1h saiu de novo o ônibus 402A que bateu num bar em Contagem (já publicado em 31/10 às 19h44), porque a matéria
   entrou por link avulso (`coletar.py <URL> --anexar`), que não passava pelo filtro do radar.
