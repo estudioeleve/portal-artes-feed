@@ -4702,5 +4702,19 @@
   "fonte": "Gazeta do Povo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "14:06",
+  "id": "170230_166",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Suspeito de tentar roubar mulher com faca é contido por pedestres na passarela da Lagoinha, em BH",
+  "titulo_orig": "Suspeito de tentar assaltar mulher com faca é contido por populares e preso no Centro de BH",
+  "link": "https://noticias.r7.com/minas-gerais/suspeito-de-tentar-assaltar-mulher-com-faca-e-contido-por-populares-e-preso-no-centro-de-bh-02112026/",
+  "fonte": "R7",
+  "arte": "artes/2026-11-02/170230_166.jpg",
+  "media_id": "18119165770809416"
  }
 ]
