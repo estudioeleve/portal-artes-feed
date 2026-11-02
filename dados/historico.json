@@ -4212,5 +4212,19 @@
   "fonte": "O TEMPO",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:23",
+  "id": "111953_24",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Mercedes bate em poste, perde o motor e invade loja no Barro Preto, em BH; motorista foi socorrido",
+  "titulo_orig": "Vídeo: motorista de Mercedes bate em poste, arranca motor e invade loja em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/video-motorista-de-mercedes-bate-em-poste-arranca-motor-e-invade-loja-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/111953_24.jpg",
+  "media_id": "17977827099158176"
  }
 ]
