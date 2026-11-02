@@ -27,3 +27,4 @@
 02/11/2026 06:31 - Rodada 6h: 091357_29 publicado (media 18157788163524028) com erro de digitação meu na legenda: saiu "#Portal Comércio" (com espaço) em vez de "#PortalComércio". O conector não edita legenda; corrigir à mão no Instagram se quiser. Também usei o link raw direto, sem tentar o jsDelivr antes.
 02/11/2026 09:34 - Rodada 9h: 122132_126 deu "Media ID is not available" no jsDelivr; tentando raw em 3 min.
 02/11/2026 09:37 - Rodada 9h: 122132_126 publicado pelo raw.githubusercontent (media 18121574069288222).
+02/11/2026 11:59 - Rodada 11h: 144959_135 deu 'Media ID is not available' no jsDelivr e no raw; publicado na 3a tentativa (jsDelivr), media 17957767137268712.

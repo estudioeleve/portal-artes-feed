@@ -4506,5 +4506,19 @@
   "fonte": "TV Sim Brasil",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "11:59",
+  "id": "144959_135",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Temporal derruba árvore sobre casa em Ibirité e muro atinge carro no Ribeiro de Abreu, em BH",
+  "titulo_orig": "Temporal provoca quedas de árvores e muro em Belo Horizonte e Região Metropolitana",
+  "link": "https://noticias.r7.com/minas-gerais/mg-no-ar/video/temporal-provoca-quedas-de-arvores-e-muro-em-belo-horizonte-e-regiao-metropolitana-02112026/",
+  "fonte": "R7",
+  "arte": "artes/2026-11-02/144959_135.jpg",
+  "media_id": "17957767137268712"
  }
 ]
