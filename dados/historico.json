@@ -4254,5 +4254,61 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-02/112026_25.jpg",
   "media_id": "18358894825216197"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "09:24",
+  "id": "122247_etim",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Stellantis abre 20 vagas gratuitas em curso profissionalizante em Betim, com bolsa-auxílio e inscrições até 29 de novembro",
+  "titulo_orig": "",
+  "link": "https://www.betimonline.com/index.php/noticias/stellantis-abre-20-vagas-gratuitas-para-curso-profissionalizante-em-betim",
+  "fonte": "Betim Online",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "09:24",
+  "id": "122146_111",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH oferece sepultamento gratuito a famílias em vulnerabilidade; mais de 450 já foram atendidas neste ano",
+  "titulo_orig": "Dia de Finados: BH oferece sepultamento gratuito para famílias em situação de vulnerabilidade",
+  "link": "https://rede98.com.br/noticias/bh-regiao/dia-de-finados-bh-oferece-sepultamento-gratuito-para-familias-em-situacao-de-vulnerabilidade/",
+  "fonte": "Rede 98",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "09:24",
+  "id": "122143_65",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF ouve ministérios, CBF e clubes nesta terça sobre a medida provisória que proíbe as bets",
+  "titulo_orig": "STF convoca ministérios e clubes de futebol para discutir proibição das bets",
+  "link": "https://veronoticias.com/politica/stf-convoca-ministerios-e-clubes-de-futebol-para-discutir-proibicao-das-bets/",
+  "fonte": "Vero Notícias",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "09:24",
+  "id": "122129_39",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "MINAS GERAIS",
+  "titulo": "Governo de Minas anuncia R$ 32 milhões em patrocínios para Atlético, Cruzeiro e América após proibição das bets",
+  "titulo_orig": "Governo de Minas anuncia R$ 32 milhões em patrocínios para clubes de futebol",
+  "link": "https://jmonline.com.br/esporte/governo-de-minas-anuncia-r-32-milh-es-em-patrocinios-para-clubes-de-futebol-1.680133",
+  "fonte": "JM Online",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
