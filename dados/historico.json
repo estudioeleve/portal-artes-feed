@@ -4338,5 +4338,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/122132_126.jpg",
   "media_id": "18121574069288222"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "09:47",
+  "id": "122055_130",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Incêndio destrói food truck perto da Santa Casa, em BH; bombeiros retiram botijões de gás",
+  "titulo_orig": "Incêndio destrói food truck próximo à Santa Casa em Belo Horizonte - NC News",
+  "link": "https://ncnews.com.br/2026/11/02/incendio-destroi-food-truck-proximo-a-santa-casa-em-bh/",
+  "fonte": "NC News",
+  "arte": "artes/2026-11-02/122055_130.jpg",
+  "media_id": "18155881048523042"
  }
 ]
