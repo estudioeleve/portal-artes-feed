@@ -4072,5 +4072,19 @@
   "fonte": "Diário do Comércio",
   "arte": "artes/2026-11-02/091357_29.jpg",
   "media_id": "18157788163524028"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "07:15",
+  "id": "101030_114",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH retoma 3 mil jazigos após recadastramento; 40% das famílias têm dívida ou pendência",
+  "titulo_orig": "Dia de Finados expõe problemas em cemitérios de BH | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/02/familias-com-debitos-ou-documentacao-irregular-podem-perder-jazigos-em-cemiterios-publicos-de-bh.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-02/101030_114.jpg",
+  "media_id": "18102803396368482"
  }
 ]
