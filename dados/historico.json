@@ -4436,5 +4436,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/133846_6.jpg",
   "media_id": "17991043164078771"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "11:00",
+  "id": "133849_2",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Final da Sul-Americana entre Atlético e Boca será às 20h do dia 21, em Barranquilla, na Colômbia",
+  "titulo_orig": "Copa Sul-Americana: final entre Atlético-MG x Boca Juniors ocorrerá em 21 de novembro - AJN1 - Portal de Noticias",
+  "link": "https://ajn1.com.br/copa-sul-americana-final-entre-atletico-mg-x-boca-juniors-ocorrera-em-21-de-novembro/",
+  "fonte": "AJN1",
+  "arte": "artes/2026-11-02/133849_2.jpg",
+  "media_id": "18218404906309997"
  }
 ]
