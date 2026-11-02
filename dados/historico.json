@@ -4156,5 +4156,61 @@
   "fonte": "Poder360",
   "arte": "artes/2026-11-02/101234_67.jpg",
   "media_id": "17931020739185984"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:23",
+  "id": "112009_162",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula negocia nova base com o centrão e quer aprovar pendências no Congresso antes de mudar ministérios",
+  "titulo_orig": "Lula redesenha base governista, negocia com centrão e prepara reforma ministerial para o quarto mandato | GZH",
+  "link": "https://gauchazh.clicrbs.com.br/politica/noticia/2026/11/lula-redesenha-base-governista-negocia-com-centrao-e-prepara-reforma-ministerial-para-o-quarto-mandato-cmvvcavpd021w016gkmy21jce.html",
+  "fonte": "GZH",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:23",
+  "id": "112032_144",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro tem aproveitamento de campeão no returno: 10 vitórias, 4 derrotas e nenhum empate em 14 jogos",
+  "titulo_orig": "Cruzeiro não joga para empatar e tem aproveitamento de campeão no returno",
+  "link": "https://noataque.com.br/futebol/brasileirao-serie-a/time/cruzeiro/noticia/2026/11/02/cruzeiro-nao-joga-para-empatar-e-tem-aproveitamento-de-campeao-no-returno/",
+  "fonte": "No Ataque",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:23",
+  "id": "112034_146",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "MEIs recebem aviso do governo no WhatsApp sobre perdão de dívidas; veja como identificar mensagem oficial",
+  "titulo_orig": "MEI recebe aviso sobre perdão de dívidas; veja regras",
+  "link": "https://seucreditodigital.com.br/mei-perdao-dividas-mensagens-whatsapp/",
+  "fonte": "Seu Crédito Digital",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:23",
+  "id": "112048_87",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "BR-381, dívida de Minas e hospital em Montes Claros: os compromissos de Lula com o estado que virou a eleição",
+  "titulo_orig": "Decisivo no 2º turno, Minas Gerais entra na rota de entregas e compromissos de Lula durante campanha",
+  "link": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/11/2/decisivo-no-2-turno-minas-gerais-entra-na-rota-de-entregas-e-compromissos-de-lula-durante-campanha",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
