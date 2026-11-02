@@ -4958,20 +4958,6 @@
  {
   "data": "2026-11-02",
   "hora": "16:15",
-  "id": "191258_56",
-  "bloco": "bh",
-  "portal": "one",
-  "ed": "BELO HORIZONTE",
-  "titulo": "Carro de aplicativo perde força em ladeira e capota no bairro Aparecida, em BH; motorista tem ferimentos leves",
-  "titulo_orig": "Carro sobe ladeira, perde potência e capota várias vezes, na região Noroeste de BH",
-  "link": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/video/carro-sobe-ladeira-perde-potencia-e-capota-varias-vezes-na-regiao-noroeste-de-bh-02112026/",
-  "fonte": "R7",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-02",
-  "hora": "16:15",
   "id": "191307_0",
   "bloco": "comercio",
   "portal": "comercio",
@@ -4982,5 +4968,19 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "16:15",
+  "id": "191237_79",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Família procura mulher de 31 anos que sumiu ao sair do trabalho em escola infantil de Contagem",
+  "titulo_orig": "Mulher de 31 anos desaparece após sair do trabalho na Grande BH; família encontra carta | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/mulher-de-31-anos-desaparece-apos-sair-do-trabalho-na-grande-bh-familia-encontra-carta/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/191237_79.jpg",
+  "media_id": "18147333355567988"
  }
 ]
