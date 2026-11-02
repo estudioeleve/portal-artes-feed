@@ -20,3 +20,4 @@
 2026-11-01 18:44 213303_162: Media ID is not available (raw), tentando jsdelivr em 3 min
 2026-11-01 18:55 213307_166: Media ID is not available (jsdelivr)
 02/11/2026 02:11 - Rodada 2h: 051004_1 (motos barulhentas BH) deu "Media ID is not available" no jsDelivr; tentando raw em 3 min.
+02/11/2026 02:15 - Rodada 2h: 051004_1 publicado ~3 min depois pelo raw.githubusercontent (media 18101559878563210).
