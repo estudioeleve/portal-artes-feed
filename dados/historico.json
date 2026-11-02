@@ -4982,5 +4982,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/191237_79.jpg",
   "media_id": "18147333355567988"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "16:15",
+  "id": "191547_118",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Um ano depois da morte de Lô Borges, 19 artistas fazem homenagem em Santa Tereza, em BH",
+  "titulo_orig": "Belo Horizonte recebe homenagem a Lô Borges no primeiro aniversário da morte do artista",
+  "link": "https://cbn.globo.com/cultura/noticia/2026/11/02/belo-horizonte-recebe-homenagem-a-lo-borges-no-primeiro-aniversario-da-morte-do-artista.ghtml",
+  "fonte": "CBN",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
