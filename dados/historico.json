@@ -4240,5 +4240,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-02/111958_59.jpg",
   "media_id": "18027121490919490"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:42",
+  "id": "112026_25",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH terá semana de calor, com até 34°C na sexta-feira, e pancadas de chuva em alguns dias",
+  "titulo_orig": "BH terá 'calorão' de mais de até 34ºC e pancadas chuva ao longo da semana",
+  "link": "https://rede98.com.br/noticias/bh-regiao/bh-tera-calorao-de-mais-de-ate-34oc-e-pancadas-chuva-ao-longo-da-semana/",
+  "fonte": "Rede 98",
+  "arte": "artes/2026-11-02/112026_25.jpg",
+  "media_id": "18358894825216197"
  }
 ]
