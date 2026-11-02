@@ -33,3 +33,4 @@
 02/11/2026 14:38 - Rodada 14h: 170320_80 deu 'Media ID is not available' no jsDelivr e no raw; publicado na 3a tentativa (jsDelivr), media 18032190770860693.
 02/11/2026 14:38 - POST REPETIDO: Finados em Betim saiu duas vezes no Instagram. A rodada 14h (170320_80, media 18032190770860693, 14h38) e a rodada 14h30 (172749_113, media 18161273059506242, 14h32) rodaram ao mesmo tempo e pegaram a mesma pauta; a trava não pegou porque o item da rodada 14h só entrou no histórico depois do post, e a espera do 'Media ID' atrasou o post. O conector não apaga post: apagar à mão no Instagram a media 18032190770860693. Tirei 170320_80 do dados/site.json (se o site já importou, apagar lá também).
 02/11/2026 15:22 - Rodada 15h: 181441_37 deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 18119380292099391.
+02/11/2026 15:43 - Rodada 15h: 181457_1 deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 18056014928593661.
