@@ -4086,5 +4086,61 @@
   "fonte": "G1",
   "arte": "artes/2026-11-02/101030_114.jpg",
   "media_id": "18102803396368482"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "07:15",
+  "id": "101223_144",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Eleições nos EUA são nesta terça, mas controle do Congresso pode levar dias para ser conhecido",
+  "titulo_orig": "Como é a apuração das eleições nos EUA e quando sai o resultado? | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/02/midterms-2026-como-e-a-apuracao-das-eleicoes-nos-eua-e-quando-sai-o-resultado.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "07:15",
+  "id": "101355_69",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Empresas preparam ofensiva no Senado para reduzir alíquota de 11,3% da CBS, que começa em 2027",
+  "titulo_orig": "Setor privado pressiona Senado para reduzir alíquota da CBS de 11,3%",
+  "link": "https://www.brasil247.com/economia/setor-privado-pressiona-senado-para-reduzir-aliquota-da-cbs-de-113/",
+  "fonte": "Brasil 247",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "07:15",
+  "id": "101358_84",
+  "bloco": "brasil",
+  "portal": "politica",
+  "ed": "BRASIL",
+  "titulo": "Governo busca ao menos R$ 20 bilhões no Orçamento de 2027 para bancar promessas de campanha",
+  "titulo_orig": "Governo busca remanejar despesas no Orçamento de 2027 para cumprir meta fiscal",
+  "link": "https://portalvv8.com.br/noticia/83217/governo-busca-remanejar-despesas-no-orcamento-de-2027-para-cumprir-meta-fiscal",
+  "fonte": "Portal VV8",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "07:15",
+  "id": "101508_ade",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Semana Internacional do Café em BH espera R$ 200 milhões em negócios e 28 mil visitantes",
+  "titulo_orig": "Da lavoura ao mercado global: SIC 2026 aposta em missões internacionais e sustentabilidade | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/agro/da-lavoura-ao-mercado-global-sic-2026-aposta-em-missoes-internacionais-e-sustentabilidade/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
