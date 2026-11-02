@@ -5150,5 +5150,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "18:15",
+  "id": "201042_58",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Santa Luzia começa visitas do programa REGMEL para regularizar imóveis no bairro Bela Vista",
+  "titulo_orig": "visitas técnicas em Santa Luzia - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/santa-luzia-inicia-visitas-tecnicas-do-programa-regmel-no-bairro-bela-vista/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "artes/2026-11-02/201042_58.jpg",
+  "media_id": "18076014875735765"
  }
 ]
