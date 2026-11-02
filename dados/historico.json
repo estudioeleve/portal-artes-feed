@@ -5276,5 +5276,61 @@
   "fonte": "ge.globo.com",
   "arte": "artes/2026-11-02/221041_17.jpg",
   "media_id": "18418381840085755"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "20:15",
+  "id": "231224_286",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Preso foge de hospital em Nova Lima após pedir para tirar algemas e tomar banho; vídeo mostra janela danificada",
+  "titulo_orig": "Preso foge de hospital em Nova Lima; vídeo mostra janela e sangue | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/02/video-mostra-janela-danificada-por-onde-preso-fugiu-de-hospital-na-grande-bh.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "20:15",
+  "id": "231245_oc=5",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Venda Nova tem noite de trovões e relâmpagos; alerta de chuva forte e vento vale até as 8h de terça",
+  "titulo_orig": "Venda Nova registra trovões e relâmpagos; alerta é emitido para chuva forte",
+  "link": "https://www.em.com.br/gerais/2026/11/7532109-venda-nova-registra-trovoes-e-relampagos-alerta-e-emitido-para-chuva-forte.html",
+  "fonte": "news.google.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "20:15",
+  "id": "231310_38",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Dois turistas mineiros, de BH e Juiz de Fora, morrem afogados em Cabo Frio em menos de 48 horas",
+  "titulo_orig": "Dois turistas de BH e JF morrem afogados em praias de Cabo Frio, no RJ",
+  "link": "https://pordentrodeminas.com.br/noticias/gerais/2026/11/dois-turistas-mineiros-morrem-afogados-em-praias-de-cabo-frio-no-rj/",
+  "fonte": "Por Dentro de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "20:15",
+  "id": "231314_24",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Marinho quer senadores de direita mostrando o voto para enfrentar Alcolumbre na disputa pela Presidência do Senado",
+  "titulo_orig": "Veja como está a disputa pela Presidência do Senado",
+  "link": "https://bandnewstv.uol.com.br/politica/veja-como-esta-a-disputa-pela-presidencia-do-senado",
+  "fonte": "BandNews",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
