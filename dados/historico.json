@@ -5010,5 +5010,61 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-02/191310_15.jpg",
   "media_id": "18122722775473189"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "17:13",
+  "id": "201103_53",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "RIBEIRÃO DAS NEVES",
+  "titulo": "\"Mais de 40 anos esperando\": trecho da avenida Tiradentes recebe asfalto em Justinópolis, Ribeirão das Neves",
+  "titulo_orig": "transporte escolar em Ribeirão das Neves - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/avenida-tiradentes-recebe-novo-asfalto-no-bairro-katia-em-ribeirao-das-neves/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "17:13",
+  "id": "201106_56",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SABARÁ",
+  "titulo": "Servidores de Sabará passam a receber cartão multibenefícios; créditos de novembro já caem na nova modalidade",
+  "titulo_orig": "uso do cartão de benefícios em Sabará - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/sabara-amplia-uso-do-cartao-de-beneficios-para-servidores-municipais/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "17:13",
+  "id": "201109_394",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Transição de Simões para Cleitinho faz sexta reunião nesta terça e discute parcerias do governo com a Comunitas",
+  "titulo_orig": "Equipe de transição de Governo em Minas volta a se reunir nesta terça (3) para discutir parcerias com organização social | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/politica/equipe-de-transicao-de-governo-em-minas-volta-a-se-reunir-nesta-terca-3-para-discutir-parcerias-com-organizacao-social/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "17:13",
+  "id": "201314_34",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Atlético enfrenta na quarta um Botafogo pressionado, a três pontos do Z-4 e cobrado por organizadas no CT",
+  "titulo_orig": "Botafogo vive dias de pressão antes de enfrentar o Atlético-MG",
+  "link": "https://www.lance.com.br/botafogo/botafogo-vive-dias-de-pressao-antes-de-enfrentar-o-atletico-mg.html",
+  "fonte": "Lance!",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
