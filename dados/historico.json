@@ -3974,5 +3974,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "05:25",
+  "id": "081545_20",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro recebe o Bahia na quinta, no Mineirão, e pode encaminhar vaga na Libertadores de 2027",
+  "titulo_orig": "Cruzeiro tem trunfo diante do Bahia para 'carimbar' vaga na Copa Libertadores | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/cruzeiro-tem-trunfo-diante-do-bahia-para-carimbar-vaga-a-copa-libertadores/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/081545_20.jpg",
+  "media_id": "18025432034868762"
  }
 ]
