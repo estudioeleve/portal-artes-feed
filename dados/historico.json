@@ -3834,5 +3834,33 @@
   "fonte": "Moon BH",
   "arte": "artes/2026-11-02/031125_60.jpg",
   "media_id": "18146291470510207"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "01:13",
+  "id": "040916_33",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Finados: Arquidiocese de BH tem missas em cemitérios desde as 7h desta segunda; veja os horários",
+  "titulo_orig": "Dia de Finados: veja programação nos cemitérios e comunidades de fé em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/dia-de-finados-veja-programacao-nos-cemiterios-e-comunidades-de-fe-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/040916_33.jpg",
+  "media_id": "18151210567514363"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "01:13",
+  "id": "040941_42",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Victor Hugo sai no intervalo com dor na coxa e fará exames nesta segunda no Atlético",
+  "titulo_orig": "Victor Hugo é substituído com dor e passará por exames no Atlético-MG | Ge",
+  "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/01/victor-hugo-e-substituido-com-dor-e-passara-por-exames-na-chegada-do-atletico-mg-a-bh.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
