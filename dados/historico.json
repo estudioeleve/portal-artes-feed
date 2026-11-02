@@ -3988,5 +3988,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/081545_20.jpg",
   "media_id": "18025432034868762"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "06:17",
+  "id": "091406_141",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PL deve lançar Rogério Marinho à presidência do Senado nesta quarta e desafiar Alcolumbre",
+  "titulo_orig": "Presidência do Senado: PL deve ter candidato próprio, mesmo com aproximação de Alcolumbre | G1",
+  "link": "https://g1.globo.com/politica/noticia/2026/11/02/presidencia-do-senado-pl-deve-ter-candidato-proprio-mesmo-com-aproximacao-de-alcolumbre.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "06:17",
+  "id": "091410_137",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Jato particular cai em bairro da Flórida e mata nove pessoas perto de Mar-a-Lago",
+  "titulo_orig": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/02/nove-pessoas-morrem-em-acidente-de-aviao-na-florida-veja-o-que-se-sabe.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "06:17",
+  "id": "091432_30",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Da cozinha de casa a quatro imóveis na Lagoinha: receita síria de 1916 virou negócio de família em BH",
+  "titulo_orig": "Receita centenária de família síria sustenta a história do Prazer da Esfiha, em BH - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/negocios/prazer-da-esfiha-tradicao-bh/",
+  "fonte": "Diário do Comércio",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "06:17",
+  "id": "091610_108",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF julga nesta semana se prefeituras podem criar loterias e apostas esportivas próprias",
+  "titulo_orig": "STF decide se prefeituras podem criar bets e se ato obsceno deve ser criminalizado",
+  "link": "https://noticias.r7.com/brasilia/stf-decide-se-prefeituras-podem-criar-bets-e-se-ato-obsceno-deve-ser-criminalizado-02112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
