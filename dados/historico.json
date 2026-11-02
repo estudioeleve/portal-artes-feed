@@ -5098,20 +5098,6 @@
  {
   "data": "2026-11-02",
   "hora": "18:12",
-  "id": "210932_171",
-  "bloco": "bh",
-  "portal": "one",
-  "ed": "BELO HORIZONTE",
-  "titulo": "Carro perde força em ladeira íngreme e capota no bairro Aparecida, em BH; motorista teve ferimentos leves",
-  "titulo_orig": "Carro sobe ladeira, perde potência e capota várias vezes, na região Noroeste de BH",
-  "link": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/video/carro-sobe-ladeira-perde-potencia-e-capota-varias-vezes-na-regiao-noroeste-de-bh-02112026/",
-  "fonte": "R7",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-02",
-  "hora": "18:12",
   "id": "210935_14",
   "bloco": "politica",
   "portal": "politica",
@@ -5148,6 +5134,20 @@
   "titulo_orig": "Doação de livros: Copasa entrega mil obras à Santa Casa BH",
   "link": "https://soubh.uai.com.br/noticias/literatura/doacao-de-livros-copasa-entrega-mil-obras-a-santa-casa-bh/",
   "fonte": "SouBH",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "18:12",
+  "id": "211239_108",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Motociclista de 18 anos morre após batida com Jeep e é lançado em represa na MG-050, em Pimenta",
+  "titulo_orig": "Motociclista morre após bater com carro e ser arremessado em represa na MG-050 | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/motociclista-morre-apos-bater-com-carro-e-ser-arremessado-em-represa-na-mg-050/",
+  "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
  }
