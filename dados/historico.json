@@ -5066,5 +5066,19 @@
   "fonte": "Lance!",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "17:14",
+  "id": "201051_267",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Inmet alerta 361 cidades de Minas, incluindo BH, para tempestade e granizo até esta noite",
+  "titulo_orig": "Tempestade e granizo podem atingir 361 cidades de MG nas próximas horas; veja lista | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/tempestade-e-granizo-podem-atingir-361-cidades-de-mg-nas-proximas-horas-veja-lista/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/201051_267.jpg",
+  "media_id": "18114510659143852"
  }
 ]
