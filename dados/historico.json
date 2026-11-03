@@ -5514,5 +5514,19 @@
   "fonte": "Caderno de Notícias",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "22:22",
+  "id": "011047_1",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Temporal com 231 descargas deixa Venda Nova, Pampulha e Barreiro com bairros sem luz",
+  "titulo_orig": "Temporal em BH provoca mais de 200 descargas elétricas e deixa bairros sem energia | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/temporal-em-bh-provoca-mais-de-200-descargas-eletricas-e-deixa-bairros-sem-energia/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-02/011047_1.jpg",
+  "media_id": "18133387750753712"
  }
 ]
