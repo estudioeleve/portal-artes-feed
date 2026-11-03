@@ -6634,5 +6634,61 @@
   "fonte": "CNN Brasil",
   "arte": "artes/2026-11-03/221126_2.jpg",
   "media_id": "18109147979216028"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "20:13",
+  "id": "231114_393",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "VESPASIANO",
+  "titulo": "Bloco Piquinzada faz feijoada em Vespasiano no dia 7 e abre a contagem para seus 10 anos",
+  "titulo_orig": "FEIJUCA PIQUINZADA celebra a história do carnaval de Vespasiano e inicia comemoração de 10 anos do bloco",
+  "link": "https://rolecomfish.com.br/noticia/4900/feijuca-piquinzada-celebra-a-historia-do-carnaval-de-vespasiano-e-inicia-comemoracao-de-10-anos-do-bloco",
+  "fonte": "rolecomfish.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "20:13",
+  "id": "231032_100",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Transição em Minas: Falcão indica que governo Cleitinho quer seguir com a parceria da Comunitas",
+  "titulo_orig": "Governo Cleitinho quer manter parceria com a Comunitas, diz Falcão",
+  "link": "https://www.em.com.br/politica/2026/11/7532657-governo-cleitinho-quer-manter-parceria-com-a-comunitas-diz-falcao.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "20:13",
+  "id": "231120_261",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Possível apoio a Damião em 2028 racha o PT de BH, e grupos defendem candidatura própria",
+  "titulo_orig": "Aceno a Damião divide o PT de BH",
+  "link": "https://ofator.com.br/informacao/aceno-a-damiao-divide-o-pt-de-bh/",
+  "fonte": "O Fator",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "20:13",
+  "id": "231148_360",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Casa no Nova Suíça e terrenos em Betim vão a leilão com lances a partir de R$ 620 mil",
+  "titulo_orig": "MGI leiloa sete imóveis do Ipsemg em Belo Horizonte e Betim ",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/mgi-leiloa-sete-imoveis-do-ipsemg-em-belo-horizonte-e-betim",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
