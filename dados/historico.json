@@ -5640,5 +5640,47 @@
   "fonte": "ge.globo.com",
   "arte": "artes/2026-11-03/101111_106.jpg",
   "media_id": "18219346501361034"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "08:42",
+  "id": "113821_170",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Semana Global do Empreendedorismo terá mais de 100 atividades gratuitas em BH, de 9 a 13 de novembro",
+  "titulo_orig": "BH terá mais de 100 atividades gratuitas na Semana Global do Empreendedorismo - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/negocios/semana-global-empreendedorismo-bh/",
+  "fonte": "Diário do Comércio",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "08:42",
+  "id": "113912_139",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Minas passa de 2,2 milhões de multas por excesso de velocidade até 20% acima do limite em 2026",
+  "titulo_orig": "Minas Gerais registra mais de 2,2 milhões de multas por excesso de velocidade em 2026 - Rede Gazeta de Comunicação",
+  "link": "https://gazetanm.com.br/minas-gerais-registra-mais-de-22-milhoes-de-multas-por-excesso-de-velocidade-em-2026/",
+  "fonte": "Gazeta Norte Mineira",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "08:42",
+  "id": "114053_211",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Minas se prepara para alta de dengue com El Niño e usa drones para achar criadouros do mosquito",
+  "titulo_orig": "Governo de Minas antecipa preparação para o período sazonal e El Niño e reforça ações de prevenção contra arboviroses - Grupo Portal de Notícias",
+  "link": "https://grupoportaldenoticias.com.br/governo-de-minas-antecipa-preparacao-para-o-periodo-sazonal-e-el-nino-e-reforca-acoes-de-prevencao-contra-arboviroses/",
+  "fonte": "Grupo Portal de Notícias",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
