@@ -5948,5 +5948,19 @@
   "fonte": "Plox",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "12:15",
+  "id": "151018_253",
+  "bloco": "bh",
+  "portal": "politica",
+  "ed": "BELO HORIZONTE",
+  "titulo": "TRE-MG julga nesta terça pedido de cassação do vereador Wagner Ferreira, de BH, por troca de partido",
+  "titulo_orig": "TRE-MG julga suposta infidelidade partidária e pedido de cassação contra vereador de Belo Horizonte",
+  "link": "https://www.otempo.com.br/politica/2026/11/3/tre-mg-julga-suposta-infidelidade-partidaria-e-pedido-de-cassacao-contra-vereador-de-belo-horizonte",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-03/151018_253.jpg",
+  "media_id": "17998328913029964"
  }
 ]
