@@ -5962,5 +5962,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-03/151018_253.jpg",
   "media_id": "17998328913029964"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "12:25",
+  "id": "151020_469",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro terá três titulares suspensos contra o Bahia, e Artur Jorge precisa mexer na escalação",
+  "titulo_orig": "Cruzeiro não terá trio titular contra o Bahia, e Artur Jorge precisará 'quebrar' a cabeça | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/cruzeiro-nao-tera-trio-titular-contra-o-bahia-e-artur-jorge-precisara-quebrar-a-cabeca/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-03/151020_469.jpg",
+  "media_id": "18119921243004359"
  }
 ]
