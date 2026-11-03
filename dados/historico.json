@@ -5360,5 +5360,61 @@
   "fonte": "VEJA",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "21:14",
+  "id": "001120_135",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "PM acha pistola em esconderijo no piso de casa e prende suspeito de integrar o PCC em Teófilo Otoni",
+  "titulo_orig": "Membro do PCC é preso pela PM após denúncia anônima em Minas Gerais",
+  "link": "https://www.otempo.com.br/cidades/2026/11/2/membro-do-pcc-e-preso-pela-pm-apos-denuncia-anonima-em-minas-gerais",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "21:14",
+  "id": "001151_81",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "FIQ BH começa nesta quarta no Minascentro com programação gratuita e cerca de 400 artistas",
+  "titulo_orig": "Evento: 13ª edição do FIQ BH 2026",
+  "link": "https://www.bheventos.com.br/evento/11-04-2026-13-edicao-do-fiq-bh-2026",
+  "fonte": "BH Eventos",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "21:14",
+  "id": "001142_0",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Empresário pode apontar burocracia ao Governo de Minas pelo Canal Simplifique, divulgado na Superminas",
+  "titulo_orig": "Governo de Minas apresenta Canal Simplifique ao setor produtivo durante a Superminas 2026 - Grupo Portal de Notícias",
+  "link": "https://grupoportaldenoticias.com.br/governo-de-minas-apresenta-canal-simplifique-ao-setor-produtivo-durante-a-superminas-2026/",
+  "fonte": "Grupo Portal de Notícias",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "21:14",
+  "id": "001016_59",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Prospera MEI: ministro diz que mulheres terão atenção especial e que recursos do Pix MEI ainda não foram liberados",
+  "titulo_orig": "Mulheres empreendedoras terão prioridade no Prospera MEI, anuncia ministro",
+  "link": "https://nabocadanoite.com.br/mulheres-empreendedoras-terao-prioridade-no-prospera-mei-anuncia-ministro/",
+  "fonte": "Portal Na Boca da Noite",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
