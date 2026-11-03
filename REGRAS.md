@@ -2,6 +2,7 @@
 
 ## ⛔ COMANDOS QUE NÃO PEDEM PERMISSÃO (Israel, 03/11/2026: "toda hora esse pedido de permissão... para com os atrasos nas postagens")
 - **Nunca usar mais de um `cd` no mesmo comando Bash**: isso abre um pedido de permissão e atrasa os posts. Use `git -C <pasta>` e caminhos absolutos, ou entre na pasta uma vez só, em um comando separado.
+- **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
 ## ⚠️ REDUÇÃO PROVISÓRIA (pedido do Israel, 01/11/2026 ~13h50) — vale ATÉ ELE AVISAR que aumentou o plano

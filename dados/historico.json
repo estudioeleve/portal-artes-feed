@@ -5976,5 +5976,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-03/151020_469.jpg",
   "media_id": "18119921243004359"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "13:36",
+  "id": "163348_22",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Família reconhece corpo de motociclista de 23 anos arrastado pela enxurrada no Camargos, em BH",
+  "titulo_orig": "Família reconhece corpo de motociclista que morreu após ser arrastado por enxurrada em BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/3/familia-reconhece-corpo-de-motociclista-que-morreu-apos-ser-arrastado-por-enxurrada-em-bh",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "13:36",
+  "id": "163405_30",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Noroeste de BH recebe em poucas horas 19% da chuva esperada para novembro inteiro",
+  "titulo_orig": "Em poucas horas, regional de BH registra 19% da chuva esperada para todo mês: veja impactos ",
+  "link": "https://www.otempo.com.br/cidades/2026/11/3/em-poucas-horas-regional-de-bh-registra-19-da-chuva-esperada-para-todo-mes-veja-impactos",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "13:36",
+  "id": "163408_216",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Suspeito de matar cabo da PM em bar de Fronteira é preso em São José do Rio Preto",
+  "titulo_orig": "Suspeito de matar cabo da PM em briga de bar em MG é preso em São Paulo | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/suspeito-de-matar-cabo-da-pm-em-briga-de-bar-em-mg-e-preso-em-sao-paulo/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "13:36",
+  "id": "163433_112",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "BH recebe seminário gratuito sobre Reforma Tributária e cenário econômico de 2027 no dia 11",
+  "titulo_orig": "BH recebe seminário sobre Reforma Tributária e perspectivas econômicas para 2027 - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/financas/seminario-reforma-tributaria-bh/",
+  "fonte": "Diário do Comércio",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
