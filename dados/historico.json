@@ -6606,5 +6606,19 @@
   "fonte": "Diário do Transporte",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "19:26",
+  "id": "221120_79",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "VESPASIANO",
+  "titulo": "Operação em Vespasiano apaga pichações de grupos criminosos em sete bairros; ação segue",
+  "titulo_orig": "Operação em Vespasiano, na Grande BH, apaga pichações utilizadas por grupos criminosos para fazer demarcação territorial | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/operacao-em-vespasiano-na-grande-bh-apaga-pichacoes-utilizadas-por-grupos-criminosos-para-fazer-demarcacao-territorial/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-03/221120_79.jpg",
+  "media_id": "18098151014425162"
  }
 ]
