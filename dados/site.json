@@ -4630,5 +4630,17 @@
   "credito_foto": "Foto: Reprodução/RECORD Minas",
   "fonte": "R7",
   "resumos": ""
+ },
+ {
+  "id": "143812_0",
+  "data": "2026-11-03T11:38:37-03:00",
+  "titulo": "Bombeiros registram 102 ocorrências de chuva em Minas em 24 horas; previsão é de novas pancadas",
+  "linha_fina": "Foram 14 chamados em BH. Instabilidade continua nesta terça, com pancadas previstas para a tarde na Grande BH.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O Corpo de Bombeiros registrou 102 ocorrências relacionadas às chuvas em Minas Gerais entre as 8h30 de segunda-feira (2) e as 8h30 desta terça-feira (3). Do total, 14 chamados foram em Belo Horizonte.</p><p>O balanço foi divulgado depois de uma noite de chuva forte em diferentes pontos da capital. O temporal do feriado de Finados teve queda de granizo, água acumulada nas ruas e motoristas enfrentando dificuldades no trânsito.</p><p>A instabilidade deve continuar nesta terça. Entre os fatores que influenciam o tempo estão uma área de baixa pressão sobre o Paraguai, o transporte de ar quente e úmido e a aproximação de um cavado atmosférico.</p><p>No início do dia, a previsão indicava chuva moderada a forte principalmente nas regiões Noroeste, Norte, Central e Leste de Minas.</p><p>Durante a tarde e até o início da noite, novas pancadas podem atingir diversas áreas do estado, incluindo a Região Central e a Grande BH, o Centro-Oeste, o Alto Paranaíba, o Triângulo Mineiro, o Sul de Minas e o Campo das Vertentes.</p><p>Em situação de risco, a orientação é acionar o Corpo de Bombeiros pelo telefone 193 ou a Defesa Civil pelo 199.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/143812_0.jpg",
+  "credito_foto": "Foto: TV Globo",
+  "fonte": "g1",
+  "resumos": ""
  }
 ]
