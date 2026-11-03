@@ -5794,5 +5794,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-03/125728_120.jpg",
   "media_id": "18146182132581373"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:32",
+  "id": "143113_60",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Minas confirma as duas primeiras mortes do período chuvoso; 218 mil pessoas foram afetadas",
+  "titulo_orig": "Defesa Civil confirma as duas primeiras mortes por chuva em Minas",
+  "link": "https://rede98.com.br/noticias/bh-regiao/defesa-civil-confirma-as-duas-primeiras-mortes-por-chuva-em-minas/",
+  "fonte": "Rede 98",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:32",
+  "id": "143115_75",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "BDMG abre edital com R$ 500 milhões em crédito para prefeituras mineiras investirem em obras",
+  "titulo_orig": "Prefeituras terão R$ 500 milhões em crédito no Edital BDMG Municípios 2027 para obras de modernização e infraestrutura",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/prefeituras-terao-r-500-milhoes-em-credito-no-edital-bdmg-municipios-2027-para-obras-de-modernizacao-e-infraestrutura",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:32",
+  "id": "143124_109",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Black Friday: pesquisa mostra consumidor mais exigente e queda na intenção de compra",
+  "titulo_orig": "Black Friday 2026: brasileiros estão mais exigentes e buscam descontos maiores, diz pesquisa da Globo | G1",
+  "link": "https://g1.globo.com/economia/noticia/2026/11/03/black-friday-2026-brasileiros-estao-mais-exigentes-e-buscam-descontos-maiores-diz-pesquisa-da-globo.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:32",
+  "id": "143128_16",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Suspeito de tentar matar a ex-mulher e deixá-la com perda parcial da visão é preso em BH",
+  "titulo_orig": "Suspeito de tentar matar ex-mulher e deixá-la com perda parcial da visão é preso em BH",
+  "link": "https://noticias.r7.com/minas-gerais/suspeito-de-tentar-matar-ex-mulher-e-deixa-la-com-perda-parcial-da-visao-e-preso-em-bh-03112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
