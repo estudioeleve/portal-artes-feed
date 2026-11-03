@@ -37,3 +37,4 @@
 02/11/2026 17:30 - Rodada 17h: 201042_58 (REGMEL Santa Luzia) deu 'Media ID is not available' 3 vezes (jsDelivr, raw, jsDelivr); foi para dados/pendentes.json.
 02/11/2026 17:37 - Rodada 17h: 201308_7 deu 'Media ID is not available' no jsDelivr e no raw; publicado na 3a tentativa (jsDelivr), media 18110614424226106.
 02/11/2026 19:26 - Rodada 19h: 220948_12 deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 17957475693290748.
+03/11/2026 07:26 - Rodada 7h: 101046_vesp deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 18344704702258433.
