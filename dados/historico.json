@@ -6480,5 +6480,19 @@
   "fonte": "O TEMPO",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "18:15",
+  "id": "211129_63",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Carreta tomba e atinge conjunto de prédios na Avenida Serrana, na Pampulha; ninguém se feriu",
+  "titulo_orig": "Carreta tomba e atinge parte de prédio na Região da Pampulha, em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/carreta-tomba-e-atinge-parte-de-predio-na-regiao-da-pampulha-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-03/211129_63.jpg",
+  "media_id": "18112277666234726"
  }
 ]
