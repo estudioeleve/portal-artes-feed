@@ -6060,5 +6060,61 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-03/163355_83.jpg",
   "media_id": "18023709635952192"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "14:13",
+  "id": "171107_44",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Copasa troca diretor financeiro na esteira da entrada do Grupo Equatorial na administração",
+  "titulo_orig": "A mudança na diretoria da Copasa",
+  "link": "https://ofator.com.br/informacao/a-mudanca-na-diretoria-da-copasa/",
+  "fonte": "O Fator",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "14:13",
+  "id": "171114_0",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "PBH abre mais de 100 vagas em oficina gratuita que ensina a usar o gov.br e evitar golpes",
+  "titulo_orig": "PBH oferece vagas para curso gratuito sobre acesso a serviços públicos | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/03/descomplicando-o-govbr-pbh-oferece-mais-de-100-vagas-para-oficina-gratuita-de-inclusao-digital.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "14:13",
+  "id": "171125_76",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "No STF, Messias e ministro da Justiça dizem que a regulação não bastou para conter danos das bets",
+  "titulo_orig": "No STF, ministros de Lula defendem que regulação das bets foi insuficiente | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/no-stf-ministros-de-lula-defendem-que-regulacao-das-bets-foi-insuficiente/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "14:13",
+  "id": "171131_81",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH fiscaliza mais de 4,6 mil elevadores desde 2025, aplica 181 multas e interdita três",
+  "titulo_orig": "Prefeitura de BH fiscaliza mais de 4,6 mil elevadores em dois anos",
+  "link": "https://prefeitura.pbh.gov.br/noticias/prefeitura-de-bh-fiscaliza-mais-de-46-mil-elevadores-em-dois-anos",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
