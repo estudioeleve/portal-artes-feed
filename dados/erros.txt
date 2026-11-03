@@ -46,3 +46,4 @@
 03/11/2026 16:21 - Rodada 16h: 191340_63 deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 18134575774743473.
 03/11/2026 16:35 - Rodada 16h: 191348_52 deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 17908737138667849.
 03/11/2026 17:23 - Rodada 17h: 201504_41 deu Media ID is not available no jsDelivr; publicado na 2a tentativa (raw), media 18100636964086442.
+03/11/2026 17:40 - Rodada 17h: 201453_39 deu Media ID is not available no jsDelivr e no raw; publicado na 3a tentativa (jsDelivr), media 17984161422004567.
