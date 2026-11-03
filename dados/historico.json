@@ -5850,5 +5850,33 @@
   "fonte": "R7",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:37",
+  "id": "143104_84",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Obra na MG-010 deixa trânsito lento rumo a Confins e afeta Pedro I, Cristiano Machado e Vilarinho",
+  "titulo_orig": "Obra na MG-010 causa retenção no sentido Confins e afeta três avenidas de BH; saiba onde",
+  "link": "https://www.otempo.com.br/cidades/2026/11/3/obra-na-mg-010-causa-retencao-no-sentido-confins-e-afeta-tres-avenidas-de-bh-saiba-onde",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-03/143104_84.jpg",
+  "media_id": "18416899756084036"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:37",
+  "id": "143101_375",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Árvore que bloqueou o Vista Alegre, em Matozinhos, é retirada de madrugada pela Defesa Civil",
+  "titulo_orig": "VÍDEO: Árvore que interditou acesso ao Vista Alegre é removida durante a madrugada em Matozinhos",
+  "link": "https://pordentrodetudo.com.br/video-arvore-que-interditou-acesso-ao-vista-alegre-e-removida-durante-a-madrugada-em-matozinhos/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-03/143101_375.jpg",
+  "media_id": "SITE"
  }
 ]

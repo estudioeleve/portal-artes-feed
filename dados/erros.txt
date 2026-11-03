@@ -40,3 +40,4 @@
 03/11/2026 07:26 - Rodada 7h: 101046_vesp deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 18344704702258433.
 03/11/2026 08:49 - Rodada 8h: 113808_16 deu 'Media ID is not available' no raw e no jsDelivr; publicado na 3a tentativa (raw), media 18023892557937063.
 03/11/2026 10:13 - Rodada 10h: 125728_120 deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 18146182132581373.
+03/11/2026 11:37 - Rodada 11h: 143104_84 deu 'Media ID is not available' no jsDelivr; publicado na 2a tentativa (raw), media 18416899756084036.
