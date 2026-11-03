@@ -5780,5 +5780,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-03/125631_128.jpg",
   "media_id": "18641015593037766"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "10:13",
+  "id": "125728_120",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Homem de 52 anos é preso suspeito de esfaquear a sobrinha na Pampulha; vítima está grave",
+  "titulo_orig": "Homem esfaqueia a sobrinha em BH, se entrega e diz se arrepender por não ter arrancando a cabeça dela  | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/homem-esfaqueia-a-sobrinha-em-bh-se-entrega-e-diz-se-arrepender-por-nao-ter-arrancando-a-cabeca-dela/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-03/125728_120.jpg",
+  "media_id": "18146182132581373"
  }
 ]
