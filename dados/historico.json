@@ -6424,5 +6424,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-03/201453_39.jpg",
   "media_id": "17984161422004567"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "17:50",
+  "id": "201515_63",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Motos barulhentas ou poluentes podem levar multa de R$ 500 em BH; reincidente paga R$ 1 mil",
+  "titulo_orig": "Multa para motociclistas em BH pode chegar a R$ 1 mil",
+  "link": "https://soubh.uai.com.br/noticias/transito/multa-para-motociclistas-em-bh-pode-chegar-a-r-1-mil/",
+  "fonte": "SouBH",
+  "arte": "artes/2026-11-03/201515_63.jpg",
+  "media_id": "18119826412998546"
  }
 ]
