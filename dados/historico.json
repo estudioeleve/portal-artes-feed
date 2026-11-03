@@ -5430,5 +5430,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-02/001003_23.jpg",
   "media_id": "17984907863902411"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "21:24",
+  "id": "001148_138",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo Lula corre para aprovar PEC da Segurança nesta terça e discute nome para vaga no STF",
+  "titulo_orig": "Lula acelera articulação no Congresso para aprovar PEC da Segurança e indicar novo ministro ao STF",
+  "link": "https://ndmais.com.br/politica/governo-lula-acelera-pautas-de-seu-interesse-no-congresso-nacional-e-indicacao-para-o-stf/",
+  "fonte": "ND Mais",
+  "arte": "artes/2026-11-02/001148_138.jpg",
+  "media_id": "18113194828888174"
  }
 ]
