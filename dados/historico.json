@@ -5542,5 +5542,61 @@
   "fonte": "BH 24 Horas",
   "arte": "artes/2026-11-02/010926_57.jpg",
   "media_id": "18135875107664145"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "07:13",
+  "id": "101033_190",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Suspeito promete desfazer \"feitiço\" com orações, leva dinheiro e joias e é preso no Vale do Mucuri",
+  "titulo_orig": "Homem promete desfazer \"feitiço\" com orações, leva dinheiro e joias e acaba preso em MG",
+  "link": "https://pordentrodetudo.com.br/homem-promete-desfazer-feitico-com-oracoes-leva-dinheiro-e-joias-e-acaba-preso-em-mg/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "07:13",
+  "id": "101036_75",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Outlets de BH e Contagem projetam alta de 15% nas vendas de novembro e veem mais clientes de alta renda",
+  "titulo_orig": "Outlets de BH e Contagem projetam alta de 15% nas vendas de novembro e apostam no público de alta renda - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/negocios/outlets-bh-contagem-vendas/",
+  "fonte": "Diário do Comércio",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "07:13",
+  "id": "101108_58",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH pode ter pancadas de chuva e trovoadas nesta terça, com máxima de 31°C; instabilidade segue na quarta",
+  "titulo_orig": "Pancadas de chuva podem voltar nesta terça (3) em BH? Confira",
+  "link": "https://www.em.com.br/gerais/2026/11/7532171-pancadas-de-chuva-podem-voltar-nesta-terca-3-em-bh-confira.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "07:13",
+  "id": "101134_122",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PL reúne bancada nesta terça para decidir se apoia a reeleição de Hugo Motta na Câmara",
+  "titulo_orig": "PL reúne bancada nesta terça para debater apoio a Hugo no comando da Câmara | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/pl-reune-bancada-nesta-terca-para-debater-apoio-a-hugo-no-comando-da-camara/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
