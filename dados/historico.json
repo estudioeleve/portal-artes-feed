@@ -5906,5 +5906,61 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-03/143812_0.jpg",
   "media_id": "18096366683446997"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "12:14",
+  "id": "151127_365",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Azul é condenada a pagar R$ 4 mil a passageiro que passou a madrugada em Confins",
+  "titulo_orig": "Passageiro passa a madrugada no Aeroporto de Confins após perder a conexão e receberá R$ 4 mil da Azul",
+  "link": "https://aeroin.net/passageiro-passa-a-madrugada-no-aeroporto-de-confins-apos-perder-a-conexao-e-recebera-r-4-mil-da-azul/?amp=1",
+  "fonte": "AEROIN",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "12:14",
+  "id": "151149_417",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Casa é invadida no Santa Lúcia, em BH, e criminosos levam cerca de R$ 150 mil em joias",
+  "titulo_orig": "Ladrão invade casa em bairro nobre de BH e furta R$ 150 mil em joias",
+  "link": "https://www.em.com.br/gerais/2026/11/7532184-ladrao-invade-casa-em-bairro-nobre-de-bh-e-furta-rs-150-mil-em-joias.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "12:14",
+  "id": "151216_19",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Polícia procura preso que fugiu de hospital em Nova Lima; denúncias podem ser feitas pelo 181",
+  "titulo_orig": "Disque Denúncia recebe alertas sobre foragido da Grande BH; saiba como colaborar",
+  "link": "https://aqui.uai.com.br/cidades/disque-denuncia-recebe-alertas-sobre-foragido-da-grande-bh-saiba-como-colaborar/",
+  "fonte": "Portal UAI",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "12:14",
+  "id": "151220_139",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Cleitinho começa a montar equipe de governo em Minas, de olho na dívida de R$ 180 bilhões",
+  "titulo_orig": "Cleitinho Azevedo inicia montagem de equipe para enfrentar dívida de R$ 180 bilhões em Minas Gerais",
+  "link": "https://plox.com.br/noticia/03/11/2026/cleitinho-azevedo-equipe-divida-minas-gerais",
+  "fonte": "Plox",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
