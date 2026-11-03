@@ -1,5 +1,9 @@
 # Robô de notícias do Portal ONE News: regras de cada rodada
 
+## ⛔ COMANDOS QUE NÃO PEDEM PERMISSÃO (Israel, 03/11/2026: "toda hora esse pedido de permissão... para com os atrasos nas postagens")
+- **Nunca usar mais de um `cd` no mesmo comando Bash**: isso abre um pedido de permissão e atrasa os posts. Use `git -C <pasta>` e caminhos absolutos, ou entre na pasta uma vez só, em um comando separado.
+- Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
+
 ## ⚠️ REDUÇÃO PROVISÓRIA (pedido do Israel, 01/11/2026 ~13h50) — vale ATÉ ELE AVISAR que aumentou o plano
 Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outras abaixo.
 - **Metade dos posts**: Instagram com meta de **50 por dia** (não 100): **2 a 3 posts por rodada** entre 6h e meia-noite
