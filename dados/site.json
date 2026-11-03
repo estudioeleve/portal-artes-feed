@@ -1,17 +1,5 @@
 [
  {
-  "id": "011203_302",
-  "data": "2026-10-31T22:14:07-03:00",
-  "titulo": "Sepultamento gratuito: veja como famílias sem condições podem pedir o benefício da Prefeitura de BH",
-  "linha_fina": "Auxílio cobre velório e funeral em cemitérios municipais; pedido é presencial, nas regionais ou nos Cras, com plantão em fins de semana e feriados.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Famílias que não têm condições de pagar as despesas de um funeral podem pedir o sepultamento gratuito oferecido pela Prefeitura de Belo Horizonte. O benefício eventual cobre os custos do velório e do enterro e, em 2026, já atendeu mais de 450 famílias da capital.</p>\n<p>O auxílio vale quando a morte ocorreu em Belo Horizonte ou quando o corpo está no Instituto Médico Legal (IML) da capital. Quem faz o pedido não precisa ser parente da pessoa que morreu: qualquer responsável pelos procedimentos pode solicitar, desde que apresente os documentos exigidos.</p>\n<p>O pedido é feito somente de forma presencial. De segunda a sexta, das 8h às 18h, o atendimento acontece em qualquer Regional Administrativa ou em um dos 37 Centros de Referência de Assistência Social (Cras). Nos fins de semana, feriados e pontos facultativos, funciona um plantão na Regional Centro-Sul, na Rua Rio de Janeiro, 1.187, 5º andar, no Centro, das 7h às 19h.</p>\n<p>É preciso levar os originais da carteira de identidade e do CPF de quem faz o pedido, a certidão de óbito, um comprovante de endereço e a guia de sepultamento liberada pela prefeitura. Quando o solicitante for da família, também deve apresentar a declaração de óbito.</p>\n<p>Depois da aprovação, a família é orientada a seguir os procedimentos com a Santa Casa BH e a Fundação de Parques Municipais e Zoobotânica. O velório e o enterro podem ser feitos nos cemitérios da Consolação, da Saudade, do Bonfim ou da Paz. Um acordo de 2024 entre a prefeitura e a Santa Casa garante isenção das taxas de velório e de cemitério, fornecimento da urna e cessão da sepultura por até três anos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-10-31/011203_302.jpg",
-  "credito_foto": "Foto: Reprodução/BH 24 Horas",
-  "fonte": "BH 24 Horas",
-  "resumos": ""
- },
- {
   "id": "011210_104",
   "data": "2026-10-31T22:14:07-03:00",
   "titulo": "Copasa e forças de segurança fazem blitz na represa Vargem das Flores durante o feriado de Finados",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/211239_50.jpg",
   "credito_foto": "Foto: Reprodução/O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "211605_186",
+  "data": "2026-11-03T18:16:22-03:00",
+  "titulo": "Atlético libera Ruan Tressoldi, mas perde Victor Hugo com lesão na coxa antes do Botafogo",
+  "linha_fina": "Zagueiro volta às atividades com o elenco; meio-campista teve lesão muscular confirmada por exames de imagem.",
+  "categoria": "atletico",
+  "texto": "<p>O Atlético informou nesta terça-feira (3) duas mudanças no departamento médico. O zagueiro Ruan Tressoldi foi liberado e volta a treinar normalmente com o elenco, enquanto o meio-campista Victor Hugo passa a ser desfalque por causa de uma lesão muscular.</p><p>Segundo o clube, Victor Hugo foi reavaliado e os exames de imagem confirmaram o problema na região posterior da coxa direita. O comunicado não informou prazo de recuperação.</p><p>Ruan estava em tratamento desde o jogo de volta das quartas de final da Copa do Brasil contra o Cruzeiro, na Arena MRV. O zagueiro se machucou logo no início daquela partida, em um lance com Kaio Jorge.</p><p>A sequência de lesões tem preocupado o clube. Desde a vitória sobre o rival na Copa do Brasil, o time perdeu jogadores importantes como Fred, Cuello, Éverson e Vitão, e a preparação física dos atletas virou alvo de discussões.</p><p>O momento em campo também é difícil: são quatro derrotas consecutivas. A mais recente foi no último domingo (1º), por 2 a 0, contra o Grêmio, em Porto Alegre, no jogo de ida da semifinal da Copa do Brasil. Com o resultado, os gaúchos decidem com vantagem em Minas Gerais.</p><p>Antes da volta, o Atlético encara o Botafogo nesta quarta-feira (4), pelo Campeonato Brasileiro. No dia 21, o time ainda disputa a final da Sul-Americana contra o Boca Juniors, em Barranquilla. As duas competições de mata-mata podem garantir vaga na Libertadores da próxima temporada.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/211605_186.jpg",
+  "credito_foto": "Foto: Daniel Castelo Branco/Eurasia Sport Images/Getty Images",
+  "fonte": "Metrópoles",
   "resumos": ""
  }
 ]
