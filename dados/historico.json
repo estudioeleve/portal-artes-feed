@@ -5682,5 +5682,19 @@
   "fonte": "Grupo Portal de Notícias",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "08:49",
+  "id": "113808_16",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Homem de 31 anos é morto a tiros e outro fica ferido em ataque no São Tomaz, região Norte de BH",
+  "titulo_orig": "Homem é morto a tiros e outro fica ferido em ataque no bairro São Tomaz, em BH - BH 24 Horas",
+  "link": "https://bh24horas.com.br/minas-gerais/homem-e-morto-a-tiros-e-outro-fica-ferido-em-ataque-no-bairro-sao-tomaz-em-bh/",
+  "fonte": "BH 24 Horas",
+  "arte": "artes/2026-11-03/113808_16.jpg",
+  "media_id": "18023892557937063"
  }
 ]
