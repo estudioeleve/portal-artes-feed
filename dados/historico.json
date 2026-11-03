@@ -5878,5 +5878,19 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-03/143101_375.jpg",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:45",
+  "id": "143107_33",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Árvore de grande porte cai sobre quatro casas e atinge rede de alta tensão no Grajaú, em BH",
+  "titulo_orig": "Vídeo: Jatobá cai sobre quatro casas e danifica a rede elétrica no Grajaú, em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/jatoba-cai-sobre-quatro-casas-e-danifica-a-rede-eletrica-no-grajau-em-bh-veja-imagens/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-03/143107_33.jpg",
+  "media_id": "17963321309998967"
  }
 ]
