@@ -5892,5 +5892,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-03/143107_33.jpg",
   "media_id": "17963321309998967"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "11:54",
+  "id": "143812_0",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Bombeiros registram 102 ocorrências de chuva em Minas em 24 horas; novas pancadas à tarde",
+  "titulo_orig": "MG registra 102 ocorrências relacionadas às chuvas em 24 horas | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/03/bombeiros-registram-102-ocorrencias-relacionadas-as-chuvas-em-24-horas-em-mg.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-03/143812_0.jpg",
+  "media_id": "18096366683446997"
  }
 ]
