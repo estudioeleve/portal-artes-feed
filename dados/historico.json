@@ -5696,5 +5696,19 @@
   "fonte": "BH 24 Horas",
   "arte": "artes/2026-11-03/113808_16.jpg",
   "media_id": "18023892557937063"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "08:58",
+  "id": "113817_0",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Justiça Federal retira tornozeleira de dez investigados ligados à Operação Rejeito, em Minas",
+  "titulo_orig": "Justiça retira tornozeleira de 10 investigados na Operação Rejeito | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/03/justica-retira-tornozeleira-eletronica-de-dez-investigados-ligados-a-operacao-rejeito.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-03/113817_0.jpg",
+  "media_id": "18017171408985827"
  }
 ]
