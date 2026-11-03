@@ -6158,5 +6158,61 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-03/171111_162.jpg",
   "media_id": "18119371624800616"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "15:14",
+  "id": "181125_72",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Demora de Damião em apoiar nome à presidência da Câmara de BH incomoda vereadores da base",
+  "titulo_orig": "Indefinição de Álvaro Damião sobre presidência da Câmara gera insatisfação entre vereadores",
+  "link": "https://rede98.com.br/noticias/politica/indefinicao-de-alvaro-damiao-sobre-presidencia-da-camara-gera-insatisfacao-entre-vereadores/",
+  "fonte": "Rede 98",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "15:14",
+  "id": "181137_53",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "\"É muito cedo\", diz Kalil, que não descarta tentar voltar à Prefeitura de BH em 2028",
+  "titulo_orig": "Kalil admite voltar à disputa pela Prefeitura de BH em 2028; Damião e PT avaliam eleição",
+  "link": "https://ncnews.com.br/2026/11/03/kalil-eleicoes-municipais-2028-prefeitura-bh/",
+  "fonte": "ncnews.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "15:14",
+  "id": "181140_4",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Convocados pela Argentina, Giay e Flaco López devem desfalcar o Palmeiras contra o Cruzeiro",
+  "titulo_orig": "Cruzeiro x Palmeiras: artilheiro e 'xodó' devem ficar fora pelo Brasileiro",
+  "link": "https://noataque.com.br/2026/11/03/cruzeiro-x-palmeiras-artilheiro-e-xodo-devem-ficar-fora-pelo-brasileiro/",
+  "fonte": "No Ataque",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "15:14",
+  "id": "181212_12",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Obras de drenagem na Vila São Paulo, em Contagem, têm promessa de conclusão até o fim de novembro",
+  "titulo_orig": "obras de drenagem em Contagem - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/obras-de-drenagem-buscam-reduzir-alagamentos-na-vila-sao-paulo-em-contagem/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
