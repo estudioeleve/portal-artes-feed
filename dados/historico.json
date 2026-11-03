@@ -6620,5 +6620,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-03/221120_79.jpg",
   "media_id": "18098151014425162"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "19:40",
+  "id": "221126_2",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Senado aprova PEC da Segurança em 1º turno, sem reduzir a maioridade penal para 16 anos",
+  "titulo_orig": "Senado aprova, em primeiro turno, texto-base da PEC da Segurança Pública | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/senado-aprova-pec-da-seguranca-publica/",
+  "fonte": "CNN Brasil",
+  "arte": "artes/2026-11-03/221126_2.jpg",
+  "media_id": "18109147979216028"
  }
 ]
