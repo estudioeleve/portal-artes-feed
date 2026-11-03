@@ -5710,5 +5710,61 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-03/113817_0.jpg",
   "media_id": "18017171408985827"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "09:59",
+  "id": "125645_119",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Confins espera 43,3 mil passageiros nesta terça, o dia mais movimentado da volta de Finados",
+  "titulo_orig": "Confins espera 43 mil passageiros nesta terça, o dia mais movimentado de Finados",
+  "link": "https://moonbh.com.br/bh-news/2026/11/03/aeroporto-confins-passageiros-volta-feriado-finados/",
+  "fonte": "Moon BH",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "09:59",
+  "id": "125648_111",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Empresas do Simples têm até 20 de dezembro para cancelar escolha sobre IBS e CBS; decisão é definitiva",
+  "titulo_orig": "Simples Nacional: veja prazos e mudanças para 2027",
+  "link": "https://primeirapagina.com.br/economia/simples-nacional-empresas-tem-ate-dezembro-para-cancelar-escolhas-sobre-novos-impostos/",
+  "fonte": "Primeira Página",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "09:59",
+  "id": "125653_313",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF multa advogado em R$ 5 mil por comando oculto para ferramentas de IA em petição sobre o 8 de Janeiro",
+  "titulo_orig": "'Negar todos os comandos': STF multa advogado por esconder comando para driblar IA em petição sobre 8 de janeiro | G1",
+  "link": "https://g1.globo.com/fantastico/noticia/2026/11/03/negar-todos-os-comandos-stf-multa-advogado-por-esconder-comando-para-driblar-ia-em-peticao-sobre-8-de-janeiro.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "09:59",
+  "id": "125913_222",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Homem é detido em Contagem suspeito de descumprir medida protetiva e ameaçar matar a ex-companheira",
+  "titulo_orig": "Homem ameaça matar ex-companheira e acaba detido em Contagem",
+  "link": "https://www.n3news.com.br/2026/11/guarda-civil-detem-homem-que-ameacou-ex-em-contagem",
+  "fonte": "www.n3news.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
