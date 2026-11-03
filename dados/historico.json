@@ -5444,5 +5444,61 @@
   "fonte": "ND Mais",
   "arte": "artes/2026-11-02/001148_138.jpg",
   "media_id": "18113194828888174"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "22:13",
+  "id": "010911_333",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Preso baleado foge pela janela do banheiro de hospital em Nova Lima e ainda é procurado",
+  "titulo_orig": "Preso foge de hospital em Nova Lima; vídeo mostra janela e sangue | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/02/video-mostra-janela-danificada-por-onde-preso-fugiu-de-hospital-na-grande-bh.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "22:13",
+  "id": "011039_242",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Dupla arromba prédio no Coração Eucarístico, em BH, e leva computadores, 16 bolsas e carro de morador",
+  "titulo_orig": "Dupla leva eletrônicos e carro de morador após invadir prédio em BH",
+  "link": "https://www.band.com.br/nacional/mg/dupla-leva-eletronicos-e-carro-de-morador-apos-invadir-predio-em-bh",
+  "fonte": "Band",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "22:13",
+  "id": "011011_312",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Ibirité segue com cerca de 200 imóveis sem energia um dia depois de temporal derrubar árvores",
+  "titulo_orig": "Prejuízo: 24h depois do temporal, moradores de Ibirité ainda sofrem com transtornos da chuva",
+  "link": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/video/prejuizo-24h-depois-do-temporal-moradores-de-ibirite-ainda-sofrem-com-transtornos-da-chuva-02112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "22:13",
+  "id": "011044_47",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula deve reunir setor produtivo depois da COP31 para discutir juros, gastos e equipe econômica",
+  "titulo_orig": "Lula planeja reunião com setor produtivo para discutir política econômica do novo governo",
+  "link": "https://veronoticias.com/politica/lula-planeja-reuniao-com-setor-produtivo-para-discutir-politica-economica-do-novo-governo/",
+  "fonte": "Vero Notícias",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
