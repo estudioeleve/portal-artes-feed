@@ -5448,20 +5448,6 @@
  {
   "data": "2026-11-02",
   "hora": "22:13",
-  "id": "010911_333",
-  "bloco": "rmbh",
-  "portal": "one",
-  "ed": "REGIÃO METROPOLITANA",
-  "titulo": "Preso baleado foge pela janela do banheiro de hospital em Nova Lima e ainda é procurado",
-  "titulo_orig": "Preso foge de hospital em Nova Lima; vídeo mostra janela e sangue | G1",
-  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/02/video-mostra-janela-danificada-por-onde-preso-fugiu-de-hospital-na-grande-bh.ghtml",
-  "fonte": "g1.globo.com",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-02",
-  "hora": "22:13",
   "id": "011039_242",
   "bloco": "bh",
   "portal": "one",
@@ -5500,5 +5486,19 @@
   "fonte": "Vero Notícias",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "22:13",
+  "id": "010900_331",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Motociclista de 23 anos morre após ficar preso em bueiro durante temporal no Camargos, em BH",
+  "titulo_orig": "Motociclista morre preso em bueiro durante temporal em BH | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/02/motociclista-morre-apos-ficar-preso-em-bueiro-durante-temporal-em-bh.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-02/010900_331.jpg",
+  "media_id": "18120085994063065"
  }
 ]
