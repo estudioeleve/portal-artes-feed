@@ -6550,5 +6550,61 @@
   "fonte": "R7",
   "arte": "artes/2026-11-03/221144_340.jpg",
   "media_id": "18121738582939701"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "19:23",
+  "id": "221123_92",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Vereador denuncia telhado instalado em beco do Novo Aarão Reis para atrapalhar drones da polícia, em BH",
+  "titulo_orig": "Criminosos instalam telhado em beco para dificultar ação da PM com drones no Novo Aarão Reis, em BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/3/criminosos-instalam-telhado-em-beco-para-dificultar-acao-da-pm-com-drones-no-novo-aarao-reis-em-bh",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "19:23",
+  "id": "221135_111",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Menos de metade dos consumidores de BH deve receber o 13º em 2026, aponta Fundação Ipead",
+  "titulo_orig": "Menos consumidores devem receber 13º salário em Belo Horizonte em meio ao avanço da informalidade - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/13-salario-2026-belo-horizonte/",
+  "fonte": "Diário do Comércio",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "19:23",
+  "id": "221137_370",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Rodovias federais de Minas têm 109 acidentes, 2 mortes e 129 feridos no feriado de Finados",
+  "titulo_orig": "Acidentes nas rodovias federais de MG deixam 2 mortos no feriado | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/03/acidentes-deixam-2-mortos-e-129-feridos-em-rodovias-federais-de-mg-no-feriado-de-finados.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "19:23",
+  "id": "221430_135",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "PBH contrata FGV por R$ 31 mil para acompanhar índice de custos dos ônibus da capital",
+  "titulo_orig": "Belo Horizonte contrata FGV por R$ 31 mil para acompanhar índice de custos dos ônibus em meio a discussões sobre financiamento e concessões",
+  "link": "https://diariodotransporte.com.br/2026/11/03/belo-horizonte-contrata-fgv-por-r-31-mil-para-acompanhar-indice-de-custos-dos-onibus-em-meio-a-discussoes-sobre-financiamento-e-concessoes/",
+  "fonte": "Diário do Transporte",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

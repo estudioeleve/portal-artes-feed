@@ -1,17 +1,5 @@
 [
  {
-  "id": "011255_303",
-  "data": "2026-10-31T22:14:08-03:00",
-  "titulo": "Finados: veja onde comprar flores naturais em BH; flores artificiais são proibidas nos cemitérios municipais",
-  "linha_fina": "Mercado Central, Mercado das Flores e floriculturas com atendimento no feriado estão entre as opções para as homenagens de 2 de novembro.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Com a chegada do Dia de Finados, nesta segunda-feira (2), cresce a procura por flores em Belo Horizonte. Rosas, crisântemos, lírios, gérberas e astromélias estão entre as espécies mais escolhidas por quem vai visitar os cemitérios para homenagear familiares e amigos.</p>\n<p>Quem vai aos cemitérios municipais precisa ficar atento: a prefeitura proíbe flores artificiais nesses locais. A regra faz parte das ações contra a dengue, já que os vasos e enfeites podem acumular água e virar criadouro do mosquito Aedes aegypti. Por isso, a orientação é levar apenas flores naturais.</p>\n<p>Entre os pontos de venda da capital está o Mercado Central, na Avenida Augusto de Lima, 744, no Centro, que reúne floriculturas tradicionais com maços, vasos e arranjos prontos. No bairro Lourdes, o Mercado das Flores, na Avenida Bernardo Monteiro, 1.563, trabalha com flores de corte e arranjos personalizados.</p>\n<p>A Holambelo Flores e Plantas, na Rua Jequiriçá, 26, no Santo André, atende no atacado e no varejo, com opções como crisântemos e calanchoês, indicada para quem precisa de quantidade maior. A floricultura Flora de Verdade, na Rua Rodrigues Caldas, 102, no Santo Agostinho, anunciou atendimento especial no fim de semana e no feriado, com entrega na cidade.</p>\n<p>Já a tradicional Feira de Plantas e Flores Naturais, na Avenida Carandaí, no bairro Funcionários, acontece às sextas-feiras. Para evitar filas e preços mais altos na última hora, a dica é comprar as flores com antecedência e conferir o horário de funcionamento de cada estabelecimento no feriado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-10-31/011255_303.jpg",
-  "credito_foto": "Foto: Reprodução/BH 24 Horas",
-  "fonte": "BH 24 Horas",
-  "resumos": ""
- },
- {
   "id": "020943_238",
   "data": "2026-10-31T23:11:45-03:00",
   "titulo": "Defesa Civil alerta para temporal com raios e ventos de até 50 km/h em BH até a manhã de domingo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/221137_370.jpg",
   "credito_foto": "Foto: EPTV/Reprodução",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "221430_135",
+  "data": "2026-11-03T19:23:01-03:00",
+  "titulo": "PBH contrata FGV por R$ 31 mil para acompanhar índice de custos dos ônibus da capital",
+  "linha_fina": "Contrato de um ano dá à Sumob acesso ao Índice Ônibus Urbano; compra não significa reajuste de tarifa nem pagamento às empresas.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A Prefeitura de Belo Horizonte contratou a Fundação Getulio Vargas (FGV) por R$ 31.005,70 para ter acesso a uma base de indicadores econômicos que inclui o Índice Ônibus Urbano, usado para acompanhar a evolução dos custos do transporte coletivo. O contrato foi firmado pela Superintendência de Mobilidade (Sumob) em 27 de outubro e vale de 29 de outubro de 2026 a 28 de outubro de 2027, segundo publicação no Diário Oficial do município.</p><p>O acordo prevê o licenciamento de uso, sem exclusividade, da base on-line FGV Select, mantida pelo Instituto Brasileiro de Economia da fundação. O serviço dá acesso ao indicador setorial de transporte urbano.</p><p>A contratação não representa reajuste de tarifa nem decisão sobre pagamentos às empresas de ônibus. O índice fornece dados que podem ajudar o poder público a acompanhar despesas do setor, como diesel, mão de obra, peças, manutenção e renovação da frota. Um indicador isolado, porém, não traduz sozinho a variação do custo de todo o sistema, já que cada cidade tem frota, quilometragem, demanda e contratos próprios.</p><p>A medida ocorre em meio à discussão da administração municipal sobre o financiamento dos ônibus, os subsídios às concessionárias e a análise de um possível desequilíbrio econômico-financeiro acumulado entre 2008 e julho de 2023.</p><p>O diretor de Planejamento e Economia dos Transportes da Sumob, Gustavo Fonseca de Oliveira, foi designado gestor do contrato.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/221430_135.jpg",
+  "credito_foto": "Foto: Reprodução/Diário do Transporte",
+  "fonte": "Diário do Transporte",
   "resumos": ""
  }
 ]
