@@ -5,16 +5,18 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
-## ⚠️ REDUÇÃO PROVISÓRIA (pedido do Israel, 01/11/2026 ~13h50) — vale ATÉ ELE AVISAR que aumentou o plano
-Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outras abaixo.
-- **Metade dos posts**: Instagram com meta de **50 por dia** (não 100): **2 a 3 posts por rodada** entre 6h e meia-noite
-  e **1 post** na madrugada. Notícias só para o site: **4 por rodada** de dia e **1 a 2** na madrugada.
-- Rodada mais enxuta: colete só o necessário (poucos itens no `coletar.py`), sem pesquisas extras.
-- **Prioridade máxima**: Santa Luzia e Região Metropolitana; depois Belo Horizonte (crimes/polícia, ocorrências, transporte)
-  e **política da região e de BH** (Câmara, prefeituras). Política de Brasília só os assuntos importantes.
-- **Política: não diminuir tanto** (manter presença, foco em região/BH e o que for importante em Brasília).
-- **Diminuir bastante**: Comércio (Portal Comércio: **2 a 4 por dia** no total, preferindo Santa Luzia) e **Mundo** (no máximo 1 a 2 por dia).
-- Entretenimento: diminuir um pouco.
+## 🚀 CARGA TOTAL E FOCO EM SANTA LUZIA (pedido do Israel, 04/11/2026) — manda mais que as outras regras de volume e de tema
+A redução provisória de 01/11 acabou. "Nós estamos falhando em Santa Luzia."
+- **Volume**: **100 posts por dia no Instagram**: **6 posts por rodada** (a rodada roda de hora em hora, das 6h às 23h), um a cada 8 a 10 minutos. **Notícias só para o site: 8 por rodada.** Se o dia estiver atrasado, 7 posts.
+- **Ordem de escolha das pautas** (campo `prio` do `dados/radar.json`; o radar imprime a contagem):
+  1. **Santa Luzia (`prio` 1), sempre primeiro**: toda notícia real de Santa Luzia MG que aparecer entra (Instagram e/ou site), moldura `luziense`, até 2 dias para trás. Meta: **pelo menos 2 posts e 3 notícias de site por rodada**, quando houver notícia de verdade.
+  2. **Vizinhas e Vetor Norte (`prio` 2)**: Vespasiano, São José da Lapa, Ribeirão das Neves, Sabará, Jaboticatubas, Taquaraçu de Minas, Nova União, Pedro Leopoldo, Matozinhos, Lagoa Santa, Confins, Caeté.
+  3. **BH, em especial Venda Nova e seus bairros, região Norte, trânsito, metrô, estações de metrô e de ônibus, MOVE (`prio` 3)**.
+  4. **Comércio** (abaixo). Depois política da região e de BH, e o resto. Mundo e Brasília só o que for muito importante.
+- **Santa Luzia não pode ser inventada nem esticada**: o radar tira a maioria das homônimas (PB, MA, RO...), mas **abra e confira que é a de Minas**. Não havendo notícia real, não force: siga para a próxima prioridade. Procure também com `WebSearch` (bairros, Prefeitura, Câmara, PM, Bombeiros, Copasa, Cemig, MG-020, Terminal MOVE).
+- **Notícia viral**: dê preferência ao que as pessoas comentam e compartilham: flagrante em vídeo, denúncia de moradores, problema de bairro, animal, salvamento, história curiosa, "viralizou nas redes", trânsito travado agora. Título chamativo, **mas sempre verdadeiro**: valem as regras de Título e Cuidados, sem exagero que engane, sem imagem chocante e sem expor menor.
+- **Comércio: aumentar para 10 a 15 por dia** no Instagram (mais o site), preferindo Santa Luzia e a região. Falar com **lojistas e pequenos empreendedores**: vendas de fim de ano e Natal, Black Friday, 13º, temporários, economia para o pequeno negócio, benefícios e crédito para lojistas, MEI, Simples, cursos gratuitos (Sebrae, CDL, ACISL, Fecomércio). Notícia de comércio de outro estado só se servir de verdade ao comerciante daqui. Tem que ajudar o comerciante: diga o que ele pode fazer, até quando e onde.
+- Continuam valendo: **Plantão Fake proibido**, menos Betim, esporte só time principal de Atlético e Cruzeiro, não repetir notícia, nunca post sem foto, concorrentes.
 - Não mandar resumos nem avisos (nem do site, nem do Instagram).
 
 ## ⚠️ FOCO REGIONAL: VETOR NORTE EM PRIMEIRO, MENOS BETIM (Israel, 02/11/2026 ~19h35) — manda mais que as outras regras de região
@@ -59,7 +61,7 @@ Tudo o que o Israel vê é em português.
 - Passando de 100 posts no dia: **não publicar nada**. Encerrar a rodada. O contador zera à meia-noite (America/Sao_Paulo).
 
 ## Meta e ritmo
-- Meta do dia: **100 posts**, espaçados. Nunca vários de uma vez: **um post a cada 8 a 12 minutos** dentro da rodada.
+- Meta do dia: **100 posts** (ver CARGA TOTAL no topo), espaçados. Nunca vários de uma vez: **um post a cada 8 a 12 minutos** dentro da rodada.
 - Horários: a grande maioria entre **6h e meia-noite** (5 posts por rodada; se o dia estiver atrasado, até 6).
   Madrugada (0h às 5h59): volume menor, **2 posts por rodada**, com intervalo maior (12 a 20 minutos) e legendas mais curtas.
 - Distribuição das 100 do dia:
@@ -86,7 +88,7 @@ Tudo o que o Israel vê é em português.
   TRANSPORTE, POLÍCIA, VÁRZEA, COPA ITATIAIA,
   ou o nome da cidade da Grande BH (ex.: CONTAGEM, BETIM, VESPASIANO, LAGOA SANTA, SABARÁ).
 
-## Portal Comércio (5 a 10 por dia)
+## Portal Comércio (10 a 15 por dia, ver CARGA TOTAL no topo)
 - Público: comerciantes, empreendedores e empresários. Preferência por **Santa Luzia** quando houver.
 - Pautas: oportunidades para o comércio e o empreendedor; benefícios para empresários (crédito, programas, MEI, impostos);
   comércio no fim de ano (horários, 13º, Black Friday, Natal); datas festivas; expectativas de vendas; agenda do comércio

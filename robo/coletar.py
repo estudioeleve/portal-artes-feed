@@ -15,7 +15,10 @@ for a in [x for x in sys.argv[1:] if x!='--anexar']:
     link=o['link']
     if 'news.google.com' in link:
       from googlenewsdecoder import gnewsdecoder
-      link=gnewsdecoder(link,interval=1).get('decoded_url') or link
+      dec=gnewsdecoder(link,interval=2)
+      if not dec.get('decoded_url'): time.sleep(20);dec=gnewsdecoder(link,interval=3)
+      link=dec.get('decoded_url') or link
+      if 'news.google.com' in link: print('   link do Google News não abriu, item ignorado:',o.get('titulo','')[:70]);continue
     o['link']=link
     rr=requests.get(link,headers=UA,timeout=25);h=rr.content.decode('utf-8','replace') if b'charset=utf-8' in rr.content[:3000].lower() or 'utf' in (rr.encoding or '').lower() or not rr.encoding else rr.text
     if 'Ã' in h[:20000]: h=rr.content.decode('utf-8','replace')

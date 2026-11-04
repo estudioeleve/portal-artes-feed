@@ -31,6 +31,14 @@
   [
    "esporte",
    "https://ge.globo.com/rss/ge/"
+  ],
+  [
+   "rmbh",
+   "https://www.santaluzia.mg.gov.br/feed/?post_type=noticiasv3"
+  ],
+  [
+   "rmbh",
+   "https://bhaz.com.br/feed/"
   ]
  ],
  "paginas_g1": [
@@ -139,6 +147,78 @@
   [
    "esporte",
    "\"futebol amador\" OR várzea OR \"Copa Itatiaia\" BH OR Minas"
+  ],
+  [
+   "rmbh",
+   "\"Santa Luzia\" \"Grande BH\""
+  ],
+  [
+   "rmbh",
+   "\"em Santa Luzia\" PM OR polícia OR acidente OR incêndio OR preso OR morto OR bombeiros"
+  ],
+  [
+   "rmbh",
+   "\"Santa Luzia\" Palmital OR \"São Benedito\" OR \"Bom Destino\" OR Frimisa OR \"Córrego Frio\" OR \"Duquesa\" OR \"Londrina\" OR \"Baronesa\""
+  ],
+  [
+   "rmbh",
+   "\"Santa Luzia\" MG-020 OR \"Terminal MOVE\" OR Copasa OR Cemig OR prefeitura OR vereador OR escola OR UPA"
+  ],
+  [
+   "rmbh",
+   "\"São José da Lapa\" OR \"Taquaraçu de Minas\" OR \"Nova União\""
+  ],
+  [
+   "rmbh",
+   "Sabará polícia OR acidente OR prefeitura OR chuva OR moradores"
+  ],
+  [
+   "rmbh",
+   "Jaboticatubas OR \"Serra do Cipó\" OR Matozinhos OR Capim Branco OR Confins"
+  ],
+  [
+   "rmbh",
+   "Vespasiano polícia OR acidente OR prefeitura OR moradores OR ônibus"
+  ],
+  [
+   "rmbh",
+   "\"Ribeirão das Neves\" OR \"Justinópolis\" polícia OR acidente OR moradores OR prefeitura OR ônibus"
+  ],
+  [
+   "rmbh",
+   "\"Venda Nova\" OR \"Céu Azul\" OR Mantiqueira OR Piratininga OR Candelária OR \"Serra Verde\" OR \"Rio Branco\" BH moradores OR PM OR acidente OR ônibus"
+  ],
+  [
+   "rmbh",
+   "\"Metrô BH\" OR \"metrô de BH\" OR \"estação Vilarinho\" OR \"estação São Gabriel\" OR \"estação Venda Nova\" OR \"estação Pampulha\""
+  ],
+  [
+   "rmbh",
+   "BH trânsito OR congestionamento OR \"Anel Rodoviário\" OR \"Cristiano Machado\" OR \"Antônio Carlos\" OR \"Pedro I\" acidente OR interdição OR obra"
+  ],
+  [
+   "rmbh",
+   "\"Grande BH\" OR BH vídeo OR flagra OR viraliza OR \"redes sociais\" OR câmera OR moradores"
+  ],
+  [
+   "comercio",
+   "Natal comércio vendas lojistas Minas OR BH OR \"Grande BH\" OR CDL"
+  ],
+  [
+   "comercio",
+   "lojistas OR comerciantes benefício OR crédito OR isenção OR programa Minas OR BH OR \"Santa Luzia\" OR Vespasiano"
+  ],
+  [
+   "comercio",
+   "Sebrae Minas OR \"Sebrae MG\" pequeno negócio OR empreendedor OR MEI OR microempresa curso OR crédito"
+  ],
+  [
+   "comercio",
+   "CDL Vespasiano OR \"CDL Sabará\" OR \"CDL Santa Luzia\" OR ACISL OR \"Associação Comercial\" Vetor Norte OR Lagoa Santa OR \"Pedro Leopoldo\""
+  ],
+  [
+   "comercio",
+   "temporários Natal contratação comércio Minas OR BH"
   ]
  ],
  "concorrentes": [
