@@ -7978,5 +7978,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "17:26",
+  "id": "200955_79",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Transição de Cleitinho questiona Arsae sobre cobrança de esgoto onde não há tratamento em Minas",
+  "titulo_orig": "Novo governo de Minas questiona Arsae sobre tarifa de esgoto",
+  "link": "https://www.otempo.com.br/politica/2026/11/4/novo-governo-de-minas-questiona-arsae-sobre-tarifa-de-esgoto",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-04/200955_79.jpg",
+  "media_id": "17969198427077913"
  }
 ]
