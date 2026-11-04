@@ -7320,5 +7320,47 @@
   "fonte": "GZH",
   "arte": "artes/2026-11-04/131337_4.jpg",
   "media_id": "17870410923678338"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "11:15",
+  "id": "141226_154",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "UPA de Matozinhos passa a ter Pediatria todos os dias e Ortopedia aos fins de semana",
+  "titulo_orig": "VÍDEO: UPA de Matozinhos amplia atendimento e passa a oferecer Pediatria todos os dias",
+  "link": "https://pordentrodetudo.com.br/video-upa-de-matozinhos-amplia-atendimento-e-passa-a-oferecer-pediatria-todos-os-dias/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "11:15",
+  "id": "141236_253",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Homem é morto a tiros ao chegar em casa no bairro Novo Riacho, em Contagem; PM procura o autor",
+  "titulo_orig": "Homem é executado a tiros ao chegar em casa no bairro Novo Riacho, em Contagem - BH 24 Horas",
+  "link": "https://bh24horas.com.br/minas-gerais/homem-e-executado-a-tiros-ao-chegar-em-casa-no-bairro-novo-riacho-em-contagem/",
+  "fonte": "BH 24 Horas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "11:15",
+  "id": "141239_33",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Procon-MPMG multa Expresso Adamantina em R$ 108 mil por falhas nas linhas entre BH e São Paulo",
+  "titulo_orig": "Procon-MPMG multa empresa Expresso Adamantina em mais de R$ 100 mil reais por irregularidades com frotas de ônibus | Portal",
+  "link": "https://www.mpmg.mp.br/portal/menu/comunicacao/noticias/procon-mpmg-multa-empresa-expresso-adamantina-em-mais-de-r-100-mil-reais-por-irregularidades-com-frotas-de-onibus.shtml",
+  "fonte": "MPMG",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
