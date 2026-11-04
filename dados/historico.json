@@ -7712,5 +7712,61 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-04/171140_243.jpg",
   "media_id": "18507128875100455"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "15:12",
+  "id": "181002_224",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo prepara medida provisória para criar Ministério da Segurança Pública depois da promulgação da PEC",
+  "titulo_orig": "Governo prepara medida provisória para criar Ministério da Segurança | Blogs | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/blogs/isabel-mega/politica/governo-prepara-medida-provisoria-para-criar-ministerio-da-seguranca/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "15:12",
+  "id": "181005_309",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Unimed-BH abre novo pronto-atendimento 24 horas em Contagem neste sábado, após três anos de obras",
+  "titulo_orig": "Unimed inaugura novo pronto-atendimento em Contagem; saiba o que muda para pacientes",
+  "link": "https://www.otempo.com.br/economia/2026/11/4/unimed-inaugura-novo-pronto-atendimento-em-contagem-saiba-o-que-muda-para-pacientes",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "15:12",
+  "id": "181000_142",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "PM prende dois suspeitos e impede assalto a agência do Sicoob em Senador Amaral, no Sul de Minas",
+  "titulo_orig": "Polícia Militar impede assalto a banco e prende dois suspeitos em Senador Amaral | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/suldeminas/policia-militar-impede-assalto-a-banco-e-prende-dois-suspeitos-em-senador-amaral/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "15:12",
+  "id": "181045_30",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Primeira loja da WePink em BH abre nesta quinta na Savassi, com promoções e brindes na inauguração",
+  "titulo_orig": "Primeira loja da Wepink será inaugurada nesta quinta-feira em BH",
+  "link": "https://bhaz.com.br/noticias/primeira-loja-da-wepink-sera-inaugurada-nesta-quinta-feira-em-bh/",
+  "fonte": "BHAZ",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
