@@ -7922,5 +7922,61 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-04/201147_95.jpg",
   "media_id": "17976721584169413"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "17:17",
+  "id": "201000_84",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "RIBEIRÃO DAS NEVES",
+  "titulo": "Ribeirão das Neves abre inscrições para a Corrida da Avenida Eduardo Brandão, marcada para 13 de dezembro",
+  "titulo_orig": "Prefeitura de Ribeirão das Neves abre inscrições para a Corrida da Avenida Eduardo Brandão 2026",
+  "link": "https://ribeiraodasneves.net/35-noticias/cidade/12440-prefeitura-de-ribeirao-das-neves-abre-inscricoes-para-a-corrida-da-avenida-eduardo-brandao-2026",
+  "fonte": "RibeiraoDasNeves.net",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "17:17",
+  "id": "201017_132",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Flávio Dino é sorteado relator da ação da CNC que tenta adiar o fim da escala 6x1 no STF",
+  "titulo_orig": "Ministro do STF Flávio Dino é sorteado relator da ação da CNC que busca adiar fim da escala 6x1",
+  "link": "https://www.estadao.com.br/economia/ministro-do-stf-flavio-dino-e-sorteado-relator-da-acao-da-cnc-que-busca-adiar-fim-da-escala-6x1/",
+  "fonte": "Estadão",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "17:17",
+  "id": "201151_329",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Passeio gratuito percorre prédios históricos do Hipercentro de BH neste sábado; ingressos saem nesta quinta",
+  "titulo_orig": "Passeio turístico percorre arquitetura histórica do Hipercentro de Belo Horizonte",
+  "link": "https://prefeitura.pbh.gov.br/noticias/passeio-turistico-percorre-arquitetura-historica-do-hipercentro-de-belo-horizonte",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "17:17",
+  "id": "201421_208",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Antigo Cefet-MG abre 307 vagas remanescentes de graduação, com 173 em BH e 15 em Contagem; inscrição é grátis",
+  "titulo_orig": "Antigo Cefet-MG abre seleção para vagas remanescentes de graduação | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/04/antigo-cefet-mg-ufcimg-vagas-remanescentes-de-graduacao.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
