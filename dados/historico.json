@@ -6830,5 +6830,61 @@
   "fonte": "Portal MPA",
   "arte": "artes/2026-11-03/000948_371.jpg",
   "media_id": "18109514294460529"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "22:13",
+  "id": "011114_63",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Senado conclui votação da PEC da Segurança em dois turnos, e texto segue para promulgação",
+  "titulo_orig": "Senadores aprovam PEC da Segurança Pública",
+  "link": "https://www12.senado.leg.br/radio/1/noticia/2026/11/03/senadores-aprovam-pec-da-seguranca-publica",
+  "fonte": "Senado",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "22:13",
+  "id": "010939_101",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Comércio e serviços devem abrir 130 mil vagas no fim de 2026, mas salário médio oferecido cai",
+  "titulo_orig": "Vagas de trabalho: comércio e serviços devem abrir 130 mil no fim de 2026",
+  "link": "https://ncnews.com.br/2026/11/03/vagas-de-trabalho-fim-de-ano-brasil/",
+  "fonte": "ncnews.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "22:13",
+  "id": "011003_94",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Violência é a maior preocupação dos mineiros em consulta do TCE-MG; na Grande BH, chega a 66,3%",
+  "titulo_orig": "Violência e criminalidade lideram preocupações dos mineiros, aponta levantamento do TCE-MG - BH 24 Horas",
+  "link": "https://bh24horas.com.br/minas-gerais/violencia-e-criminalidade-lideram-preocupacoes-dos-mineiros-aponta-levantamento-do-tce-mg/",
+  "fonte": "BH 24 Horas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "22:13",
+  "id": "010921_231",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Carro de luxo bate em semáforo, pega fogo e invade loja no Barro Preto; dois jovens ficam feridos",
+  "titulo_orig": "Carro de luxo bate em semáforo, pega fogo e invade loja após motorista desviar de abordagem em BH",
+  "link": "https://pordentrodetudo.com.br/carro-de-luxo-bate-em-semaforo-pega-fogo-e-invade-loja-apos-motorista-desviar-de-abordagem-em-bh/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
