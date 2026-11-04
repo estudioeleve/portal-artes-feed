@@ -6732,5 +6732,61 @@
   "fonte": "Estado de Minas",
   "arte": "artes/2026-11-03/231017_99.jpg",
   "media_id": "18122379880987097"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "21:13",
+  "id": "001108_406",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "MINAS GERAIS",
+  "titulo": "Passageiros relatam atrasos de até duas horas e ônibus precários da Pássaro Verde em audiência na ALMG",
+  "titulo_orig": "Passageiros relatam atrasos e problemas na frota da Pássaro Verde em audiência na ALMG - Primeiro a Saber",
+  "link": "https://primeiroasaber.com.br/2026/11/03/passageiros-relatam-atrasos-e-problemas-na-frota-da-passaro-verde-em-audiencia-na-almg/",
+  "fonte": "Primeiro a Saber",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "21:13",
+  "id": "000953_458",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Programa do Sebrae Minas ajuda botecos de BH a acertar preço e cardápio e já atendeu 3 mil empreendedores",
+  "titulo_orig": "Da precificação ao cardápio: Prepara Gastronomia fortalece botecos de BH",
+  "link": "https://rede98.com.br/buteco98/da-precificacao-ao-cardapio-prepara-gastronomia-fortalece-botecos-de-bh/",
+  "fonte": "Rede 98",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "21:13",
+  "id": "001129_358",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SABARÁ",
+  "titulo": "Pesquisa do IFMG usa matemática para simular melhor distribuição dos postos de saúde em Sabará",
+  "titulo_orig": "Pesquisa do IFMG aponta caminhos para melhorar distribuição dos postos de saúde em Sabará - folhadesabara.com.br",
+  "link": "https://folhadesabara.com.br/noticia/60250/pesquisa-do-ifmg-aponta-caminhos-para-melhorar-distribuicao-dos-postos-de-saude-em-sabara/amp",
+  "fonte": "folhadesabara.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "21:13",
+  "id": "001133_402",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Turma da Mônica ganha exposição imersiva gratuita no CCBB-BH; ingressos saem nesta quarta",
+  "titulo_orig": "Turma da Mônica ganha exposição imersiva gratuita em BH",
+  "link": "https://soubh.uai.com.br/noticias/cultura/turma-da-monica-ganha-exposicao-imersiva-gratuita-em-bh/",
+  "fonte": "SouBH",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
