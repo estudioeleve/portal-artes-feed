@@ -8020,5 +8020,61 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-04/210959_48.jpg",
   "media_id": "18096460109689682"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "18:15",
+  "id": "211041_292",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "RIBEIRÃO DAS NEVES",
+  "titulo": "Família procura moradora de Ribeirão das Neves desaparecida desde viagem a Maricá, em agosto",
+  "titulo_orig": "Mulher de Ribeirão das Neves desaparece após viagem para o Rio de Janeiro com o namorado",
+  "link": "https://ribeiraodasneves.net/35-noticias/cidade/12438-mulher-de-ribeirao-das-neves-desaparece-apos-viagem-para-o-rio-de-janeiro-com-o-namorado",
+  "fonte": "RibeiraoDasNeves.net",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "18:15",
+  "id": "211047_91",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Disputa pela presidência da Câmara de BH ganha novos nomes a pouco mais de um mês da eleição",
+  "titulo_orig": "Disputa pela presidência da Câmara de BH entra em fase decisiva a um mês da eleição",
+  "link": "https://bhaz.com.br/noticias/politica/damiao-novos-nomes-presidencia-camara-bh/",
+  "fonte": "BHAZ",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "18:15",
+  "id": "211252_57",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Acusado de matar jovem na avenida Antônio Carlos, em 2024, vai a júri popular no dia 25 em BH",
+  "titulo_orig": "Acusado de matar jovem na avenida Antônio Carlos vai a júri em BH",
+  "link": "https://bhaz.com.br/noticias/acusado-de-matar-jovem-na-avenida-antonio-carlos-vai-a-juri-em-bh/",
+  "fonte": "BHAZ",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "18:15",
+  "id": "211150_1",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Minas abre 8.102 vagas com carteira assinada em setembro e acumula 129,7 mil no ano, aponta Caged",
+  "titulo_orig": "Empregos em alta: Minas Gerais mantém crescimento e já acumula 129 mil vagas em 2026",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/empregos-em-alta-minas-gerais-mantem-crescimento-e-ja-acumula-129-mil-vagas-em-2026",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
