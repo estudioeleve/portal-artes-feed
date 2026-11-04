@@ -7390,5 +7390,19 @@
   "fonte": "BH 24 Horas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "11:24",
+  "id": "141243_24",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "CNC vai ao STF para adiar em dez meses a 1ª etapa da nova jornada de trabalho, com fim da escala 6x1",
+  "titulo_orig": "CNC vai ao STF pedir adiamento do início da nova jornada de trabalho",
+  "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/cnc-vai-ao-stf-pedir-adiamento-do-inicio-da-nova-jornada-de-trabalho.ghtml",
+  "fonte": "O GLOBO",
+  "arte": "artes/2026-11-04/141243_24.jpg",
+  "media_id": "18373989898211159"
  }
 ]
