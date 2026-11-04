@@ -7880,5 +7880,19 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "artes/2026-11-04/190931_45.jpg",
   "media_id": "18079386890772727"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "16:22",
+  "id": "190934_30",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Acompanhantes denunciam superlotação na UPA Centro-Sul, em BH, com pacientes no chão",
+  "titulo_orig": "Descaso na saúde: Superlotação em UPA deixa pacientes no chão em Belo Horizonte",
+  "link": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/video/descaso-na-saude-superlotacao-em-upa-deixa-pacientes-no-chao-em-belo-horizonte-04112026/",
+  "fonte": "R7",
+  "arte": "artes/2026-11-04/190934_30.jpg",
+  "media_id": "18143784937704368"
  }
 ]
