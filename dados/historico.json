@@ -7012,5 +7012,19 @@
   "fonte": "O TEMPO",
   "arte": "artes/2026-11-04/100902_34.jpg",
   "media_id": "17924555187242490"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "07:33",
+  "id": "100904_99",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Democratas conquistam Câmara e Senado dos EUA em derrota para Trump, que diz aceitar o resultado",
+  "titulo_orig": "Eleições nos EUA: democratas conquistam maioria da Câmara e do Senado, impõem derrota a Trump e assumem controle do Congresso  | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nos-eua-democratas-conquistam-maioria-da-camara-e-no-senado-impoem-derrota-a-trump-e-assumem-controle-do-congresso.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-04/100904_99.jpg",
+  "media_id": "17963602955999183"
  }
 ]
