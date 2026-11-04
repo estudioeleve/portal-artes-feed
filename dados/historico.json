@@ -7600,5 +7600,19 @@
   "fonte": "G1",
   "arte": "artes/2026-11-04/161202_124.jpg",
   "media_id": "18109722470350790"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "13:38",
+  "id": "161152_90",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Parte de obra desaba no Centro de Prados e trabalhador de 43 anos morre sob os escombros",
+  "titulo_orig": "MG: homem morre e outro fica ferido após desabamento de edificação em obra | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/mg-homem-morre-e-outro-fica-ferido-apos-desabamento-de-edificacao-em-obra/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-04/161152_90.jpg",
+  "media_id": "17894760441616576"
  }
 ]
