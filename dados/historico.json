@@ -7040,5 +7040,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-04/111336_3.jpg",
   "media_id": "17877481737586721"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "08:19",
+  "id": "111345_132",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Paulinho fala pela primeira vez sobre o trabalho no Cruzeiro e diz que planejamento de 2027 passa pela Libertadores",
+  "titulo_orig": "Paulinho fala sobre início no Cruzeiro e planejamento para 2027 | Ge",
+  "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/11/04/paulinho-detalha-inicio-no-cruzeiro-e-condiciona-planejamento-a-vaga-na-libertadores.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "08:19",
+  "id": "111347_60",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Copom decide nesta quarta se reduz a Selic; mercado espera sexto corte seguido, para 13,5% ao ano",
+  "titulo_orig": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/copom-decide-nesta-quarta-feira-se-corta-ou-mantem-taxa-selic",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "08:19",
+  "id": "111705_29",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Caminhão carregado de gás pega fogo no Anel Rodoviário de BH; caminhão-pipa que passava ajuda a conter as chamas",
+  "titulo_orig": "Caminhão de gás pega fogo e deixa trânsito lento no Anel Rodoviário de BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/4/caminhao-de-gas-pega-fogo-e-deixa-transito-lento-no-anel-rodoviario-de-bh",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "08:19",
+  "id": "111749_oc=5",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Câmara de BH derruba veto de Damião e mantém placas sobre entrega legal de bebês para adoção em unidades de saúde",
+  "titulo_orig": "Vereadores de BH derrubam veto de Damião à divulgação sobre entrega de bebês para adoção ",
+  "link": "https://www.hojeemdia.com.br/politica/vereadores-de-bh-derrubam-veto-de-dami-o-a-divulgac-o-sobre-entrega-de-bebes-para-adoc-o-1.1139371?amp=1",
+  "fonte": "Hoje em Dia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
