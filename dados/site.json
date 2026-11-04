@@ -1,17 +1,5 @@
 [
  {
-  "id": "141355_223",
-  "data": "2026-11-01T11:17:20-03:00",
-  "titulo": "Empreendedor investe R$ 500 mil e abre escola para formar mecânicos de bicicleta com certificação",
-  "linha_fina": "Henrique Zompero viu falta de mão de obra no setor de bikes e criou cursos presenciais e a distância.",
-  "categoria": "comercio",
-  "texto": "<p>O crescimento do mercado de bicicletas e a chegada de modelos com mais tecnologia abriram espaço para um novo tipo de negócio: a formação de mecânicos especializados. De olho nessa demanda, o empreendedor Henrique Zompero investiu R$ 500 mil para criar a Escola Park Tool, que oferece cursos presenciais, a distância e certificações reconhecidas internacionalmente.</p>\n<p>Os cursos custam R$ 250 para iniciantes, R$ 400 para o nível intermediário e R$ 1,2 mil para o avançado. O público vai de ciclistas que querem aprender a cuidar da própria bicicleta a pessoas que desejam trabalhar com manutenção e mecânicos que já atuam no setor e precisam se atualizar. As aulas tratam de freios, suspensões, regulagem de marchas e diagnóstico de problemas no uso diário e em competições.</p>\n<p>A trajetória de Zompero no empreendedorismo começou cedo, quando trabalhava como motoboy e passou a buscar clientes por conta própria. Depois, abriu uma empresa de transporte executivo, morou quatro anos na Irlanda, onde estudou administração, e seguiu para os Estados Unidos. Lá conheceu uma escola de mecânica de bicicletas, modelo ainda pouco explorado no Brasil.</p>\n<p>De volta ao país, abriu com um sócio uma loja no conceito de bike shop. Foi na operação da loja que eles perceberam a lacuna: faltavam profissionais preparados para orientar os consumidores e fazer a manutenção dos equipamentos vendidos.</p>\n<p>Para estruturar a escola, Zompero voltou aos Estados Unidos para obter o certificado internacional de instrutor e viajou a outros países em busca de métodos de ensino. Segundo ele, a mecânica de bicicleta é tão complexa quanto a de outros veículos, com partes e ajustes específicos. A história mostra como a qualificação de mão de obra pode virar oportunidade para quem empreende em setores em expansão.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/141355_223.jpg",
-  "credito_foto": "Foto: Reprodução/Pequenas Empresas & Grandes Negócios",
-  "fonte": "Pequenas Empresas & Grandes Negócios",
-  "resumos": ""
- },
- {
   "id": "141359_19",
   "data": "2026-11-01T11:17:20-03:00",
   "titulo": "Governo Lula conta com 200 deputados fiéis em 2027 e vê outros 100 em disputa na Câmara",
@@ -4798,5 +4786,17 @@
   "credito_foto": "PCMG/Divulgação",
   "fonte": "Agência Minas",
   "resumos": ""
+ },
+ {
+  "id": "241104_isr1",
+  "data": "2026-11-04T20:03:06-03:00",
+  "titulo": "PM e Prefeitura apagam pichações de facções em Vespasiano, na divisa com Santa Luzia",
+  "linha_fina": "Operação Expurgo cobriu marcações de grupos criminosos em sete bairros e tem continuidade nesta quarta-feira (4/11).",
+  "categoria": "vespasiano",
+  "texto": "Bairros na divisa entre Vespasiano e Santa Luzia tiveram muros e fachadas repintados em ação que reuniu forças de segurança e prefeitura contra marcações de facções.\n\nA Polícia Militar de Minas Gerais, a Polícia Civil e a Prefeitura de Vespasiano realizaram, nesta terça-feira (3/11), uma ação de pintura para apagar pichações usadas por grupos criminosos como demarcação de território no município, na Região Metropolitana de Belo Horizonte.\n\nA iniciativa é a segunda fase da Operação Expurgo e teve a participação do 36º Batalhão de Polícia Militar.\n\nEquipes da prefeitura, acompanhadas pelos policiais, cobriram as inscrições em muros e fachadas de imóveis. Um levantamento prévio identificou pichações nos bairros Jardim da Glória, Morro Alto, Novo Horizonte, Nova Pampulha, Jardim Daliana, Caieiras e Célvia — algumas delas em ruas que fazem divisa com Santa Luzia.\n\nA Operação Expurgo continua nesta quarta-feira (4/11), com novas intervenções em Vespasiano. O encontro das equipes está marcado para as 8h, na sede da 247ª Companhia de Polícia Militar.",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/241104_isr1.jpg",
+  "credito_foto": "Divulgação/PMMG",
+  "fonte": "Polícia Militar de Minas Gerais e Prefeitura de Vespasiano",
+  "resumos": "OPERAÇÃO EXPURGO\nAção cobriu sete bairros de Vespasiano\nContinua nesta quarta-feira (4/11)"
  }
 ]
