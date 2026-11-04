@@ -8188,5 +8188,47 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-04/221052_63.jpg",
   "media_id": "18120163580602265"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "20:14",
+  "id": "231058_113",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Justiça aceita denúncia e homem vira réu pela morte de policial penal no Hospital Luxemburgo, em BH",
+  "titulo_orig": "Justiça aceita denúncia contra acusado de matar policial em hospital de BH",
+  "link": "https://www.em.com.br/gerais/2026/11/7533217-justica-aceita-denuncia-contra-acusado-de-matar-policial-em-hospital-de-bh.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "20:14",
+  "id": "231102_300",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Foragido do Ceará que rompeu tornozeleira em 2023 é preso em Contagem, na Grande BH",
+  "titulo_orig": "Foragido da Justiça do Ceará que rompeu tornozeleira eletrônica é preso em Contagem, na Grande BH",
+  "link": "https://www.hojeemdia.com.br/minas/foragido-da-justica-do-ceara-que-rompeu-tornozeleira-eletronica-e-preso-em-contagem-na-grande-bh-1.1139487",
+  "fonte": "Hoje em Dia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "20:14",
+  "id": "231253_rdau",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Domingos Sávio liga fim da produção da Gerdau em Divinópolis a aço chinês e critica governo Lula",
+  "titulo_orig": "Domingos Sávio critica governo Lula e aço chinês após fechamento da Gerdau",
+  "link": "https://www.metropoles.com/minas-gerais/domingos-savio-critica-governo-lula-e-aco-chines-apos-fechamento-da-gerdau",
+  "fonte": "www.metropoles.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

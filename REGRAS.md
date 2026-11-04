@@ -39,6 +39,10 @@ Motivo: economizar o uso do plano do Claude. Esta seção manda mais que as outr
   não postar só de um. Ex.: Grêmio x Atlético, semifinal da Copa do Brasil, 01/11 18h30 (a prévia saiu em 31/10 22h49; falta o resultado depois do jogo, ~20h30).
 - Se não houver notícia de esporte que interesse de verdade, **não poste esporte** (as vagas vão para outros temas).
 
+## ⛔ NUNCA POST SEM MOLDURA (Israel, 04/11/2026 ~20h: "Postagem sem o padrão????", saiu a foto crua das pichações de Vespasiano)
+- Vale para **qualquer sessão**, automática ou manual: no Instagram só vai a **arte de `artes/`** (moldura, etiqueta e título em 3 linhas), com o link do `links.py`.
+  **Nunca** publicar imagem de `site/` ou `fotos/`: essas são fotos cruas, só para o site.
+
 ## ⚠️ NUNCA POST SEM FOTO (01/11/2026: o pendente das Cabulosas saiu com a moldura vazia)
 - A foto de item pendente pode não estar no repositório (fotos/ não vai para o GitHub). **Nunca rode o artes.js de novo
   num pendente**: use a arte que já está no GitHub. O `artes.js` agora pula item sem foto e não refaz arte de pendente.
