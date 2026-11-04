@@ -53,3 +53,4 @@
 04/11/2026 15:16 - Rodada 15h: 180954_99 deu Media ID is not available no jsDelivr; publicado na 2a tentativa (raw), media 18374935060243937.
 04/11/2026 15:42 - Rodada 15h: 181101_4 deu Media ID is not available no jsDelivr e no raw; publicado na 3a tentativa (jsDelivr), media 17893941057684345.
 04/11/2026 17:17 - Rodada 17h: 201147_95 deu Media ID is not available no jsDelivr; publicado na 2a tentativa (raw), media 17976721584169413.
+04/11/2026 18:39 - Rodada 18h: 211032_63 deu Only photo or video can be accepted as media type no jsDelivr e no raw; publicado na 3a tentativa (jsDelivr), media 18136566991674076.
