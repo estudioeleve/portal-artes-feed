@@ -7124,5 +7124,61 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-04/111708_1.jpg",
   "media_id": "18221930500349261"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "09:14",
+  "id": "121157_11",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Justiça condena empresas a indenizar mães que ficaram presas sob inflável na Corrida Insana do Enaldinho, em BH",
+  "titulo_orig": "Corrida Insana do Enaldinho: mães 'engolidas' por brinquedo em BH serão indenizadas",
+  "link": "https://www.otempo.com.br/cidades/2026/11/4/corrida-insana-do-enaldinho-maes-engolidas-por-brinquedo-em-bh-serao-indenizadas",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "09:14",
+  "id": "121200_175",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Natal Tiradentes começa nesta sexta com R$ 800 mil de investimento e expectativa de 60 mil visitantes",
+  "titulo_orig": "Com aporte de R$ 800 mil, Natal Tiradentes espera receber 60 mil visitantes - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/variedades/natal-tiradentes-aporte/",
+  "fonte": "Diário do Comércio",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "09:14",
+  "id": "121234_222",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Transição de Cleitinho em Minas tem nomes de Uberaba e Patos de Minas nas áreas de Saúde e Educação",
+  "titulo_orig": "Cleitinho Azevedo: Uberaba e Patos têm nomes na transição de MG | G1",
+  "link": "https://g1.globo.com/mg/triangulo-mineiro/eleicoes/2026/noticia/2026/11/04/uberaba-tem-dois-nomes-na-equipe-de-transicao-de-cleitinho-patos-de-minas-tambem-tem-representantes.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "09:14",
+  "id": "121251_231",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Nove alertas em uma noite viram meme em BH, mas temporal deixou morto e previsão segue de risco nesta quarta",
+  "titulo_orig": "\"Chuva\" de alertas da Defesa Civil de BH vira meme, mas riscos são reais",
+  "link": "https://www.metropoles.com/minas-gerais/chuva-de-alertas-da-defesa-civil-de-bh-vira-meme-mas-riscos-sao-reais",
+  "fonte": "Metrópoles",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
