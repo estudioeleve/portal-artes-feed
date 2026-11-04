@@ -1,17 +1,5 @@
 [
  {
-  "id": "100937_450",
-  "data": "2026-11-01T07:12:56-03:00",
-  "titulo": "A Rua é Nossa tem brinquedos, Portal do Fusca e carros antigos de graça neste domingo em BH",
-  "linha_fina": "Programa da Prefeitura ocupa ruas de oito regiões da capital das 9h às 13h, com infláveis, esportes e ônibus com Catraca Livre.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Belo Horizonte tem programação gratuita de lazer para crianças e famílias neste domingo (1º), com mais uma edição do programa A Rua é Nossa. As atividades vão das 9h às 13h em diferentes regiões da capital e incluem brinquedos infláveis, camas elásticas e espaço infantil para crianças de até 6 anos.</p><p>Nesta edição, as unidades Guarani, na Região Norte, e Dandara voltam a receber a programação. Na Savassi, na Praça Diogo Vasconcelos, o destaque é o Portal do Fusca, tradicional ponto de encontro de apaixonados pelo modelo e por motores refrigerados a ar.</p><p>No Barreiro, na Avenida Deputado Álvaro Antônio com Avenida Olinto Meireles, no Bairro das Indústrias, o Encontro Velhos Tempos reúne carros, motos, caminhões e ônibus fabricados até 1999. No Grajaú, na Região Oeste, a Avenida Silva Lobo recebe o Circuito de Movimentos, com desafios de equilíbrio, saltos e coordenação motora.</p><p>Em Venda Nova, a unidade Mantiqueira, na Avenida Vilarinho, terá esportes de quadra e de raquete, como vôlei, basquete, futebol, peteca, frescobol e tênis de mesa. No Pindorama, na Região Noroeste, a Rua Jacareí recebe atividades de skate e patinete. Também há programação no Boa Vista, na Região Leste (Avenida Itaituba), e no Fernão Dias, na Região Nordeste (Avenida Joaquim José Diniz).</p><p>Para facilitar o acesso, as linhas de ônibus que passam pelos pontos do programa funcionam com Catraca Livre durante o evento. Na Savassi, todas as linhas da região estão incluídas. No Barreiro, entre outras, as linhas 30, 208, 318 e 3055; em Venda Nova, as linhas 621, 623, 624, 625, 626 e S61.</p><p>O A Rua é Nossa é uma iniciativa da Prefeitura de Belo Horizonte que fecha trechos de vias aos domingos para atividades de esporte, lazer e recreação ao ar livre. A participação é gratuita e não exige inscrição.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/100937_450.jpg",
-  "credito_foto": "Márcia Barroso/Divulgação",
-  "fonte": "Hoje em Dia",
-  "resumos": ""
- },
- {
   "id": "100934_502",
   "data": "2026-11-01T07:12:56-03:00",
   "titulo": "Perseguição da PM termina com carro capotado e dois suspeitos presos com revólver em Betim",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/141328_329.jpg",
   "credito_foto": "Waldemir Barreto/Agência Senado",
   "fonte": "CNN Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "141624_151",
+  "data": "2026-11-04T11:16:46-03:00",
+  "titulo": "Polícia Civil investiga mortes de dois motociclistas em temporais de BH, e família de um deles cobra a Cemig",
+  "linha_fina": "Jovem foi arrastado por enxurrada no Camargos; outro morreu após contato com fio rompido no Santo Antônio. Parentes fizeram motociata.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A Polícia Civil de Minas Gerais investiga as mortes de dois motociclistas durante temporais em Belo Horizonte. As autoridades apuram o que aconteceu em cada caso e ainda não confirmam se elas podem ser consideradas as primeiras mortes ligadas ao período chuvoso na capital, iniciado em outubro.</p><p>O caso mais recente foi na noite de segunda-feira (2), na Rua Joaquim Corrêa de Aquino, no bairro Camargos, região Oeste. João Lucas Ricardo de Jesus Rodrigues da Cruz, de 23 anos, foi arrastado pela enxurrada. Segundo a Polícia Militar, outros motociclistas tentaram ajudar, mas a água subiu rápido. Testemunhas contaram que ele teria tentado atravessar a rua alagada. A perícia esteve no local, e as causas serão investigadas.</p><p>Moradores dizem que os alagamentos são frequentes no trecho, que tem sete bocas de lobo e uma galeria de grande porte. A Sudecap informou que tem um projeto para ampliar a drenagem na rua e em vias próximas, atualmente em revisão técnica por causa de mudanças na ocupação da região. Na terça-feira (3), equipes da Prefeitura limparam as bocas de lobo do bairro.</p><p>A outra morte investigada é a de Sandro Henrique Caetano de Jesus, de 32 anos, motociclista de aplicativo. Durante o temporal de 25 de outubro, ele passava pela Rua Professor Magalhães Drumond, no bairro Santo Antônio, região Centro-Sul, quando entrou em contato com a fiação depois que um cabo de energia se rompeu. Ele chegou a ser levado ao Hospital João XXIII, mas não resistiu.</p><p>Na terça-feira, parentes e amigos fizeram uma motociata do bairro Alto Vera Cruz até a sede da Cemig, no Santo Agostinho, para cobrar esclarecimentos e assistência. A família afirma que não recebeu o apoio necessário. Sandro deixou três filhos, entre eles um bebê de cinco meses.</p><p>Em nota, a Cemig lamentou a morte, disse que procurou os parentes e que segue apurando o ocorrido, ressaltando que o acidente aconteceu durante uma tempestade severa. A Defesa Civil de BH informou que acompanha as investigações.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/141624_151.jpg",
+  "credito_foto": "Reprodução/BH 24 Horas",
+  "fonte": "BH 24 Horas",
   "resumos": ""
  }
 ]
