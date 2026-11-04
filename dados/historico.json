@@ -7474,5 +7474,19 @@
   "fonte": "Gazeta Norte Mineira",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "12:15",
+  "id": "151219_9",
+  "bloco": "rmbh",
+  "portal": "politica",
+  "ed": "LAGOA SANTA",
+  "titulo": "STF julga hoje loterias municipais, e Lagoa Santa está entre as 9 cidades de Minas atingidas",
+  "titulo_orig": "Lagoa Santa está entre as cidades mineiras que podem ser impedidas de explorar loterias próprias; STF julga caso nesta quarta",
+  "link": "https://pordentrodetudo.com.br/lagoa-santa-esta-entre-as-cidades-mineiras-que-podem-ser-impedidas-de-explorar-loterias-proprias-stf-julga-caso-nesta-quarta/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-04/151219_9.jpg",
+  "media_id": "17878905078572608"
  }
 ]
