@@ -7418,5 +7418,61 @@
   "fonte": "CNN Brasil",
   "arte": "artes/2026-11-04/141328_329.jpg",
   "media_id": "18641822329050969"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "12:15",
+  "id": "151222_0",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH tem mais de 1 milhão de nomes negativados, e Feirão Serasa oferece descontos de até 99% até 6 de dezembro",
+  "titulo_orig": "Feirão Serasa em BH: Negocie dívidas com até 99% de desconto | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/04/com-mais-de-1-milhao-de-inadimplentes-bh-tem-feirao-para-negociar-dividas.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "12:15",
+  "id": "151228_170",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "PEDRO LEOPOLDO",
+  "titulo": "Pedal Só Delas comemora 11 anos com passeio de cerca de 30 km em Pedro Leopoldo nesta quinta",
+  "titulo_orig": "Pedal Só Delas celebra 11 anos com passeio especial em Pedro Leopoldo nesta quinta-feira",
+  "link": "https://pordentrodetudo.com.br/pedal-so-delas-celebra-11-anos-com-passeio-especial-em-pedro-leopoldo-nesta-quinta-feira/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "12:15",
+  "id": "151255_21",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Cleitinho comemora suspensão de R$ 32 milhões a Atlético, Cruzeiro e América e fala em \"outras prioridades\"",
+  "titulo_orig": "Cleitinho explica corte de patrocínio a clubes: \"Outras prioridades\"",
+  "link": "https://www.em.com.br/politica/2026/11/7532889-cleitinho-explica-corte-de-patrocinio-a-clubes-outras-prioridades.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "12:15",
+  "id": "151259_146",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Pesquisa com mais de 400 consumidores orienta comerciantes de Montes Claros para a Black Friday em evento na CDL",
+  "titulo_orig": "Black Friday: evento gratuito vai orientar comerciantes de Montes Claros sobre vendas e lucro - Rede Gazeta de Comunicação",
+  "link": "https://gazetanm.com.br/black-friday-evento-gratuito-vai-orientar-comerciantes-de-montes-claros-sobre-vendas-e-lucro/",
+  "fonte": "Gazeta Norte Mineira",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
