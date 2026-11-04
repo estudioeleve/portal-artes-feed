@@ -7614,5 +7614,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-04/161152_90.jpg",
   "media_id": "17894760441616576"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "14:14",
+  "id": "171156_212",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Rede Mater Dei abre 300 vagas para mamografia e exame de próstata gratuitos em BH e Contagem; inscrições vão até sexta",
+  "titulo_orig": "300 vagas de mamografia e exame de próstata gratuitos em BH e Contagem; saiba como se inscrever",
+  "link": "https://www.hojeemdia.com.br/saudeebemestar/300-vagas-de-mamografia-e-exame-de-prostata-gratuitos-em-bh-e-contagem-saiba-como-se-inscrever-1.1139450",
+  "fonte": "Hoje em Dia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "14:14",
+  "id": "171245_170",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Doze dias depois, ninguém foi preso por vandalismo no Clube da Esquina, e Polícia Civil aguarda laudos",
+  "titulo_orig": "Após 12 dias, vandalismo no Clube da Esquina segue sem solução em BH",
+  "link": "https://www.metropoles.com/minas-gerais/apos-12-dias-vandalismo-no-clube-da-esquina-segue-sem-solucao-em-bh",
+  "fonte": "Metrópoles",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "14:14",
+  "id": "171153_327",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "2ª Turma do STF valida relatórios do Coaf pedidos pela polícia antes da abertura de inquérito",
+  "titulo_orig": "STF valida envio de dados do Coaf à polícia antes do inquérito",
+  "link": "https://conjur.com.br/2026-nov-04/stf-valida-requisicao-de-rif-do-coaf-por-delegado-antes-do-inquerito/",
+  "fonte": "Consultor Jurídico",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "14:14",
+  "id": "171242_91",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Mulher de 60 anos está desaparecida há mais de uma semana em Betim, e bombeiros fazem buscas em área de mata",
+  "titulo_orig": "Idosa desaparece há uma semana e bombeiros fazem buscas em área de mata na Grande BH",
+  "link": "https://pordentrodetudo.com.br/idosa-desaparece-ha-uma-semana-e-bombeiros-fazem-buscas-em-area-de-mata-na-grande-bh/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
