@@ -8104,5 +8104,61 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-04/211032_63.jpg",
   "media_id": "18136566991674076"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "19:13",
+  "id": "221056_22",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Gari demitido denuncia pneus gastos e falhas nos freios de caminhões de coleta de lixo em BH",
+  "titulo_orig": "Gari denuncia más condições de caminhões de coleta de lixo em BH",
+  "link": "https://noticias.r7.com/minas-gerais/mg-record/video/gari-denuncia-mas-condicoes-de-caminhoes-de-coleta-de-lixo-em-bh-04112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "19:13",
+  "id": "221150_026",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Esgoto brota de poste há duas semanas no bairro Eldorado, em Contagem, e moradores cobram a Copasa",
+  "titulo_orig": "Tá na bronca: vazamento de esgoto transforma poste em 'chafariz' em Contagem, na Grande BH",
+  "link": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/video/ta-na-bronca-vazamento-de-esgoto-transforma-poste-em-chafariz-em-contagem-na-grande-bh-04112026/",
+  "fonte": "noticias.r7.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "19:13",
+  "id": "221100_58",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Guarda Municipal de BH empossa 19 novos subinspetores e chega a 146 profissionais na função",
+  "titulo_orig": "Guarda Municipal de BH passa a ter 146 subinspetores",
+  "link": "https://prefeitura.pbh.gov.br/noticias/guarda-municipal-de-bh-passa-ter-146-subinspetores",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "19:13",
+  "id": "221210_303",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Polícia Civil recupera 2,2 mil celulares em Minas com o Tá Entregue e já devolveu 1,7 mil às vítimas",
+  "titulo_orig": "Balanço 2023-2026: Projeto inovador da Polícia Civil, Tá Entregue já recuperou 2,2 mil celulares em Minas Gerais",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/balanco-2023-2026-projeto-inovador-da-policia-civil-ta-entregue-ja-recuperou-22-mil-celulares-em-minas-gerais",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
