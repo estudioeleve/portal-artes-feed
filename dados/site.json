@@ -1,17 +1,5 @@
 [
  {
-  "id": "070918_2",
-  "data": "2026-11-01T04:11:07-03:00",
-  "titulo": "Cerveja sem álcool ganha espaço em Minas, e rótulo de microcervejaria de BH leva ouro em concurso latino-americano",
-  "linha_fina": "Produtores mineiros apostam na bebida para o fim de ano; vendas de rótulo sem álcool de cervejaria artesanal cresceram 78%",
-  "categoria": "comercio",
-  "texto": "<p>A cerveja sem álcool está deixando de ser um produto de nicho em Minas Gerais e virou aposta da indústria de bebidas para o fim de ano. Depois da onda dos drinques prontos e de baixa caloria, cervejarias mineiras, das microcervejarias às de maior porte, têm investido em rótulos sem álcool para atrair um consumidor que passou a beber menos.</p>\n<p>Para o Sindicato das Indústrias de Cerveja e Bebidas de Minas Gerais (SindBebidas), lançar esse tipo de produto é uma forma de o produtor se diferenciar da concorrência. Segundo o representante da entidade, Cristiano Lamengo, a bebida passou a integrar as estratégias de inovação de várias cervejarias e está ligada a momentos como direção segura, atividade física, trabalho e escolhas mais equilibradas.</p>\n<p>A mudança de hábito aparece em pesquisa da Ipsos-Ipec feita para o Centro de Informações sobre Saúde e Álcool (Cisa): a abstinência de álcool entre pessoas de 18 a 24 anos subiu de 46% para 64%. Na faixa de 25 a 34 anos, passou de 47% para 61%.</p>\n<p>De olho nesse público, a microcervejaria Mythic Beer, no bairro Padre Eustáquio, na Região Oeste de Belo Horizonte, lançou a Iara, uma cerveja leve e cítrica com 0,5% de teor alcoólico, o que a classifica como sem álcool. O rótulo ganhou prata no Concurso Mineiro de Cervejas e ouro no Brasil Beer Cup 2026, que reuniu 80 jurados de 16 países e mais de 2 mil rótulos. Outras 16 cervejarias mineiras também foram premiadas.</p>\n<p>O primeiro lote da Iara teve 250 litros; o segundo, 500 litros, e a meta é produzir mais mil litros até o fim do ano, segundo o mestre cervejeiro e dono da Mythic Beer.</p>\n<p>Em escala maior, a Krug Bier informou que as vendas da Krug Zero, sem álcool e sem glúten, cresceram 78% entre julho e setembro em comparação com o mesmo período de 2025. De acordo com o diretor da empresa, Alexandre Bruzzi, o rótulo está entre os mais vendidos da cervejaria, e a expectativa é de procura forte nas festas de fim de ano.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/070918_2.jpg",
-  "credito_foto": "Foto: Mythic Beer/Divulgação (via g1)",
-  "fonte": "g1 Minas",
-  "resumos": ""
- },
- {
   "id": "070921_18",
   "data": "2026-11-01T04:11:07-03:00",
   "titulo": "Há 11 anos parado: Congresso tem ao menos 13 projetos para tornar inelegível quem comete violência contra a mulher",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/111705_29.jpg",
   "credito_foto": "CBMMG/Divulgação",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "112501_33",
+  "data": "2026-11-04T08:25:20-03:00",
+  "titulo": "Justiça homologa acordo de R$ 400 mil e responsáveis terão de devolver ponte histórica que sumiu em Prados",
+  "linha_fina": "Estrutura de 1880 foi retirada em junho e achada em Lima Duarte; termo com o MPMG prevê reinstalação e recuperação ambiental.",
+  "categoria": "minas-gerais",
+  "texto": "<p>A Justiça homologou o Termo de Ajustamento de Conduta (TAC) firmado entre o Ministério Público de Minas Gerais e os responsáveis pelo caso da ponte histórica que desapareceu em Prados, no Campo das Vertentes, em junho deste ano. O acordo prevê a devolução da estrutura ao local de origem e o pagamento de R$ 400 mil como compensação.</p>\n<p>O termo faz parte do inquérito civil aberto para apurar a retirada da ponte, localizada em um trecho da antiga Estrada de Ferro Oeste de Minas, entre Prados e Barroso. A reinstalação deverá ter acompanhamento técnico especializado e respeitar as autorizações exigidas pelos órgãos competentes.</p>\n<p>Do valor total, R$ 300 mil serão destinados a projetos de proteção, conservação e valorização de bens culturais e turísticos de Prados, e R$ 100 mil vão para iniciativas ambientais no município. O acordo também determina a recuperação da área degradada, com um Plano Técnico de Reconstituição da Flora e o monitoramento da vegetação por 36 meses.</p>\n<p>Datada de 1880 e pertencente ao patrimônio municipal, a ponte de ferro maciço tem cerca de 20 metros de comprimento e 5 de largura. Ela ficava em uma região conhecida como \"58\", entre a comunidade da Estação de Prados e a Envernada, perto da BR-265, e sumiu entre os dias 5 e 8 de junho. O caso passou a ser investigado pelas polícias Civil e Federal e pelo MPMG.</p>\n<p>A estrutura foi encontrada pela Polícia Civil no distrito de Mogol, na zona rural de Lima Duarte, na Zona da Mata, a cerca de 180 quilômetros de onde estava, em uma unidade do projeto Ibiti, empreendimento turístico e de preservação ambiental na região de Ibitipoca.</p>\n<p>A ponte havia sido comprada por R$ 700 mil pelo projeto. Em nota, o Ibiti afirmou que a aquisição foi feita de forma regular, junto a um comerciante do ramo de antiguidades.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/112501_33.jpg",
+  "credito_foto": "Polícia Civil de Minas Gerais/Reprodução",
+  "fonte": "BHAZ",
   "resumos": ""
  }
 ]
