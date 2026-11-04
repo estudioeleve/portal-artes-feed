@@ -6928,5 +6928,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-03/010924_140.jpg",
   "media_id": "18062015090801781"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "07:13",
+  "id": "101009_dist",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Dupla assalta distribuidora de bebidas em Contagem e leva R$ 17 mil; câmeras flagraram a ação",
+  "titulo_orig": "Vídeo: PM procura por suspeitos de roubar R$ 17 mil de distribuidora de bebidas na Grande BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/video-pm-procura-por-suspeitos-de-roubar-r-17-mil-de-distribuidora-de-bebidas-na-grande-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "07:13",
+  "id": "101111_179",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "PM apreende 50 quilos de pasta base de cocaína em Corolla na MG-255, em Frutal; motorista é preso",
+  "titulo_orig": "PM intercepta Corolla e apreende R$ 3 milhões em pasta base de cocaína em Minas Gerais",
+  "link": "https://www.otempo.com.br/cidades/2026/11/3/pm-intercepta-corolla-e-apreende-r-3-milhoes-em-pasta-base-de-cocaina-em-minas-gerais",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "07:13",
+  "id": "100921_13",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Governo estuda aplicativo para MEI pedir até R$ 5 mil pelo celular; inscrições ainda não estão abertas",
+  "titulo_orig": "Governo Federal anuncia aplicativo para MEI solicitar Pix de R$ 5 mil pelo celular; veja como vai funcionar",
+  "link": "https://www.portaltemponovo.com.br/governo-federal-anuncia-aplicativo-para-mei-solicitar-pix-de-5-mil-pelo-celular/",
+  "fonte": "Portal Tempo Novo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "07:13",
+  "id": "101122_30",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Sem Villalba e com Rojas no banco, Viña pode estrear como titular do Cruzeiro contra o Bahia",
+  "titulo_orig": "Com Villalba fora e Rojas em baixa, Viña pode ser titular do Cruzeiro pela primeira vez",
+  "link": "https://www.otempo.com.br/sports/cruzeiro/2026/11/4/com-villalba-fora-e-rojas-em-baixa-vina-pode-ser-titular-do-cruzeiro-pela-primeira-vez",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
