@@ -7810,5 +7810,61 @@
   "fonte": "BHAZ",
   "arte": "artes/2026-11-04/181101_4.jpg",
   "media_id": "17893941057684345"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "16:12",
+  "id": "190945_60",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Matozinhos conclui nova pintura da sinalização viária no bairro São Sebastião",
+  "titulo_orig": "sinalização viária em Matozinhos - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/matozinhos-conclui-revitalizacao-da-sinalizacao-viaria-no-bairro-sao-sebastiao/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "16:12",
+  "id": "190953_24",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Só 9,9% dos comerciantes pretendem contratar temporários no Natal, aponta Fecomércio MG",
+  "titulo_orig": "Apenas 9,9% dos comerciantes pretendem contratar temporários para o Natal, aponta Fecomércio MG",
+  "link": "https://varginhadigital.com.br/noticias/minas/contratacoes-temporarias-natal-2026-minas-gerais/",
+  "fonte": "Varginha Digital",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "16:12",
+  "id": "190956_22",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro x Bahia: jogo desta quinta no Mineirão é às 21h30, com transmissão pelo Prime Video",
+  "titulo_orig": "Cruzeiro x Bahia: horário, onde assistir, prováveis escalações, arbitragem e mais",
+  "link": "https://www.otempo.com.br/sports/cruzeiro/2026/11/4/cruzeiro-x-bahia-horario-onde-assistir-provaveis-escalacoes-arbitragem-e-mais",
+  "fonte": "O TEMPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "16:12",
+  "id": "190957_46",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Pé-de-Meia Universitário deve começar em 2027 com bolsa de R$ 700 para alunos do CadÚnico",
+  "titulo_orig": "Pé-de-Meia Universitário deve começar em 2027 para aluno do CadÚnico",
+  "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-universitario-deve-comecar-em-2027-para-aluno-do-cadunico",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
