@@ -8258,5 +8258,19 @@
   "fonte": "BH 24 Horas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "20:23",
+  "id": "231051_54",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Copom mantém Selic em 13,75%, e CDL/BH vê crédito caro às vésperas da Black Friday e do Natal",
+  "titulo_orig": "Entidades dizem que manutenção da Selic elevada dificulta retomada de investimentos | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/economia/entidades-dizem-que-manutencao-da-selic-elevada-dificulta-retomada-de-investimentos/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-04/231051_54.jpg",
+  "media_id": "18092936735235325"
  }
 ]
