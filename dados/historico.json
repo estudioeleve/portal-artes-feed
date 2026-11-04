@@ -7292,5 +7292,19 @@
   "fonte": "Ceará Agora",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "10:26",
+  "id": "131316_13",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Tremor de terra de magnitude 1,0 é registrado entre Matozinhos e Prudente de Morais, na Grande BH",
+  "titulo_orig": "Abalo sísmico de magnitude 1,0 é registrado entre Prudente de Morais e Matozinhos",
+  "link": "https://pordentrodetudo.com.br/abalo-sismico-de-magnitude-10-e-registrado-entre-prudente-de-morais-e-matozinhos/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-04/131316_13.jpg",
+  "media_id": "18102130103072059"
  }
 ]
