@@ -1,17 +1,5 @@
 [
  {
-  "id": "191310_15",
-  "data": "2026-11-02T16:15:02-03:00",
-  "titulo": "Cruzeiro fixa € 25 milhões como piso para negociar o goleiro Otávio, observado por clubes ingleses",
-  "linha_fina": "Tottenham e Crystal Palace acompanham o jogador de 20 anos, mas a diretoria não pretende vendê-lo na próxima janela.",
-  "categoria": "cruzeiro",
-  "texto": "<p>O Cruzeiro definiu um valor mínimo para ouvir propostas pelo goleiro Otávio, de 20 anos: 25 milhões de euros. O jogador é acompanhado por clubes da Inglaterra, mas a diretoria não pretende negociá-lo de imediato, segundo apuração da Agência RTI Esporte publicada pelo Terra.</p><p>Tottenham e Crystal Palace aparecem como os mais interessados. Os dois enviaram observadores ao Brasil, que estiveram na Arena MRV para ver o clássico entre Atlético e Cruzeiro e fazer relatórios sobre o goleiro. A avaliação já vinha sendo feita por análise de dados, mas os europeus querem conhecer de perto a rotina do atleta antes de qualquer avanço.</p><p>Otávio ganhou a posição depois da lesão grave do experiente Cássio e, com as boas atuações, se manteve como titular. O desempenho rendeu a primeira convocação para a Seleção Brasileira, feita por Carlo Ancelotti na Data Fifa de setembro e outubro. Ele foi titular na vitória por 4 a 0 sobre a Índia, o que aumentou o interesse do mercado.</p><p>De acordo com a reportagem, não há negociação em andamento, embora o estafe do goleiro espere uma proposta oficial na próxima janela de transferências. O dono da SAF, Pedro Lourenço, vê grande potencial de mercado no jogador, mas prefere esperar: a ideia é abrir conversas apenas na janela de verão europeu.</p><p>O goleiro teve o contrato renovado recentemente até 2031, com aumento salarial e da multa rescisória, o que dá ao clube mais força em eventual negociação.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-02/191310_15.jpg",
-  "credito_foto": "Foto: Divulgação/RTI Esporte",
-  "fonte": "Terra",
-  "resumos": ""
- },
- {
   "id": "191251_42",
   "data": "2026-11-02T16:15:02-03:00",
   "titulo": "Mau cheiro atribuído a abatedouro de aves revolta moradores e comerciantes de Ibirité",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/171047_html.jpg",
   "credito_foto": "Foto: Daniel Duarte/AFP",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "171702_km-h",
+  "data": "2026-11-05T14:17:22-03:00",
+  "titulo": "BH tem chuva extremamente forte nesta tarde; regionais Nordeste e Norte têm os maiores volumes",
+  "linha_fina": "Defesa Civil mantém alerta para pancadas com raios e rajadas de vento de cerca de 50 km/h até as 8h desta sexta-feira (6).",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Belo Horizonte registra chuva de intensidade extremamente forte na tarde desta quinta-feira (5). De acordo com a Defesa Civil municipal, por volta das 14h05 os maiores volumes estavam concentrados na regional Nordeste.</p><p>Na regional Norte, a chuva era forte naquele momento. Em Venda Nova e na Centro-Sul, o volume era moderado, enquanto a Leste registrava precipitação de fraca intensidade. Até a publicação da informação, o órgão não havia divulgado balanço de estragos.</p><p>A capital segue sob alerta para pancadas de chuva acompanhadas de raios e rajadas de vento em torno de 50 km/h. O aviso vale até as 8h desta sexta-feira (6).</p><p>A Defesa Civil orienta os moradores a evitar áreas de inundação e não trafegar por ruas sujeitas a alagamentos ou próximas a córregos e ribeirões durante a chuva forte. Também não se deve atravessar ruas alagadas nem deixar crianças brincando em enxurradas.</p><p>Outra recomendação é não se abrigar nem estacionar veículos debaixo de árvores. Quem mora em áreas de encosta e morro precisa redobrar a atenção. Em caso de rachaduras nas paredes ou surgimento de fendas, depressões e minas d'água no terreno, a Defesa Civil deve ser avisada imediatamente.</p><p>Cabos elétricos rompidos não devem ser tocados: a orientação é ligar para a Cemig, no 116, ou para a Defesa Civil, no 199. Durante os raios, o ideal é não permanecer em áreas abertas nem usar equipamentos elétricos.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/171702_km-h.jpg",
+  "credito_foto": "Foto: Fred Magno/O Tempo",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]

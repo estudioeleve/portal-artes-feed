@@ -8,6 +8,10 @@
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
 - "Notícias que eu te mandar aqui você pode postar na hora, não precisa colocar em programação." Publique assim que preparar, **sem esperar o intervalo entre posts**. Se ele disser "só no site", vai só no site, também na hora; senão, Instagram e site. Continuam valendo as regras de moldura, título, foto e legenda.
 
+## 🌧️ CHUVA EM BH E REGIÃO: ATENÇÃO MÁXIMA, PRINCIPALMENTE SANTA LUZIA (Israel, 05/11/2026)
+- "Quero que você dê uma atenção muito grande nas chuvas em Belo Horizonte e região metropolitana, principalmente em Santa Luzia." **No começo de cada rodada e em cada espera entre posts**, procure chuva, temporal, granizo, alagamento, enxurrada, queda de árvore, deslizamento, falta de luz, alerta da Defesa Civil (radar e `WebSearch`).
+- Notícia urgente de chuva **passa na frente da programação e sai na hora**, sem esperar o intervalo. Só publique o que tiver fonte: não invente estrago nem bairro.
+
 ## 🚀 CARGA TOTAL E FOCO EM SANTA LUZIA (pedido do Israel, 04/11/2026) — manda mais que as outras regras de volume e de tema
 A redução provisória de 01/11 acabou. "Nós estamos falhando em Santa Luzia."
 - **Volume**: **100 posts por dia no Instagram**: **6 posts por rodada** (a rodada roda de hora em hora, das 6h às 23h), um a cada 8 a 10 minutos. **Notícias só para o site: 8 por rodada.** Se o dia estiver atrasado, 7 posts.
