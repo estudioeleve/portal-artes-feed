@@ -9462,5 +9462,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-05/111000_45.jpg",
   "media_id": "18014238347972248"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "08:43",
+  "id": "110948_115",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Comércio abriu 3.212 vagas em Minas em setembro, mas saldo de empregos no estado cai 32%",
+  "titulo_orig": "Saldo de empregos formais registra queda de 32% em Minas Gerais - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/saldo-de-empregos-formais-registra-queda-de-32-em-minas-gerais/",
+  "fonte": "Diário do Comércio",
+  "arte": "artes/2026-11-05/110948_115.jpg",
+  "media_id": "18128201909309265"
  }
 ]
