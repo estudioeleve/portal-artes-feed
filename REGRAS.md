@@ -5,6 +5,9 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
+- "Notícias que eu te mandar aqui você pode postar na hora, não precisa colocar em programação." Publique assim que preparar, **sem esperar o intervalo entre posts**. Se ele disser "só no site", vai só no site, também na hora; senão, Instagram e site. Continuam valendo as regras de moldura, título, foto e legenda.
+
 ## 🚀 CARGA TOTAL E FOCO EM SANTA LUZIA (pedido do Israel, 04/11/2026) — manda mais que as outras regras de volume e de tema
 A redução provisória de 01/11 acabou. "Nós estamos falhando em Santa Luzia."
 - **Volume**: **100 posts por dia no Instagram**: **6 posts por rodada** (a rodada roda de hora em hora, das 6h às 23h), um a cada 8 a 10 minutos. **Notícias só para o site: 8 por rodada.** Se o dia estiver atrasado, 7 posts.
