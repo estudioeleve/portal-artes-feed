@@ -11254,5 +11254,19 @@
   "fonte": "TV KZ",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "17:27",
+  "id": "201252_1",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Temporal deixa bairros de 3 regionais de BH sem luz; reparo pode ir até a madrugada",
+  "titulo_orig": "Tempestade provoca falta de energia em 3 regiões de BH na tarde desta quinta (5), diz Cemig",
+  "link": "https://www.otempo.com.br/cidades/2026/11/5/tempestade-provoca-falta-de-energia-em-3-regioes-de-bh-na-tarde-desta-quinta-5-diz-cemig",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-05/201252_1.jpg",
+  "media_id": "18653476771031104"
  }
 ]
