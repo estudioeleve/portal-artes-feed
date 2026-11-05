@@ -9448,5 +9448,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "08:33",
+  "id": "111000_45",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Polícia Civil faz operação em Contagem e apura 4 mortes por espancamento ligadas ao tráfico",
+  "titulo_orig": "PC investiga homicídios ligados ao tráfico em Contagem; grupo tem ligação com facção do RJ | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/pc-investiga-homicidios-ligados-ao-trafico-em-contagem-grupo-tem-ligacao-com-faccao-do-rj/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-05/111000_45.jpg",
+  "media_id": "18014238347972248"
  }
 ]
