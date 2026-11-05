@@ -8538,5 +8538,19 @@
   "fonte": "Transporte Moderno",
   "arte": "artes/2026-11-04/001217_292.jpg",
   "media_id": "18138480877728756"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "22:19",
+  "id": "011326_160",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SABARÁ",
+  "titulo": "Incêndio atinge dois cômodos de casa no bairro Santo Antônio de Pádua, em Sabará; não há feridos",
+  "titulo_orig": "Incêndio em residência em Sabará mobiliza Corpo de Bombeiros e atinge dois cômodos - folhadesabara.com.br",
+  "link": "https://folhadesabara.com.br/noticia/60282/incendio-em-residencia-em-sabara-mobiliza-corpo-de-bombeiros-e-atinge-dois-comodos",
+  "fonte": "folhadesabara.com.br",
+  "arte": "artes/2026-11-04/011326_160.jpg",
+  "media_id": "18499433740108331"
  }
 ]
