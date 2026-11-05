@@ -1,17 +1,5 @@
 [
  {
-  "id": "125645_119",
-  "data": "2026-11-03T09:59:35-03:00",
-  "titulo": "Confins espera 43,3 mil passageiros nesta terça, o dia mais movimentado da volta de Finados",
-  "linha_fina": "BH Airport prevê 180,9 mil pessoas em cinco dias; novo pico vem no feriado da Consciência Negra.",
-  "categoria": "regiao-metropolitana",
-  "texto": "<p>O Aeroporto Internacional de Belo Horizonte, em Confins, na Região Metropolitana, deve receber 43.373 passageiros nesta terça-feira (3), na volta do feriado de Finados. A previsão é da concessionária BH Airport e faz deste o dia mais cheio do período.</p><p>A projeção considera cinco dias de operação, da sexta-feira (30 de outubro) até esta terça, com 180.970 passageiros no total. A média é de cerca de 36,2 mil por dia, ou seja, o movimento de hoje fica mais de 7 mil acima dela. Sozinha, a terça concentra perto de 24% de todo o fluxo esperado. Os números somam quem embarca e quem desembarca, e o balanço real só sai depois do fim da operação.</p><p>A orientação da administradora é chegar com pelo menos duas horas de antecedência para voos nacionais e três horas para internacionais, além de conferir os documentos antes de sair de casa. Em viagens dentro do país, adultos precisam apresentar documento oficial válido com foto. Para o exterior, as exigências mudam conforme o destino.</p><p>O próximo pico já está no calendário. Entre 19 e 23 de novembro, período do feriado da Consciência Negra, a expectativa é de 181.795 passageiros, apenas 825 a mais que em Finados. No dia de maior fluxo desse intervalo, a estimativa chega a 45.468 pessoas, cerca de 2,1 mil a mais que nesta terça.</p><p>Somadas, as duas janelas devem levar aproximadamente 363 mil passageiros a Confins, quase um terço do previsto para o mês. Em novembro, a concessionária espera 1,12 milhão de passageiros e mais de 9,5 mil pousos e decolagens. As companhias aéreas programaram 96 voos extras, e entre os destinos procurados aparecem Ilhéus, na Bahia, Parauapebas, no Pará, e o Rio de Janeiro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/125645_119.jpg",
-  "credito_foto": "Foto: ABBPhoto/Envato",
-  "fonte": "Moon BH",
-  "resumos": ""
- },
- {
   "id": "125648_111",
   "data": "2026-11-03T09:59:35-03:00",
   "titulo": "Empresas do Simples têm até 20 de dezembro para cancelar escolha sobre IBS e CBS; decisão é definitiva",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/202144_326.jpg",
   "credito_foto": "Foto: CBMMG/Divulgação",
   "fonte": "TV KZ",
+  "resumos": ""
+ },
+ {
+  "id": "205924_rio",
+  "data": "2026-11-05T17:59:24-03:00",
+  "titulo": "Rio das Velhas ultrapassa 3 metros em Santa Luzia por volta das 17h45",
+  "linha_fina": "Nível estava acima de 2 metros às 17h15; água continua chegando das regiões mais altas.",
+  "categoria": "santa-luzia",
+  "texto": "<p>O nível do Rio das Velhas continua subindo em Santa Luzia nesta quinta-feira (5). Por volta das 17h45, a água já ultrapassava a marca dos 3 metros, conforme as informações acompanhadas pelo Portal ONE News.</p><p>A nova atualização ocorre cerca de 30 minutos depois de um registro que apontava o rio acima dos 2 metros, por volta das 17h15.</p><p>A elevação chama a atenção após uma tarde de chuva intensa, com registros de alagamentos e quedas de árvores em diferentes bairros da cidade.</p><p><strong>Água continua chegando das regiões mais altas</strong></p><p>O volume de água que desce das regiões mais altas continua chegando a Santa Luzia, o que pode contribuir para novas elevações do Rio das Velhas nas próximas horas.</p><p>As águas provenientes de regiões como Sabará, Caeté e Belo Horizonte também fazem parte da preocupação neste momento.</p><p>Ainda não há confirmação de que o rio esteja próximo de transbordar.</p><p><strong>Defesa Civil ainda não informou possíveis medidas</strong></p><p>Até esta atualização, a Defesa Civil Municipal ainda não havia se pronunciado sobre quais ações poderão ser adotadas caso o nível do Rio das Velhas passe a subir de maneira mais rápida.</p><p>Também não foram divulgadas, nas informações disponíveis ao portal, orientações específicas relacionadas à elevação registrada às 17h45.</p><p>O Portal ONE News continua acompanhando a situação e trará novas atualizações sobre o nível do rio e eventuais comunicados das autoridades.</p><p>Continue acompanhando nossa cobertura e conte nos comentários como está a situação na sua região.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/205924_rio.jpg",
+  "credito_foto": "Foto: Portal ONE News",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]

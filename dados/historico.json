@@ -11282,5 +11282,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-05/201305_23.jpg",
   "media_id": "18132556234749334"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "17:59",
+  "id": "205924_rio",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Rio das Velhas ultrapassa 3 metros em Santa Luzia por volta das 17h45",
+  "titulo_orig": "",
+  "link": "portal-one-news:205924_rio",
+  "fonte": "Portal ONE News",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
