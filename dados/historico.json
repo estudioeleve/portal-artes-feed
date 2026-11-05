@@ -10246,5 +10246,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-05/151147_63.jpg",
   "media_id": "18120361712061836"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "12:36",
+  "id": "151133_23",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Empreendedor: hoje é o último dia para buscar verba sem devolução e crédito para inovar, em BH",
+  "titulo_orig": "Encontro de Automação apresenta linhas de financiamento para empresas em BH - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/financiamento-inovacao-ena-2026/",
+  "fonte": "Diário do Comércio",
+  "arte": "artes/2026-11-05/151133_23.jpg",
+  "media_id": "17974360062176248"
  }
 ]
