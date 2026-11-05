@@ -1,17 +1,5 @@
 [
  {
-  "id": "181125_72",
-  "data": "2026-11-03T15:14:12-03:00",
-  "titulo": "Demora de Damião em apoiar nome à presidência da Câmara de BH incomoda vereadores da base",
-  "linha_fina": "Eleição da Mesa Diretora será em 12 de dezembro; sem posição do prefeito, parlamentares seguem livres para negociar.",
-  "categoria": "politica",
-  "texto": "<p>O prefeito de Belo Horizonte, Álvaro Damião (União Brasil), ainda não disse quem vai apoiar na disputa pela presidência da Câmara Municipal, e a demora tem causado incômodo em parte da base governista. A informação é da Rede 98, que ouviu parlamentares reservadamente. A eleição está marcada para 12 de dezembro.</p><p>Segundo a emissora, parte dos vereadores cobra uma posição mais clara e avalia que a espera abre caminho para a articulação de outros grupos políticos. Nos bastidores, existe a impressão de que o prefeito estaria contando com os votos da base como garantidos, seja qual for a escolha entre Helinho da Farmácia (PSD) e Diego Sanches (Solidariedade).</p><p>Os interlocutores ouvidos ponderam que o apoio a qualquer um dos dois depende de negociações e acordos internos, e que a proximidade com o Executivo, sozinha, não assegura a maioria necessária para eleger o próximo presidente. Enquanto não há definição, os parlamentares continuam livres para conversar com outras candidaturas.</p><p>É nesse cenário que o grupo ligado ao ex-secretário de Estado Marcelo Aro (PP) tem ampliado as conversas, de acordo com a Rede 98, em busca de apoio para seus projetos na Mesa Diretora. A disputa também tem outros interessados no comando da Casa, como Marcela Trópia (Novo) e Irlan Melo (PL).</p><p>Até agora, nenhuma candidatura reuniu consenso capaz de garantir a maioria dos votos. Daqui até dezembro, a definição do nome apoiado pela prefeitura e a capacidade de articulação de cada grupo devem pesar na formação dos acordos dentro do Legislativo municipal.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/181125_72.jpg",
-  "credito_foto": "Foto: Abraão Bruck/CMBH",
-  "fonte": "Rede 98",
-  "resumos": ""
- },
- {
   "id": "181137_53",
   "data": "2026-11-03T15:14:12-03:00",
   "titulo": "\"É muito cedo\", diz Kalil, que não descarta tentar voltar à Prefeitura de BH em 2028",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/231914_394.jpg",
   "credito_foto": "Foto: Reprodução/g1",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "232558_251",
+  "data": "2026-11-05T20:26:06-03:00",
+  "titulo": "Árvores de grande porte caem sobre carros em estacionamento de Ouro Preto durante ventania",
+  "linha_fina": "Bombeiros foram acionados ao bairro Saramenha nesta quinta; ainda não há informação sobre danos ou pessoas atingidas.",
+  "categoria": "minas-gerais",
+  "texto": "<p>Árvores de grande porte caíram durante a ventania desta quinta-feira (5) no bairro Saramenha, em Ouro Preto, na Região Central de Minas. Vídeo enviado ao BHAZ mostra galhos e troncos sobre o pátio do estacionamento de uma empresa, com carros embaixo.</p><p>O Corpo de Bombeiros foi acionado para cortar uma árvore caída em via pública. O endereço registrado é a Avenida Américo Renê Gianetti, nas proximidades da Rua Simão Lacerda.</p><p>Até a publicação da reportagem de origem, não havia informações sobre danos ou sobre pessoas atingidas. O BHAZ informou ter procurado a Prefeitura de Ouro Preto, a Secretaria de Segurança e Trânsito, responsável pela Defesa Civil municipal, e a empresa.</p><p>A ventania desta quinta fez parte de um dia de temporais em Minas. Balanço do Corpo de Bombeiros contabilizou 150 árvores caídas no estado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/232558_251.jpg",
+  "credito_foto": "Imagens cedidas ao BHAZ",
+  "fonte": "BHAZ",
   "resumos": ""
  }
 ]

@@ -11716,5 +11716,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-05/231348_142.jpg",
   "media_id": "18080654405729617"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "20:26",
+  "id": "232558_251",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Árvores de grande porte caem sobre carros em estacionamento de Ouro Preto durante ventania",
+  "titulo_orig": "VÍDEO: Árvores de grande porte caem sobre carros durante ventania em Ouro Preto, MG",
+  "link": "https://bhaz.com.br/noticias/video-arvores-de-grande-porte-caem-sobre-carros-durante-ventania-em-ouro-preto-mg/",
+  "fonte": "bhaz.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
