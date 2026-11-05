@@ -1,17 +1,5 @@
 [
  {
-  "id": "231314_24",
-  "data": "2026-11-02T20:15:24-03:00",
-  "titulo": "Marinho quer senadores de direita mostrando o voto para enfrentar Alcolumbre na disputa pela Presidência do Senado",
-  "linha_fina": "PL deve lançar a candidatura de Rogério Marinho nesta quarta (4); voto é secreto, e a eleição está marcada para 1º de fevereiro de 2027.",
-  "categoria": "politica",
-  "texto": "<p>O senador Rogério Marinho (PL-RN), líder da oposição no Senado, vai defender que os colegas de direita tornem público o voto na eleição para a presidência da Casa, marcada para 1º de fevereiro de 2027. O objetivo é evitar que parlamentares desse campo apoiem em segredo a reeleição de Davi Alcolumbre (União-AP), segundo o Agora RN e a Folha de S.Paulo.</p>\n<p>\"Vou defender. É difícil justificar em público o voto no Alcolumbre, né?\", disse Marinho em declaração divulgada nesta segunda-feira (2). A proposta chega à reunião dos senadores do PL marcada para esta quarta-feira (4), em Brasília, quando a bancada deve definir a estratégia para a disputa e lançar oficialmente a candidatura dele.</p>\n<p>O regimento interno prevê voto secreto na escolha da Mesa Diretora, com cédulas depositadas em urna. Nada impede, porém, que cada senador mostre a própria cédula aos presentes antes de votar, e é nesse gesto que a oposição aposta. Em 2019, o próprio Alcolumbre tentou aprovar o voto aberto, mas a manobra foi derrubada por liminar do ministro Dias Toffoli, do Supremo Tribunal Federal. Mesmo assim, senadores exibiram as cédulas antes de colocá-las na urna.</p>\n<p>De acordo com a Folha, o encontro de quarta-feira deve ter também representantes de outros partidos, para mostrar apoio amplo na direita. Os senadores do Novo devem comparecer: a legenda elegeu Marcel Van Hattem (RS), Deltan Dallagnol (PR) e Lahesio Bonfim (MA). O PL terá 29 senadores em 2027 e costura apoios no PP, no União Brasil, no Republicanos e no PSDB. Nas contas da oposição, há uma maioria teórica de 45 a 50 senadores comprometidos com Marinho.</p>\n<p>\"Rogério é o candidato do PL e vamos articular com a bancada, partidos aliados e seus parlamentares também avulsos\", afirmou o líder da bancada, Carlos Portinho (RJ).</p>\n<p>Do outro lado, Alcolumbre é candidato à reeleição e deve contar com o apoio do presidente Lula, de acordo com a BandNews TV. A senadora Tereza Cristina (PP-MS) também manifesta interesse em concorrer e criticou a decisão da cúpula da federação União Brasil-PP de declarar apoio ao atual presidente.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-02/231314_24.jpg",
-  "credito_foto": "Foto: Reprodução/BandNews TV",
-  "fonte": "BandNews TV, Agora RN e Folha de S.Paulo",
-  "resumos": ""
- },
- {
   "id": "232536_118",
   "data": "2026-11-02T20:25:51-03:00",
   "titulo": "Petróleo fecha em queda de mais de 7% com sinais de avanço nas negociações entre EUA e Irã",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/182528_129.jpg",
   "credito_foto": "Foto: Sebrae Minas",
   "fonte": "Portal Gerais",
+  "resumos": ""
+ },
+ {
+  "id": "182732_agem",
+  "data": "2026-11-05T15:27:50-03:00",
+  "titulo": "Temporal alaga Via Expressa perto da Arena MRV e deixa trânsito lento no bairro Califórnia, em BH",
+  "linha_fina": "Trecho fica na região Noroeste, uma das áreas sob alerta severo da Defesa Civil; orientação é evitar vias sujeitas a alagamento.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A chuva extremamente forte que atinge Belo Horizonte na tarde desta quinta-feira (5) provocou alagamento e deixou o trânsito lento na Via Expressa, no trecho próximo à Arena MRV, no bairro Califórnia, região Noroeste da capital.</p>\n<p>A cidade está sob alerta de chuva com raios e rajadas de vento em torno de 50 km/h até as 8h de sexta-feira (6). Ainda nesta tarde, a Defesa Civil de BH também emitiu alerta severo de chuvas intensas, com risco de enxurradas e alagamentos, para as regiões Oeste, Noroeste, Pampulha e Venda Nova.</p>\n<p>O órgão recomenda redobrar a atenção, evitar áreas de inundação e não trafegar por vias sujeitas a alagamentos ou próximas a córregos e ribeirões durante os temporais.</p>\n<p>Entre as demais orientações, a Defesa Civil pede que ninguém atravesse ruas alagadas nem deixe crianças brincando em enxurradas ou perto de córregos. Também não se deve buscar abrigo ou estacionar debaixo de árvores, e quem vive em encostas e morros precisa de atenção especial.</p>\n<p>Cabos elétricos rompidos não devem ser tocados: nesses casos, a orientação é ligar imediatamente para a Cemig, no 116, ou para a Defesa Civil, no 199. Rachaduras nas paredes, fendas, depressões ou minas d'água no terreno também devem ser comunicadas ao órgão. Em caso de raios, a recomendação é não ficar em áreas abertas nem usar equipamentos elétricos.</p>\n<p>Moradores podem receber os avisos pelo canal público da Defesa Civil no WhatsApp ou por SMS, enviando o CEP da rua para o número 40199.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/182732_agem.jpg",
+  "credito_foto": "Foto: Reprodução/O Tempo",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
