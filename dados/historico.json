@@ -11664,20 +11664,6 @@
  {
   "data": "2026-11-05",
   "hora": "20:19",
-  "id": "231402_115",
-  "bloco": "politica",
-  "portal": "politica",
-  "ed": "POLÍTICA",
-  "titulo": "TCE decide na terça se mantém suspensão de R$ 32 milhões em patrocínio de estatais a Atlético, Cruzeiro e América",
-  "titulo_orig": "Liminar que suspendeu patrocínio de estatais a Atlético, América e Cruzeiro será analisada pelo TCE na semana que vem",
-  "link": "https://ofator.com.br/informacao/liminar-que-suspendeu-patrocinio-de-estatais-a-atletico-america-e-cruzeiro-sera-analisada-pelo-tce-na-semana-que-vem/",
-  "fonte": "O Fator",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-05",
-  "hora": "20:19",
   "id": "231644_401",
   "bloco": "minas",
   "portal": "one",
@@ -11716,5 +11702,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "20:25",
+  "id": "231348_142",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Chuva segue até sábado em BH, e domingo de Enem também pode ter pancadas fortes, diz Inmet",
+  "titulo_orig": "Chuva em BH: meteorologista explica fenômeno que causou tempestade nesta quinta (5) | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/chuva-em-bh-meteorologista-explica-fenomeno-que-causou-tempestade-nesta-quinta-5/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-05/231348_142.jpg",
+  "media_id": "18080654405729617"
  }
 ]
