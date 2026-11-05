@@ -1,17 +1,5 @@
 [
  {
-  "id": "122247_etim",
-  "data": "2026-11-02T09:24:45-03:00",
-  "titulo": "Stellantis abre 20 vagas gratuitas em curso profissionalizante em Betim, com bolsa-auxílio e inscrições até 29 de novembro",
-  "linha_fina": "Programa Formare é voltado a estudantes de escola pública, dura nove meses e será na fábrica de Betim. Inscrições vão até 29 de novembro.",
-  "categoria": "betim",
-  "texto": "<p>A Stellantis abriu as inscrições para a turma de 2027 do Programa Formare em Betim, na Região Metropolitana de Belo Horizonte. São 20 vagas gratuitas para o curso de Assistente de Operações Automotivas Industriais, e os interessados têm até o dia 29 de novembro para se candidatar.</p><p>A formação tem duração de nove meses e soma 900 horas de atividades presenciais, realizadas nas instalações da própria montadora na cidade. Além das aulas sem custo, os alunos recebem bolsa-auxílio, alimentação, transporte e assistência médica ambulatorial durante o período do curso.</p><p>O programa tem público definido. Podem participar candidatos que estejam cursando ou já tenham concluído o ensino médio integralmente em escola pública e que tenham renda familiar por pessoa de até um salário-mínimo. Também é preciso atender aos critérios de idade estabelecidos pelo programa e não ter participado de cursos técnicos ou de iniciativas equivalentes de formação profissional.</p><p>A candidatura é feita exclusivamente pela internet, na plataforma AVA, da Fundação Iochpe. Não há outra forma de inscrição, por isso quem pretende concorrer deve conferir as exigências na plataforma antes de enviar os dados.</p><p>O curso é voltado às atividades de operação na indústria automotiva, e as 20 vagas abertas agora são para a turma de 2027 do programa em Betim.</p><p>Quem se encaixa no perfil tem pouco menos de um mês para fazer a inscrição, já que o prazo termina em 29 de novembro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-02/122247_etim.jpg",
-  "credito_foto": "Foto: Reprodução/Betim Online",
-  "fonte": "Betim Online",
-  "resumos": ""
- },
- {
   "id": "122146_111",
   "data": "2026-11-02T09:24:45-03:00",
   "titulo": "BH oferece sepultamento gratuito a famílias em vulnerabilidade; mais de 450 já foram atendidas neste ano",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/131809_19.jpg",
   "credito_foto": "Foto: Rafaella Ribeiro/CMBH",
   "fonte": "O Fator",
+  "resumos": ""
+ },
+ {
+  "id": "132216_171",
+  "data": "2026-11-05T10:22:29-03:00",
+  "titulo": "Piracema começa em Minas: pesca tem restrições até 28 de fevereiro para proteger a reprodução dos peixes",
+  "linha_fina": "Regras variam conforme a legislação de cada região; pescadores profissionais e amadores devem consultar as normas dos órgãos ambientais.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O período da Piracema 2026/2027 começou no último fim de semana e vai até 28 de fevereiro de 2027. Durante o defeso, a pesca fica sujeita a restrições, para garantir que dezenas de espécies consigam se reproduzir e para ajudar a manter o equilíbrio dos rios e demais ambientes aquáticos.</p><p>Nessa época, vários peixes fazem o movimento migratório conhecido como subida dos peixes: deixam as áreas mais fundas e nadam até as cabeceiras dos rios, onde encontram condições melhores para a reprodução. É esse ciclo que renova os estoques naturais e garante a continuidade das espécies.</p><p>As regras de pesca no período variam de acordo com a legislação ambiental de cada região. Por isso, pescadores profissionais e amadores precisam verificar as normas definidas pelos órgãos ambientais antes de sair para pescar, para evitar práticas proibidas.</p><p>O objetivo das restrições é diminuir a pressão sobre os peixes no momento mais delicado do ciclo de vida deles, permitindo que novos indivíduos sejam incorporados às populações naturais. A medida também interessa a quem vive da pesca, porque ajuda a manter a atividade sustentável nos próximos anos.</p><p>A fiscalização é apontada como peça importante para combater a pesca irregular até o fim do defeso. Na região de Araguari, no Triângulo Mineiro, e em outras quatro cidades, o trabalho é do 2º Pelotão da Polícia Militar de Meio Ambiente.</p><p>Nessa área, os militares concentram a atuação nas represas de Capim Branco I e II, Jusante, Emborcação e Miranda, além do rio Paranaíba.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/132216_171.jpg",
+  "credito_foto": "Foto: Reprodução/Gazeta do Triângulo",
+  "fonte": "Gazeta do Triângulo",
   "resumos": ""
  }
 ]
