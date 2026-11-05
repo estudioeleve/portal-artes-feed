@@ -10470,5 +10470,33 @@
   "fonte": "Hoje em Dia",
   "arte": "artes/2026-11-05/161036_331.jpg",
   "media_id": "18089175971705879"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "13:58",
+  "id": "161122_147",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista: 62,8% do comércio de BH vai entrar na Black Friday; veja o que os concorrentes vão fazer",
+  "titulo_orig": "Black Friday 2026: consumidores de BH devem parcelar compras no crédito em até seis vezes",
+  "link": "https://www.hojeemdia.com.br/economiaefinancas/black-friday-2026-consumidores-de-bh-devem-parcelar-compras-no-credito-em-ate-seis-vezes-1.1139595",
+  "fonte": "Hoje em Dia",
+  "arte": "artes/2026-11-05/161122_147.jpg",
+  "media_id": "18110066330461488"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "13:58",
+  "id": "165837_VilaOlga",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Chuva derruba árvore de grande porte no Vila Olga; Defesa Civil está no local",
+  "titulo_orig": "Chuva provoca queda de árvore de grande porte e mobiliza a Defesa Civil.",
+  "link": "manual:israel-vila-olga-arvore-2026-11-05",
+  "fonte": "Gustavo Maciel | @gsm.clicks",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
