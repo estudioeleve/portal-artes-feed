@@ -11072,5 +11072,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-05/191134_41.jpg",
   "media_id": "17997060068840779"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "16:37",
+  "id": "191513_120",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Raio atinge primos em trilha de Ouro Preto; jovem tem 25% do corpo queimado e o tênis explode",
+  "titulo_orig": "Raio em Ouro Preto: primos são atingidos em trilha no Itacolomi | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/05/queda-de-raio-em-ouro-preto-deixa-dois-primos-feridos-na-trilha-da-itacolomi.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-05/191513_120.jpg",
+  "media_id": "17981332716380829"
  }
 ]
