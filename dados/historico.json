@@ -9246,11 +9246,25 @@
   "bloco": "brasil",
   "portal": "politica",
   "ed": "POLÍTICA",
-  "titulo": "Conselho de minerais críticos tem primeira reunião com Lula nesta quinta, dois meses após ser criado",
+  "titulo": "Conselho de minerais críticos tem primeira reunião com Lula nesta quinta, quase dois meses após ser criado",
   "titulo_orig": "Lula faz a 1ª reunião do conselho de minerais críticos na 5ª feira",
   "link": "https://www.poder360.com.br/poder-governo/lula-faz-a-1a-reuniao-do-conselho-de-minerais-criticos-na-5a-feira/",
   "fonte": "Poder360",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "07:28",
+  "id": "101316_75",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Cinco anos após a morte, Marília Mendonça segue no Top 5 das músicas mais ouvidas no Spotify",
+  "titulo_orig": "Cinco anos após morte, Marília Mendonça se mantém no Top 5 das músicas mais ouvidas da história no Spotify   | G1",
+  "link": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/11/05/cinco-anos-apos-morte-marilia-mendonca-se-mantem-no-top-5-das-musicas-mais-ouvidas-da-historia-no-spotify.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-05/101316_75.jpg",
+  "media_id": "17918918454261062"
  }
 ]
