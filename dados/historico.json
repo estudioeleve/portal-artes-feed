@@ -9056,5 +9056,19 @@
   "fonte": "RCWTV",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "06:32",
+  "id": "091145_1",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH entra na temporada de chuvas com 5 obras paradas, duas delas em reservatórios de Venda Nova",
+  "titulo_orig": "BH tem obras de prevenção a enchentes paradas em novo período chuvoso | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/05/bh-entra-no-periodo-chuvoso-com-5-obras-contra-alagamentos-e-deslizamentos-paradas.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-05/091145_1.jpg",
+  "media_id": "18131504656698806"
  }
 ]
