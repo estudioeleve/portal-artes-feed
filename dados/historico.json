@@ -10428,5 +10428,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-05/161104_0.jpg",
   "media_id": "17996343834109510"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "13:31",
+  "id": "161109_28",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Inmet emite alerta amarelo de tempestade com granizo e ventos de até 60 km/h para BH e região",
+  "titulo_orig": "Tempestade com granizo e ventos de até 60 km/h leva Inmet a emitir aviso amarelo em Belo Horizonte e região",
+  "link": "https://www.otempo.com.br/tempo/2026/11/5/tempestade-com-granizo-e-ventos-de-ate-60-km-h-leva-inmet-a-emitir-aviso-amarelo-em-belo-horizonte-e-regiao",
+  "fonte": "O TEMPO",
+  "arte": "artes/2026-11-05/161109_28.jpg",
+  "media_id": "18442018576182141"
  }
 ]
