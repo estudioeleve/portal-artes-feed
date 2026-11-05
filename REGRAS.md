@@ -41,6 +41,11 @@ A redução provisória de 01/11 acabou. "Nós estamos falhando em Santa Luzia."
   não postar só de um. Ex.: Grêmio x Atlético, semifinal da Copa do Brasil, 01/11 18h30 (a prévia saiu em 31/10 22h49; falta o resultado depois do jogo, ~20h30).
 - Se não houver notícia de esporte que interesse de verdade, **não poste esporte** (as vagas vão para outros temas).
 
+## ⛔ NUNCA REPETIR FOTO NO FEED (Israel, 05/11/2026: "Não deixa acontecer novamente"; a mesma foto da fachada da ALMG saiu lado a lado, 07h03 e 07h13)
+- **Não usar no Instagram foto já usada nos últimos 3 dias**, mesmo em notícia diferente e mesmo com outro corte. A trava `robo/foto_repetida.py` roda dentro do `links.py`: se ele imprimir **FOTO REPETIDA**, **não publique**: troque a foto, gere a arte de novo e faça o push.
+- **Foto de arquivo do mesmo lugar também não**, ainda que seja outra foto (fachada da ALMG, Câmara, Prefeitura, Mineirão, sede de órgão): a trava só pega a mesma imagem, então confira a olho os **12 últimos posts** antes de escolher a foto. Se a matéria só tiver foto genérica já usada, busque outra (`coletar.py <URL> --anexar`) ou deixe a notícia só para o site.
+- Vale também para rodadas diferentes e sessões manuais: antes de publicar, olhe `dados/historico.json` e as artes do dia.
+
 ## ⛔ NUNCA POST SEM MOLDURA (Israel, 04/11/2026 ~20h: "Postagem sem o padrão????", saiu a foto crua das pichações de Vespasiano)
 - Vale para **qualquer sessão**, automática ou manual: no Instagram só vai a **arte de `artes/`** (moldura, etiqueta e título em 3 linhas), com o link do `links.py`.
   **Nunca** publicar imagem de `site/` ou `fotos/`: essas são fotos cruas, só para o site.
