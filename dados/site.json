@@ -1,17 +1,5 @@
 [
  {
-  "id": "200958_48",
-  "data": "2026-11-01T17:11:21-03:00",
-  "titulo": "Suspeito baleado em perseguição foge pela janela do banheiro de hospital em Nova Lima",
-  "linha_fina": "Homem de 26 anos estava sob escolta após ser atingido no braço durante fuga da Guarda Civil; ele não foi encontrado.",
-  "categoria": "regiao-metropolitana",
-  "texto": "<p>Um homem de 26 anos, suspeito de envolvimento com o tráfico de drogas, escapou do Hospital Nossa Senhora de Lourdes, em Nova Lima, na Grande BH, enquanto estava sob escolta. Ele havia sido levado à unidade depois de ser baleado no braço durante uma perseguição da Guarda Civil Municipal. Segundo o registro da ocorrência, ele pediu para usar o banheiro, trancou a porta e quebrou a janela, que tinha estrutura frágil.</p>\n<p>A perseguição começou durante um patrulhamento preventivo perto do bairro Alto do Gaia. De acordo com a Guarda Civil, os agentes viram um Fiat Palio preto desrespeitar uma parada obrigatória e por pouco não bater em outro carro. Ao receber ordem de parada, o motorista acelerou e fugiu.</p>\n<p>No caminho, segundo os guardas, o suspeito jogou objetos pela janela, fez manobras arriscadas e chegou a andar na contramão. Na MG-030, ele teria descartado uma embalagem vermelha, recolhida depois pelos agentes, com uma substância parecida com cocaína.</p>\n<p>A fuga de carro terminou na Rua Isaura Rodrigues Wenceslau, onde o homem deixou o veículo e continuou correndo. Conforme o relato da Guarda, ele levou as mãos à cintura num movimento que indicava que poderia sacar algo, e dois guardas atiraram. Ele foi atingido no braço esquerdo, contido e levado ao hospital.</p>\n<p>No carro, os agentes disseram ter apreendido uma pequena quantidade de substância semelhante à maconha, dois celulares, R$ 154 em dinheiro, uma faca e acessórios de carregamento.</p>\n<p>Já no hospital, os policiais penais que faziam a escolta tentaram impedir a fuga, mas não conseguiram chegar ao banheiro pelo lado de fora. A Polícia Militar foi chamada e fez buscas nos arredores com apoio de outras equipes, mas o suspeito não tinha sido localizado até o encerramento da ocorrência.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-01/200958_48.jpg",
-  "credito_foto": "Foto: Imagens cedidas/Itatiaia",
-  "fonte": "Rádio Itatiaia",
-  "resumos": ""
- },
- {
   "id": "201019_29",
   "data": "2026-11-01T17:11:21-03:00",
   "titulo": "STF valida fim do \"duplo teto\" e servidores aposentados com doença incapacitante seguem pagando desconto maior",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/022314_181.jpg",
   "credito_foto": "Foto: Angelo Miguel/MEC",
   "fonte": "BHAZ",
+  "resumos": ""
+ },
+ {
+  "id": "024028_14",
+  "data": "2026-11-04T23:40:48-03:00",
+  "titulo": "Com time reserva, Atlético perde para o Botafogo por 1 a 0 e soma a terceira derrota seguida",
+  "linha_fina": "Edenílson marcou o gol da partida no Nilton Santos; Galo segue com 50 pontos, em 7º lugar, depois de perder também para Flamengo e Cruzeiro.",
+  "categoria": "atletico",
+  "texto": "<p>O Atlético perdeu para o Botafogo por 1 a 0 na noite desta quarta-feira (4), no Estádio Nilton Santos, no Rio de Janeiro, pela 34ª rodada do Campeonato Brasileiro. Jogando com time reserva, o Galo chegou à terceira derrota consecutiva na competição, depois de ser superado por Flamengo e Cruzeiro.</p>\n<p>O gol saiu aos 18 minutos do primeiro tempo. Vitinho avançou pela direita, se aproximou da área e deu o passe para Edenílson bater na saída do goleiro Everson. Pouco depois, o Botafogo quase ampliou: Tiquinho Soares aproveitou a sobra em uma confusão na área e acertou o travessão.</p>\n<p>O Atlético finalizou pela primeira vez aos 25 minutos, com Cauã Soares, em chute defendido por Gabriel Batista. Gustavo Scarpa teve boas chances, mas mandou para fora, e Alexsander soltou uma bomba aos 38, que obrigou o goleiro carioca a saltar para defender.</p>\n<p>No segundo tempo, o Botafogo adotou uma postura mais defensiva para administrar o resultado. Tiquinho ainda levou perigo com um chute forte, que passou para fora. Na reta final, Matheus Martins ficou cara a cara com Everson, mas parou no goleiro, e nos acréscimos ele ainda acertou a trave.</p>\n<p>Com o resultado, o Atlético permanece com 50 pontos, na sétima colocação. O Botafogo se recuperou de duas derrotas seguidas, chegou aos 42 pontos e subiu para o 11º lugar, mais distante da zona de rebaixamento.</p>\n<p>O momento do Galo não é simples: além das três derrotas no Brasileirão, o time também perdeu para o Grêmio no último fim de semana, na partida de ida da semifinal da Copa do Brasil. O próximo compromisso é justamente a volta, no sábado (7), às 18h, na Arena MRV. Pelo Brasileiro, o Atlético visita o Mirassol no dia 14 de novembro, no Estádio Maião.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/024028_14.jpg",
+  "credito_foto": "Foto: Vítor Silva/Botafogo",
+  "fonte": "CNN Brasil",
   "resumos": ""
  }
 ]
