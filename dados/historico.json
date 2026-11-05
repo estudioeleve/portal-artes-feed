@@ -8916,5 +8916,19 @@
   "fonte": "Estado de Minas",
   "arte": "artes/2026-11-04/021438_360.jpg",
   "media_id": "18048568865821008"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "00:06",
+  "id": "021333_7",
+  "bloco": "comercio",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo publica MP do \"imposto do pecado\": cobrança sobre cerveja e cigarro começa em fevereiro",
+  "titulo_orig": "Governo publica MP do 'imposto do pecado', que terá transição em 2027; veja produtos e alíquotas",
+  "link": "https://www.estadao.com.br/economia/governo-lula-publica-mp-do-imposto-do-pecado-que-tera-transicao-em-2027-veja-produtos-atingidos/",
+  "fonte": "Estadão",
+  "arte": "artes/2026-11-04/021333_7.jpg",
+  "media_id": "17873323725646439"
  }
 ]
