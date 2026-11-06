@@ -14684,5 +14684,19 @@
   "fonte": "Metrópoles",
   "arte": "artes/2026-11-06/201259_46.jpg",
   "media_id": "18120216706961400"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "18:01",
+  "id": "201431_25",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Condomínio em BH chega a R$ 2,6 mil por mês no Belvedere; taxa média subiu 6,5% em um ano",
+  "titulo_orig": "BH tem condomínios com taxa média de até R$ 2,6 mil; veja bairros mais caros",
+  "link": "https://bhaz.com.br/noticias/bh-condominios-taxa-bairros-mais-caros/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-06/201431_25.jpg",
+  "media_id": "18133779154683797"
  }
 ]
