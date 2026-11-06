@@ -12696,5 +12696,19 @@
   "fonte": "Metrópoles",
   "arte": "artes/2026-11-06/101012_87.jpg",
   "media_id": "17935902813411762"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "07:51",
+  "id": "101002_19",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Franquias de BH faturam R$ 2,7 bilhões no semestre e capital fica entre os 5 maiores mercados",
+  "titulo_orig": "Belo Horizonte e Uberlândia mantêm destaque nacional no 'Ranking ABF do Franchising' | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/economia/negocios/belo-horizonte-e-uberlandia-mantem-destaque-nacional-no-ranking-abf-do-franchising/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-06/101002_19.jpg",
+  "media_id": "17916902835535118"
  }
 ]
