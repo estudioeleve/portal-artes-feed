@@ -13718,5 +13718,33 @@
   "fonte": "Congresso em Foco",
   "arte": "artes/2026-11-06/151835_151.jpg",
   "media_id": "18155195134536258"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "12:52",
+  "id": "151800_203",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Bombeiros atendem 178 chamados de chuva em 24 horas em Minas; só em BH foram 55 ocorrências",
+  "titulo_orig": "Chuvas em Minas: Bombeiros atendem 178 chamados",
+  "link": "https://www.otempo.com.br/cidades/2026/11/6/bombeiros-atendem-178-ocorrencias-relacionadas-as-chuvas-em-minas-em-24-horas",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-06/151800_203.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "13:03",
+  "id": "151826_65",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Brasil pode ter 860 mil casos de dengue em 2027; Minas está entre os estados com tendência de alta",
+  "titulo_orig": "País pode chegar a 860 mil casos prováveis de dengue em 2027",
+  "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/pais-pode-chegar-860-mil-casos-provaveis-de-dengue-em-2027",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-06/151826_65.jpg",
+  "media_id": "18482931454115301"
  }
 ]
