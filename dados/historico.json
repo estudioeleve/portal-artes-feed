@@ -14138,5 +14138,19 @@
   "fonte": "BHAZ",
   "arte": "artes/2026-11-06/171443_32.jpg",
   "media_id": "18116869433072141"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "15:06",
+  "id": "171358_85",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Grupo Petrópolis, dono da Itaipava, compra a cerveja mineira Baixa Gastronomia",
+  "titulo_orig": "Grupo Petrópolis compra a cervejaria mineira Baixa Gastronomia (BG)",
+  "link": "https://bhaz.com.br/noticias/bh/grupo-petropolis-compra-cervejaria-baixa-gastronomia/",
+  "fonte": "bhaz.com.br",
+  "arte": "artes/2026-11-06/171358_85.jpg",
+  "media_id": "18345293773285582"
  }
 ]
