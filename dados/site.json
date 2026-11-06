@@ -1,17 +1,5 @@
 [
  {
-  "id": "121134_8",
-  "data": "2026-11-04T09:14:09-03:00",
-  "titulo": "PM prende dois suspeitos de tráfico e acha Honda Civic clonado entre Matozinhos e Pedro Leopoldo",
-  "linha_fina": "Ação começou com denúncia de entregas de droga de moto em Matozinhos e terminou em casa de Pedro Leopoldo, onde estava o carro.",
-  "categoria": "matozinhos",
-  "texto": "<p>Dois homens foram presos em flagrante e um Honda Civic com sinais de clonagem foi recuperado em uma ação da Polícia Militar contra o tráfico de drogas no Vetor Norte da Grande BH. A ocorrência começou em Matozinhos e teve desdobramento em Pedro Leopoldo, na segunda-feira (2).</p>\n<p>Segundo a corporação, os militares receberam a informação de que um suspeito usava uma motocicleta para vender e entregar drogas nas duas cidades. Ao abordá-lo, a equipe encontrou entorpecentes, dinheiro e um celular.</p>\n<p>A partir desse primeiro flagrante, as buscas continuaram até uma casa em Pedro Leopoldo. No local, os policiais localizaram o Honda Civic. O veículo tinha indícios de clonagem e constava com registro de furto ou roubo em Belo Horizonte, datado de 26 de outubro.</p>\n<p>De acordo com a PM, o carro teria sido escondido no imóvel a pedido de outras pessoas. Os dois homens detidos são suspeitos de envolvimento com tráfico de drogas e receptação.</p>\n<p>Além do carro, a motocicleta usada nas entregas e aparelhos celulares foram apreendidos. Outros dois suspeitos citados na ocorrência não foram encontrados pelos militares.</p>\n<p>Os presos foram levados para a Delegacia da Polícia Civil, onde o caso deve ter sequência. Até a publicação desta matéria, não havia informação sobre a identidade dos suspeitos nem sobre a origem exata do veículo clonado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/121134_8.jpg",
-  "credito_foto": "Foto: Reprodução/Por Dentro de Tudo",
-  "fonte": "Polícia Militar / Por Dentro de Tudo",
-  "resumos": ""
- },
- {
   "id": "121137_0",
   "data": "2026-11-04T09:14:09-03:00",
   "titulo": "Caminhão desce de ré sem motorista, tomba e atinge prédio e quatro carros no Serrano, em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/101044_38.jpg",
   "credito_foto": "Reprodução/Cifra",
   "fonte": "Portal VV8",
+  "resumos": ""
+ },
+ {
+  "id": "102232_36",
+  "data": "2026-11-06T07:22:54-03:00",
+  "titulo": "BH ganha Casa do Carnaval em frente à rodoviária, com ensaio gratuito para até 30 blocos por mês",
+  "linha_fina": "Projeto-piloto de R$ 400 mil, com patrocínio da Cemig, terá palco, salas de dança, cursos e lojas para produtos dos próprios blocos.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Belo Horizonte inaugurou a Casa do Carnaval, um espaço em frente à rodoviária para os grupos carnavalescos da capital. O projeto-piloto tem investimento de R$ 400 mil, com patrocínio da Cemig, e foi idealizado pela produtora cultural Polly Paixão, segundo o Diário do Comércio.</p><p>O local terá palco, som e iluminação profissionais, salas de dança e de reunião, auditório e área para as baterias. A capacidade prevista é de até 30 blocos em ensaios por mês, com acesso gratuito.</p><p>Também haverá cursos em cinco eixos: customização de abadás, confecção de estandartes, marketing digital, gestão de redes sociais e captação de recursos por leis de incentivo. A programação inclui feira de economia colaborativa, atividades de networking, acolhimento turístico e lojas e ateliês para vender produtos feitos pelos blocos.</p><p>\"A Casa do Carnaval nasce para dar a essa paixão um endereço à altura dela\", afirmou Polly Paixão. Ela disse que o espaço também quer receber empresários e marcas da cidade com produtos e serviços ligados à festa.</p><p>De acordo com a Belotur, o Carnaval de 2026 reuniu 6,6 milhões de foliões em BH, com 349 mil turistas e 457 desfiles em 23 dias. A movimentação econômica chegou a R$ 1,4 bilhão, com cerca de 25 mil empregos gerados.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/102232_36.jpg",
+  "credito_foto": "Reprodução/Diário do Comércio",
+  "fonte": "Diário do Comércio",
   "resumos": ""
  }
 ]
