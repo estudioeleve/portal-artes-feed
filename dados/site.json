@@ -1,17 +1,5 @@
 [
  {
-  "id": "011547_74",
-  "data": "2026-11-04T22:20:00-03:00",
-  "titulo": "Maratona Oficial de BH abre novo lote de inscrições, com preços reajustados, e espera 14 mil corredores em 2027",
-  "linha_fina": "Segunda edição será de 13 a 16 de maio de 2027 e terá como novidade a meia maratona individual de 21 km, com largada na Praça da Estação.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Quem pretende correr a Maratona Oficial de Belo Horizonte em 2027 já tem novo lote de inscrições aberto, agora com reajuste. A mudança vale para as provas de 42 km, a meia maratona individual de 21 km, a Corrida Noturna de 5 km e a Corrida Kids. As vagas seguem disponíveis pela plataforma Ticket Sports, dentro do limite de cada modalidade.</p><p>A segunda edição está marcada para os dias 13 a 16 de maio de 2027. A principal novidade é a meia maratona individual de 21 km, que substitui a prova de revezamento realizada em 2026. Também haverá modalidades combinadas para quem quer correr duas distâncias.</p><p>A programação começa na quinta-feira (13), com a retirada de kits na Vila da Maratona, no Parque Municipal. A Corrida Noturna de 5 km será na sexta (14) e a Corrida Kids, no sábado (15). No domingo (16), os atletas disputam os 42 km e os 21 km, com largadas na Praça da Estação.</p><p>Todos os inscritos recebem o kit oficial, com camisa, número de peito, sacola esportiva e medalha entregue depois da conclusão do percurso.</p><p>A organização espera reunir cerca de 14 mil corredores, quase o triplo dos mais de 5 mil atletas da estreia, em maio de 2026. A primeira edição também teve mais de 400 crianças na Corrida Kids e recebeu participantes de 216 municípios, de 16 estados brasileiros, além de atletas do exterior. Em 2027, a prova entra no calendário esportivo do ano em que Belo Horizonte completa 130 anos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-04/011547_74.jpg",
-  "credito_foto": "Foto: Divulgação/Maratona Oficial de BH",
-  "fonte": "BH Eventos",
-  "resumos": ""
- },
- {
   "id": "011551_80",
   "data": "2026-11-04T22:20:00-03:00",
   "titulo": "CNI também vai ao STF contra fim da escala 6x1 e fala em custo de R$ 88 bilhões para a indústria",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/181918_80.jpg",
   "credito_foto": "Reprodução/Valor Econômico",
   "fonte": "Valor Econômico",
+  "resumos": ""
+ },
+ {
+  "id": "182027_65",
+  "data": "2026-11-06T15:20:43-03:00",
+  "titulo": "Rogério Marinho diz que, se eleito presidente do Senado, vai procurar Lula e o STF para uma \"agenda comum\"",
+  "linha_fina": "Candidato do PL disputa o comando da Casa com Tereza Cristina (PP) e defende voto aberto na eleição e em pedidos de impeachment de ministros.",
+  "categoria": "politica",
+  "texto": "<p>O senador Rogério Marinho (PL-RN), candidato à presidência do Senado, afirmou nesta sexta-feira (6) que, se for eleito, vai procurar o presidente Luiz Inácio Lula da Silva (PT) e o comando do Supremo Tribunal Federal (STF) para buscar uma agenda comum entre os Três Poderes.</p><p>\"Procurarei o presidente da República, o presidente do Supremo Tribunal Federal, o presidente da Câmara dos Deputados para buscarmos uma agenda comum. Não me negarei a trabalhar em conjunto\", disse o senador, em entrevista ao programa Pânico.</p><p>Marinho também acenou a outros partidos e afirmou que pretende ser candidato \"não apenas do PL e do Novo\". Ele voltou a pedir que a direita evite ataques à senadora Tereza Cristina (PP-MS), sua adversária na disputa, e disse não ter nada contra o atual presidente da Casa, Davi Alcolumbre (União-AP).</p><p>Sobre as chances de vitória, o senador disse contar com a bancada do PL e de partidos aliados. \"Acho que temos número suficiente para dar certo\", afirmou.</p><p>Na mesma sexta-feira, Marinho defendeu o voto aberto tanto na eleição para o comando do Senado quanto na análise de pedidos de impeachment contra ministros do STF. Segundo ele, o voto secreto representa uma omissão da Casa diante da sociedade.</p><p>A eleição para a presidência do Senado acontece no início da próxima legislatura, em fevereiro de 2027. O resultado vai influenciar a relação entre o Congresso e o governo Lula no novo mandato.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/182027_65.jpg",
+  "credito_foto": "Wilton Junior/Estadão",
+  "fonte": "Estadão",
   "resumos": ""
  }
 ]
