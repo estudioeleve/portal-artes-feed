@@ -5,6 +5,11 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## 🔴 TODA MATÉRIA DE SANTA LUZIA NO SITE VAI TAMBÉM PARA O INSTAGRAM (Israel, 06/11/2026: "é obrigatório... com urgência... a nossa grande prioridade é Santa Luzia")
+- **Santa Luzia não pode ser "só no site".** Toda matéria de Santa Luzia que for para o site vai para o Instagram, a mesma matéria, com moldura `luziense`, **na frente de todos os outros posts da rodada**. Nunca marque `so_site` em matéria de Santa Luzia.
+- **No começo de cada rodada**, procure em `dados/site.json` as matérias de Santa Luzia (categoria `santa-luzia` ou título com o nome da cidade) dos últimos 2 dias que não têm registro de Instagram em `dados/historico.json` e publique primeiro.
+- Continuam valendo as travas (REPETIDO, FOTO REPETIDA), a moldura e o intervalo entre posts. Se a trava barrar uma matéria de Santa Luzia, anote em `dados/erros.txt` para o Israel decidir.
+
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
 - "Notícias que eu te mandar aqui você pode postar na hora, não precisa colocar em programação." Publique assim que preparar, **sem esperar o intervalo entre posts**. Se ele disser "só no site", vai só no site, também na hora; senão, Instagram e site. Continuam valendo as regras de moldura, título, foto e legenda.
 
