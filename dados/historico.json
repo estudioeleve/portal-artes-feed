@@ -13494,5 +13494,33 @@
   "fonte": "PCMG",
   "arte": "artes/2026-11-06/143600_beatriz.jpg",
   "media_id": "18398026075207978"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "11:46",
+  "id": "141412_22",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CAPIM BRANCO",
+  "titulo": "Restaurante é arrombado de madrugada em Capim Branco, mas só doces e chicletes foram levados",
+  "titulo_orig": "Restaurante é invadido durante a madrugada em Capim Branco; doces e chicletes são levados",
+  "link": "https://pordentrodetudo.com.br/restaurante-e-invadido-durante-a-madrugada-em-capim-branco-doces-e-chicletes-sao-levados/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-06/141412_22.jpg",
+  "media_id": "18114198005335907"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "11:46",
+  "id": "141451_29",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fila dobra o quarteirão na Savassi: clientes chegam às 6h45 para abertura da loja Wepink em BH",
+  "titulo_orig": "Wepink em BH: clientes chegam horas antes e formam fila pra inauguração da primeira loja na capital",
+  "link": "https://bhaz.com.br/noticias/bh/wepink-em-bh-clientes-chegam-horas-antes-e-formam-fila-pra-inauguracao-da-primeira-loja-na-capital/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-06/141451_29.jpg",
+  "media_id": "SITE"
  }
 ]

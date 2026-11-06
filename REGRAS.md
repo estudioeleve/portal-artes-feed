@@ -125,6 +125,11 @@ Tudo o que o Israel vê é em português.
   Montagem/colagem de duas fotos lado a lado: escolha o lado com o assunto (`foco` `"0% 50%"` ou `"100% 50%"`) ou outra foto.
 - Ao olhar as artes (passo 6), confira estes dois pontos em **todas**. Se não der para mostrar o assunto, não publique com aquela foto.
 
+## ⚠️ ZOOM E CORTE: A IMAGEM TEM QUE FICAR BOA (Israel, 06/11/2026: "algumas imagens estão aparecendo borda... outras com um zoom muito alto")
+- **Imagem com duas partes (uma pessoa de um lado, outra imagem do outro): priorize uma.** Nunca deixe o corte no meio das duas, partindo as partes principais. Use `foco` no lado escolhido (`"0% 50%"` ou `"100% 50%"`).
+- **Nada de zoom alto**: não corte rosto, letreiro, logomarca nem o assunto principal. Se a foto deitada não cabe sem cortar o que importa, troque a foto. **Nada de borda** (faixa preta, branca ou cinza).
+- Olhe cada arte antes de publicar e pense se ficou boa de ver, não só se a trava passou. Vale para o Instagram.
+
 ## Título (vai na arte)
 - Sempre **exatamente 3 linhas** na moldura (cerca de 80 a 98 caracteres). O `robo/artes.js` mede: se não der 3, reescreva e gere de novo.
 - Texto próprio, factual, sem exagero nem sensacionalismo enganoso. Nunca copiar o título original.
