@@ -12724,5 +12724,33 @@
   "fonte": "CNN Brasil",
   "arte": "artes/2026-11-06/101053_59.jpg",
   "media_id": "18043603646656457"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "08:22",
+  "id": "112013_ras",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista: escala 6x1 acaba em 16 de dezembro, quando a jornada cai para 42 horas; veja o que fazer",
+  "titulo_orig": "Fim da escala 6x1 e jornada de 40 horas: o que muda para o pequeno comércio - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/opiniao/coluna/falando-direito-para-pequenos-negocios/fim-escala-61-jornada-40-horas/",
+  "fonte": "diariodocomercio.com.br",
+  "arte": "artes/2026-11-06/112013_ras.jpg",
+  "media_id": "18101008028400261"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "08:22",
+  "id": "111241_52",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "JABOTICATUBAS",
+  "titulo": "Homem achado debaixo da cama de idosa em Jaboticatubas é investigado por dois homicídios",
+  "titulo_orig": "Suspeito de homicídio em Pedro Leopoldo é preso por suspeita de outro assassinato em Jaboticatubas",
+  "link": "https://pordentrodetudo.com.br/suspeito-de-homicidio-em-pedro-leopoldo-e-preso-por-suspeita-de-outro-assassinato-em-jaboticatubas/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-06/111241_52.jpg",
+  "media_id": "SITE"
  }
 ]
