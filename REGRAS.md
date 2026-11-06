@@ -5,6 +5,14 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## 🖼️ AJUSTE DA IMAGEM NA MOLDURA: SEM BORDA E PESSOA NO CENTRO (Israel, 06/11/2026 17h40: "mais uma vez... coloca aí como regra... tá ficando borda... se tiver uma pessoa na imagem, coloca a pessoa no centro")
+- Ele mandou print do post da Lukinha Automóveis: a foto era uma montagem de duas e a **faixa da segunda foto aparecia na lateral direita** da arte. Isso não pode mais acontecer.
+- **Obrigatório em todo item do Instagram**, depois do `coletar.py` e antes do `artes.js`: `python3 robo/colagem.py <id> <id> ...`. Ele:
+  1. detecta **montagem de duas fotos** (emenda vertical ou horizontal) e **fica só com uma parte** (a que tem rosto; senão a maior). Para forçar: `--lado esq|dir|cima|baixo`;
+  2. tira **faixa lisa de qualquer cor** na borda (tarja azul, branca, preta);
+  3. acha o **rosto** e grava o `foco` para deixar **a pessoa no centro** da moldura.
+- Depois, **olhe a arte (Read)**: nenhuma faixa de outra foto na lateral, nenhuma borda, pessoa no meio, rosto inteiro. Se o detector errar, ajuste `foco`/`zoom` à mão ou recorte com `--lado`. Na dúvida, troque a foto.
+
 ## 🔴 TODA MATÉRIA DE SANTA LUZIA NO SITE VAI TAMBÉM PARA O INSTAGRAM (Israel, 06/11/2026: "é obrigatório... com urgência... a nossa grande prioridade é Santa Luzia")
 - **Santa Luzia não pode ser "só no site".** Toda matéria de Santa Luzia que for para o site vai para o Instagram, a mesma matéria, com moldura `luziense`, **na frente de todos os outros posts da rodada**. Nunca marque `so_site` em matéria de Santa Luzia.
 - **No começo de cada rodada**, procure em `dados/site.json` as matérias de Santa Luzia (categoria `santa-luzia` ou título com o nome da cidade) dos últimos 2 dias que não têm registro de Instagram em `dados/historico.json` e publique primeiro.
@@ -226,7 +234,7 @@ Tudo o que o Israel vê é em português.
 5. Para cada item do lote, preencha no `dados/lote.json`: `portal` (one, luziense, politica ou comercio), `ed`, `titulo`, `legenda`, `bloco` (rmbh, comercio, minas, brasil...)
    (corrija o bloco se o radar errou). Item sem foto ou de concorrente: ache outra matéria do mesmo fato
    (`python3 robo/coletar.py <URL> --anexar`) e use a foto dela, ou descarte.
-6. `node robo/artes.js`. Todos com 3 linhas. Olhe as artes (Read na imagem) antes de publicar: foto não pode estar
+6. `python3 robo/colagem.py <ids do Instagram>` (montagem, faixa e pessoa no centro; ver regra do topo) e depois `node robo/artes.js`. Todos com 3 linhas. Olhe as artes (Read na imagem) antes de publicar: foto não pode estar
    cortando rosto de forma estranha, nem ter marca d'água de outro veículo grande no meio.
 7. `python3 robo/site.py <ids>` (ver seção Site) e depois `git add -A && git commit && git push`
    (as imagens precisam estar no GitHub antes de publicar).
