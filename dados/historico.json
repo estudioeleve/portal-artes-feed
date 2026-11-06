@@ -12066,5 +12066,19 @@
   "fonte": "O TEMPO Betim",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "22:26",
+  "id": "011141_76",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista, atenção: STF faz audiência na terça sobre pedido para adiar o fim da escala 6x1",
+  "titulo_orig": "Flávio Dino convoca audiência de conciliação sobre fim da escala 6x1",
+  "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-11/flavio-dino-convoca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1",
+  "fonte": "Agência Brasil",
+  "arte": "artes/2026-11-05/011141_76.jpg",
+  "media_id": "18120168425091677"
  }
 ]
