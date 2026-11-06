@@ -14460,5 +14460,19 @@
   "fonte": "Lavras24Horas",
   "arte": "artes/2026-11-06/191156_122.jpg",
   "media_id": "18100672505410618"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "16:24",
+  "id": "192214_74",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Empate de 91 a 91: eleição para magistrado no Kentucky, nos EUA, é decidida no cara ou coroa",
+  "titulo_orig": "Eleições nos EUA: decisão para juiz em localidade do Kentucky é feita no 'cara ou coroa' após empate | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/06/eleicoes-nos-eua-decisao-para-juiz-em-localidade-do-kentucky-e-feita-no-cara-ou-coroa.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
