@@ -14082,5 +14082,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "14:27",
+  "id": "171347_4",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Atlético x Grêmio: BH monta esquema de trânsito de Copa, com Via Expressa reversível",
+  "titulo_orig": "Atlético-MG x Grêmio terá esquema de trânsito de Copa do Mundo",
+  "link": "https://www.terra.com.br/esportes/futebol/atletico-mg-x-gremio-tera-esquema-de-transito-de-copa-do-mundo,1bab1bf2c1af731bd3d49bf59db6773fy2d1hda4.html",
+  "fonte": "Terra",
+  "arte": "artes/2026-11-06/171347_4.jpg",
+  "media_id": "18049452554833103"
  }
 ]
