@@ -12332,5 +12332,47 @@
   "fonte": "SouBH",
   "arte": "artes/2026-11-05/021301_266.jpg",
   "media_id": "18129321277888305"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "06:16",
+  "id": "091107_g15",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "URGENTE",
+  "titulo": "Inmet põe BH e Santa Luzia entre 693 cidades em alerta de tempestade com granizo nesta sexta",
+  "titulo_orig": "Tempestade e granizo em MG: veja lista das 693 cidades sob alerta nesta sexta (6) | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/tempestade-e-granizo-em-mg-veja-lista-das-693-cidades-sob-alerta-nesta-sexta-6/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "06:16",
+  "id": "090923_107",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Avenida Francisco Sá alaga pela 2ª vez em um mês em BH; os R$ 609 mil prometidos pagam só o projeto",
+  "titulo_orig": "Mesmo ponto de BH alaga 2ª vez em um mês; obra é só projeto",
+  "link": "https://tvsimbrasil.com.br/mg/belo-horizonte/infra/noticia/2026/11/05/mesmo-ponto-bh-alaga-2-vez-mes-obra-e-projeto",
+  "fonte": "TV Sim Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "06:18",
+  "id": "091112_g16",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "PEDRO LEOPOLDO",
+  "titulo": "Moradores acham cascavel e coral perto de casas em Pedro Leopoldo e temem pelas crianças do bairro",
+  "titulo_orig": "VÍDEO: Moradores encontram cobras no quintal de residências em Pedro Leopoldo",
+  "link": "https://pordentrodetudo.com.br/video-moradores-encontram-cobras-no-quintal-de-residencias-em-pedro-leopoldo/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-06/091112_g16.jpg",
+  "media_id": "18122793073978255"
  }
 ]
