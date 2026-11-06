@@ -14292,5 +14292,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-06/181432_37.jpg",
   "media_id": "18109654154195197"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "15:37",
+  "id": "181424_42",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista: confiança do comércio cai ao pior nível desde 2021; a dica é segurar o caixa",
+  "titulo_orig": "Confiança das grandes empresas do comércio cai ao menor nível em dez anos",
+  "link": "https://veja.abril.com.br/economia/confianca-das-grandes-empresas-do-comercio-cai-ao-menor-nivel-em-dez-anos/",
+  "fonte": "VEJA",
+  "arte": "artes/2026-11-06/181424_42.jpg",
+  "media_id": "18109295261460396"
  }
 ]
