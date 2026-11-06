@@ -14614,5 +14614,33 @@
   "fonte": "Rede 98",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "17:21",
+  "id": "202039_134",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Governo aprova plano para zerar e reverter o desmatamento e a degradação das florestas até 2030",
+  "titulo_orig": "Governo Federal aprova Mapa do Caminho brasileiro para interromper e reverter o desmatamento e a degradação florestal até 2030",
+  "link": "https://www.gov.br/mma/pt-br/noticias/governo-federal-aprova-mapa-do-caminho-brasileiro-para-interromper-e-reverter-o-desmatamento-e-a-degradacao-florestal-ate-2030",
+  "fonte": "Governo Federal",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "17:21",
+  "id": "202044_31",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "MINAS GERAIS",
+  "titulo": "Presidente da Câmara de Fervedouro, na Zona da Mata, é preso suspeito de envolvimento em homicídio",
+  "titulo_orig": "Presidente de Câmara de Fervedouro é preso por suspeita de participação em homicídio",
+  "link": "https://www.terra.com.br/noticias/brasil/politica/presidente-de-camara-de-fervedouro-e-preso-por-suspeita-de-participacao-em-homicidio,6488d071401edec044d7b8fde01876cfeoaws7vw.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
