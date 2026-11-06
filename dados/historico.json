@@ -13060,5 +13060,19 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "09:26",
+  "id": "205924_rio",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Rio das Velhas passou de 3 metros em Santa Luzia na tarde de quinta, após chuva forte na região",
+  "titulo_orig": "",
+  "link": "portal-one-news:205924_rio",
+  "fonte": "Portal ONE News",
+  "arte": "artes/2026-11-06/205924_rio.jpg",
+  "media_id": "18129161614922533"
  }
 ]
