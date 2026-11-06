@@ -12668,5 +12668,19 @@
   "fonte": "Diário do Comércio",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "07:31",
+  "id": "101006_92",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista: juros parados em 13,75% viram teste para a Black Friday e preocupam a CDL-BH",
+  "titulo_orig": "Manutenção dos juros vai ser teste na black friday",
+  "link": "https://www.em.com.br/colunistas/marcilio-de-moraes/2026/11/7534055-manutencao-dos-juros-vai-ser-teste-na-black-friday.html",
+  "fonte": "Estado de Minas",
+  "arte": "artes/2026-11-06/101006_92.jpg",
+  "media_id": "18118046557821344"
  }
 ]
