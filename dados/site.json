@@ -1,17 +1,5 @@
 [
  {
-  "id": "000948_371",
-  "data": "2026-11-03T21:13:02-03:00",
-  "titulo": "Cleitinho avalia manter Baccheretti na Secretaria de Saúde de Minas, mas decisão não foi tomada",
-  "linha_fina": "Governador eleito citou a possibilidade em conversas reservadas; secretário confirma diálogo, mas não antecipa se fica no cargo.",
-  "categoria": "politica",
-  "texto": "<p>O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), estuda manter Fábio Baccheretti no comando da Secretaria de Estado de Saúde a partir do próximo ano. A hipótese teria sido levantada em conversas reservadas na semana passada, conforme apuração do portal O Fator divulgada nesta terça-feira (3). A decisão, porém, ainda não foi tomada.</p><p>Médico, Baccheretti chefia a pasta desde março de 2021, quando foi nomeado pelo então governador Romeu Zema (Novo). Antes disso, presidiu a Fundação Hospitalar do Estado de Minas Gerais (Fhemig). De 2023 a 2025, comandou também o Conselho Nacional de Secretários de Saúde (Conass).</p><p>O nome do secretário chegou a circular durante o segundo turno da eleição presidencial, em articulações de prefeitos e parlamentares mineiros para uma possível indicação ao Ministério da Saúde em um eventual governo de Flávio Bolsonaro (PL). A proposta não foi adiante depois que o candidato perdeu a disputa para Luiz Inácio Lula da Silva (PT).</p><p>Em declaração publicada no fim de outubro, o próprio Baccheretti confirmou que mantém conversas com o governador eleito, mas evitou antecipar se continuará na função.</p><p>Até agora, Cleitinho oficializou o economista Thiago Toscano para chefiar uma pasta que vai concentrar atribuições hoje divididas entre Fazenda, Desenvolvimento Econômico e Planejamento e Gestão. Para a presidência da Cemig, o governador eleito confirmou Otto Levy.</p><p>A definição sobre a Saúde depende agora de uma decisão de Cleitinho, que segue montando a equipe antes da posse.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-03/000948_371.jpg",
-  "credito_foto": "Foto: Reprodução/Portal MPA",
-  "fonte": "Portal MPA",
-  "resumos": ""
- },
- {
   "id": "001041_319",
   "data": "2026-11-03T21:13:02-03:00",
   "titulo": "PM da reserva é solto após inquérito apontar legítima defesa em morte de policial penal em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/021401_12.jpg",
   "credito_foto": "Foto: Cesar Greco/Palmeiras",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "023528_res",
+  "data": "2026-11-05T23:35:50-03:00",
+  "titulo": "Cruzeiro vira sobre o Bahia no Mineirão com dois de Kaio Jorge, chega a 60 pontos e segue em 3º",
+  "linha_fina": "Raposa vence por 3 a 2, mesmo com pênalti perdido, e fica perto da vaga na Libertadores. Próximo jogo é dia 18, no Mineirão.",
+  "categoria": "cruzeiro",
+  "texto": "<p>O Cruzeiro venceu o Bahia de virada por 3 a 2 na noite de quinta-feira (5), no Mineirão, pela 34ª rodada do Campeonato Brasileiro. A equipe saiu atrás no placar, desperdiçou um pênalti e ainda assim conquistou a quarta vitória seguida na competição.</p><p>O Bahia abriu o placar aos 30 minutos do primeiro tempo, com Kike Oliveira, que passou por Zé Lucas no limite da área e finalizou quase sem ângulo. O empate saiu nos acréscimos, aos 46, com Kaio Jorge.</p><p>No segundo tempo, Kaio Jorge perdeu a chance de virar em cobrança de pênalti, mas o erro não mudou o ritmo da equipe. Aos 24 minutos, Bruno Rodrigues mergulhou e fez de peixinho, depois de cruzamento de Arroyo. Aos 41, Kaio Jorge marcou de novo e abriu vantagem. Nos acréscimos, Alejo Véliz descontou para os visitantes.</p><p>O técnico Artur Jorge teve desfalques no time: Villalba e Matheus Pereira cumpriram suspensão, e o zagueiro João Marcelo passou por cirurgia no joelho direito. Fabrício Bruno, que começou jogando, deixou o campo no início da partida e foi substituído por Matías Viña.</p><p>Com o resultado, o Cruzeiro chegou a 60 pontos e segue em terceiro lugar, com seis de vantagem sobre o Fluminense, que tem um jogo a menos. Segundo a Gazeta Esportiva, a equipe precisa de mais duas vitórias para garantir vaga na próxima Libertadores. O Bahia está em sexto, com 53 pontos.</p><p>O próximo compromisso do Cruzeiro é na quarta-feira (18), às 20h30, também no Mineirão, pela 35ª rodada. No mesmo dia, às 21h30, o Bahia visita o Grêmio, em Porto Alegre.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/023528_res.jpg",
+  "credito_foto": "Alexandre Guzanshe/EM D.A Press",
+  "fonte": "No Ataque",
   "resumos": ""
  }
 ]
