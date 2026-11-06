@@ -14894,5 +14894,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-06/211345_184.jpg",
   "media_id": "18231933994332230"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "19:04",
+  "id": "211108_51",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Mutirão do SUS faz 5 mil atendimentos neste sábado em Minas; só vai quem já foi agendado",
+  "titulo_orig": "Hospitais das Clínicas realizam mutirão com 5 mil atendimentos pelo SUS neste sábado",
+  "link": "https://bhaz.com.br/noticias/hospitais-clinicas-mutirao-5-mil-atendimentos-sus-sabado/",
+  "fonte": "bhaz.com.br",
+  "arte": "artes/2026-11-06/211108_51.jpg",
+  "media_id": "18096391643676109"
  }
 ]
