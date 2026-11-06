@@ -13452,5 +13452,33 @@
   "fonte": "Brasil de Fato",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "11:27",
+  "id": "141438_48",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "JABOTICATUBAS",
+  "titulo": "Ex-namorado e a atual namorada dele são indiciados por feminicídio de Beatriz Vitória em Jaboticatubas",
+  "titulo_orig": "Suspeitos de matar Beatriz Vitória são indiciados por feminicídio, ocultação de cadáver e outros crimes | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/suspeitos-de-matar-beatriz-vitoria-sao-indiciados-por-feminicidio-ocultacao-de-cadaver-e-outros-crimes/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-06/141438_48.jpg",
+  "media_id": "18214528390362531"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "11:27",
+  "id": "142149_19",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Empresas e prefeituras do Centro-Oeste de Minas apresentam sete frentes de negócios a investidores em SP",
+  "titulo_orig": "Centro-Oeste de Minas leva sete teses atração de investimentos ao mercado em São Paulo",
+  "link": "https://ofator.com.br/informacao/centro-oeste-de-minas-leva-sete-teses-de-investimento-ao-mercado-em-sao-paulo/",
+  "fonte": "O Fator",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
