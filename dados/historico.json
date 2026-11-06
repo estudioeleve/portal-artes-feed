@@ -14642,5 +14642,19 @@
   "fonte": "Terra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "17:27",
+  "id": "191430_303",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Escritora nascida em BH, Conceição Evaristo recebe título de doutora honoris causa da UFRJ",
+  "titulo_orig": "Conceição Evaristo recebe título de doutor honoris causa pela UFRJ",
+  "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/conceicao-evaristo-recebe-titulo-de-doutor-honoris-causa-pela-ufrj",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-06/191430_303.jpg",
+  "media_id": "17972208672188133"
  }
 ]
