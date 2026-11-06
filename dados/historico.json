@@ -13284,5 +13284,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-06/121033_75.jpg",
   "media_id": "18107027015006471"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "10:35",
+  "id": "121102_69",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Gasolina fica em R$ 6,46 em BH perto do fim do corte de impostos, e etanol ainda compensa; veja",
+  "titulo_orig": "Corte de R$ 0,89 na gasolina acaba em dias, e quase 9 em cada 10 postos de BH congelam o preço; veja onde abastecer",
+  "link": "https://www.otempo.com.br/autotempo/2026/11/6/gasolina-para-de-subir-em-bh-e-fica-em-r-6-46-perto-do-fim-do-corte-de-impostos",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-06/121102_69.jpg",
+  "media_id": "17960903583013573"
  }
 ]
