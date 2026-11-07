@@ -18576,5 +18576,19 @@
   "fonte": "LANCE!",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "20:23",
+  "id": "231135_22",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Incêndio destrói 51 veículos em pátio credenciado ao Detran-MG em Divinópolis; ninguém se feriu",
+  "titulo_orig": "Incêndio destrói 51 veículos em pátio credenciado ao Detran-MG em Divinópolis",
+  "link": "https://plox.com.br/noticia/07/11/2026/incendio-destroi-veiculos-patio-detran-mg-divinopolis",
+  "fonte": "Plox",
+  "arte": "artes/2026-11-07/231135_22.jpg",
+  "media_id": "17882191545553543"
  }
 ]
