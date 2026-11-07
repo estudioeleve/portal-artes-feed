@@ -16238,5 +16238,33 @@
   "fonte": "Século Diário",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "08:17",
+  "id": "111557_39",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "A Traição: novela turca sobre juíza que descobre segredos do marido estreia na Band nesta segunda (9)",
+  "titulo_orig": "A Traição: conheça a novela turca que estreia na Band nesta segunda (9) | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/entretenimento/a-traicao-conheca-a-novela-turca-que-estreia-na-band-nesta-segunda-9/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "08:17",
+  "id": "111632_57",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Aliados de Lula temem 'efeito Waldir Pires' se Rafael Fonteles deixar o Piauí para assumir a Fazenda",
+  "titulo_orig": "Aliados de Lula temem 'efeito Waldir Pires' se Fonteles assumir Fazenda; entenda",
+  "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aliados-de-lula-temem-efeito-waldir-pires-se-fonteles-assumir-fazenda-entenda/",
+  "fonte": "Estadão",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
