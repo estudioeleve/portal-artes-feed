@@ -15706,5 +15706,19 @@
   "fonte": "G1",
   "arte": "artes/2026-11-06/021054_120.jpg",
   "media_id": "18182040136439277"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "23:43",
+  "id": "021217_4",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula critica propaganda na Globo sobre fome e pede investigação; emissora cita dados do IBGE",
+  "titulo_orig": "Lula critica Globo e questiona propaganda sobre crianças com fome",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/lula-critica-globo-e-questiona-propaganda-sobre-criancas-com-fome.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "artes/2026-11-06/021217_4.jpg",
+  "media_id": "17960156787017121"
  }
 ]
