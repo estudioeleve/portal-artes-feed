@@ -17848,5 +17848,19 @@
   "fonte": "Agência Sebrae de Notícias",
   "arte": "artes/2026-11-07/191204_60.jpg",
   "media_id": "17878984902573479"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "17:03",
+  "id": "191142_29",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Covid volta a subir: Fiocruz aponta aumento de casos graves em cinco estados e no Distrito Federal",
+  "titulo_orig": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+  "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-07/191142_29.jpg",
+  "media_id": "18122009827984522"
  }
 ]
