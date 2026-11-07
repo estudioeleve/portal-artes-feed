@@ -18422,5 +18422,33 @@
   "fonte": "noataque.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "19:38",
+  "id": "223616_241",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Frente fria derruba temperaturas em BH: máxima não deve passar de 18°C na segunda e na terça",
+  "titulo_orig": "Professor alerta para frente fria e queda brusca de temperatura em BH; confira | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/professor-alerta-para-frente-fria-e-queda-brusca-de-temperatura-em-bh-confira/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "19:38",
+  "id": "223620_232",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Incêndio destrói mercearia de 30 anos no Bairro Goiânia, em BH; dona perdeu tudo e busca ajuda para recomeçar",
+  "titulo_orig": "Incêndio destrói mercearia em BH",
+  "link": "https://www.em.com.br/gerais/2026/11/7534905-incendio-destroi-mercearia-em-bh.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
