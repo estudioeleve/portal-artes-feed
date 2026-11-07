@@ -17694,5 +17694,19 @@
   "fonte": "BHAZ",
   "arte": "artes/2026-11-07/181030_0.jpg",
   "media_id": "18112080386245878"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "16:17",
+  "id": "191131_26",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Padaria de 80 anos no Padre Eustáquio é eleita a melhor de BH com mais de 22 mil votos",
+  "titulo_orig": "Notícia: Padocaria-BH 2026 elege Padaria Padre Eustáquio a melhor de Belo Horizonte no ano de seu 80º aniversário",
+  "link": "https://www.bheventos.com.br/noticia/11-07-2026-padocaria-bh-2026-elege-padaria-padre-eustaquio-a-melhor-de-belo-horizonte-no-ano-de-seu-80-aniversario",
+  "fonte": "BH Eventos",
+  "arte": "artes/2026-11-07/191131_26.jpg",
+  "media_id": "18135524269763990"
  }
 ]
