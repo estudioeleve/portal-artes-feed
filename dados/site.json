@@ -1,17 +1,5 @@
 [
  {
-  "id": "101006_92",
-  "data": "2026-11-06T07:13:31-03:00",
-  "titulo": "Lojista: juros parados em 13,75% viram teste para a Black Friday e preocupam a CDL-BH",
-  "linha_fina": "Copom interrompeu a queda da Selic após cinco cortes. Presidente da CDL-BH pede redução gradual para melhorar o crédito e o consumo.",
-  "categoria": "comercio",
-  "texto": "<p>O Comitê de Política Monetária (Copom) do Banco Central manteve a taxa de juros em 13,75% ao ano na penúltima reunião de 2026, interrompendo uma sequência de cinco cortes consecutivos. A decisão atendeu à expectativa do mercado financeiro, mas frustrou o setor produtivo, que projetava nova queda de 0,25 ponto percentual, às vésperas da Black Friday e do Natal.</p><p>De acordo com o Estado de Minas, a piora do cenário fiscal de curto prazo e do quadro externo justificaram a pausa. O economista-chefe da Acrefi, Nicola Tingas, alertou que, mantido esse cenário, cresce a possibilidade de contração do PIB e de aumento da crise financeira.</p><p>O presidente da Confederação Nacional da Indústria, Ricardo Alban, afirmou que a Selic muito alta afeta o crédito, os investimentos e a atividade econômica. Já o presidente da CDL-BH, Marcelo de Souza e Silva, disse entender a preocupação com a inflação, mas defendeu uma redução gradual e responsável, que melhore o crédito, estimule o consumo e dê mais fôlego às empresas.</p><p>Do lado do consumidor, o quadro é dividido. O endividamento atinge 82% das famílias, e 83,9 milhões de brasileiros estão inadimplentes. Mesmo assim, pesquisa da Nexus feita em maio com 5.554 pessoas aponta que quatro em cada dez brasileiros pretendem comprar na temporada de ofertas.</p><p>A intenção de compra é maior entre os jovens de 18 a 24 anos, com 59%, e entre quem ganha mais de cinco salários mínimos, com 57%. Entre quem recebe até um salário mínimo, fica em 34%. O levantamento também mostra que a compra na data ainda é eventual: 73% dos que já participaram compraram em apenas uma edição.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/101006_92.jpg",
-  "credito_foto": "Marcello Casal Jr/Agência Brasil",
-  "fonte": "Estado de Minas",
-  "resumos": ""
- },
- {
   "id": "101012_87",
   "data": "2026-11-06T07:13:31-03:00",
   "titulo": "Fim de semana em BH tem show de Ana Carolina, FIQ de graça no Minascentro e cultura indígena",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/212108_29.jpg",
   "credito_foto": "Reprodução/Times Brasil",
   "fonte": "Times Brasil/CNBC",
+  "resumos": ""
+ },
+ {
+  "id": "211328_8",
+  "data": "2026-11-07T18:22:40-03:00",
+  "titulo": "Norris faz a pole em Interlagos debaixo de chuva; Bortoleto e Rafael Câmara batem no treino",
+  "linha_fina": "Pela terceira vez seguida, o inglês larga na frente no GP de São Paulo; Bortoleto sai em 19º e Câmara em 11º no domingo.",
+  "categoria": "esporte",
+  "texto": "<p>O inglês Lando Norris, da McLaren, conquistou neste sábado (7) a pole position do Grande Prêmio de São Paulo de Fórmula 1, em Interlagos. É a terceira vez seguida que o piloto larga na frente na etapa brasileira. A classificação foi marcada pela chuva forte, que deixou a pista escorregadia.</p>\n<p>\"Foi um longo dia. É muito importante estar aqui três anos seguidos na pole. Sabíamos que ia chover ainda mais, então quisemos colocar duas voltas antes de piorar\", disse Norris.</p>\n<p>Os brasileiros enfrentaram dificuldades. Gabriel Bortoleto (Audi) e Rafael Câmara (Haas) bateram durante a sessão. Câmara contou que aquaplanou na reta e rodou no início e que, na última volta, travou as rodas na última curva e seguiu reto. Mesmo assim, avaliou o fim de semana como positivo.</p>\n<p>Com as punições aplicadas a vários pilotos, o grid ficou com Norris na frente, seguido por Kimi Antonelli (Mercedes), Liam Lawson (Racing Bulls), Nico Hulkenberg (Audi) e Isack Hadjar (Red Bull). Rafael Câmara larga em 11º, e Gabriel Bortoleto, em 19º.</p>\n<p>Max Verstappen, Lewis Hamilton e Sergio Pérez vão largar do fundo do grid. George Russell perdeu cinco posições e Charles Leclerc foi punido com dez lugares.</p>\n<p>A largada do GP de São Paulo está marcada para este domingo (8), em Interlagos, na Zona Sul da capital paulista.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/211328_8.jpg",
+  "credito_foto": "Amanda Perobelli/Reuters",
+  "fonte": "ge",
   "resumos": ""
  }
 ]
