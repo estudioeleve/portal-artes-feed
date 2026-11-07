@@ -4740,18 +4740,6 @@
   "resumos": ""
  },
  {
-  "id": "131039_m-mg",
-  "data": "2026-11-07T10:14:36-03:00",
-  "titulo": "Alerta de tempestade com granizo vale para BH e mais 733 cidades de Minas até o fim deste sábado",
-  "linha_fina": "Inmet prevê até 50 mm de chuva no dia, ventos de até 60 km/h e queda de granizo; frente fria derruba a mínima para 14°C na segunda.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O Instituto Nacional de Meteorologia (Inmet) emitiu, na manhã deste sábado (7/11), um alerta amarelo de tempestade para 734 cidades de Minas Gerais, incluindo Belo Horizonte e diversos municípios da Região Metropolitana. O aviso, que inclui risco de granizo, vale até o fim do dia.</p>\n<p>De acordo com o instituto, o volume de chuva pode ficar entre 20 e 30 milímetros em uma hora, ou chegar a 50 milímetros ao longo do dia. As pancadas podem vir acompanhadas de rajadas de vento de até 60 km/h e de queda de granizo.</p>\n<p>No nível amarelo, o risco é considerado baixo, mas existe a possibilidade de queda de galhos de árvores, alagamentos pontuais, danos a plantações e interrupções no fornecimento de energia elétrica. Na lista de cidades sob alerta estão, além da capital, municípios como Betim, Brumadinho, Caeté e Capim Branco, entre centenas de outros em todas as regiões do estado.</p>\n<p>O Inmet recomenda que, em caso de ventania, a população não procure abrigo debaixo de árvores, por causa do risco de queda e de descargas elétricas. Também não é indicado estacionar veículos perto de torres de transmissão e de placas de propaganda. Outra orientação é evitar o uso de aparelhos eletrônicos ligados à tomada durante a tempestade.</p>\n<p>Em situações de emergência, a Defesa Civil pode ser acionada pelo telefone 199 e o Corpo de Bombeiros pelo 193.</p>\n<p>A mudança no tempo é provocada por uma massa de ar frio que avança pelo Sudeste. Além das pancadas de chuva, ela deve derrubar as temperaturas: para segunda-feira (9/11), a previsão é de mínima de 14°C em Belo Horizonte.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/131039_m-mg.jpg",
-  "credito_foto": "Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "131053_28",
   "data": "2026-11-07T10:14:36-03:00",
   "titulo": "Lagoa Santa passa a multar caminhões que circulam sem autorização na orla da Lagoa",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/131226_81.jpg",
   "credito_foto": "Marcelo Camargo/Agência Brasil",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "131039_m-mg",
+  "data": "2026-11-07T10:15:16-03:00",
+  "titulo": "Alerta de tempestade com granizo vale para BH e mais 733 cidades de Minas até o fim deste sábado",
+  "linha_fina": "Inmet prevê até 50 mm de chuva no dia, ventos de até 60 km/h e queda de granizo; frente fria derruba a mínima para 14°C na segunda.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>O Instituto Nacional de Meteorologia (Inmet) emitiu, na manhã deste sábado (7/11), um alerta amarelo de tempestade para 734 cidades de Minas Gerais, incluindo Belo Horizonte e diversos municípios da Região Metropolitana. O aviso, que inclui risco de granizo, vale até o fim do dia.</p>\n<p>De acordo com o instituto, o volume de chuva pode ficar entre 20 e 30 milímetros em uma hora, ou chegar a 50 milímetros ao longo do dia. As pancadas podem vir acompanhadas de rajadas de vento de até 60 km/h e de queda de granizo.</p>\n<p>No nível amarelo, o risco é considerado baixo, mas existe a possibilidade de queda de galhos de árvores, alagamentos pontuais, danos a plantações e interrupções no fornecimento de energia elétrica. Na lista de cidades sob alerta estão, além da capital, municípios como Betim, Brumadinho, Caeté e Capim Branco, entre centenas de outros em todas as regiões do estado.</p>\n<p>O Inmet recomenda que, em caso de ventania, a população não procure abrigo debaixo de árvores, por causa do risco de queda e de descargas elétricas. Também não é indicado estacionar veículos perto de torres de transmissão e de placas de propaganda. Outra orientação é evitar o uso de aparelhos eletrônicos ligados à tomada durante a tempestade.</p>\n<p>Em situações de emergência, a Defesa Civil pode ser acionada pelo telefone 199 e o Corpo de Bombeiros pelo 193.</p>\n<p>A mudança no tempo é provocada por uma massa de ar frio que avança pelo Sudeste. Além das pancadas de chuva, ela deve derrubar as temperaturas: para segunda-feira (9/11), a previsão é de mínima de 14°C em Belo Horizonte.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/131039_m-mg.jpg",
+  "credito_foto": "Reprodução/Regionalzão",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
