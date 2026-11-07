@@ -16882,5 +16882,19 @@
   "fonte": "O TEMPO Betim",
   "arte": "artes/2026-11-07/140955_90.jpg",
   "media_id": "18340681780257698"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "11:50",
+  "id": "141044_107",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "EUA oferecem recompensa de US$ 20 milhões por informações sobre o programa nuclear do Irã",
+  "titulo_orig": "EUA oferecem US$ 20 milhões por informações do programa nuclear do Irã | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/07/eua-oferecem-us-20-milhoes-por-informacoes-programa-nuclear-ira.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-07/141044_107.jpg",
+  "media_id": "18492254077128510"
  }
 ]
