@@ -1,17 +1,5 @@
 [
  {
-  "id": "111831_14",
-  "data": "2026-11-06T08:23:40-03:00",
-  "titulo": "Mega-Sena acumula em R$ 55 milhões para esta sexta; três apostas de BH faturam na quina",
-  "linha_fina": "Cinco jogos feitos em Minas acertaram cinco números do concurso 3081 e somam R$ 158 mil. Aposta com sete dezenas em BH leva R$ 52,7 mil.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Ninguém acertou as seis dezenas do concurso 3081 da Mega-Sena, sorteado na noite de quarta-feira (4), e o prêmio principal acumulou em R$ 55 milhões para o sorteio desta sexta-feira (6), em São Paulo. Em Minas Gerais, cinco apostas acertaram a quina e, juntas, têm direito a R$ 158.161,02.</p><p>Três desses jogos foram feitos em Belo Horizonte: nas lotéricas Super Sorte, que recebe R$ 52.720,34, Chave da Sorte Loterias e Jogo Certo, com R$ 26.360,17 cada. O prêmio maior da capital saiu para uma aposta simples de sete números, que paga o dobro de um jogo de seis dezenas. As outras duas foram registradas em Caputira, na Zona da Mata, e em Paracatu, no Noroeste, também com R$ 26.360,17 cada. Todas foram feitas presencialmente.</p><p>As dezenas sorteadas foram 10, 17, 42, 43, 57 e 59. Em todo o país, 63 apostas acertaram cinco números, e outras 3.571 fizeram a quadra, com R$ 664,35 para cada uma. A arrecadação do concurso foi de R$ 54.177.108.</p><p>A aposta simples custa R$ 6. Segundo a Caixa, a chance de levar o prêmio principal com seis números é de uma em 50.063.860.</p><p>Os ganhadores mineiros devem ir a uma agência da Caixa para sacar os valores: prêmios acima de R$ 2.428,80 são pagos somente nos bancos, com documento de identificação e CPF.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/111831_14.jpg",
-  "credito_foto": "Foto: Reprodução/NC News",
-  "fonte": "NC News",
-  "resumos": ""
- },
- {
   "id": "111854_89",
   "data": "2026-11-06T08:23:40-03:00",
   "titulo": "Centro de vacinas da UFMG faz 10 anos com imunizante nacional contra a Covid e outro contra a malária em testes",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/223620_232.jpg",
   "credito_foto": "Gladyston Rodrigues/EM/D.A Press",
   "fonte": "Estado de Minas",
+  "resumos": ""
+ },
+ {
+  "id": "223719_veja",
+  "data": "2026-11-07T19:48:46-03:00",
+  "titulo": "Atualização aos 27 do 2º tempo: Weverton salva o Grêmio, chuva forte cai na Arena MRV e Galo muda o ataque",
+  "linha_fina": "Placar segue 1 x 1; Scarpa e Cassierra entram no Atlético, que precisa de dois gols para levar a semifinal aos pênaltis.",
+  "categoria": "atletico",
+  "texto": "<p><strong>Placar ao vivo, 27 minutos do 2º tempo: Atlético 1 x 1 Grêmio</strong> – Arena MRV, volta da semifinal da Copa do Brasil.</p><p>O Atlético segue em cima, mas esbarra no goleiro Weverton. Aos 26 minutos, Fred deu um ótimo passe para Renan Lodi, que apareceu livre na área e parou em mais uma defesa do gremista. Antes, aos 20, Cuello invadiu a área e finalizou, mas Weverton segurou.</p><p>Uma chuva forte começou a cair na Arena MRV na reta final do jogo.</p><p><strong>Mudanças:</strong> o Atlético colocou Gustavo Scarpa e Cassierra nas vagas de Igor Gomes e Natanael, depois de já ter trocado Alan Minda e Castaño por Dudu e Fred. O Grêmio tirou Carlos Vinícius, autor do gol de empate, para a entrada de Braithwaite, e trocou Amuzu por Tetê.</p><p><strong>A conta do Galo:</strong> como perdeu a ida por 2 a 0, o Atlético precisa marcar mais dois gols e vencer por 3 a 1 para levar a decisão aos pênaltis. Uma vitória por três gols de diferença classifica direto. O Grêmio passa com o empate ou até perdendo por um gol.</p><p><strong>Os gols:</strong> Renan Lodi abriu o placar aos 25 do 1º tempo, com um chute no ângulo; Carlos Vinícius empatou de cabeça aos 37. O resultado final sai aqui no Portal ONE News.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/223719_veja.jpg",
+  "credito_foto": "Alexandre Guzanshe/EM D.A Press",
+  "fonte": "Lance!",
   "resumos": ""
  }
 ]
