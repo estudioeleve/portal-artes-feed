@@ -15342,5 +15342,19 @@
   "fonte": "RCWTV",
   "arte": "artes/2026-11-06/001216_52.jpg",
   "media_id": "18121152598760527"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "21:58",
+  "id": "001203_5",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Conta de luz da Cemig pode ficar cerca de 7% mais barata em 2027, aponta estudo de consultoria",
+  "titulo_orig": "Ajustes financeiros e redução de subsídios devem ajudar a reduzir o preço da energia elétrica em Minas - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/minas-gerais-brasil-energia-eletrica/",
+  "fonte": "Diário do Comércio",
+  "arte": "artes/2026-11-06/001203_5.jpg",
+  "media_id": "18115979192232429"
  }
 ]
