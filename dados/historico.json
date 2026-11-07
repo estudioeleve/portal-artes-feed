@@ -17316,5 +17316,61 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-07/171114_65.jpg",
   "media_id": "17954603280312646"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "14:17",
+  "id": "171122_29",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Indústria pede ao STF para adiar o fim da escala 6x1, previsto para 16 de dezembro",
+  "titulo_orig": "CNI pede ao STF adiamento do fim da escala 6x1 e participará de audiência com Dino",
+  "link": "https://veronoticias.com/economia/cni-pede-ao-stf-adiamento-do-fim-da-escala-6x1-e-participara-de-audiencia-com-dino/",
+  "fonte": "Vero Notícias",
+  "arte": "artes/2026-11-07/171122_29.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "14:17",
+  "id": "171144_31",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Farmácias alertam para risco de faltar remédio no início de 2027 e pedem adiamento da reforma tributária",
+  "titulo_orig": "Setor farmacêutico cita 'risco concreto' de desabastecimento e pede adiamento da reforma tributária",
+  "link": "https://www.estadao.com.br/politica/coluna-do-estadao/setor-farmaceutico-cita-risco-concreto-de-desabastecimento-e-pede-adiamento-da-reforma-tributaria/",
+  "fonte": "Estadão",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "14:17",
+  "id": "171223_48",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Dólar sobe cerca de 10% após a eleição; bancos estrangeiros veem exagero e apontam Congresso como freio",
+  "titulo_orig": "Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso",
+  "link": "https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/",
+  "fonte": "InfoMoney",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "14:17",
+  "id": "171227_107",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Rogério Marinho promete Senado independente e diz que não vai travar projetos do governo",
+  "titulo_orig": "Rogério promete Senado independente e propõe diálogo entre os Poderes para enfrentar crise institucional - Tribuna do Norte",
+  "link": "https://tribunadonorte.com.br/politica/rogerio-promete-senado-independente-e-propoe-dialogo-entre-os-poderes-para-enfrentar-crise-institucional/",
+  "fonte": "Tribuna do Norte",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
