@@ -1,17 +1,5 @@
 [
  {
-  "id": "102232_36",
-  "data": "2026-11-06T07:22:54-03:00",
-  "titulo": "BH ganha Casa do Carnaval em frente à rodoviária, com ensaio gratuito para até 30 blocos por mês",
-  "linha_fina": "Projeto-piloto de R$ 400 mil, com patrocínio da Cemig, terá palco, salas de dança, cursos e lojas para produtos dos próprios blocos.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Belo Horizonte inaugurou a Casa do Carnaval, um espaço em frente à rodoviária para os grupos carnavalescos da capital. O projeto-piloto tem investimento de R$ 400 mil, com patrocínio da Cemig, e foi idealizado pela produtora cultural Polly Paixão, segundo o Diário do Comércio.</p><p>O local terá palco, som e iluminação profissionais, salas de dança e de reunião, auditório e área para as baterias. A capacidade prevista é de até 30 blocos em ensaios por mês, com acesso gratuito.</p><p>Também haverá cursos em cinco eixos: customização de abadás, confecção de estandartes, marketing digital, gestão de redes sociais e captação de recursos por leis de incentivo. A programação inclui feira de economia colaborativa, atividades de networking, acolhimento turístico e lojas e ateliês para vender produtos feitos pelos blocos.</p><p>\"A Casa do Carnaval nasce para dar a essa paixão um endereço à altura dela\", afirmou Polly Paixão. Ela disse que o espaço também quer receber empresários e marcas da cidade com produtos e serviços ligados à festa.</p><p>De acordo com a Belotur, o Carnaval de 2026 reuniu 6,6 milhões de foliões em BH, com 349 mil turistas e 457 desfiles em 23 dias. A movimentação econômica chegou a R$ 1,4 bilhão, com cerca de 25 mil empregos gerados.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/102232_36.jpg",
-  "credito_foto": "Reprodução/Diário do Comércio",
-  "fonte": "Diário do Comércio",
-  "resumos": ""
- },
- {
   "id": "111241_52",
   "data": "2026-11-06T08:21:28-03:00",
   "titulo": "Homem achado debaixo da cama de idosa em Jaboticatubas é investigado por dois homicídios",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/221546_140.jpg",
   "credito_foto": "Reprodução/Instagram",
   "fonte": "Globo",
+  "resumos": ""
+ },
+ {
+  "id": "222720_276",
+  "data": "2026-11-07T19:27:39-03:00",
+  "titulo": "Jornada em BH discute valorização de catadores; rede atende cerca de 700 profissionais em 31 cidades de Minas",
+  "linha_fina": "Encontro no Centro Mineiro de Referência em Resíduos reuniu catadores, Copasa e entidades para ampliar parcerias na reciclagem.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O Centro Mineiro de Referência em Resíduos (CMRR) recebeu a abertura da Jornada de Valorização do Trabalho dos Catadores e Catadoras de Materiais Recicláveis, que reuniu lideranças de várias regiões de Minas Gerais. O objetivo foi discutir avanços na gestão sustentável de resíduos e melhores condições de trabalho para a categoria.</p><p>A jornada foi promovida pela Rede Cataunidos, em parceria com o Movimento Nacional dos Catadores e Catadoras de Materiais Recicláveis (MNCR) e o Instituto Nenuca de Desenvolvimento Sustentável (Insea), por meio do projeto Óleo Circular.</p><p>Segundo a Copasa, que participou da abertura, a parceria entre a companhia e os catadores beneficia cerca de 700 profissionais ligados a 35 associações em 31 municípios mineiros. A empresa foi representada pela superintendente de Desenvolvimento Sustentável, Luciana Barbosa, e por integrantes das áreas de desenvolvimento social e ambiental.</p><p>Durante o encontro, os debates destacaram a necessidade de ampliar as parcerias entre poder público, empresas e organizações de catadores, para que mais material reciclável volte à cadeia produtiva.</p><p>O fortalecimento das associações, segundo os participantes, gera renda, promove a inclusão social de famílias e reduz o volume de resíduos enviado aos aterros. A coleta e a venda de recicláveis são a principal fonte de sustento de milhares de famílias no estado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/222720_276.jpg",
+  "credito_foto": "Divulgação/Copasa",
+  "fonte": "RCWTV",
   "resumos": ""
  }
 ]
