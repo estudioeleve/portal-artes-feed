@@ -1,17 +1,5 @@
 [
  {
-  "id": "111250_31",
-  "data": "2026-11-06T08:21:28-03:00",
-  "titulo": "Enem é neste domingo: primeira prova tem 90 questões e redação em 5h30; veja como se organizar",
-  "linha_fina": "Mais de 5 milhões de candidatos fazem o exame. Saber a estrutura da prova ajuda a não deixar questões em branco.",
-  "categoria": "educacao",
-  "texto": "<p>Mais de 5 milhões de candidatos fazem neste domingo (8) o primeiro dia do Exame Nacional do Ensino Médio (Enem) de 2026, com cinco horas e meia de duração. Conhecer como a prova é montada ajuda o estudante a dividir o tempo e a não deixar itens sem resposta.</p><p>No primeiro dia são 90 questões objetivas de múltipla escolha, de linguagens e ciências humanas, além da redação. Entram português, literatura, inglês ou espanhol, artes, tecnologia da informação e comunicação, educação física, história, geografia, filosofia e sociologia. A redação deve seguir o modelo dissertativo-argumentativo e tem limite de 30 linhas.</p><p>Não existe um tempo definido para cada item. A recomendação é treinar antes com simulados para descobrir a média por questão. Se travar em uma delas, o candidato pode marcá-la, avançar e voltar depois, sem esquecer de reservar tempo para passar a redação com caneta preta para a folha definitiva e preencher o cartão-resposta.</p><p>O Inep, responsável pelo exame, usa a Teoria de Resposta ao Item. Não há peso por questão, e uma resposta errada não anula uma certa. O modelo leva em conta a coerência das respostas, a dificuldade de cada item e a chance de acerto no chute. Por isso, duas pessoas com o mesmo número de acertos podem receber notas diferentes.</p><p>Cada redação é corrigida por dois avaliadores, que dão de 0 a 200 pontos em cada uma das cinco competências: domínio da escrita formal, compreensão da proposta, organização dos argumentos, conhecimento dos mecanismos da língua e proposta de intervenção que respeite os direitos humanos.</p><p>Fuga ao tema, texto com menos de oito linhas, trecho deliberadamente desconectado do assunto e desobediência à estrutura pedida estão entre as situações que levam à nota zero ou à anulação da redação.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/111250_31.jpg",
-  "credito_foto": "Foto: Fabio Rodrigues-Pozzebom/Agência Brasil",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "111826_97",
   "data": "2026-11-06T08:21:28-03:00",
   "titulo": "Navio estreia no Brasil com piscina vazia e banho gelado; passageiros podem pedir reembolso",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/222756_160.jpg",
   "credito_foto": "Reprodução/Gazeta do Povo",
   "fonte": "SBT News",
+  "resumos": ""
+ },
+ {
+  "id": "223717_sta",
+  "data": "2026-11-07T19:37:39-03:00",
+  "titulo": "Placar ao vivo: Lodi faz golaço, Carlos Vinícius empata e Galo pressiona por virada histórica na Copa do Brasil",
+  "linha_fina": "Renan Lodi abriu o placar com golaço, Carlos Vinícius empatou de cabeça; Atlético domina o jogo, mas Grêmio segue com a vantagem.",
+  "categoria": "atletico",
+  "texto": "<p><strong>Placar ao vivo (2º tempo): Atlético 1 x 1 Grêmio</strong> – Arena MRV, Belo Horizonte, jogo de volta da semifinal da Copa do Brasil. <em>Esta matéria é atualizada durante a partida.</em></p><p><strong>O que o Galo precisa:</strong> como perdeu a ida por 2 a 0, em Porto Alegre, o Atlético tem de vencer por dois gols de diferença para levar a decisão aos pênaltis, ou por três ou mais para se classificar direto. O Grêmio avança com empate ou até perdendo por um gol.</p><p><strong>1º tempo:</strong> com a Arena MRV lotada e uma grande festa da torcida, que atrasou o início do jogo, o Atlético partiu para cima. Aos 25 minutos, Renan Lodi avançou pelo meio e acertou uma bomba no ângulo, sem chance para Weverton: 1 a 0. O goleiro gremista ainda fez grandes defesas em chutes de Bernard e Castaño. Na única chegada perigosa do Grêmio, aos 37, Noriega cruzou depois de uma cobrança de falta e Carlos Vinícius, autor de gol na ida, empatou de cabeça. Nos acréscimos, Igor Gomes, Cuello e Alan Minda perderam chances claras.</p><p><strong>Números do 1º tempo:</strong> o Galo teve 79% de posse de bola e 15 finalizações, cinco no gol, contra quatro chutes do Grêmio.</p><p><strong>2º tempo:</strong> o Grêmio voltou com Dodi e Caio Paulista nos lugares de Enamorado e Marlon. Aos 11 minutos, o técnico do Atlético colocou Dudu e Fred nas vagas de Alan Minda e Castaño, em busca de mais força no ataque. O Galo segue pressionando no campo de ataque.</p><p><strong>Cartões amarelos:</strong> Bernard e Castaño (Atlético); Enamorado (Grêmio).</p><p>O vencedor do confronto enfrenta na final quem passar de Vasco x Palmeiras, a outra semifinal. Acompanhe o resultado final aqui no Portal ONE News.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/223717_sta.jpg",
+  "credito_foto": "Alexandre Guzanshe/EM D.A Press",
+  "fonte": "Lance! e No Ataque",
   "resumos": ""
  }
 ]
