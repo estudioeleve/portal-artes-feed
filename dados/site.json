@@ -1,17 +1,5 @@
 [
  {
-  "id": "111826_97",
-  "data": "2026-11-06T08:21:28-03:00",
-  "titulo": "Navio estreia no Brasil com piscina vazia e banho gelado; passageiros podem pedir reembolso",
-  "linha_fina": "Viagem inaugural do Buenavista saiu de Santos com goteiras, filas e falta de água potável. Empresa oferece crédito ou reembolso aos pagantes.",
-  "categoria": "brasil",
-  "texto": "<p>Piscinas vazias, filas nos restaurantes e água gelada nos chuveiros estão entre as queixas de hóspedes do cruzeiro inaugural do navio Buenavista no Brasil. A embarcação abriu a temporada 2026/2027 saindo do Porto de Santos, no litoral de São Paulo, segundo o g1.</p><p>A viagem começou na sexta-feira (30), com escalas no Rio de Janeiro e em Búzios, e terminou na segunda-feira (2). Os passageiros relataram atrasos no embarque, goteiras, falta de tripulantes, jacuzzi sem funcionar, escala reduzida em Búzios, cassino ainda não instalado, falta de água potável na noite de 30 de outubro, confusão em bares e restaurantes, ar-condicionado com problemas e cabines que não abriam porque a bateria da fechadura eletrônica havia descarregado. De acordo com os relatos, a maior parte foi resolvida ao longo da viagem.</p><p>A companhia espanhola Corazul e a R11 Travel, distribuidora da armadora no país, anunciaram compensações. O hóspede pagante pode escolher entre crédito de 50% do valor pago para uma nova viagem ou reembolso integral, com bônus de 25% para outro cruzeiro nesta temporada.</p><p>Segundo a R11, cerca de 1,5 mil pessoas participaram da viagem, das quais aproximadamente 400 pagaram pelo pacote. A distribuidora não informou quantos pedidos recebeu, porque o processo ainda estava em andamento. Para solicitar, basta procurar a agência ou o site onde a compra foi feita.</p><p>A empresa afirma que precisou adaptar a operação e os horários aos hábitos do público brasileiro, que os problemas foram resolvidos para os embarques seguintes e que a programação da temporada não muda.</p><p>O navio tem bandeira das Bermudas, 260 metros de comprimento, 13 conveses, 939 cabines e capacidade para 2.140 passageiros.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/111826_97.jpg",
-  "credito_foto": "Foto: Ted Sartori/A Tribuna",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "112013_ras",
   "data": "2026-11-06T08:21:28-03:00",
   "titulo": "Lojista: escala 6x1 acaba em 16 de dezembro, quando a jornada cai para 42 horas; veja o que fazer",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/223717_sta.jpg",
   "credito_foto": "Alexandre Guzanshe/EM D.A Press",
   "fonte": "Lance! e No Ataque",
+  "resumos": ""
+ },
+ {
+  "id": "223612_298",
+  "data": "2026-11-07T19:38:07-03:00",
+  "titulo": "Falta d'água: reparo de emergência afeta mais de 120 bairros de BH, Contagem e Ibirité até segunda",
+  "linha_fina": "Abastecimento pode ficar irregular no sábado e no domingo; normalização é prevista para a manhã de segunda-feira (9).",
+  "categoria": "regiao-metropolitana",
+  "texto": "<p>Uma manutenção de emergência da Companhia de Saneamento de Minas Gerais (Copasa) pode provocar falta de água e oscilações no abastecimento em mais de 120 bairros de Belo Horizonte, Contagem e Ibirité. O alerta foi divulgado pela companhia na manhã deste sábado (7), e a previsão é de que o fornecimento seja normalizado apenas na manhã de segunda-feira (9).</p><p>Com o serviço em andamento, moradores das três cidades podem ficar sem água em alguns períodos do sábado e do domingo. Dependendo da localização, alguns imóveis podem passar até dois dias sem abastecimento regular.</p><p>A água pode chegar de forma intermitente, ou seja, o fornecimento pode ser interrompido e retomado várias vezes até a conclusão do serviço. A Copasa não informou qual problema foi identificado no sistema, a extensão dos reparos nem a lista completa dos bairros incluídos no alerta.</p><p>A interrupção acontece em um período de calor, com temperaturas acima de 30°C, o que aumenta o consumo e pode tornar a falta de água mais sentida pelos moradores.</p><p>Imóveis com caixa-d'água podem não sentir os efeitos de imediato, já que a reserva pode manter o consumo por parte do período. A orientação é usar a água de forma racional, priorizando beber, cozinhar e a higiene pessoal, e evitar lavar calçadas, carros e quintais até a normalização.</p><p>Em caso de dúvida ou problema, os clientes podem procurar a Copasa pelo telefone 115, pelo aplicativo Copasa Digital ou pela agência virtual no site da companhia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/223612_298.jpg",
+  "credito_foto": "Reprodução/BH 24 Horas",
+  "fonte": "BH 24 Horas",
   "resumos": ""
  }
 ]
