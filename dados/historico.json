@@ -15510,5 +15510,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-06/011046_23.jpg",
   "media_id": "18107359475253868"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "22:44",
+  "id": "011052_429",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "De kombi e balsa, três atleticanos cruzam a América do Sul para ver a final contra o Boca",
+  "titulo_orig": "Atleticanos viajam para Colômbia de kombi para assistir ao Galo na final da Sul-Americana",
+  "link": "https://bhaz.com.br/noticias/atleticanos-colombia-kombi-final-sul-americana/",
+  "fonte": "bhaz.com.br",
+  "arte": "artes/2026-11-06/011052_429.jpg",
+  "media_id": "17943491916385890"
  }
 ]
