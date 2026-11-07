@@ -5,6 +5,12 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## ⚽ JOGO GRANDE DE ATLÉTICO OU CRUZEIRO: COBERTURA ESPECIAL, PRINCIPALMENTE NO SITE (Israel, 07/11/2026 ~19h40, bronca: "O Atlético jogando um jogo muito importante e você não deu uma atenção... deveria fazer uma cobertura especial... colocar um placar online")
+- Jogo decisivo (semifinal, final, clássico, jogo que vale título/vaga/rebaixamento) do time principal de Atlético ou Cruzeiro: **a rodada que pegar o jogo faz cobertura especial**, não deixa "para a próxima rodada".
+- **Site**: matéria **"Placar ao vivo"** assim que a rodada começar com o jogo em andamento (placar no topo, o que o time precisa, gols, cartões, mudanças, números), buscando nos sites que transmitem lance a lance (Lance!, VAVEL, ge, Itatiaia, O Tempo/No Ataque, Terra). A cada espera entre posts, **publique uma atualização nova** (o site não atualiza matéria antiga: cada atualização é um item novo, com título diferente para a trava REPETIDO não barrar). No fim do jogo: matéria do resultado e, depois, repercussão (técnico, jogadores, próximo jogo).
+- **Instagram**: gol importante (se a rodada estiver no ar) e **resultado logo após o apito final**, com arte e foto do jogo.
+- Antes do jogo, no dia: prévia com horário, onde assistir e o que cada time precisa.
+
 ## 🎯 PONTO PRINCIPAL SEMPRE NO CENTRO DA ARTE (Israel, 07/11/2026 10h54, bronca: "Quantas vezes eu vou ter que pedir... o ponto principal centralizado?")
 - Saiu o post do Prospera MEI (09h35) com a pilha de moedas colada na borda esquerda e o resto da arte vazio. **Não pode mais.**
 - Vale para **toda** arte do Instagram, com ou sem pessoa: o **assunto principal** (pessoa, objeto, veículo, prédio, placa, animal) fica **no meio da moldura**, inteiro e visível acima do título.
