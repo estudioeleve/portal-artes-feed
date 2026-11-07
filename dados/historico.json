@@ -17260,5 +17260,19 @@
   "fonte": "Correio do Povo Penedo",
   "arte": "artes/2026-11-07/162022_245.jpg",
   "media_id": "18124154896938701"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "13:48",
+  "id": "161154_4",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro chega a 99,88% de chance de ir à Libertadores e pode garantir a vaga contra o Palmeiras",
+  "titulo_orig": "UFMG: após rodada favorável, Cruzeiro ultrapassa 99% de chances de ir à Libertadores | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/ufmg-apos-rodada-favoravel-cruzeiro-ultrapassa-99-de-chances-de-ir-a-libertadores/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-07/161154_4.jpg",
+  "media_id": "17897005518612696"
  }
 ]
