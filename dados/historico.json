@@ -17218,5 +17218,33 @@
   "fonte": "Consultor Jurídico",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "13:28",
+  "id": "161123_35",
+  "bloco": "bh",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Câmara de BH aprova cancelas e guaritas em ruas de loteamentos; agora a decisão é do prefeito",
+  "titulo_orig": "Câmara aprova lei que permite cancelas e guaritas em ruas de BH",
+  "link": "https://bhaz.com.br/noticias/bh/camara-bh-aprova-lei-cancelas-ruas-publicas/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-07/161123_35.jpg",
+  "media_id": "17999503781829761"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "13:28",
+  "id": "162136_183",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Projeto na Câmara cria política nacional de saúde mental nas escolas, com verba de apostas e índice de bem-estar",
+  "titulo_orig": "Projeto cria política de saúde mental na educação básica",
+  "link": "https://www.poder360.com.br/poder-congresso/projeto-cria-politica-de-saude-mental-na-educacao-basica/",
+  "fonte": "Poder360",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
