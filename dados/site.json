@@ -1,17 +1,5 @@
 [
  {
-  "id": "121313_185",
-  "data": "2026-11-06T09:15:07-03:00",
-  "titulo": "Autódromo em Santa Luzia recebe prova de ciclismo no dia 15; inscrições vão até a quinta, dia 12",
-  "linha_fina": "Pedal X Road será no Mega Space, em circuito fechado, com largadas às 6h30 e às 8h30, categoria para iniciantes e percurso para crianças.",
-  "categoria": "santa-luzia",
-  "texto": "<p>O autódromo Mega Space, em Santa Luzia, na Região Metropolitana de Belo Horizonte, será palco de uma etapa do Pedal X Road no domingo, 15 de novembro. A prova de ciclismo acontece em circuito fechado e as inscrições seguem abertas até o dia 12, pelo site www.pedal-x.com.</p>\n<p>A largada masculina está prevista para as 6h30, com 90 minutos de disputa. A feminina começa às 8h30 e dura 60 minutos. O formato é por tempo: ao fim do período, ganha quem tiver dado mais voltas no circuito, o que permite a cada ciclista administrar o próprio ritmo durante a prova.</p>\n<p>A cronometragem será feita por chip, com registro oficial das voltas e supervisão da Federação Mineira de Ciclismo. A participação é aberta a partir dos 18 anos, em categorias divididas por faixa etária, e há disputa para pessoas com deficiência (PCD), na Classe C.</p>\n<p>Quem nunca competiu também tem espaço. A categoria \"desafio pessoal\" é voltada a quem está começando e quer testar os próprios limites no autódromo, sem a pressão de disputar posição com outros atletas. Todos os inscritos recebem camiseta, squeeze e chip numeral.</p>\n<p>A programação inclui ainda um percurso exclusivo para crianças, pensado para ser feito por pais e filhos, além de shows e outras atividades na arena do evento.</p>\n<p>Segundo Vanessa Pires, CEO da Brada, empresa que apoia a prova, a ideia é oferecer uma experiência que vá além da velocidade, ampliar o acesso ao esporte e fortalecer a cultura do ciclismo. O evento é realizado pela Associação Encaminhando, com patrocínio do Nubank, por meio da Lei Federal de Incentivo ao Esporte.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/121313_185.jpg",
-  "credito_foto": "Divulgação",
-  "fonte": "Revista Kdea 360",
-  "resumos": ""
- },
- {
   "id": "121037_35",
   "data": "2026-11-06T09:15:07-03:00",
   "titulo": "Suspeito 'Amendoim' morre baleado pela PM em Neves; polícia diz que ele apontou arma três vezes",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/231727_day.jpg",
   "credito_foto": "Foto: Reprodução/Diário do Comércio",
   "fonte": "Diário do Comércio",
+  "resumos": ""
+ },
+ {
+  "id": "232350_ares",
+  "data": "2026-11-07T20:25:15-03:00",
+  "titulo": "Alerta extremo: celulares tocam em BH e Defesa Civil fecha avenidas por risco de inundação",
+  "linha_fina": "Avenidas Heráclito Mourão de Miranda, na Pampulha, e Francisco Sá, na região Oeste, foram bloqueadas por risco de transbordamento de córregos.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A Defesa Civil de Belo Horizonte disparou alertas extremos, acompanhados de aviso sonoro de emergência, nos celulares de moradores da capital por volta das 20h deste sábado (7), por causa do risco iminente de inundação provocado pela chuva forte.</p>\n<p>Às 19h30, o órgão já havia enviado um alerta severo para chuva intensa, enxurradas e alagamentos na cidade. Às 19h50, um novo aviso severo apontou risco de inundação nas avenidas Vilarinho, em Venda Nova, e Heráclito Mourão de Miranda, na Pampulha.</p>\n<p>A Defesa Civil determinou o bloqueio imediato da Avenida Heráclito Mourão de Miranda, pelo risco elevado de transbordamento do Córrego Ressaca, e da Avenida Francisco Sá, na região Oeste, pelo risco de transbordamento do Córrego dos Pintos. As duas medidas foram classificadas como Alerta 3 e envolvem equipes da Defesa Civil, da Guarda Civil Municipal e da BHTrans.</p>\n<p>O monitoramento divulgado às 20h mostrava chuva extremamente forte, com mais de 5 milímetros em cinco minutos, nas regiões Nordeste, Oeste e Centro-Sul e em parte da Noroeste. Nas redes sociais, moradores relataram susto com o alerta, que tocou ao mesmo tempo em vários celulares, inclusive em bares onde torcedores assistiam ao jogo do Atlético.</p>\n<p>A cidade já tinha sido atingida por um temporal com granizo à tarde. Segundo o Corpo de Bombeiros, foram 49 chamados ligados à chuva entre 12h e 18h, com 42 ocorrências de quedas de árvores ou risco de queda, além de um desabamento de estrutura. A Pampulha registrou 36,4 milímetros em duas horas, o equivalente a 15,4% da média de novembro. Venda Nova teve 24,2 milímetros e a região Norte, 21,8 milímetros.</p>\n<p>Belo Horizonte continua sob alerta de tempestade até este domingo (8). A Defesa Civil orienta a população a evitar áreas sujeitas a alagamentos, não atravessar enxurradas e procurar locais seguros durante as chuvas intensas.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/232350_ares.jpg",
+  "credito_foto": "Foto: Reprodução/Metrópoles",
+  "fonte": "Metrópoles",
   "resumos": ""
  }
 ]
