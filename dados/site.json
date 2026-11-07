@@ -1,17 +1,5 @@
 [
  {
-  "id": "021301_266",
-  "data": "2026-11-05T23:18:40-03:00",
-  "titulo": "Gusttavo Lima traz o Buteco de volta ao Mineirão em abril de 2027; vendas começam na terça (10)",
-  "linha_fina": "Festival será em 10 de abril de 2027, com portões abertos às 15h. Ingressos saem pela BaladAPP a partir de 10 de novembro.",
-  "categoria": "entretenimento",
-  "texto": "<p>O cantor Gusttavo Lima confirmou a volta do projeto Buteco a Belo Horizonte. O festival será realizado no Mineirão em 10 de abril de 2027, um sábado, com abertura dos portões às 15h. A venda de ingressos começa em 10 de novembro de 2026, próxima terça-feira.</p><p>As entradas serão vendidas pelo site e pelo aplicativo BaladAPP. O evento terá três opções de setores no estádio, com diferentes condições de acesso e serviços.</p><p>A última passagem do festival pela capital mineira foi em 2024, quando reuniu mais de 75 mil pessoas no Mineirão. Segundo a organização, as edições anteriores em BH tiveram alta procura, com setores esgotados poucas horas depois do início das vendas. Por isso, quem pretende ir deve ficar atento à data de abertura.</p><p>A classificação informada é a seguinte: menores de 16 anos só entram acompanhados dos pais ou de responsável legal. O open bar é exclusivo para maiores de 18 anos.</p><p>O Mineirão fica na Avenida Antônio Abrahão Caram, 1.001, no bairro São José, na região da Pampulha. Os valores e os detalhes de cada setor devem ser consultados nos canais oficiais de venda.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/021301_266.jpg",
-  "credito_foto": "Reprodução/SouBH",
-  "fonte": "SouBH",
-  "resumos": ""
- },
- {
   "id": "021610_rte",
   "data": "2026-11-05T23:18:40-03:00",
   "titulo": "Festival Sabores vai até domingo (8) com pratos em Pedro Leopoldo, Lagoa Santa e Vespasiano",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/191548_211.jpg",
   "credito_foto": "Foto: Divulgação/Al-Masirah",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "191842_rais",
+  "data": "2026-11-07T16:19:02-03:00",
+  "titulo": "Polícia Civil investiga ameaça de morte contra os 77 deputados estaduais de Minas; autor diz ser cabo da PM",
+  "linha_fina": "Presidente em exercício da ALMG, Leninha registrou representação criminal e aderiu a pedido de medidas de proteção aos parlamentares.",
+  "categoria": "politica",
+  "texto": "<p>A Polícia Civil de Minas Gerais (PCMG) investiga ameaças de morte enviadas aos 77 deputados estaduais da Assembleia Legislativa de Minas Gerais (ALMG). As mensagens são atribuídas a um homem que se apresenta como cabo da Polícia Militar. O caso levou à adoção de medidas de proteção aos parlamentares.</p><p>Nesta sexta-feira (6), a deputada estadual Leninha (PT), presidente em exercício da ALMG, formalizou uma representação criminal contra o homem e aderiu ao pedido de medidas cautelares de proteção. Ela também procurou a delegada responsável pelo inquérito para orientar os demais deputados a se manifestarem no processo.</p><p>Em uma das mensagens, o autor afirma ter sido perseguido e punido depois de denunciar supostas irregularidades na Polícia Militar. Ele também acusa o Ministério Público de Minas Gerais (MPMG) de ter, segundo a versão dele, escondido fatos durante uma investigação sobre o caso.</p><p>No fim do texto, o homem afirma que, se os deputados tiverem uma posição que ele considere desrespeitosa com a situação dele, vai \"matar os 77 deputados\". Ele escreve ainda que decidiu avisar os parlamentares para que não fossem pegos de surpresa.</p><p>Segundo a Polícia Civil, as investigações continuam para esclarecer todos os fatos e apurar responsabilidades criminais. Em nota, Leninha disse que aguarda a apuração e as providências das autoridades. O Ministério Público e a Polícia Militar também foram procurados, mas não haviam se manifestado até a publicação original.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/191842_rais.jpg",
+  "credito_foto": "Foto: Divulgação/ALMG",
+  "fonte": "BHAZ",
   "resumos": ""
  }
 ]
