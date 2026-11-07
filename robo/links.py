@@ -20,6 +20,8 @@ from foto_repetida import achar_foto
 f=achar_foto(n)
 if f:
   print('FOTO REPETIDA: NÃO PUBLIQUE, troque a foto.',i,'usa a mesma foto de',f['data'],f.get('hora',''),f.get('titulo','')[:90]);sys.exit(1)
+if n.get('assunto_borda'):
+  print('ASSUNTO NA BORDA: NÃO PUBLIQUE. O ponto principal da foto não fica no centro da moldura (Israel, 07/11/2026). Troque a foto ou deixe só no site.',i);sys.exit(1)
 arte=n['arte'];tam=os.path.getsize(f'{R}/{arte}')
 sha=subprocess.check_output(['git','-C',R,'rev-parse','HEAD'],text=True).strip()
 links=[f'https://cdn.jsdelivr.net/gh/estudioeleve/portal-artes-feed@{sha}/{arte}',

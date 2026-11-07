@@ -108,7 +108,53 @@ def ajustar(item, lado=None):
         item['foco'] = f"{px:.0f}% {py:.0f}%"
         print(f"{item['id']}: {len(r)} rosto(s), foco = {item['foco']}")
     else:
-        print(f"{item['id']}: sem rosto detectado (foco mantido: {item.get('foco', 'padrão')})")
+        # Israel, 07/11/2026 (moedas do Prospera MEI coladas na borda): sem rosto, acha o ASSUNTO PRINCIPAL
+        # (onde há detalhe, contraste e cor diferente do fundo) e põe ele no centro da moldura.
+        c = assunto(im)
+        if c:
+            w, h = im.size; ar = 1080 / 1350
+            vis_w = min(w, h * ar); vis_h = min(h, w / ar)
+            cx, cy = c
+            esq = max(0, min(w - vis_w, cx - vis_w / 2)); pos = (cx - esq) / vis_w
+            if abs(pos - 0.5) > 0.12:
+                # assunto colado na borda da foto: object-position não resolve; recorta a foto em volta dele
+                nw = 2 * min(cx, w - cx)
+                if nw >= vis_w * 0.75 and nw >= 500:
+                    x0 = int(cx - nw / 2); im = im.crop((x0, 0, int(x0 + nw), h)); im.save(cam, quality=92)
+                    w = im.size[0]; cx = cx - x0; vis_w = min(w, h * ar); vis_h = min(h, w / ar)
+                    print(f"{item['id']}: assunto na borda; foto recortada para centralizar ({im.size})")
+                else:
+                    item['assunto_borda'] = True
+                    print(f"{item['id']}: ATENÇÃO ASSUNTO NA BORDA ({pos:.0%} da moldura): não dá para centralizar sem zoom alto. TROQUE A FOTO (ou só site).")
+            px = 50 if w - vis_w < 1 else max(0, min(100, (cx - vis_w / 2) / (w - vis_w) * 100))
+            py = 30 if h - vis_h < 1 else max(0, min(100, (cy - vis_h * 0.4) / (h - vis_h) * 100))
+            item['foco'] = f"{px:.0f}% {py:.0f}%"
+            print(f"{item['id']}: sem rosto; assunto principal em x={cx/w:.0%} y={cy/h:.0%} -> foco = {item['foco']}")
+        else:
+            print(f"{item['id']}: sem rosto detectado (foco mantido: {item.get('foco', 'padrão')})")
+
+def assunto(im):
+    """Centro do assunto principal: mapa de 'saliência' (bordas + cor diferente da média + um pouco de peso no centro).
+    Devolve (cx, cy) em pixels da foto, ou None se a foto for uniforme."""
+    w0, h0 = im.size; esc = 320 / max(w0, h0)
+    p = im.resize((max(1, int(w0 * esc)), max(1, int(h0 * esc))))
+    a = np.asarray(p).astype(float); g = a.mean(axis=2)
+    gx = np.abs(np.diff(g, axis=1, append=g[:, -1:])); gy = np.abs(np.diff(g, axis=0, append=g[-1:, :]))
+    borda = gx + gy
+    cor = np.sqrt(((a - np.median(a.reshape(-1, 3), axis=0)) ** 2).sum(axis=2))
+    def norm(m):
+        m = m - m.min(); return m / (m.max() + 1e-6)
+    # suaviza (média em blocos) para pegar regiões, não ruído/textura fina
+    def borrar(m, k=9):
+        from numpy.lib.stride_tricks import sliding_window_view
+        pd = np.pad(m, k // 2, mode='edge'); return sliding_window_view(pd, (k, k)).mean(axis=(2, 3))
+    s = borrar(norm(borrar(borda, 5)) * 0.6 + norm(cor) * 0.4)
+    H, W = s.shape; yy, xx = np.mgrid[0:H, 0:W]
+    s = s * (1 - 0.25 * (((xx / W - .5) ** 2 + (yy / H - .5) ** 2) / .5))   # leve preferência pelo centro
+    lim = np.quantile(s, 0.85); m = np.where(s >= lim, s, 0)
+    if m.sum() < 1e-6 or s.std() < 0.02: return None
+    cx = (m * xx).sum() / m.sum(); cy = (m * yy).sum() / m.sum()
+    return cx / esc, cy / esc
 
 if __name__ == '__main__':
     args = sys.argv[1:]; lado = None

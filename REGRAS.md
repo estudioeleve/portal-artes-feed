@@ -5,6 +5,12 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## 🎯 PONTO PRINCIPAL SEMPRE NO CENTRO DA ARTE (Israel, 07/11/2026 10h54, bronca: "Quantas vezes eu vou ter que pedir... o ponto principal centralizado?")
+- Saiu o post do Prospera MEI (09h35) com a pilha de moedas colada na borda esquerda e o resto da arte vazio. **Não pode mais.**
+- Vale para **toda** arte do Instagram, com ou sem pessoa: o **assunto principal** (pessoa, objeto, veículo, prédio, placa, animal) fica **no meio da moldura**, inteiro e visível acima do título.
+- O `robo/colagem.py` agora acha o assunto também **sem rosto** e grava o `foco` para centralizá-lo. Se o assunto estiver colado na borda da foto, ele recorta a foto em volta do assunto; se nem assim der (zoom alto), marca `assunto_borda` e o **`links.py` bloqueia** ("ASSUNTO NA BORDA: NÃO PUBLIQUE"): troque a foto ou deixe a notícia só no site.
+- Depois do artes.js, **olhe cada arte (Read) e pergunte: o ponto principal está no centro?** Se não estiver, ajuste `foco`/`zoom` à mão ou troque a foto. Foto de banco de imagens com objeto num canto e fundo vazio (moedas, calculadora, carrinho): troque.
+
 ## 🖼️ AJUSTE DA IMAGEM NA MOLDURA: SEM BORDA E PESSOA NO CENTRO (Israel, 06/11/2026 17h40: "mais uma vez... coloca aí como regra... tá ficando borda... se tiver uma pessoa na imagem, coloca a pessoa no centro")
 - Ele mandou print do post da Lukinha Automóveis: a foto era uma montagem de duas e a **faixa da segunda foto aparecia na lateral direita** da arte. Isso não pode mais acontecer.
 - **Obrigatório em todo item do Instagram**, depois do `coletar.py` e antes do `artes.js`: `python3 robo/colagem.py <id> <id> ...`. Ele:
