@@ -18226,5 +18226,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-07/211347_57.jpg",
   "media_id": "18211527283368642"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "18:49",
+  "id": "211326_50",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Black Friday deve movimentar R$ 13,3 bi na internet; site lento e ataque hacker ameaçam vendas",
+  "titulo_orig": "Ciberataques e falhas de sistemas ameaçam a Black Friday, que deve movimentar R$ 13,3 bilhões no e-commerce em 2026 - Times Brasil | CNBC",
+  "link": "https://timesbrasil.com.br/empresas-e-negocios/ciberataques-black-friday-ecommerce-13-bilhoes-seguranca-infraestrutura/",
+  "fonte": "Times Brasil | CNBC",
+  "arte": "artes/2026-11-07/211326_50.jpg",
+  "media_id": "17993417357860908"
  }
 ]
