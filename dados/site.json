@@ -1,65 +1,5 @@
 [
  {
-  "id": "231650_137",
-  "data": "2026-11-05T20:19:30-03:00",
-  "titulo": "Zoo de BH apresenta sete espécies de papagaios neste sábado e mostra por que elas são alvo do tráfico",
-  "linha_fina": "Atividade vai das 10h às 13h na Praça das Aves e é gratuita para quem pagar a entrada do Zoológico.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O Zoológico de Belo Horizonte promove neste sábado (7), das 10h às 13h, a atividade educativa \"Papagaios brasileiros\", na Praça das Aves. A participação é gratuita para quem pagar o ingresso de entrada do Zoo.</p><p>O público vai conhecer as sete espécies que vivem no local: papagaio-do-mangue, papagaio-papa-cacau, papagaio-do-peito-roxo, papagaio-verdadeiro, papagaio-chauá, papagaio-galego e papagaio-campeiro.</p><p>Pranchas ilustradas ajudarão os visitantes a identificar as características das aves e a entender por que elas são alvo do tráfico. Também serão discutidas as ações de combate e como a população pode ajudar a enfrentar o crime.</p><p>Segundo a Prefeitura de Belo Horizonte, cerca de 80% das aves do Zoológico chegaram por meio de resgates do Ibama e do Instituto Estadual de Florestas. Muitas são vítimas do tráfico e têm sequelas que impedem a volta à natureza.</p><p>Essas aves participam de ações de pesquisa, conservação e educação ambiental. Filhotes de alguns desses animais, nascidos na instituição, já foram reintroduzidos na natureza pelo Programa Voar.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/231650_137.jpg",
-  "credito_foto": "Foto: Divulgação/Prefeitura de Belo Horizonte",
-  "fonte": "Prefeitura de Belo Horizonte",
-  "resumos": ""
- },
- {
-  "id": "231914_394",
-  "data": "2026-11-05T20:19:30-03:00",
-  "titulo": "Temporal deixa 173 mil imóveis sem luz em Minas, quase 27 mil em BH; casos complexos podem ir até sexta",
-  "linha_fina": "Noroeste, Pampulha e Leste estão entre as regiões mais afetadas da capital, segundo a Cemig.",
-  "categoria": "minas-gerais",
-  "texto": "<p>O temporal desta quinta-feira (5) deixou cerca de 173 mil imóveis sem energia em Minas Gerais por volta das 18h, o que corresponde a 1,8% dos consumidores do estado, segundo a Cemig. Em Belo Horizonte, foram aproximadamente 26,9 mil imóveis, ou 2,7% dos clientes da capital.</p><p>As regiões Noroeste, Pampulha e Leste estão entre as mais afetadas em BH. De acordo com a companhia, a chuva derrubou árvores e arremessou objetos contra a rede elétrica, causando curtos-circuitos e rompimento de cabos.</p><p>A previsão é de que o fornecimento volte de forma gradual ao longo da noite. Ocorrências mais complexas podem levar mais tempo, com trabalhos até a madrugada e a manhã de sexta-feira (6).</p><p>Na Grande BH, o temporal também provocou alagamentos na Avenida Vilarinho, em Venda Nova, na Avenida Brigadeiro Eduardo Gomes, na Noroeste, e na Avenida Heráclito Mourão de Miranda, na Pampulha. A Avenida Francisco Sá foi bloqueada pelo risco de transbordamento do Córrego dos Pintos.</p><p>Em Santa Luzia, uma calçada foi arrancada durante o vendaval. Em Contagem houve queda de árvores, e no Aeroporto de Confins as operações foram afetadas por granizo e ventos fortes.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/231914_394.jpg",
-  "credito_foto": "Foto: Reprodução/g1",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
-  "id": "232558_251",
-  "data": "2026-11-05T20:26:06-03:00",
-  "titulo": "Árvores de grande porte caem sobre carros em estacionamento de Ouro Preto durante ventania",
-  "linha_fina": "Bombeiros foram acionados ao bairro Saramenha nesta quinta; ainda não há informação sobre danos ou pessoas atingidas.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Árvores de grande porte caíram durante a ventania desta quinta-feira (5) no bairro Saramenha, em Ouro Preto, na Região Central de Minas. Vídeo enviado ao BHAZ mostra galhos e troncos sobre o pátio do estacionamento de uma empresa, com carros embaixo.</p><p>O Corpo de Bombeiros foi acionado para cortar uma árvore caída em via pública. O endereço registrado é a Avenida Américo Renê Gianetti, nas proximidades da Rua Simão Lacerda.</p><p>Até a publicação da reportagem de origem, não havia informações sobre danos ou sobre pessoas atingidas. O BHAZ informou ter procurado a Prefeitura de Ouro Preto, a Secretaria de Segurança e Trânsito, responsável pela Defesa Civil municipal, e a empresa.</p><p>A ventania desta quinta fez parte de um dia de temporais em Minas. Balanço do Corpo de Bombeiros contabilizou 150 árvores caídas no estado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/232558_251.jpg",
-  "credito_foto": "Imagens cedidas ao BHAZ",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
-  "id": "001051_46",
-  "data": "2026-11-05T21:16:28-03:00",
-  "titulo": "Defesa Civil põe 6 regionais de BH em risco geológico forte até segunda; veja sinais de perigo",
-  "linha_fina": "Alerta vale para Venda Nova, Norte, Nordeste, Pampulha, Noroeste e Oeste até 9 de novembro, depois do temporal e com previsão de mais chuva.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>A forte tempestade que caiu sobre Belo Horizonte na tarde desta quinta-feira (5) e a previsão de mais chuva intensa nos próximos dias colocaram seis regionais da capital em alerta de risco geológico forte. O aviso vale até a próxima segunda-feira (9) para Venda Nova, Norte, Nordeste, Pampulha, Noroeste e Oeste.</p><p>Segundo a Defesa Civil municipal, a atenção deve ser redobrada com a saturação do solo, com os sinais que aparecem nas construções e com a possibilidade de queda de muros, deslizamentos e desabamentos.</p><p>O órgão lista os sinais que indicam perigo: trincas nas paredes, água empoçando no quintal, portas e janelas emperrando, rachaduras no solo, água minando da base do barranco, postes ou árvores inclinados, muros e paredes estufados e estalos.</p><p>Quem perceber qualquer um desses sinais deve sair do imóvel imediatamente e ligar para a Defesa Civil, no 199. Em caso de emergência, o telefone é o 193, do Corpo de Bombeiros.</p><p>Para reduzir o risco, a recomendação é não fazer cortes altos e inclinados em barrancos, instalar calha no telhado, consertar vazamentos em caixas-d'água e reservatórios, não jogar lixo ou entulho na encosta, não despejar esgoto nos barrancos e não fazer queimadas.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/001051_46.jpg",
-  "credito_foto": "Foto: Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
-  "id": "001255_171",
-  "data": "2026-11-05T21:16:28-03:00",
-  "titulo": "TCE decide terça se mantém suspenso patrocínio de estatais a Atlético, Cruzeiro e América",
-  "linha_fina": "Primeira Câmara do TCE-MG analisa no dia 10 a liminar contra os contratos da Cemig e da Codemig, pedida pelo governador eleito Cleitinho Azevedo.",
-  "categoria": "politica",
-  "texto": "<p>O Tribunal de Contas do Estado de Minas Gerais vai analisar na próxima terça-feira (10) se mantém a liminar que suspendeu o patrocínio de empresas estatais a Atlético, Cruzeiro e América. A decisão caberá à Primeira Câmara do TCE-MG, segundo O Fator.</p><p>Os contratos somam R$ 32 milhões e envolvem a Cemig e a Codemig. Eles foram fechados depois da proibição das casas de apostas no país, que tirou receita dos clubes. Desde a semana passada, Atlético e Cruzeiro já exibem a marca da Cemig nas camisas de jogo.</p><p>A cautelar foi expedida pelo conselheiro em exercício Licurgo Mourão, em representação apresentada pelo governador eleito Cleitinho Azevedo (Republicanos). Na decisão, Mourão afirma que estatais podem patrocinar o esporte quando o apoio estiver ligado ao fortalecimento de suas marcas.</p><p>Para o conselheiro, esse objetivo se choca com o que foi anunciado pelo governo mineiro, o de recompor as receitas perdidas pelos clubes. Ele escreveu que isso, sozinho, não basta para caracterizar irregularidade, mas indica uma possível diferença entre a finalidade legal do contrato e a motivação da iniciativa, o que exige apuração mais aprofundada.</p><p>De acordo com a publicação, a gestão do governador Mateus Simões (PSD) vai apresentar ao tribunal os esclarecimentos pedidos. Além de Mourão, integram a Primeira Câmara os conselheiros Agostinho Patrus e Alencar da Silveira Júnior e o conselheiro substituto Telmo Passareli.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/001255_171.jpg",
-  "credito_foto": "Foto: Cristiano Machado/Imprensa MG",
-  "fonte": "O Fator",
-  "resumos": ""
- },
- {
   "id": "001112_66",
   "data": "2026-11-05T21:16:28-03:00",
   "titulo": "Dono de loja reage a assalto e troca tiros com suspeito no Centro de Betim; pedestre é baleado na perna",
@@ -4797,6 +4737,66 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/171227_107.jpg",
   "credito_foto": "Carlos Moura/Agência Senado",
   "fonte": "Tribuna do Norte",
+  "resumos": ""
+ },
+ {
+  "id": "171711_9",
+  "data": "2026-11-07T14:18:39-03:00",
+  "titulo": "PL estuda pedir que senadores mostrem a cédula na eleição do Senado, e estratégia pode parar no STF",
+  "linha_fina": "Regimento do Senado prevê voto secreto para a Mesa Diretora; partido quer evitar traições contra Rogério Marinho na disputa com Alcolumbre.",
+  "categoria": "politica",
+  "texto": "<p>O PL estuda orientar seus senadores a mostrarem a cédula de votação durante a eleição para a presidência do Senado.A ideia é evitar votos contrários ao candidato do partido, o senador Rogério Marinho (PL-RN), segundo informações do portal Metrópoles.</p><p>A estratégia, no entanto, pode ser questionada no Supremo Tribunal Federal (STF), já que o Regimento Interno do Senado determina que a escolha dos integrantes da Mesa Diretora seja feita por votação secreta.</p><p>A partir de 2027, o PL terá 29 senadores, a maior bancada da Casa. Mesmo assim, Marinho vai precisar do apoio de outros partidos para vencer o atual presidente, Davi Alcolumbre (União-AP), que também busca a reeleição.</p><p>Nos últimos dias, Marinho tem dado entrevistas prometendo um Senado independente do governo federal e dizendo que não vai travar os projetos enviados pelo Executivo.</p><p>A eleição da Mesa ocorre logo após a posse dos senadores eleitos em outubro. Até lá, as bancadas devem negociar cargos na Mesa Diretora e o comando das comissões.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/171711_9.jpg",
+  "credito_foto": "Andressa Anholete/Agência Senado",
+  "fonte": "Metrópoles",
+  "resumos": ""
+ },
+ {
+  "id": "171724_149",
+  "data": "2026-11-07T14:18:39-03:00",
+  "titulo": "Ouvidoria Móvel de Minas fez 220 ações desde 2023, com mutirões em Santa Luzia, Neves e Sabará",
+  "linha_fina": "Programa percorreu mais de 100 mil quilômetros; Mutirão Cidadão oferece documentos, vacinação e orientações de graça.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O programa Ouvidoria Móvel, da Ouvidoria-Geral do Estado de Minas Gerais (OGE/MG), realizou 220 ações desde 2023 e percorreu mais de 100 mil quilômetros para ouvir moradores e facilitar o acesso aos serviços públicos, segundo balanço divulgado pela Agência Minas.</p><p>O número de ações cresceu ano a ano: foram 20 em 2023, 36 em 2024 e 96 em 2025. Em 2026, até outubro, já foram 68, mesmo com a pausa obrigatória durante o período eleitoral.</p><p>Criado em 2025 dentro do programa, o Mutirão Cidadão oferece gratuitamente serviços como emissão de documentos, vacinação, orientações e registro de reclamações. A iniciativa já passou por comunidades de Belo Horizonte e por cidades da Região Metropolitana, como Ribeirão das Neves, Sabará, Santa Luzia e Juatuba.</p><p>A OGE/MG também apoiou a Praça de Serviços do Governo Presente em 20 municípios do interior e coordenou edições em quatro comunidades da capital. Em Viçosa, na Zona da Mata, uma moradora conseguiu tirar a identidade do filho, que tem dificuldade de locomoção, depois de muito tempo tentando.</p><p>Para a ouvidora-geral do Estado, Gabriela Siqueira, a presença nas regiões permite conhecer problemas que nem sempre chegam pelos canais digitais. \"Cada manifestação ajuda a identificar problemas, orientar os órgãos responsáveis e buscar melhorias nos serviços públicos\", afirma.</p><p>Quem quiser registrar uma reclamação, sugestão ou denúncia sobre serviços do Estado também pode usar os canais on-line da Ouvidoria-Geral, sem precisar esperar a visita do programa.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/171724_149.jpg",
+  "credito_foto": "OGE/Divulgação",
+  "fonte": "Agência Minas",
+  "resumos": ""
+ },
+ {
+  "id": "171732_75",
+  "data": "2026-11-07T14:18:39-03:00",
+  "titulo": "PM forma 203 novos oficiais em BH e homenageia tenente que morreu na queda de avião no Vale do Aço",
+  "linha_fina": "Presidente do TJMG, desembargador Vicente de Oliveira Silva, foi paraninfo da turma na Academia de Polícia Militar, no Prado.",
+  "categoria": "minas-gerais",
+  "texto": "<p>A Polícia Militar de Minas Gerais formou 203 novos oficiais na quinta-feira (5), em solenidade na Academia de Polícia Militar (APM), no bairro Prado, região Oeste de Belo Horizonte. A turma do Curso de Formação de Oficiais – Aspirantes 2026 teve como paraninfo o presidente do Tribunal de Justiça de Minas Gerais (TJMG), desembargador Vicente de Oliveira Silva.</p><p>O magistrado recebeu as honrarias das mãos de uma das formandas e do governador em exercício, Tadeu Leite. A cerimônia contou também com a presença da comandante-geral da PMMG, coronel Cleide Barcelos dos Reis Rodrigues.</p><p>No discurso, o presidente do TJMG defendeu que a polícia vá além do enfrentamento direto e tenha como foco a preservação da ordem social, a defesa da vida, da dignidade humana e dos direitos fundamentais. Ele incentivou os novos oficiais a seguirem a carreira com ética e coragem.</p><p>Um dos momentos mais emocionantes foi a homenagem à 1ª tenente Gabriela Emília Soares Resende, escolhida paraninfa in memoriam. A oficial morreu em serviço no dia 9 de outubro, na queda de um avião da PMMG perto do Aeroporto Regional do Vale do Aço, em Santana do Paraíso.</p><p>O curso de formação durou dois anos e dez meses, em período integral e com dedicação exclusiva, com atividades acadêmicas, militares e operacionais. Os novos aspirantes passam agora a atuar em unidades da corporação em todo o estado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/171732_75.jpg",
+  "credito_foto": "Divulgação/TJMG",
+  "fonte": "TJMG",
+  "resumos": ""
+ },
+ {
+  "id": "171739_26",
+  "data": "2026-11-07T14:18:39-03:00",
+  "titulo": "Câmara de Contagem recebe grupo de mulheres idosas em edição especial do projeto Câmara Aberta",
+  "linha_fina": "Visitantes conheceram a história da cidade, participaram de plenária simulada e aprenderam como funciona o Legislativo.",
+  "categoria": "contagem",
+  "texto": "<p>A Escola do Legislativo da Câmara Municipal de Contagem promoveu, na quinta-feira (5), uma edição especial do projeto Câmara Aberta voltada a pessoas idosas. A visita reuniu um grupo de mulheres atendidas pelo Serviço de Convivência e Fortalecimento de Vínculos da Sociedade Cultural de Minas Gerais.</p><p>Durante o encontro, as participantes percorreram diferentes setores da Câmara, conheceram a exposição sobre a história de Contagem e compartilharam lembranças e experiências vividas na cidade.</p><p>A programação incluiu ainda uma palestra sobre o funcionamento do Poder Legislativo, uma plenária simulada e um encontro com a Dona Câmara, personagem que representa o Legislativo do município.</p><p>Segundo a Câmara, o objetivo foi aproximar as visitantes da vida política da cidade, valorizar suas trajetórias e promover a troca entre gerações. A proposta está ligada ao serviço de convivência, que busca estimular a participação social, fortalecer laços comunitários e prevenir o isolamento de pessoas idosas.</p><p>De acordo com a Prefeitura de Contagem, o serviço para idosos oferece atividades coletivas, culturais, artísticas e de lazer, além de ações de promoção do envelhecimento saudável.</p><p>O Câmara Aberta permite que grupos conheçam o funcionamento da instituição e o papel dos vereadores. As visitas podem ser agendadas pelo WhatsApp (31) 3359-9268.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/171739_26.jpg",
+  "credito_foto": "Divulgação/CMC",
+  "fonte": "Câmara Municipal de Contagem",
+  "resumos": ""
+ },
+ {
+  "id": "171716_52",
+  "data": "2026-11-07T14:18:40-03:00",
+  "titulo": "Pedro Calais, do Lagum, explica olho roxo antes de gravar clipe: \"não é marketing, é jiu-jitsu\"",
+  "linha_fina": "Vocalista da banda mineira levou cotovelada em treino na véspera da gravação e usou o hematoma no roteiro do clipe de \"Bom Demais\".",
+  "categoria": "entretenimento",
+  "texto": "<p>O vocalista do Lagum, Pedro Calais, decidiu esclarecer a origem do olho roxo que chamou a atenção dos fãs nas redes sociais nos últimos dias. Em vídeo, o cantor rebateu quem dizia que o machucado era uma jogada de marketing e contou que tudo aconteceu durante um treino de jiu-jitsu.</p><p>\"Tem muita gente falando aí que meu olho roxo é marketing e eu queria dizer a verdade, não é marketing\", afirmou. Segundo Calais, que é faixa preta na arte marcial, o acidente foi na segunda-feira, quando o parceiro de treino deixou o cotovelo escapar e acertou o olho dele.</p><p>O próprio colega percebeu na hora o tamanho do problema. \"Ele falou: 'Calais, você é artista, né? Vai dar ruim'. Eu falei: 'Irmão, eu não só sou artista como amanhã eu tenho um clipe para gravar'\", contou o vocalista.</p><p>No dia seguinte, a banda gravaria o clipe de \"Bom Demais\". Em vez de esconder o hematoma, Calais resolveu usá-lo na história. Ele lembrou que a letra da música tem um verso sobre encarar a briga de frente. \"Eu aproveitei que eu tava com o olho roxo e trouxe pra narrativa do clipe, enfaixei minha mão, fingi que eu tinha ali brigado\", explicou.</p><p>\"Então é isso, para esclarecer para vocês: esse olho roxo aqui é jiu-jitsu\", encerrou.</p><p>Formado em 2014 por amigos de Brumadinho, na Grande BH, o Lagum é uma das bandas mineiras de maior sucesso da última década e já foi indicado ao Grammy Latino.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/171716_52.jpg",
+  "credito_foto": "Reprodução/Instagram",
+  "fonte": "BHAZ",
   "resumos": ""
  }
 ]
