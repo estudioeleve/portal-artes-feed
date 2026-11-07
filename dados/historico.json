@@ -15678,5 +15678,19 @@
   "fonte": "SouBH",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "23:24",
+  "id": "021219_153",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Desabamento no Dom Silvério tira 32 pessoas de casa, e Defesa Civil interdita 11 imóveis em BH",
+  "titulo_orig": "Após desabamento em BH, 11 imóveis são interditados e 2 isolados pela Defesa Civil",
+  "link": "https://bhaz.com.br/noticias/desabamento-imovel-bh-interditados-defesa-civil/",
+  "fonte": "bhaz.com.br",
+  "arte": "artes/2026-11-06/021219_153.jpg",
+  "media_id": "17919234708467804"
  }
 ]
