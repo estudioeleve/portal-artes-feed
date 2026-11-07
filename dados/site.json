@@ -1,17 +1,5 @@
 [
  {
-  "id": "111241_52",
-  "data": "2026-11-06T08:21:28-03:00",
-  "titulo": "Homem achado debaixo da cama de idosa em Jaboticatubas é investigado por dois homicídios",
-  "linha_fina": "Preso pela PM depois de um policial de folga ouvir pedidos de socorro, ele teria indicado onde estava um corpo, em área de mata.",
-  "categoria": "regiao-metropolitana",
-  "texto": "<p>Um homem natural de Pedro Leopoldo foi preso pela Polícia Militar na quarta-feira (4), em Jaboticatubas, na Região Metropolitana de Belo Horizonte, depois de ser encontrado debaixo de uma cama na casa de uma idosa de 79 anos. O caso, que começou como suspeita de violação de domicílio, passou a ser apurado também como possível ligação com um homicídio na cidade.</p><p>De acordo com as informações divulgadas pela polícia, tudo começou quando um policial militar que estava de folga ouviu os pedidos de socorro de uma vizinha e chamou a equipe. O suspeito foi localizado durante as buscas na residência.</p><p>Depois de denúncias, os militares passaram a investigar se ele teria relação com uma morte. Conforme o registro policial, o homem teria indicado o ponto onde estava o corpo de uma vítima, em uma área de mata conhecida como Morro dos Baianos, no bairro Nossa Senhora da Conceição.</p><p>O nome dele também apareceu nas investigações de outro homicídio, ocorrido em setembro deste ano, no bairro Santo Antônio da Barra, em Pedro Leopoldo.</p><p>Nas diligências em Jaboticatubas, a polícia apreendeu entorpecentes e uma munição calibre .32. A arma mencionada na investigação não foi encontrada.</p><p>O homem foi encaminhado à Delegacia de Polícia Civil, onde os fatos serão apurados. Ele não foi julgado, e não há decisão judicial que o responsabilize pelos crimes investigados.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/111241_52.jpg",
-  "credito_foto": "Foto: Reprodução/Por Dentro de Tudo",
-  "fonte": "Por Dentro de Tudo",
-  "resumos": ""
- },
- {
   "id": "111250_31",
   "data": "2026-11-06T08:21:28-03:00",
   "titulo": "Enem é neste domingo: primeira prova tem 90 questões e redação em 5h30; veja como se organizar",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/222720_276.jpg",
   "credito_foto": "Divulgação/Copasa",
   "fonte": "RCWTV",
+  "resumos": ""
+ },
+ {
+  "id": "222756_160",
+  "data": "2026-11-07T19:28:10-03:00",
+  "titulo": "José Eduardo Cardozo critica redução da maioridade penal e diz que o STF pode derrubar a mudança",
+  "linha_fina": "Ex-ministro da Justiça afirma que a proposta fere cláusula pétrea da Constituição e chama a ideia de \"gravíssimo erro\".",
+  "categoria": "politica",
+  "texto": "<p>O ex-ministro da Justiça José Eduardo Cardozo se posicionou contra a redução da maioridade penal, inclusive nos casos de crimes hediondos. Em entrevista ao SBT News neste sábado (7), ele afirmou que a proposta é inconstitucional e pode acabar sendo derrubada pelo Supremo Tribunal Federal (STF).</p><p>Segundo Cardozo, mesmo que a mudança seja incluída na Constituição, o STF poderia anulá-la por violar uma cláusula pétrea, já que o texto constitucional proíbe emendas que acabem com direitos e garantias individuais ou os reduzam. Para ele, a Corte teria de se posicionar mais uma vez contra o \"senso comum\".</p><p>O ex-ministro disse que, se pudesse conversar com o presidente Lula ou com integrantes do governo, diria que apoiar a medida seria um \"gravíssimo erro\".</p><p>O debate ganhou força depois que Lula mudou de posição e passou a defender a redução da maioridade para 16 anos em casos de crimes hediondos. A base do governo não incluiu o tema na PEC da Segurança Pública, e a mudança é discutida em uma proposta separada no Congresso.</p><p>Cardozo argumenta que estudos não mostram queda da criminalidade com o aumento da população carcerária e que o jovem preso pode sair do sistema em condições ainda mais perigosas. Na avaliação dele, a prisão deve ser usada em situações específicas, e o poder público precisa buscar outras alternativas para enfrentar as causas da violência.</p><p>Na entrevista, ele também contou que recusou indicações para o STF em duas ocasiões. A Corte tem uma vaga aberta desde a aposentadoria de Luís Roberto Barroso.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/222756_160.jpg",
+  "credito_foto": "Reprodução/Gazeta do Povo",
+  "fonte": "SBT News",
   "resumos": ""
  }
 ]
