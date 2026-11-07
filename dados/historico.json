@@ -17582,5 +17582,47 @@
   "fonte": "O Popular",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "15:18",
+  "id": "181704_307",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Presidente da AMM vai a Brasília pedir mais dinheiro para as prefeituras mineiras e defende 1% a mais do FPM em março",
+  "titulo_orig": "Presidente da AMM articula em Brasília mais recursos para municípios mineiros e defende adicional de 1% do FPM",
+  "link": "https://www.observo.com.br/presidente-da-amm-articula-em-brasilia-mais-recursos-para-municipios-mineiros-e-defende-adicional-de-1-do-fpm",
+  "fonte": "Home - Observo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "15:18",
+  "id": "181110_62",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Galo x Grêmio: torcida prepara show de luzes com celulares e mais de 500 bandeiras na Arena MRV",
+  "titulo_orig": "Torcida do Galo prepara festa com show de luzes e mais de 500 bandeiras para confronto com Grêmio",
+  "link": "https://www.otempo.com.br/sports/atletico/2026/11/7/torcida-do-galo-prepara-festa-com-show-de-luzes-e-mais-de-500-bandeiras-para-confronto-com-gremio",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-07/181110_62.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "15:18",
+  "id": "181828_299",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "\"É difícil duvidar do Galo\", diz Victor, ídolo do Atlético e ex-Grêmio, antes da semifinal na Arena MRV",
+  "titulo_orig": "Ex-Grêmio, Victor diz ser \"difícil duvidar do Galo\" e aponta risco na semifinal",
+  "link": "https://zonamista.com.br/victor-cita-imortalidade-do-gremio-e-lembra-virada-que-anima-o-atletico-mg/",
+  "fonte": "Zona Mista",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

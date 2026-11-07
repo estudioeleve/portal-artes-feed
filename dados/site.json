@@ -1,17 +1,5 @@
 [
  {
-  "id": "011150_10",
-  "data": "2026-11-05T22:16:37-03:00",
-  "titulo": "Atlético já vendeu 33 mil ingressos para o jogo contra o Grêmio e projeta casa cheia no sábado",
-  "linha_fina": "Galo perdeu a ida por 2 a 0 e precisa de ao menos dois gols de diferença para levar a semifinal da Copa do Brasil aos pênaltis.",
-  "categoria": "atletico",
-  "texto": "<p>O Atlético atualizou nesta quinta-feira (5) a parcial de ingressos para a partida de volta da semifinal da Copa do Brasil, contra o Grêmio, marcada para este sábado (7), em Belo Horizonte. Até agora, foram vendidos mais de 33 mil bilhetes.</p><p>O estádio tem capacidade para cerca de 45 mil pessoas, e o clube projeta casa cheia para o duelo que vale vaga na final.</p><p>A torcida visitante também responde. Dos 2,5 mil ingressos que o acordo entre os clubes reservou aos gremistas, 90% já foram comercializados. No jogo de ida, no último fim de semana, quase 2 mil atleticanos foram a Porto Alegre e viram a vitória do Grêmio por 2 a 0.</p><p>Com esse resultado, o Galo precisa ao menos igualar a vantagem adversária para levar a disputa aos pênaltis. O Grêmio pode perder por até um gol de diferença que ainda assim se classifica.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-05/011150_10.jpg",
-  "credito_foto": "Foto: Pedro Souza/Atlético-MG",
-  "fonte": "GZH",
-  "resumos": ""
- },
- {
   "id": "011142_156",
   "data": "2026-11-05T22:16:37-03:00",
   "titulo": "Maria Rita e Seu Jorge farão show inédito no Planeta Brasil, que volta a BH em maio de 2027",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/181704_307.jpg",
   "credito_foto": "Foto: Reprodução/Observo",
   "fonte": "Observo",
+  "resumos": ""
+ },
+ {
+  "id": "181828_299",
+  "data": "2026-11-07T15:18:49-03:00",
+  "titulo": "\"É difícil duvidar do Galo\", diz Victor, ídolo do Atlético e ex-Grêmio, antes da semifinal na Arena MRV",
+  "linha_fina": "Ex-goleiro lembra a virada sobre o Santos na Sul-Americana, quando o Galo também perdeu a ida por 2 a 0, mas diz que não há favorito.",
+  "categoria": "atletico",
+  "texto": "<p>O ex-goleiro Victor, ídolo do Atlético e com passagem pelo Grêmio, acredita que é difícil apontar um favorito para o jogo deste sábado (7), às 18h, na Arena MRV, pela volta da semifinal da Copa do Brasil. Mesmo com a vantagem de 2 a 0 que o time gaúcho construiu em Porto Alegre, ele não descarta uma reação do Galo.</p><p>\"É difícil duvidar do Galo. Este ano mesmo já tivemos aquela grande virada contra o Santos. A própria eliminação do rival (Cruzeiro) na Copa do Brasil. Sempre se esperam essas grandes reviravoltas do Atlético\", afirmou Victor, em entrevista ao 365Scores. Ele também reconheceu que o Grêmio \"é um time muito competitivo, copeiro\", que foi eficiente no primeiro jogo.</p><p>Para o ex-goleiro, o confronto junta duas marcas históricas. \"De um lado, você tem um time copeiro, que carrega essa imortalidade, e, do outro, um time que carrega essa capacidade de conseguir grandes remontadas. É um jogo imperdível e realmente é difícil fazer qualquer prognóstico\", disse.</p><p>O exemplo citado por ele tem a mesma conta da semifinal. Em setembro, nas quartas de final da Sul-Americana, o Atlético perdeu a ida para o Santos por 2 a 0 na Vila Belmiro. Na Arena MRV, venceu por 4 a 2, empatou o agregado e se classificou nos pênaltis, com três defesas do goleiro Gabriel Delfim.</p><p>Contra o Grêmio, a situação é parecida: se o Atlético vencer por dois gols de diferença, a vaga na final será decidida nos pênaltis. Vitória por três ou mais gols classifica o Galo direto. Victor jogou no Grêmio entre 2008 e 2012 e, pelo Atlético, disputou a final da Copa do Brasil de 2016 justamente contra o time gaúcho.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/181828_299.jpg",
+  "credito_foto": "Foto: Victor Leandro Bagy/365Scores",
+  "fonte": "365Scores",
   "resumos": ""
  }
 ]
