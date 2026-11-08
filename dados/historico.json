@@ -20494,5 +20494,19 @@
   "fonte": "Terra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-08",
+  "hora": "12:28",
+  "id": "151551_169",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Café com marca própria? Emater-MG abre concurso estadual de embalagens até 15 de novembro",
+  "titulo_orig": "Inscrições abertas para o 1º Concurso Estadual de Embalagens de Café de Minas Gerais | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/agro/inscricoes-abertas-para-o-1o-concurso-estadual-de-embalagens-de-cafe-de-minas-gerais/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-08/151551_169.jpg",
+  "media_id": "18155717734525455"
  }
 ]
