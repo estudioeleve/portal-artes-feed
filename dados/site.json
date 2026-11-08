@@ -1,17 +1,5 @@
 [
  {
-  "id": "181424_42",
-  "data": "2026-11-06T15:16:59-03:00",
-  "titulo": "Lojista: confiança do comércio cai ao pior nível desde 2021; a dica é segurar o caixa",
-  "linha_fina": "Índice de confiança do comércio caiu 3% em outubro; entre grandes empresas de SP, queda foi de 8,2%, a pior desde 2016.",
-  "categoria": "comercio",
-  "texto": "<p>A confiança dos empresários do comércio caiu em outubro e chegou ao menor nível em mais de quatro anos, às vésperas da Black Friday e do Natal. Segundo levantamento da Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP), o Índice de Confiança do Empresário do Comércio (ICEC) recuou 3%, para 90,5 pontos, o patamar mais baixo desde maio de 2021. Abaixo de 100 pontos, o indicador aponta pessimismo.</p><p>A queda foi mais forte entre as grandes empresas, com mais de 50 empregados: o índice desse grupo recuou 8,2%, de 93,9 para 86,2 pontos, o menor nível desde julho de 2016. Entre os pequenos negócios, a retração foi de 2,9%, para 90,6 pontos. Pela primeira vez desde 2022, os grandes estão mais pessimistas que os pequenos.</p><p>A avaliação das condições atuais dos negócios também piorou e ficou em 63,8 pontos. O indicador que mede a disposição para investir acumula nove quedas mensais seguidas, a maior sequência negativa da série, iniciada em 2011. Na comparação com outubro do ano passado, a retração chega a 11,6%.</p><p>Segundo a pesquisa, o cenário reflete a combinação de crédito caro, consumidores endividados e margens apertadas. A expectativa de contratar funcionários também caiu 3%, para 109 pontos, o menor nível desde setembro de 2025.</p><p>Diante desse quadro, a recomendação da entidade aos lojistas é preservar o caixa, evitar compromissos financeiros de longo prazo e reavaliar planos de expansão. A orientação vale também para o planejamento da Black Friday e do Natal: comprar estoque com cautela e equilibrar as expectativas de venda com um consumidor mais cuidadoso e um financiamento mais caro.</p><p>Para o pequeno comerciante da Grande BH, a dica é revisar estoques, negociar prazos com fornecedores e concentrar as promoções nos produtos de maior giro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/181424_42.jpg",
-  "credito_foto": "Rovena Rosa/Agência Brasil",
-  "fonte": "VEJA",
-  "resumos": ""
- },
- {
   "id": "181442_12",
   "data": "2026-11-06T15:16:59-03:00",
   "titulo": "Parques de BH vão ganhar 26 bebedouros com água de graça, inclusive na região Norte",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/111250_52.jpg",
   "credito_foto": "Foto: Ministério dos Povos Indígenas",
   "fonte": "Brasil de Fato",
+  "resumos": ""
+ },
+ {
+  "id": "112508_58",
+  "data": "2026-11-08T08:25:24-03:00",
+  "titulo": "Pizza a R$ 48 e camarote de R$ 34 mil: quanto custa ver o GP de São Paulo de Fórmula 1 em Interlagos",
+  "linha_fina": "Ingressos de arquibancada foram de R$ 990 a R$ 5.290; boné oficial sai por R$ 500 e camisa de equipe, por R$ 1.200.",
+  "categoria": "esporte",
+  "texto": "<p>Assistir ao Grande Prêmio de São Paulo de Fórmula 1 em Interlagos pesa no bolso, das arquibancadas aos camarotes. Desde sexta-feira (6), primeiro dia de atividades na pista, centenas de milhares de torcedores passaram pelo autódromo, e a maioria comprou ingressos para as arquibancadas, com preços entre R$ 990 e R$ 5.290, sem contar a meia-entrada, segundo levantamento do ge.</p><p>Na maior parte dos setores, a comida não está incluída no ingresso. No Setor M, o mais caro entre os que não têm alimentação inclusa, com entrada inteira de R$ 3.550, o torcedor paga R$ 63 por um estrogonofe de camarão, R$ 55 por um hambúrguer com cheddar e bacon, R$ 48 por uma pizza individual e R$ 35 por um cachorro-quente simples.</p><p>Nos setores mais baratos, os quiosques perto das arquibancadas H, N e R vendem batata no cone por R$ 34, uma porção de dez nuggets por R$ 40 e um pacote de salgadinhos de 70 gramas por R$ 20. Nas lojas oficiais da categoria, camisas das equipes custam R$ 1.200, e bonés saem, em média, por R$ 500.</p><p>Para quem quis mais conforto, as áreas VIP, chamadas oficialmente de clubes, cobraram ainda mais. Algumas foram vendidas só para empresas, que distribuíram convites, mas torcedores comuns puderam comprar pacotes individuais. O Grand Prix Club, um dos mais caros, chegou a ser anunciado por até 5.508,49 euros pelos três dias, quase R$ 34 mil na cotação atual.</p><p>Na sexta e no sábado, houve filas nos quiosques e em alguns banheiros, principalmente nos intervalos dos treinos, com arquibancadas ocupadas em peso por argentinos que foram torcer por Franco Colapinto. A corrida deste domingo (8) tem transmissão ao vivo da TV Globo a partir das 13h30, além do sportv3 e do ge.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/112508_58.jpg",
+  "credito_foto": "Foto: Lucas Espogeiro/ge",
+  "fonte": "ge",
   "resumos": ""
  }
 ]
