@@ -1,17 +1,5 @@
 [
  {
-  "id": "141412_22",
-  "data": "2026-11-06T11:19:30-03:00",
-  "titulo": "Restaurante é arrombado de madrugada em Capim Branco, mas só doces e chicletes foram levados",
-  "linha_fina": "Câmeras ajudaram a identificar o suspeito, segundo as informações repassadas; a PM fez buscas, mas não há confirmação de prisão.",
-  "categoria": "regiao-metropolitana",
-  "texto": "<p>O restaurante Comida de Mãe, em Capim Branco, na Grande BH, foi invadido durante a madrugada desta sexta-feira (6). A proprietária percebeu o que havia acontecido ao chegar pela manhã, quando encontrou portas danificadas e outros sinais de arrombamento.</p><p>Apesar do estrago, o que sumiu foi pouco: alguns doces e chicletes. A Polícia Militar foi chamada e esteve no endereço para registrar a ocorrência.</p><p>A suspeita é de que o invasor tenha entrado por uma porta lateral, que acabou se fechando. Sem conseguir sair por ali, ele teria forçado uma segunda porta, nos fundos do estabelecimento.</p><p>Segundo as informações repassadas à reportagem, as imagens do sistema de monitoramento ajudaram a identificar um suspeito, que já seria conhecido na cidade. Os policiais fizeram diligências para encontrá-lo, mas até o momento não há confirmação de prisão.</p><p>O caso foi registrado e será apurado pelas autoridades. A identidade do suspeito não foi divulgada.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/141412_22.jpg",
-  "credito_foto": "Foto: Reprodução/Redes sociais",
-  "fonte": "Por Dentro de Tudo",
-  "resumos": ""
- },
- {
   "id": "141451_29",
   "data": "2026-11-06T11:19:30-03:00",
   "titulo": "Fila dobra o quarteirão na Savassi: clientes chegam às 6h45 para abertura da loja Wepink em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/011215_60.jpg",
   "credito_foto": "Foto: Reprodução/Tribuna Online",
   "fonte": "Tribuna Online",
+  "resumos": ""
+ },
+ {
+  "id": "011346_87",
+  "data": "2026-11-07T22:13:59-03:00",
+  "titulo": "Helicóptero que caiu em Passos levava convidados de casamento; anfitrião diz que piloto \"perdeu o pedal\"",
+  "linha_fina": "Aeronave saiu de BH e caiu a 20 metros do chão quando o piloto procurava lugar para pousar; Cenipa deve chegar neste domingo.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O helicóptero que caiu na tarde deste sábado (7) numa fazenda de Passos, no Sul de Minas, levava convidados de um casamento que acontecia na propriedade. As cinco pessoas a bordo ficaram feridas e foram levadas à Santa Casa da cidade.</p><p>Um dos convidados, o empresário Breno Tiodoro, publicou um vídeo nas redes sociais pouco depois do acidente. Ele contou que um amigo que veio de Belo Horizonte para a cerimônia estava na aeronave e descreveu o que viu: segundo ele, o helicóptero rodou, o piloto \"perdeu o pedal\" e a aeronave caiu. O casamento era de um funcionário e amigo do empresário, na Fazenda Tiodoro.</p><p>A queda foi por volta das 13h30, numa área rural perto da MG-050, na região do pedágio de Passos, no sentido de Furnas. Segundo o Corpo de Bombeiros, o piloto fazia um voo de reconhecimento sobre um milharal para escolher onde pousar quando, a cerca de 20 metros do solo, o helicóptero começou a se desestabilizar. A Polícia Militar informou que a aeronave havia decolado de Belo Horizonte.</p><p>Estavam a bordo três homens, de 60, 43 e 39 anos, e duas mulheres, de 31 e 26 anos. Todos estavam conscientes, com ferimentos nas extremidades do corpo. Dois bombeiros que eram convidados da festa deram os primeiros socorros até a chegada do Samu. De acordo com a EPTV, o piloto era prestador de serviço e os outros quatro eram convidados; a empresa dona do helicóptero, de Bom Despacho, diz que presta assistência.</p><p>A área foi isolada e a Polícia Civil pediu perícia. A aeronave foi coberta com lona e aguarda o Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa), que deve mandar uma equipe neste domingo (8).</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/011346_87.jpg",
+  "credito_foto": "Foto: Reprodução/Redes sociais/g1",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
