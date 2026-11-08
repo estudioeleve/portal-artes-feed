@@ -18898,5 +18898,19 @@
   "fonte": "G1",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "22:27",
+  "id": "001214_25",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Temporal faz BH fechar a Avenida Francisco Sá por risco de o Córrego dos Pintos transbordar",
+  "titulo_orig": "Defesa Civil alerta para risco de alagamento em córregos e pede que motoristas evitem avenidas de BH",
+  "link": "https://www.otempo.com.br/cidades/2026/11/7/defesa-civil-alerta-para-risco-de-alagamento-em-corregos-e-pede-que-motoristas-evitem-avenidas-de-bh",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-07/001214_25.jpg",
+  "media_id": "18576422968074237"
  }
 ]
