@@ -19080,5 +19080,33 @@
   "fonte": "Portal MPA",
   "arte": "artes/2026-11-07/021358_0.jpg",
   "media_id": "18032809682912429"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:29",
+  "id": "022843_222",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Temporal no Rio desvia Boeing 777 da Emirates, vindo de Dubai, para o Aeroporto de Confins",
+  "titulo_orig": "Tempo adverso no Rio faz com que Boeing da Emirates seja desviado para Minas Gerais",
+  "link": "https://aeroin.net/tempo-adverso-no-rio-faz-com-que-boeing-da-emirates-seja-desviado-para-minas-gerais/",
+  "fonte": "AEROIN",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:29",
+  "id": "022907_186",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Mariana Lima troca o drama pelo humor e vive viúva sem papas na língua em \"Lá na Minha Terra\"",
+  "titulo_orig": "Mariana Lima promete causar em nova novela da Globo com personagem que não tem medo de viver seus desejos",
+  "link": "https://www.otempo.com.br/opiniao/diego-laureano/2026/11/7/mariana-lima-promete-causar-em-nova-novela-da-globo-com-personagem-que-nao-tem-medo-de-viver-seus-desejos",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
