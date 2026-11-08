@@ -1,17 +1,5 @@
 [
  {
-  "id": "231055_13",
-  "data": "2026-11-06T20:12:29-03:00",
-  "titulo": "Terras raras: Governo de Minas assina protocolo com mineradora Axel REE para o projeto Caladão",
-  "linha_fina": "Acordo com a Invest Minas apoia o teste de extração em campo previsto para 2027 e o desenvolvimento do gálio no estado.",
-  "categoria": "minas-gerais",
-  "texto": "<p>O Governo de Minas Gerais assinou um protocolo de intenções com a mineradora Axel REE para o projeto Caladão, de terras raras. O acordo foi firmado pela Secretaria de Estado de Desenvolvimento Econômico (Sede) e pelo Instituto de Desenvolvimento Integrado de Minas Gerais (Indi), que atua com a marca Invest Minas.</p><p>O documento dá apoio oficial do Estado à etapa de validação em campo da extração pelo método ISR, sigla em inglês para recuperação in situ, prevista para 2027. O protocolo também reconhece o trabalho da empresa no desenvolvimento do gálio, outro mineral considerado crítico.</p><p>Pelo acordo, a Invest Minas poderá ajudar a empresa a formar uma rede de fornecedores na região, fazer a ponte com o setor produtivo e dar suporte na implantação, à medida que o projeto passar do laboratório para atividades de campo em escala maior.</p><p>Segundo a diretora-geral da mineradora, Patience Mpofu, o protocolo muda o tipo de relação com o governo, que passa de um apoio genérico para um programa de investimentos definido. Ela afirmou que ter essa estrutura antes da validação em campo é um passo importante para avaliar se o Caladão é viável em escala comercial.</p><p>As terras raras são usadas na fabricação de ímãs para carros elétricos, turbinas eólicas e eletrônicos, e Minas Gerais tem atraído projetos do setor nos últimos anos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/231055_13.jpg",
-  "credito_foto": "Foto: Divulgação/Axel REE (via Brasil Mineral)",
-  "fonte": "Brasil Mineral",
-  "resumos": ""
- },
- {
   "id": "231056_56",
   "data": "2026-11-06T20:12:29-03:00",
   "titulo": "Dólar sobe para R$ 5,51 com dados de emprego nos EUA, e Ibovespa fecha em alta de 1,39%",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/161228_107.jpg",
   "credito_foto": "Reprodução/R7",
   "fonte": "R7",
+  "resumos": ""
+ },
+ {
+  "id": "161746_ucu",
+  "data": "2026-11-08T13:18:21-03:00",
+  "titulo": "Duas cegonheiras batem e pegam fogo na Fernão Dias, em Itatiaiuçu, e rodovia fica interditada",
+  "linha_fina": "Acidente no km 544, sentido BH, travou a BR-381 neste domingo; motoristas foram socorridos antes da chegada dos bombeiros.",
+  "categoria": "regiao-metropolitana",
+  "texto": "<p>Duas carretas cegonheiras bateram e pegaram fogo na manhã deste domingo (8) na Rodovia Fernão Dias (BR-381), em Itatiaiuçu, na Região Metropolitana de Belo Horizonte. O acidente foi no km 544, no sentido norte, em direção à capital, e levou à interdição total da pista.</p><p>Segundo a concessionária Motiva Minas_SP, responsável pelo trecho, o Centro de Controle Operacional foi acionado às 10h52 para atender ao incêndio nos dois veículos. Com o bloqueio, o congestionamento chegou a cerca de dois quilômetros.</p><p>Equipes do Corpo de Bombeiros, do Samu, da Polícia Rodoviária Federal (PRF) e da concessionária foram mobilizadas. De acordo com os bombeiros, os dois motoristas já tinham sido socorridos por outras pessoas antes da chegada da corporação, e o Samu, que chegou primeiro, informou que eles receberam atendimento.</p><p>Depois da batida, as duas carretas foram tomadas pelas chamas, e duas equipes dos bombeiros trabalharam no combate ao fogo. Vídeos feitos por motoristas que passavam pelo local mostram a fumaça preta e as chamas altas sobre a rodovia.</p><p>A PRF ficou responsável pelo controle do trânsito, enquanto a concessionária fez a sinalização e orientou os motoristas. Até a última atualização, não havia informação sobre o estado de saúde dos condutores nem sobre o que provocou o acidente.</p><p>Quem for viajar pela Fernão Dias deve acompanhar as condições do trânsito pelos canais da concessionária antes de pegar a estrada.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/161746_ucu.jpg",
+  "credito_foto": "Reprodução/Redes Sociais",
+  "fonte": "Por Dentro de Minas",
   "resumos": ""
  }
 ]
