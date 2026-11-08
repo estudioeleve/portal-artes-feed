@@ -1,17 +1,5 @@
 [
  {
-  "id": "211108_51",
-  "data": "2026-11-06T18:16:02-03:00",
-  "titulo": "Mutirão do SUS faz 5 mil atendimentos neste sábado em Minas; só vai quem já foi agendado",
-  "linha_fina": "Hospitais universitários, como o HC-UFMG, terão cirurgias, consultas e exames; não haverá atendimento por ordem de chegada.",
-  "categoria": "saude",
-  "texto": "<p>Hospitais universitários de Minas Gerais vão realizar cerca de 5 mil atendimentos pelo Sistema Único de Saúde (SUS) neste sábado (7). O mutirão inclui consultas, exames, cirurgias e outros procedimentos em Belo Horizonte e em cidades do interior.</p><p>As vagas já foram preenchidas por pacientes que aguardavam na fila e foram selecionados e agendados pela regulação do SUS. Por isso, não haverá atendimento por ordem de chegada para quem procurar os hospitais no sábado. A organização reforça que os pacientes chamados compareçam, para que nenhuma vaga seja perdida.</p><p>No Hospital das Clínicas da Universidade Federal de Minas Gerais (HC-UFMG), em BH, estão previstos mais de 900 atendimentos. Entre as cirurgias programadas estão 25 de catarata, 20 de pterígio, 10 de cabeça e pescoço e seis de prótese total de quadril. A lista de exames tem mais de 100 tomografias, ultrassonografias e mamografias, além de quase 70 exames de oftalmologia. O hospital ainda vai avaliar mais de 600 eletrocardiogramas feitos a distância em unidades básicas de saúde.</p><p>No interior, o Hospital Universitário da UFJF, em Juiz de Fora, deve fazer mais de 1.700 atendimentos. O HC da Universidade Federal de Uberlândia prevê mais de 1.930, entre consultas, exames e 41 cirurgias. Em Uberaba, o HC da UFTM deve realizar cerca de 180 atendimentos, e São João del-Rei também participa da ação.</p><p>O mutirão faz parte do projeto \"HU Brasil em Ação\", que reúne atividades simultâneas em 47 hospitais universitários federais do país. Ao todo, mais de 35 mil atendimentos estão previstos nesta edição, com o objetivo de reduzir a fila de espera por procedimentos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/211108_51.jpg",
-  "credito_foto": "Divulgação",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "211345_184",
   "data": "2026-11-06T18:16:02-03:00",
   "titulo": "Câmara de BH aprova cancela e portaria em loteamentos; projeto agora vai para sanção do prefeito",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/141209_120.jpg",
   "credito_foto": "Divulgação/Itaipu Binacional",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "141845_185",
+  "data": "2026-11-08T11:18:59-03:00",
+  "titulo": "Monte Verde aposta na gastronomia para vender o ano todo, e restaurantes mudam o cardápio com o Sebrae",
+  "linha_fina": "Programa do Sebrae Minas já atende 23 negócios do distrito, que enxugaram cardápios, cortaram desperdício e criaram festival fora da alta temporada.",
+  "categoria": "comercio",
+  "texto": "<p>Conhecido pelo frio, pelas viagens românticas e pelos restaurantes de fondue, Monte Verde, distrito de Camanducaia, no Sul de Minas, está construindo uma nova vocação: a gastronomia. Restaurantes e pequenos produtores vêm investindo em ingredientes da região, receitas próprias e gestão mais profissional para atrair visitantes o ano inteiro.</p>\n<p>O movimento cresce junto com o programa Prepara Gastronomia, do Sebrae Minas. Eram 19 estabelecimentos atendidos em 2024, 21 em 2025 e 23 neste ano. O programa oferece consultoria em gestão, finanças, marketing, operação e criação de produtos, e incentiva os negócios a trabalharem juntos.</p>\n<p>Segundo o analista do Sebrae Minas Anderson Faria, tudo começou com um estudo de 2022 sobre a identidade gastronômica do distrito, que mostrou a mistura das cozinhas alemã e italiana com a tradição mineira. O diagnóstico também revelou um problema: não havia trabalho conjunto entre restaurantes e produtores.</p>\n<p>Uma das respostas foi o festival Gastronomia nas Montanhas, feito em setembro, fora da alta temporada, para espalhar o movimento ao longo do ano. A edição de 2026, de 25 a 27 de setembro, reuniu 29 estabelecimentos, com música ao vivo, oficinas e jantares especiais. Antes do evento, um circuito de cerca de 20 dias levou os turistas a pratos criados especialmente para a ocasião, muitos deles saídos das consultorias.</p>\n<p>Outra mudança está no cardápio. Nas consultorias, os donos analisam quais pratos vendem e quais ficam parados. Alguns reduziram o número de opções, o que deixou a cozinha mais rápida, diminuiu o desperdício e melhorou o atendimento nos dias de casa cheia.</p>\n<p>Para Faria, a gastronomia deve aumentar o tempo de permanência dos turistas e levar o visitante para além da vila central, até negócios da zona rural. Em 2026, dois novos estabelecimentos entraram no grupo acompanhado pelo Sebrae.</p>\n<p>A experiência serve de exemplo para o pequeno empresário de outras cidades mineiras: rever o cardápio, cortar o que não vende e se unir aos vizinhos de negócio para criar eventos na baixa temporada. Interessados em programas parecidos podem procurar o atendimento do Sebrae Minas pelo telefone 0800 570 0800.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/141845_185.jpg",
+  "credito_foto": "Divulgação/Sebrae Minas",
+  "fonte": "Diário do Comércio",
   "resumos": ""
  }
 ]
