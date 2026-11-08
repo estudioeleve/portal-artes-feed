@@ -19038,5 +19038,33 @@
   "fonte": "Gazeta do Povo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:24",
+  "id": "022313_2",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Lyanco ficou fora do jogo com o Grêmio por problema pessoal, explica Bracks; Galo vetou entrevistas à Globo",
+  "titulo_orig": "Diretoria do Atlético-MG faz comunicado sobre Lyanco",
+  "link": "https://www.terra.com.br/esportes/atletico-mg/diretoria-do-atletico-mg-faz-comunicado-sobre-lyanco,48ba60a85391c176a75685397a23649f8qld4qv5.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:24",
+  "id": "022316_36",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "\"50 finalizações para um gol\": Domínguez aponta erros na eliminação e explica Fred no banco",
+  "titulo_orig": "Barba cita erros em eliminação do Atlético-MG e explica Fred no banco | Ge",
+  "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/07/barba-cita-erros-em-eliminacao-do-atletico-mg-e-explica-fred-no-banco-contra-o-gremio.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
