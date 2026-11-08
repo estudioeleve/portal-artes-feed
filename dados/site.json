@@ -1,17 +1,5 @@
 [
  {
-  "id": "141434_31",
-  "data": "2026-11-06T11:21:28-03:00",
-  "titulo": "Onze crianças se ferem em experimento durante feira de ciências em escola estadual de Formiga",
-  "linha_fina": "Alunos de 10 a 12 anos participavam de oficina sobre oxidação dos álcoois; oito tiveram ferimentos no corpo e três, lesões nos olhos.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Pelo menos 11 crianças, de 10 a 12 anos, ficaram feridas durante um experimento em uma feira de ciências de uma escola estadual de Formiga, no Centro-Oeste de Minas, na tarde desta quinta-feira (5). A ocorrência foi registrada como intoxicação.</p><p>O Corpo de Bombeiros foi acionado por volta das 16h para ir à escola, na Rua Ramiro Corrêa, no bairro Areias Brancas. O acidente aconteceu em uma oficina chamada \"Oxidação dos Álcoois\", que fazia parte da programação do evento.</p><p>Das crianças atingidas, oito tiveram ferimentos no peito, nos braços e no pescoço. As outras três sofreram lesões nos olhos. Elas foram levadas para uma área mais arejada e receberam atendimento dos bombeiros e de uma equipe do Samu.</p><p>Até a publicação da reportagem do Metrópoles, as causas do acidente e o estado de saúde das crianças não haviam sido detalhados.</p><p>A Prefeitura de Formiga informou que, por se tratar de uma escola estadual, não teve acesso direto às informações sobre o caso. A Secretaria de Estado de Educação foi procurada pelo veículo, que aguardava retorno.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/141434_31.jpg",
-  "credito_foto": "Foto: Google Street View/Reprodução",
-  "fonte": "Metrópoles",
-  "resumos": ""
- },
- {
   "id": "141503_63",
   "data": "2026-11-06T11:21:28-03:00",
   "titulo": "Taquaril pode ficar sem água até o fim da tarde desta sexta; Copasa prevê retorno gradual",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/021425_5.jpg",
   "credito_foto": "Foto: Pedro Ladeira/Folhapress",
   "fonte": "Folha de S.Paulo",
+  "resumos": ""
+ },
+ {
+  "id": "021405_18",
+  "data": "2026-11-07T23:21:44-03:00",
+  "titulo": "Wesley pega um jogo de gancho por gesto obsceno no clássico, e Cruzeiro leva multa no tribunal",
+  "linha_fina": "Atacante pegou um jogo de gancho e pode desfalcar a Raposa contra o Palmeiras; clube pagará R$ 1.500 por atraso no intervalo.",
+  "categoria": "cruzeiro",
+  "texto": "<p>O Superior Tribunal de Justiça Desportiva (STJD) puniu o Cruzeiro em duas frentes por episódios do clássico contra o Atlético, disputado em 29 de outubro, na Arena MRV, e vencido pela Raposa por 1 a 0 pelo Campeonato Brasileiro. O julgamento foi realizado nesta sexta-feira (6) pela 4ª Comissão Disciplinar, em Poços de Caldas.</p>\n<p>O atacante Wesley recebeu um jogo de suspensão por ter feito um gesto obsceno em direção à torcida atleticana. O gesto foi registrado na súmula pelo árbitro Raphael Claus, e o jogador foi enquadrado no artigo 258 do Código Brasileiro de Justiça Desportiva (CBJD). A decisão dos auditores foi unânime e aplicou a pena mínima prevista.</p>\n<p>Na defesa, Wesley afirmou que reagiu depois que um copo arremessado da arquibancada atingiu o banco de reservas do Cruzeiro. O atacante também negou que o gesto tenha sido dirigido a crianças que estavam no estádio. Os argumentos não foram suficientes para livrá-lo da punição.</p>\n<p>O clube também foi multado em R$ 1.500 pelo atraso na volta do intervalo, com base no artigo 206 do CBJD. Já o atacante Kaio Jorge, denunciado por provocações aos torcedores do Atlético depois do apito final, foi absolvido pela maioria dos auditores e não recebeu punição.</p>\n<p>Com a decisão, Wesley pode desfalcar o Cruzeiro no jogo contra o Palmeiras, marcado para 18 de novembro, no Mineirão, caso a suspensão seja mantida e o clube não consiga efeito suspensivo. O Cruzeiro ainda pode recorrer ao Pleno do STJD.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/021405_18.jpg",
+  "credito_foto": "Foto: Reprodução/Terra",
+  "fonte": "Terra",
   "resumos": ""
  }
 ]
