@@ -1,17 +1,5 @@
 [
  {
-  "id": "131354_40",
-  "data": "2026-11-06T10:17:40-03:00",
-  "titulo": "Sebrae e FGV: 70% dos MEIs dizem não ter dificuldade com burocracia; pagamento do DAS é o maior gargalo",
-  "linha_fina": "Pesquisa mostra que mais de 60% gastam até 2 horas por semana com papelada. No comércio, 35% relatam algum problema.",
-  "categoria": "comercio",
-  "texto": "<p>Sete em cada dez microempreendedores individuais do país dizem não enfrentar dificuldades burocráticas em seus negócios. O dado é de um levantamento do Sebrae com a Fundação Getúlio Vargas, a Sondagem Econômica MEI, que desta vez tratou de burocracia e obrigações da categoria.</p><p>Segundo a pesquisa, mais de 60% dos MEIs dedicam até 2 horas por semana a processos administrativos, o que deixa tempo para vender, buscar clientes e investir. Quase metade acha fácil ou muito fácil entender e cumprir as obrigações legais: 36% escolheram \"fácil\" e 13%, \"muito fácil\". Outros 31% ficaram no meio-termo.</p><p>A indústria aparece com a avaliação mais positiva, com 42% dos entrevistados do setor respondendo \"muito fácil\". Entre as regiões, Sudeste e Sul lideram: 50% e 49% consideram fácil ou muito fácil lidar com a burocracia.</p><p>O levantamento também mapeou o que atrapalha os 32% que ainda relatam algum problema. O principal é o pagamento do DAS e das obrigações tributárias ligadas a ele, citado por 29%. Depois vêm o uso dos sistemas digitais do governo (18%), o entendimento das regras do programa (16%) e a emissão de notas fiscais (16%).</p><p>O comércio merece atenção do lojista: é o setor com a taxa mais alta de quem aponta esses problemas, 35%. A Região Nordeste também se destaca, com 37%.</p><p>O presidente do Sebrae, Décio Lima, afirmou que o MEI é o principal caminho para quem quer empreender no país. Ele citou o aumento do teto de faturamento e disse que ainda há desafios, como ampliar a inclusão digital e garantir crédito viável, com juros fora dos atuais patamares de mercado e acesso assistido, para que o crescimento seja planejado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/131354_40.jpg",
-  "credito_foto": "Foto: Divulgação/Agência Sebrae",
-  "fonte": "Agência Sebrae de Notícias",
-  "resumos": ""
- },
- {
   "id": "131403_69",
   "data": "2026-11-06T10:17:40-03:00",
   "titulo": "Damião sanciona lei de equidade salarial em BH: remuneração igual para o mesmo trabalho",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/001344_93.jpg",
   "credito_foto": "Foto: Reprodução/Instagram",
   "fonte": "Gshow",
+  "resumos": ""
+ },
+ {
+  "id": "001811_58",
+  "data": "2026-11-07T21:18:35-03:00",
+  "titulo": "Gol de Enner Valencia aos 50 do 2º tempo dá o título argentino ao Boca, que pega o Galo no dia 21",
+  "linha_fina": "Enner Valencia marcou nos acréscimos contra o Defensa y Justicia e tirou o título do Rosario Central; Atlético e Boca decidem no dia 21.",
+  "categoria": "atletico",
+  "texto": "<p>O Boca Juniors, adversário do Atlético na final da Copa Sul-Americana, chega embalado para a decisão. Neste sábado (7), o clube argentino conquistou o título da Liga Argentina de 2026 com um gol de Enner Valencia aos 50 minutos do segundo tempo, na vitória por 1 a 0 sobre o Defensa y Justicia, na Bombonera.</p><p>O resultado garantiu ao Boca o primeiro lugar na tabela anual, que soma os pontos dos torneios Apertura, do primeiro semestre, e Clausura, do segundo. O Clausura ainda vai para a fase de mata-mata para definir o seu campeão.</p><p>O título teve final dramático. Antes do gol de Valencia, o Rosario Central já comemorava a conquista, porque vencia o Estudiantes de Río Cuarto por 2 a 0. A torcida chegou a invadir o gramado para festejar com os jogadores, mas o gol nos acréscimos na Bombonera mudou tudo e deu a taça ao Boca, que encerrou um jejum de três anos sem títulos.</p><p>A premiação já tinha gerado polêmica em 2025, quando a Associação do Futebol Argentino (AFA) declarou o Rosario Central campeão da tabela anual de forma inesperada, a poucos dias dos playoffs do Clausura.</p><p>Atlético e Boca Juniors decidem a Copa Sul-Americana no dia 21 de novembro, na Colômbia. O título vale vaga na Libertadores de 2027. Eliminado da Copa do Brasil pelo Grêmio neste sábado, o Galo aposta na final continental para salvar a temporada.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/001811_58.jpg",
+  "credito_foto": "Foto: AFP/ge",
+  "fonte": "ge",
   "resumos": ""
  }
 ]
