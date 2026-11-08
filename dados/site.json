@@ -1,17 +1,5 @@
 [
  {
-  "id": "201431_25",
-  "data": "2026-11-06T17:20:03-03:00",
-  "titulo": "Condomínio em BH chega a R$ 2,6 mil por mês no Belvedere; taxa média subiu 6,5% em um ano",
-  "linha_fina": "Levantamento da Loft com imóveis à venda aponta Belvedere, Funcionários e Lourdes como os bairros com condomínio mais caro.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O condomínio de um imóvel à venda em Belo Horizonte pode custar, em média, até R$ 2.666 por mês. O valor é registrado no Belvedere, bairro que lidera o ranking de taxas de condomínio da capital, segundo levantamento da plataforma imobiliária Loft.</p><p>Na segunda posição aparece o Funcionários, com média de R$ 1.224, seguido por Lourdes, com R$ 1.181. Savassi (R$ 1.076) e Luxemburgo (R$ 1.047) completam os cinco primeiros lugares.</p><p>A lista dos 15 bairros mais caros segue com Sion (R$ 963), Santo Agostinho (R$ 956), Santa Lúcia (R$ 917), Boa Viagem (R$ 902), Carmo (R$ 873), Serra (R$ 864), Gutierrez (R$ 847), Buritis (R$ 814), Coração de Jesus (R$ 800) e Anchieta (R$ 784).</p><p>O estudo considera anúncios de apartamentos e casas à venda na capital entre janeiro e outubro de 2026, em comparação com o mesmo período de 2025. Nesse intervalo, a taxa média de condomínio em Belo Horizonte subiu 6,5%. Dos 97 bairros analisados, 88% tiveram aumento.</p><p>Entre os bairros do topo, as maiores altas foram registradas em Coração de Jesus (10,8%), Carmo (8,9%) e Boa Viagem (8,8%). Já Luxemburgo (-7,5%), Santa Lúcia (-6,6%) e Sion (-4,8%) tiveram queda na média.</p><p>Segundo Fábio Takahashi, gerente de dados da Loft, o condomínio é um gasto que merece atenção de quem procura um imóvel, porque é um pagamento recorrente que pesa no orçamento todos os meses, somado a outras despesas como IPTU e contas de consumo.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/201431_25.jpg",
-  "credito_foto": "Acervo/BHAZ",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "201251_17",
   "data": "2026-11-06T17:20:03-03:00",
   "titulo": "Fim da escala 6x1: Fecomércio MG pede ao STF para entrar na ação e estima alta de 9,18% na folha de pagamento",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/131632_102.jpg",
   "credito_foto": "Ricardo Stuckert/PR",
   "fonte": "O Globo",
+  "resumos": ""
+ },
+ {
+  "id": "132029_0",
+  "data": "2026-11-08T10:21:11-03:00",
+  "titulo": "Enem sob alerta de temporal: Defesa Civil pede que candidatos em Minas saiam mais cedo",
+  "linha_fina": "Previsão é de chuva moderada a forte, com raios, granizo e rajadas de até 80 km/h; portões abrem ao meio-dia e fecham às 13h.",
+  "categoria": "minas-gerais",
+  "texto": "<p>A Coordenadoria Estadual de Defesa Civil de Minas Gerais emitiu alerta para a possibilidade de tempestades em diversas regiões do estado neste domingo (8), primeiro dia de provas do Exame Nacional do Ensino Médio (Enem). O órgão recomenda que os candidatos tomem cuidados e saiam de casa com antecedência.</p><p>Segundo a Defesa Civil, a previsão é de chuva moderada a forte, principalmente nas regiões Norte, Noroeste, Central, Jequitinhonha e Vale do Mucuri, com acumulados entre 40 e 60 milímetros e pontos isolados de até 80 milímetros. Nas demais regiões, incluindo a Grande BH, são esperadas pancadas de 10 a 40 milímetros. Os temporais podem vir acompanhados de raios, granizo e rajadas de vento de 40 a 80 km/h.</p><p>Uma massa de ar frio também deve derrubar as temperaturas máximas, sobretudo no Sul e Sudoeste de Minas, na Zona da Mata e no Campo das Vertentes. No Norte e Nordeste do estado, porém, os termômetros ainda podem marcar entre 36°C e 39°C.</p><p>Entre as orientações estão planejar o trajeto e escolher caminhos que evitem pontos de alagamento, sair mais cedo por causa de possíveis congestionamentos, nunca atravessar ruas alagadas a pé ou de carro, evitar ficar debaixo de árvores, estruturas metálicas e postes durante tempestades e procurar abrigo em locais fechados ao perceber raios e ventos fortes.</p><p>Os portões dos locais de prova abrem às 12h e fecham às 13h, no horário de Brasília. Quem chegar depois do fechamento não pode fazer a prova.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/132029_0.jpg",
+  "credito_foto": "Reprodução/TV Globo",
+  "fonte": "g1 Minas",
   "resumos": ""
  }
 ]
