@@ -19136,5 +19136,19 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-07/021405_18.jpg",
   "media_id": "18108899000627218"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:58",
+  "id": "021425_5",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ministros do STF veem alívio com a derrota de Flávio, mas dizem que o futuro depende do Senado",
+  "titulo_orig": "Ministros veem alívio com derrota de Flávio, mas dizem que só eleição do Senado vai definir futuro do STF",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/ministros-veem-alivio-com-derrota-de-flavio-mas-dizem-que-so-eleicao-do-senado-vai-definir-futuro-do-stf.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "artes/2026-11-07/021425_5.jpg",
+  "media_id": "18170996344482410"
  }
 ]
