@@ -18982,5 +18982,61 @@
   "fonte": "Jornal O Sul",
   "arte": "artes/2026-11-07/001412_77.jpg",
   "media_id": "18014118332767979"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:22",
+  "id": "021412_10",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Do golaço às lágrimas: Renan Lodi deixa a Arena MRV chorando após a eliminação do Atlético",
+  "titulo_orig": "Titular do Atlético-MG deixa Arena MRV chorando após eliminação na Copa do Brasil",
+  "link": "https://www.terra.com.br/esportes/atletico-mg/titular-do-atletico-mg-deixa-arena-mrv-chorando-apos-eliminacao-na-copa-do-brasil,f79c6c3674841a9ca1fe09472808cbdeqgd6n6tq.html",
+  "fonte": "Terra",
+  "arte": "artes/2026-11-07/021412_10.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:22",
+  "id": "021417_19",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo do DF pede ao STF que R$ 2,2 bilhões bloqueados do pai de Vorcaro indenizem o BRB",
+  "titulo_orig": "Governo do Distrito Federal quer patrimônio bloqueado do pai de Daniel Vorcaro - Rádio Pampa",
+  "link": "https://www.radiopampa.com.br/governo-do-distrito-federal-quer-patrimonio-bloqueado-do-pai-de-daniel-vorcaro/",
+  "fonte": "Rádio Pampa",
+  "arte": "artes/2026-11-07/021417_19.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:22",
+  "id": "021429_27",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Jim Caviezel, que interpreta Bolsonaro em \"Dark Horse\", acusa governo Lula de barrar o filme",
+  "titulo_orig": "Ator de Dark Horse acusa Lula de barrar filme de Bolsonaro",
+  "link": "https://www.gazetadopovo.com.br/republica/ator-de-dark-horse-acusa-governo-lula-de-agir-para-barrar-exibicao-do-filme/",
+  "fonte": "Gazeta do Povo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "23:22",
+  "id": "021449_100",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Eleição para presidente do Senado deve definir se o homeschooling avança em 2027",
+  "titulo_orig": "Presidência do Senado é peça-chave para destravar homeschooling em 2027",
+  "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/presidencia-senado-destravar-homeschooling-2027/",
+  "fonte": "Gazeta do Povo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
