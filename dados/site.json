@@ -1,17 +1,5 @@
 [
  {
-  "id": "191246_9",
-  "data": "2026-11-06T16:18:19-03:00",
-  "titulo": "Maior parque aquático de Minas, o Tuná abre em 17 de fevereiro nos Canyons de Capitólio",
-  "linha_fina": "Parque às margens da MG-050 terá piscinas de ondas com areia, toboágua de 16 metros e rio lento que imita os paredões dos canyons.",
-  "categoria": "minas-gerais",
-  "texto": "<p>O Tuná Parque Aquático, apresentado como o maior de Minas Gerais, será inaugurado em 17 de fevereiro de 2027 nos Canyons de Capitólio, no Sudoeste do estado. O parque fica às margens da MG-050, no km 312, a cerca de 30 minutos de Passos e de Capitólio, em uma área de 150 mil metros quadrados.</p>\n<p>O projeto foi previsto inicialmente com investimento de R$ 150 milhões, mas ganhou dez novidades e atualizações ao longo das obras, e o valor chegou a R$ 200 milhões, segundo os responsáveis pelo empreendimento.</p>\n<p>A principal atração é o Tuná Race, um toboágua de 16 metros de altura com quatro pistas. O parque terá também a Praia do Tuná, com duas piscinas de ondas que somam 4 milhões de litros de água e areia de verdade, e um rio lento que percorre todo o espaço, com um trecho que recria os paredões dos Canyons de Capitólio e várias quedas d'água.</p>\n<p>A lista inclui ainda uma mega rampa com um balde de mais de 3 mil litros que vira sobre os visitantes, piscina de bolhas, três ofurôs de água quente, brinquedos para bebês, crianças e famílias, bar aquático, restaurante, praça de alimentação e lojas. Segundo o parque, a operação segue um sistema de gestão de segurança certificado pela norma ISO 21101.</p>\n<p>A operação deve gerar 200 empregos diretos. Para o turismo da região, conhecida em todo o país pelos canyons e pelo lago de Furnas, o chamado Mar de Minas, o parque é visto como uma nova atração para atrair visitantes durante o ano inteiro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/191246_9.jpg",
-  "credito_foto": "Divulgação/Tuná Parque Aquático",
-  "fonte": "Observo",
-  "resumos": ""
- },
- {
   "id": "191323_59",
   "data": "2026-11-06T16:18:19-03:00",
   "titulo": "Poços de Caldas terá unidade da PF com emissão de passaporte e fiscalização de terras raras",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/122510_o-8.jpg",
   "credito_foto": "Foto: Karolina Monte/Guia do Estudante",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "122617_119",
+  "data": "2026-11-08T09:26:33-03:00",
+  "titulo": "Terremoto de magnitude 5,7 deixa cerca de 20 feridos no centro do Japão, e governo alerta para novos tremores",
+  "linha_fina": "Abalo atingiu as províncias de Shizuoka e Aichi na madrugada deste domingo (8); não houve alerta de tsunami",
+  "categoria": "mundo",
+  "texto": "<p>Um terremoto de magnitude preliminar 5,7 atingiu o centro do Japão na madrugada deste domingo (8), no horário local, e deixou cerca de 20 pessoas feridas, segundo a imprensa japonesa e a agência France-Presse (AFP). As autoridades alertaram para o risco de novos abalos nos próximos dias.</p>\n<p>O tremor foi registrado à 1h04 (horário local) na província de Shizuoka, a cerca de 40 quilômetros de profundidade. A Agência Meteorológica do Japão (JMA) calculou magnitude de 5,7, enquanto o Serviço Geológico dos Estados Unidos (USGS) registrou 5,5. Os efeitos mais fortes também foram sentidos na província vizinha de Aichi, onde imagens mostram livros e objetos derrubados das prateleiras.</p>\n<p>Depois do abalo principal, vários tremores menores foram registrados na região. A JMA alertou que novos terremotos mais fortes podem acontecer ao longo da semana, principalmente nos dois ou três dias seguintes.</p>\n<p>A agência recomendou atenção redobrada aos moradores, sobretudo em áreas sujeitas a deslizamentos de terra ou onde prédios e outras estruturas possam ter sido danificados pelo primeiro tremor. Não houve alerta de tsunami.</p>\n<p>O Japão fica no chamado Círculo de Fogo do Pacífico, uma das regiões com maior atividade sísmica do planeta. Por isso, os terremotos são frequentes no país, que adota normas rígidas de construção e sistemas de monitoramento para reduzir os danos.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/122617_119.jpg",
+  "credito_foto": "Foto: Kyodo News via AP",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
