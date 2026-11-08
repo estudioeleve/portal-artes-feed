@@ -19584,5 +19584,19 @@
   "fonte": "O POVO",
   "arte": "artes/2026-11-08/102507_3.jpg",
   "media_id": "18061330433583318"
+ },
+ {
+  "data": "2026-11-08",
+  "hora": "08:01",
+  "id": "102515_93",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Quaest: 70% preveem brigas de Lula com o Congresso, mas otimismo com o governo cresce",
+  "titulo_orig": "Pesquisa Quaest mostra que Lula 4 gera maior receio de conflitos com Congresso e STF, mas mais otimismo do que em 2022",
+  "link": "https://oglobo.globo.com/blogs/pulso/post/2026/11/pesquisa-quaest-mostra-que-lula-4-gera-maior-receio-de-conflitos-com-congresso-e-stf-mas-mais-otimismo-do-que-em-2022.ghtml",
+  "fonte": "O GLOBO",
+  "arte": "artes/2026-11-08/102515_93.jpg",
+  "media_id": "18138577804654297"
  }
 ]
