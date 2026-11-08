@@ -1,17 +1,5 @@
 [
  {
-  "id": "191156_122",
-  "data": "2026-11-06T16:18:19-03:00",
-  "titulo": "Selic mantida em 13,75%: CDL/BH e Fiemg alertam que o crédito caro pesa no comércio e na indústria",
-  "linha_fina": "Entidades mineiras criticaram a decisão do Copom; juro alto encarece empréstimos, dificulta o planejamento e pode frear vendas e investimentos.",
-  "categoria": "comercio",
-  "texto": "<p>A decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a taxa básica de juros, a Selic, em 13,75% ao ano foi criticada por entidades que representam o comércio e a indústria de Minas Gerais. A manutenção foi anunciada na quarta-feira (4), por unanimidade, e interrompeu a sequência recente de reduções da taxa.</p>\n<p>Entre as entidades que manifestaram preocupação estão a Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH) e a Federação das Indústrias do Estado de Minas Gerais (Fiemg). Para os representantes dos setores produtivos, o juro em patamar elevado encarece o crédito, atrapalha o planejamento das empresas e pode reduzir investimentos e consumo.</p>\n<p>A CDL/BH avalia que o cenário prolonga as dificuldades de comerciantes e prestadores de serviço, principalmente dos que dependem de financiamento e do consumo das famílias. A Fiemg, por sua vez, destacou os efeitos sobre a atividade industrial, com custo maior de financiamento e limites à expansão das empresas.</p>\n<p>A Selic é a principal referência para os juros cobrados na economia. Quando fica alta, empréstimos, financiamentos de veículos e imóveis e o crédito para empresas tendem a ficar mais caros, embora as taxas dos bancos também dependam de outros fatores. Para o consumidor, isso pode significar prestações maiores; para a empresa, adiamento de contratações e investimentos.</p>\n<p>Por outro lado, o Banco Central usa os juros altos como ferramenta para controlar a inflação. O Copom baseia suas decisões em indicadores como a inflação, as expectativas do mercado, o ritmo da atividade econômica e riscos nacionais e internacionais.</p>\n<p>Para o pequeno lojista, a recomendação de entidades do setor tem sido planejar com cuidado as compras de estoque para o Natal, evitar dívidas de curto prazo caras e comparar taxas entre bancos e cooperativas de crédito antes de contratar capital de giro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-06/191156_122.jpg",
-  "credito_foto": "Reprodução/Lavras24Horas",
-  "fonte": "Lavras24Horas, com informações do Diário do Comércio",
-  "resumos": ""
- },
- {
   "id": "191246_9",
   "data": "2026-11-06T16:18:19-03:00",
   "titulo": "Maior parque aquático de Minas, o Tuná abre em 17 de fevereiro nos Canyons de Capitólio",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/121552_33.jpg",
   "credito_foto": "Foto: Reprodução/InfoMoney",
   "fonte": "InfoMoney",
+  "resumos": ""
+ },
+ {
+  "id": "122510_o-8",
+  "data": "2026-11-08T09:25:45-03:00",
+  "titulo": "Enem: primeiro dia tem Linguagens, Ciências Humanas e Redação; gabarito extraoficial sai a partir das 18h40",
+  "linha_fina": "Mais de 100 professores do Chromos resolvem as questões e divulgam as respostas na noite deste domingo (8)",
+  "categoria": "educacao",
+  "texto": "<p>Os candidatos do Exame Nacional do Ensino Médio (Enem) 2026 enfrentam neste domingo (8) as provas de Linguagens, Códigos e suas Tecnologias, de Ciências Humanas e suas Tecnologias e a Redação. É o primeiro dos dois dias do exame; o segundo será no próximo domingo (15).</p>\n<p>Quem quiser conferir o desempenho ainda nesta noite poderá consultar um gabarito extraoficial. O Chromos Colégio e Pré, em parceria com a Rádio Itatiaia, vai divulgar as respostas a partir das 18h40, no horário de Brasília. A Ação Gabarito reúne mais de 100 professores especialistas para resolver as questões assim que a prova termina.</p>\n<p>Os professores também vão fazer uma análise do tema da redação do Enem 2026. O conteúdo será publicado no portal e nas redes sociais da emissora.</p>\n<p>O gabarito oficial é divulgado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), responsável pelo exame, em data definida no cronograma da prova. O resultado extraoficial serve apenas como referência: a nota final do Enem depende da correção do Inep, que usa a Teoria de Resposta ao Item (TRI), e da avaliação da redação.</p>\n<p>Para este domingo, os portões abrem às 12h e fecham às 13h, e a prova começa às 13h30, no horário de Brasília.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/122510_o-8.jpg",
+  "credito_foto": "Foto: Karolina Monte/Guia do Estudante",
+  "fonte": "Rádio Itatiaia",
   "resumos": ""
  }
 ]

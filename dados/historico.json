@@ -19906,5 +19906,33 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-08/121118_64.jpg",
   "media_id": "17920327749461462"
+ },
+ {
+  "data": "2026-11-08",
+  "hora": "09:25",
+  "id": "122510_o-8",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Enem: primeiro dia tem Linguagens, Ciências Humanas e Redação; gabarito extraoficial sai a partir das 18h40",
+  "titulo_orig": "Enem 2026: Itatiaia e Chromos vão divulgar gabarito extraoficial neste domingo (8) | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/educacao/enem-2026-itatiaia-e-chromos-vao-divulgar-gabarito-extraoficial-neste-domingo-8/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-08",
+  "hora": "09:25",
+  "id": "122522_16",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF faz audiência sobre o prazo do fim da escala 6x1 nesta terça e pode julgar poupadores dos planos econômicos",
+  "titulo_orig": "Agenda do STF: Ministros pautam para esta semana expurgos inflacionários e fim da escala 6 x 1 ",
+  "link": "https://valor.globo.com/legislacao/noticia/2026/11/08/agenda-do-stf-ministros-pautam-para-esta-semana-expurgos-inflacionarios-e-fim-da-escala-6-x-1.ghtml",
+  "fonte": "Valor Econômico",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
