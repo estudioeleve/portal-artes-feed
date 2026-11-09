@@ -11,6 +11,11 @@
 - **Instagram**: gol importante (se a rodada estiver no ar) e **resultado logo após o apito final**, com arte e foto do jogo.
 - Antes do jogo, no dia: prévia com horário, onde assistir e o que cada time precisa.
 
+## 📸 FOTO ATUAL E EXATA (Israel, 09/11/2026 ~10h40, bronca: "Foto antiga de um jogador que não está mais no clube... presta atenção nas imagens")
+- A matéria do Galo "seis jogos sem vencer" saiu no site com foto antiga do Hulk, que não está mais no Atlético. **Não pode.**
+- Antes de usar qualquer foto (Instagram **e** site), olhe a imagem (Read) e confira: é do fato/jogo atual? A pessoa ainda está no clube/cargo? Foto de arquivo de banco de agência costuma ser antiga: desconfie.
+- Esporte: use foto **do jogo ou do treino da semana** (Agência Brasil, site do clube, ge, Itatiaia). Se não achar foto atual, busque outra matéria do mesmo fato (`coletar.py <URL> --anexar`) ou não publique.
+
 ## ⏱️ NOTÍCIA EM TEMPO REAL (Israel, 08/11/2026 ~23h: "você está fazendo matéria hoje que aconteceu há 2 dias") — manda mais que as outras regras de escolha de pauta
 - **Olhe o horário de cada matéria** (campo `hora` do radar e a data dentro do texto). Pegue o que **acabou de acontecer**: aconteceu, posta. Fato de 2 dias atrás **não entra** (nem no Instagram, nem no site), mesmo que a matéria tenha sido publicada hoje. Exceção só se houver fato novo de verdade (ex.: prisão, resultado), e o título deixa claro o que é novo.
 - **Urgente posta na hora**, sem esperar o intervalo.
