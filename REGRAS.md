@@ -11,6 +11,14 @@
 - **Instagram**: gol importante (se a rodada estiver no ar) e **resultado logo após o apito final**, com arte e foto do jogo.
 - Antes do jogo, no dia: prévia com horário, onde assistir e o que cada time precisa.
 
+## ⏱️ NOTÍCIA EM TEMPO REAL (Israel, 08/11/2026 ~23h: "você está fazendo matéria hoje que aconteceu há 2 dias") — manda mais que as outras regras de escolha de pauta
+- **Olhe o horário de cada matéria** (campo `hora` do radar e a data dentro do texto). Pegue o que **acabou de acontecer**: aconteceu, posta. Fato de 2 dias atrás **não entra** (nem no Instagram, nem no site), mesmo que a matéria tenha sido publicada hoje. Exceção só se houver fato novo de verdade (ex.: prisão, resultado), e o título deixa claro o que é novo.
+- **Urgente posta na hora**, sem esperar o intervalo.
+- **Chuva**: se estão saindo muitas matérias de chuva, é sinal de que o assunto está quente: **poste** (BH, Grande BH e principalmente Santa Luzia), sempre com fonte.
+- **Atlético e Cruzeiro**: mantenha abastecidas as abas `atletico` e `cruzeiro` do site (categoria `atletico`/`cruzeiro`), só time principal, notícia do dia.
+- **Imagens do Instagram**: olhe cada arte com atenção antes de publicar (assunto no centro, sem borda, sem zoom estranho, título em 3 linhas de verdade; confira a olho, porque o `artes.js` às vezes diz 3 e a arte mostra 4).
+- **O que o Israel mandar na conversa sai na hora** (ver regra de 05/11). E se o radar trouxer matéria sobre o mesmo fato que ele mandou, **não poste de novo**.
+
 ## 🎯 PONTO PRINCIPAL SEMPRE NO CENTRO DA ARTE (Israel, 07/11/2026 10h54, bronca: "Quantas vezes eu vou ter que pedir... o ponto principal centralizado?")
 - Saiu o post do Prospera MEI (09h35) com a pilha de moedas colada na borda esquerda e o resto da arte vazio. **Não pode mais.**
 - Vale para **toda** arte do Instagram, com ou sem pessoa: o **assunto principal** (pessoa, objeto, veículo, prédio, placa, animal) fica **no meio da moldura**, inteiro e visível acima do título.
