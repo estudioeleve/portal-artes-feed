@@ -22650,5 +22650,19 @@
   "fonte": "SouBH",
   "arte": "artes/2026-11-09/141912_56.jpg",
   "media_id": "18438429700150168"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "12:02",
+  "id": "142032_108",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Empresa com dívida no estado ou na prefeitura: decisão do STF sobre multa não vale para tudo",
+  "titulo_orig": "Empresa que deve ao estado ou à prefeitura: decisão do STF não vale para tudo",
+  "link": "https://aqui.uai.com.br/networking-e-negocios/empresa-que-deve-ao-estado-ou-a-prefeitura-decisao-do-stf-nao-vale-para-tudo/",
+  "fonte": "Portal UAI",
+  "arte": "artes/2026-11-09/142032_108.jpg",
+  "media_id": "18138144448709270"
  }
 ]
