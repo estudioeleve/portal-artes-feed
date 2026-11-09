@@ -5,6 +5,12 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## 🖋️ COLUNAS EM ZIP: PUBLICAR NA HORA (Israel, 09/11/2026: "sempre que eu te enviar, você, na hora, posta nas colunas de cada um")
+- O Israel manda na conversa um zip (feito pelo ChatGPT) com `manifesto.json`, `materias/*.txt` e `imagens/*.png`, para as colunas de **Israel Fernandes**, **Jota Bertoldo (J. Bertoldo)** e **Paulo Alexandre**.
+- Na hora: `python3 robo/colunas.py <arquivo.zip>` e depois `git add -A && git commit && git push`. Vai para `dados/colunas.json` (não para o site.json, nem para o Instagram) e o site publica no nome do colunista em até 15 minutos.
+- Precisa do tema **2.4.4** instalado no WordPress (`tema/portal-one-2.4.4.zip`). Se faltar o usuário do colunista, o painel "Robô de notícias" avisa e a coluna espera.
+- Não mexer no texto do colunista; manter o crédito da imagem.
+
 ## ⚽ JOGO GRANDE DE ATLÉTICO OU CRUZEIRO: COBERTURA ESPECIAL, PRINCIPALMENTE NO SITE (Israel, 07/11/2026 ~19h40, bronca: "O Atlético jogando um jogo muito importante e você não deu uma atenção... deveria fazer uma cobertura especial... colocar um placar online")
 - Jogo decisivo (semifinal, final, clássico, jogo que vale título/vaga/rebaixamento) do time principal de Atlético ou Cruzeiro: **a rodada que pegar o jogo faz cobertura especial**, não deixa "para a próxima rodada".
 - **Site**: matéria **"Placar ao vivo"** assim que a rodada começar com o jogo em andamento (placar no topo, o que o time precisa, gols, cartões, mudanças, números), buscando nos sites que transmitem lance a lance (Lance!, VAVEL, ge, Itatiaia, O Tempo/No Ataque, Terra). A cada espera entre posts, **publique uma atualização nova** (o site não atualiza matéria antiga: cada atualização é um item novo, com título diferente para a trava REPETIDO não barrar). No fim do jogo: matéria do resultado e, depois, repercussão (técnico, jogadores, próximo jogo).
