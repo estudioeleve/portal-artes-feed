@@ -1,29 +1,5 @@
 [
  {
-  "id": "161123_35",
-  "data": "2026-11-07T13:18:18-03:00",
-  "titulo": "Câmara de BH aprova cancelas e guaritas em ruas de loteamentos; agora a decisão é do prefeito",
-  "linha_fina": "Projeto passou em 2º turno por 32 votos a 7; texto proíbe barrar quem não mora no local e vai para sanção ou veto de Álvaro Damião.",
-  "categoria": "politica",
-  "texto": "<p>A Câmara Municipal de Belo Horizonte aprovou em segundo turno, nesta sexta-feira (6), o projeto de lei que permite a instalação de guaritas, cancelas e outros mecanismos de controle de acesso em ruas públicas de loteamentos da capital. Foram 32 votos favoráveis e sete contrários. O texto ainda passa pela redação final antes de seguir para o prefeito Álvaro Damião (União Brasil), que pode sancionar ou vetar a proposta.</p><p>De acordo com o projeto, a medida vale apenas para loteamentos cujas associações de moradores estejam legalmente constituídas e registradas. Essas entidades passam a ser responsáveis pela conservação e pela manutenção dos espaços incluídos no controle de acesso. Os projetos das estruturas também dependem de aprovação prévia do órgão competente da prefeitura.</p><p>A lei estabelece limites: cancelas e guaritas não podem impedir a passagem de pedestres ou motoristas que não morem no local. As associações podem pedir identificação ou cadastro dos visitantes, mas são obrigadas a garantir a circulação de qualquer cidadão.</p><p>A proposta regulamenta na capital o modelo de loteamento de acesso controlado previsto na Lei Federal 6.766/1979. O autor é o presidente da Câmara, Professor Juliano Lopes (Podemos), que justificou a iniciativa como uma contribuição para a segurança, a preservação ambiental e a gestão dos espaços públicos.</p><p>O tema dividiu o plenário. A vereadora Luiza Dulci (PT) afirmou que a medida pode favorecer a segregação e afetar principalmente moradores de regiões periféricas, e citou a posição contrária da Secretaria Municipal de Política Urbana e a ausência da medida no Plano Diretor. Pedro Patrus (PT) classificou a proposta como desastrosa e lembrou a CPI das Cancelas. Os defensores do texto argumentaram que a regulamentação traz regras claras para situações que já existem na cidade.</p><p>Com a aprovação, a palavra final fica com o Executivo municipal.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/161123_35.jpg",
-  "credito_foto": "Reprodução/BH System",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
-  "id": "161154_4",
-  "data": "2026-11-07T13:18:18-03:00",
-  "titulo": "Cruzeiro chega a 99,88% de chance de ir à Libertadores e pode garantir a vaga contra o Palmeiras",
-  "linha_fina": "Cálculo da UFMG subiu de 95,8% para 99,88% depois da 34ª rodada; vaga pode sair no dia 18, no Mineirão.",
-  "categoria": "cruzeiro",
-  "texto": "<p>O Cruzeiro ficou ainda mais perto de voltar à Copa Libertadores. Depois da 34ª rodada do Campeonato Brasileiro, as chances de classificação do time celeste para a competição de 2027 chegaram a 99,88%, segundo os cálculos do Departamento de Matemática da Universidade Federal de Minas Gerais (UFMG), que consideram as vagas do G5. Antes da rodada, a probabilidade era de 95,8%.</p><p>Terceiro colocado na tabela, o Cruzeiro fez sua parte ao vencer o confronto direto contra o Bahia, que está em sexto lugar, e aumentou a distância para o primeiro time fora da zona de classificação.</p><p>A rodada também ajudou: o Athletico-PR, quinto colocado, foi derrotado, assim como o Atlético, que ocupa a sétima posição. Entre os concorrentes diretos do Cruzeiro, apenas o Fluminense, quarto colocado, venceu.</p><p>Restam quatro rodadas para o fim do Brasileirão, e a vaga pode ser garantida já no próximo compromisso. O Cruzeiro recebe o vice-líder Palmeiras no dia 18 de novembro, depois da pausa para a Data Fifa.</p><p>Na sequência, o time visita a Chapecoense no dia 21 e o Fluminense no dia 29, e encerra a campanha contra o Internacional, em 2 de dezembro, no Mineirão.</p><p>A volta à Libertadores é um dos principais objetivos da temporada celeste, e a torcida já faz contas para a confirmação matemática diante do Palmeiras.</p><p>Pelos critérios do levantamento da UFMG, que considera as cinco primeiras posições como garantia de vaga na competição continental, o Cruzeiro tem hoje uma margem confortável sobre os perseguidores. Ainda assim, a comissão técnica trata cada partida como decisiva para assegurar a classificação o quanto antes e brigar por uma posição ainda melhor na tabela.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/161154_4.jpg",
-  "credito_foto": "Divulgação/Cruzeiro",
-  "fonte": "Rádio Itatiaia",
-  "resumos": ""
- },
- {
   "id": "161146_8",
   "data": "2026-11-07T13:18:18-03:00",
   "titulo": "Brasil precisaria de R$ 14,4 bilhões para cumprir PEC da Segurança nas prisões; governo tem R$ 3 bi em fundos",
@@ -4797,6 +4773,30 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/151712_14.jpg",
   "credito_foto": "Foto: Divulgação/Pedro Leopoldo Rodeio Show",
   "fonte": "Organização do PRESE 2026",
+  "resumos": ""
+ },
+ {
+  "id": "151721_36",
+  "data": "2026-11-09T12:23:07-03:00",
+  "titulo": "Nova lei de BH obriga prefeitura a divulgar perfil salarial de servidores e incentiva empresas",
+  "linha_fina": "Lei 12.166/2026 cria programa de equidade salarial; dados por gênero, raça e idade serão divulgados a cada seis meses.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A Prefeitura de Belo Horizonte sancionou a Lei nº 12.166/2026, que institui o Programa Municipal de Cooperação para Promoção da Equidade Salarial. A norma tem origem no Projeto de Lei 266/2025, apresentado em conjunto pelas vereadoras Iza Lourença, Juhlia Santos, Luiza Dulci e Cida Falabella.</p><p>O objetivo é combater diferenças de remuneração ligadas a gênero, raça, etnia, origem e idade. O ponto central da lei é a transparência no próprio serviço público: o município deverá divulgar, a cada seis meses, dados estatísticos com o perfil de gênero, raça e idade dos servidores, organizados por faixas salariais, para identificar e corrigir distorções em secretarias e autarquias.</p><p>Para o setor privado, a lei aposta na adesão voluntária. Empresas instaladas na capital serão incentivadas a compartilhar indicadores de remuneração, sempre de forma agregada e sem identificar funcionários, e a adotar boas práticas como mapeamento de faixas salariais e critérios de promoção, canais seguros para denúncias de discriminação e revisão de planos de cargos e salários.</p><p>O texto prevê que a prefeitura conceda incentivos e reconhecimentos às empresas que comprovarem avanços na redução das diferenças salariais. Os critérios, porém, ainda dependem de regulamentação do Executivo municipal.</p><p>Com a nova lei, Belo Horizonte busca alinhar suas regras às normas federais de igualdade salarial, em vigor desde 2023.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/151721_36.jpg",
+  "credito_foto": "Foto: Reprodução/Portal UAI",
+  "fonte": "Portal UAI",
+  "resumos": ""
+ },
+ {
+  "id": "151722_128",
+  "data": "2026-11-09T12:23:07-03:00",
+  "titulo": "Anvisa manda recolher emagrecedor Ultra Shape, vendido sem registro no Brasil",
+  "linha_fina": "Resolução publicada nesta segunda (9) também proíbe medicamentos fitoterápicos da Ciência da Natureza Eireli.",
+  "categoria": "saude",
+  "texto": "<p>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (9) a apreensão do emagrecedor Ultra Shape. Segundo a agência, o produto não tem registro, notificação ou cadastro na vigilância sanitária. A medida foi publicada no Diário Oficial da União.</p><p>De acordo com a resolução, foi comprovado o anúncio de venda e a comercialização do emagrecedor, que é fabricado por empresa desconhecida.</p><p>As ações de fiscalização alcançam a fabricação, a venda, a distribuição, a divulgação e o uso do produto, e valem para pessoas físicas e empresas, inclusive veículos de comunicação.</p><p>A mesma resolução determina a apreensão de medicamentos fabricados pela empresa Ciência da Natureza Eireli: Espinheira Santa (Maytenus ilicifolia); Garra D; Canela de Velho + Unha de Gato + Sucupira + Garra D; e Sucupira + Unha de Gato + Garra D. Segundo a Anvisa, os produtos não têm registro e a empresa não tem autorização para fabricar medicamentos.</p><p>A Agência Brasil informou ter procurado a Ciência da Natureza Eireli e aguardava posicionamento.</p><p>A orientação a quem já comprou é interromper o uso e, em caso de reação, procurar atendimento médico. A situação de qualquer produto pode ser consultada no site da Anvisa.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/151722_128.jpg",
+  "credito_foto": "Foto: Valter Campanato/Agência Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
