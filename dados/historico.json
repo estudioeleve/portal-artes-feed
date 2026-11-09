@@ -23392,5 +23392,19 @@
   "fonte": "No Ataque",
   "arte": "artes/2026-11-09/182532_75.jpg",
   "media_id": "18017335010986621"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "15:53",
+  "id": "181857_20",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Carreta com gado tomba e pega fogo na BR-381, em Barão de Cocais, e motorista morre na cabine",
+  "titulo_orig": "Motorista morre após carreta com gado tombar e pegar fogo na BR-381 | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/09/motorista-morre-apos-carreta-com-gado-tombar-e-pegar-fogo-na-br-381-em-barao-de-cocais.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-09/181857_20.jpg",
+  "media_id": "18079366541446879"
  }
 ]
