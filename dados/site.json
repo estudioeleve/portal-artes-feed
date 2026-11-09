@@ -1,17 +1,5 @@
 [
  {
-  "id": "091243_80",
-  "data": "2026-11-07T06:17:58-03:00",
-  "titulo": "Venezuelano é preso perto da Casa Branca com três armas após dizer que queria matar Trump",
-  "linha_fina": "Serviço Secreto abordou o homem em um carro roubado na quinta-feira (5); ele está nos EUA sem documentos, segundo o governo americano.",
-  "categoria": "mundo",
-  "texto": "<p>O Serviço Secreto dos Estados Unidos prendeu, perto da Casa Branca, em Washington, um imigrante venezuelano que disse que pretendia matar o presidente Donald Trump. A prisão foi divulgada nesta sexta-feira (6) pelo Departamento de Segurança Interna (DHS) dos EUA.</p><p>Segundo as autoridades, Ronny Yordrix Guanipa Chrinos foi abordado na quinta-feira (5) por agentes que se aproximaram do carro em que ele estava, nas proximidades da residência oficial do presidente. De acordo com o comunicado, ao ser interrogado, ele afirmou que ouvia vozes que mandavam que fosse a Washington e matasse Trump.</p><p>Dentro do veículo, que segundo o governo americano era roubado, os agentes encontraram três armas e dezenas de cartuchos. O DHS afirma que o suspeito não tinha documentos e teria entrado ilegalmente nos Estados Unidos em março de 2024, pela fronteira com o México. O governo divulgou fotos das armas apreendidas.</p><p>A segurança no entorno da Casa Branca foi reforçada no segundo mandato de Trump. Nos últimos dois anos, outros casos de pessoas armadas ou com ameaças ao presidente foram registrados na região, o que levou o Serviço Secreto a ampliar o perímetro de vigilância.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/091243_80.jpg",
-  "credito_foto": "Divulgação/Departamento de Segurança Interna dos EUA",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "091248_22",
   "data": "2026-11-07T06:17:58-03:00",
   "titulo": "Fim das bets: clubes desistem de reverter proibição e agora pedem transição para salvar patrocínios de 2027",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/021502_50.jpg",
   "credito_foto": "Reprodução/Jornal O Sul",
   "fonte": "Jornal O Sul",
+  "resumos": ""
+ },
+ {
+  "id": "022122_205",
+  "data": "2026-11-08T23:21:49-03:00",
+  "titulo": "PF investiga ameaças de morte contra a deputada eleita Ana Elisa e pede ajuda internacional",
+  "linha_fina": "Investigação é conduzida pela PF em Divinópolis com apoio da área de crimes cibernéticos; deputada eleita de 21 anos tem escolta 24 horas.",
+  "categoria": "politica",
+  "texto": "<p>A Polícia Federal informou neste domingo (8) que investiga as ameaças de morte e de estupro denunciadas pela deputada federal eleita por Minas Gerais Ana Elisa (PT), de 21 anos. Segundo o Metrópoles, a apuração é conduzida pela delegacia da PF em Divinópolis, no Centro-Oeste do estado, com apoio da Diretoria de Combate a Crimes Cibernéticos.</p><p>De acordo com a corporação, as medidas de investigação já começaram e incluem diligências especializadas e pedidos de cooperação policial internacional, para obter informações que ajudem a identificar os responsáveis. A PF não detalhou quais países foram acionados, alegando a necessidade de preservar o sigilo do caso.</p><p>A deputada eleita denunciou nos últimos dias uma série de ameaças de morte, estupro e ataques racistas recebidos pela internet. Em vídeo publicado nas redes sociais, ela leu trechos de um e-mail com as ameaças. Depois das mensagens, passou a contar com escolta policial 24 horas por dia e relatou medo de sair de casa.</p><p>Na nota, a PF lembrou a Operação Aggregatio, realizada em outubro, que identificou um responsável por ameaças contra parlamentares e outras autoridades em diferentes estados, e afirmou que ameaças contra qualquer cidadão devem ser tratadas com seriedade.</p><p>O caso gerou manifestações de solidariedade de políticos de vários partidos. O PT divulgou nota de repúdio e cobrou medidas para garantir a segurança da parlamentar eleita.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/022122_205.jpg",
+  "credito_foto": "Reprodução/Metrópoles",
+  "fonte": "Metrópoles",
   "resumos": ""
  }
 ]
