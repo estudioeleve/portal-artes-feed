@@ -22986,5 +22986,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "13:33",
+  "id": "161911_22",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Quilo da salsicha vai de R$ 7,99 a R$ 20,99 nos supermercados da Grande BH, diferença de 162%",
+  "titulo_orig": "Preço da salsicha varia 162% e ultrapassa R$ 20 o quilo em BH",
+  "link": "https://bhaz.com.br/noticias/bh/preco-da-salsicha-varia-162-e-ultrapassa-r-20-o-quilo-em-bh/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-09/161911_22.jpg",
+  "media_id": "17921673183245864"
  }
 ]
