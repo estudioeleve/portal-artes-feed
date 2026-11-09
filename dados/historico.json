@@ -23518,5 +23518,47 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "16:22",
+  "id": "192056_18",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Kaio Jorge é eleito craque da 34ª rodada do Brasileirão pelo Seleção Sportv e volta a ser lembrado para a Seleção",
+  "titulo_orig": "Programa de TV elege jogador do Cruzeiro como craque da rodada do Brasileirão | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/programa-de-tv-elege-jogador-do-cruzeiro-como-craque-da-rodada-do-brasileirao/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "16:22",
+  "id": "192100_183",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Emprestado pelo Atlético, zagueiro Ivan Román é campeão chileno pelo Colo-Colo e pode ficar mais tempo no Chile",
+  "titulo_orig": "Jogador do Atlético é campeão e abre brecha para não voltar ao Galo em 2027",
+  "link": "https://noataque.com.br/noticia/2026/11/09/jogador-atletico-campeao-abre-brecha-nao-voltar-galo-2027/",
+  "fonte": "No Ataque",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "16:22",
+  "id": "192102_23",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Paul McCartney vira bilionário, segundo a Forbes, e é o terceiro músico com fortuna acima de US$ 1 bilhão",
+  "titulo_orig": "Paul McCartney entra para lista de músicos bilionários da Forbes com fortuna de R$ 7 bilhões | G1",
+  "link": "https://g1.globo.com/pop-arte/noticia/2026/11/09/paul-mccartney-entra-para-lista-de-musicos-bilionarios-da-forbes-com-fortuna-de-r-7-bilhoes.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
