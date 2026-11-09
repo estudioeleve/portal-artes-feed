@@ -21502,5 +21502,47 @@
   "fonte": "Estado de Minas",
   "arte": "artes/2026-11-09/091311_25.jpg",
   "media_id": "18070752209608840"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "06:18",
+  "id": "091632_30",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "PEDRO LEOPOLDO",
+  "titulo": "Coral Luiz Gonzaga celebra 16 anos com concerto lírico na Igreja São Sebastião, em Pedro Leopoldo",
+  "titulo_orig": "VÍDEO: Concerto lírico marcou os 16 anos do Coral Luiz Gonzaga em Pedro Leopoldo",
+  "link": "https://pordentrodetudo.com.br/video-concerto-lirico-marcou-os-16-anos-do-coral-luiz-gonzaga-em-pedro-leopoldo/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "06:18",
+  "id": "091640_6",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro é o 2º clube brasileiro que mais cedeu jogadores à seleção na era Ancelotti",
+  "titulo_orig": "Cruzeiro é o segundo clube brasileiro que mais cedeu jogadores à seleção na 'Era Carlos Ancelotti'",
+  "link": "https://www.otempo.com.br/sports/cruzeiro/2026/11/9/cruzeiro-e-o-segundo-clube-brasileiro-que-mais-cedeu-jogadores-a-selecao-na-era-carlos-ancelotti",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "06:18",
+  "id": "091644_8",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula embarca para a Turquia e as Filipinas na primeira viagem ao exterior após a reeleição",
+  "titulo_orig": "Lula viaja à Turquia e às Filipinas em 1ª agenda externa pós-eleição",
+  "link": "https://www.poder360.com.br/poder-governo/lula-viaja-a-turquia-e-as-filipinas-em-1a-agenda-externa-pos-eleicao/",
+  "fonte": "Poder360",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
