@@ -22202,5 +22202,19 @@
   "fonte": "O Tempo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "09:31",
+  "id": "121624_29",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Metrô de BH liga parque solar com quase 7 mil placas, capaz de abastecer 2,6 mil casas",
+  "titulo_orig": "Metrô de BH inaugura parque solar com quase 7 mil placas",
+  "link": "https://soubh.uai.com.br/noticias/transito/metro-de-bh-inaugura-parque-solar-com-quase-7-mil-placas/",
+  "fonte": "SouBH",
+  "arte": "artes/2026-11-09/121624_29.jpg",
+  "media_id": "18203368888389639"
  }
 ]
