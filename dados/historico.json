@@ -23770,5 +23770,19 @@
   "fonte": "BH 24 Horas",
   "arte": "artes/2026-11-09/201215_262.jpg",
   "media_id": "18126872108305078"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "17:44",
+  "id": "201219_68",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Frio chega a BH: máxima despenca 14°C em dois dias e chuva deve seguir ao longo da semana",
+  "titulo_orig": "Previsão do tempo: temperaturas caem em BH e chuva deve continuar nesta semana",
+  "link": "https://bhaz.com.br/noticias/previsao-do-tempo-temperaturas-caem-em-bh-e-chuva-deve-continuar-nesta-semana/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-09/201219_68.jpg",
+  "media_id": "18101549291532398"
  }
 ]
