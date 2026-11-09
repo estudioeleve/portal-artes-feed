@@ -1,17 +1,5 @@
 [
  {
-  "id": "191523_23",
-  "data": "2026-11-07T16:18:09-03:00",
-  "titulo": "O que a derrota de Trump nas eleições de meio de mandato muda na corrida pela Casa Branca em 2028",
-  "linha_fina": "Democratas saem fortalecidos; nomes como Jon Ossoff e Josh Shapiro ganham projeção, e JD Vance aparece como possível candidato republicano.",
-  "categoria": "mundo",
-  "texto": "<p>Os votos das eleições de meio de mandato nos Estados Unidos ainda estão sendo contados, mas o cenário político americano já se volta para a disputa presidencial de 2028. Com vitórias expressivas no Congresso, os democratas ganharam força na corrida pela sucessão de Donald Trump.</p><p>Um bom resultado nas chamadas midterms, porém, não garante a Casa Branca dois anos depois. O democrata Barack Obama, por exemplo, foi reeleito em 2012, mesmo depois de grandes vitórias republicanas em 2010.</p><p>Ainda não há candidatos oficiais, mas possíveis nomes já se movimentam. Entre os democratas, o senador Jon Ossoff venceu com folga na Geórgia, estado em que Trump ganhou em 2024. Ele diz que não pretende disputar a Presidência, mas a campanha, com vários vídeos que viralizaram, deu projeção nacional a ele.</p><p>Outro nome citado é o do governador da Pensilvânia, Josh Shapiro, que derrotou com facilidade o adversário republicano. Ele não se compromete com uma candidatura, mas analistas veem a popularidade em um dos estados decisivos como um trunfo.</p><p>Do lado republicano, declarações do vice-presidente JD Vance com reflexões sobre as derrotas do partido foram interpretadas como um sinal de preparação para concorrer em 2028.</p><p>A dimensão dos ganhos democratas na eleição da última terça-feira deve influenciar a montagem das candidaturas e as estratégias dos dois partidos nos próximos dois anos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/191523_23.jpg",
-  "credito_foto": "Foto: Reuters",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "191526_153",
   "data": "2026-11-07T16:18:09-03:00",
   "titulo": "Nilton Travesso é velado em São Paulo; Silvia Poppovic, Ronnie Von e Cesar Filho se despedem do diretor",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/182106_44.jpg",
   "credito_foto": "PMMG/Divulgação",
   "fonte": "Portal Gerais",
+  "resumos": ""
+ },
+ {
+  "id": "182532_75",
+  "data": "2026-11-09T15:26:50-03:00",
+  "titulo": "Mesmo sem jogar, Cruzeiro chega a 100% de chance de ir à Libertadores, segundo a UFMG",
+  "linha_fina": "Classificação do Palmeiras à final da Copa do Brasil abriu vaga extra no Brasileiro; Raposa pode confirmar contra o Palmeiras no dia 18.",
+  "categoria": "cruzeiro",
+  "texto": "<p>O Cruzeiro chegou a 100% de chance de classificação para a Copa Libertadores de 2027, de acordo com o cálculo de probabilidades do Departamento de Matemática da Universidade Federal de Minas Gerais (UFMG), atualizado na noite de domingo (8). O time não entrou em campo no fim de semana, mas viu o índice subir de 99,88% para 100%.</p><p>A mudança veio da Copa do Brasil. O Palmeiras eliminou o Vasco na semifinal, em São Januário, e vai à final contra o Grêmio. Neste ano, o torneio dá duas vagas na Libertadores: o campeão vai direto para a fase de grupos e o vice disputa a fase preliminar.</p><p>Como o Palmeiras vai terminar o Brasileiro pelo menos em segundo lugar, com 73 pontos, contra 76 do líder Flamengo, ele já tem vaga garantida pelo campeonato. Assim, a vaga direta da Copa do Brasil passa ao Grêmio, desde que o time gaúcho continue na Série A, e a segunda vaga é redistribuída para o Brasileiro, que passa a ter G6.</p><p>A quatro rodadas do fim, os seis primeiros são Flamengo (76), Palmeiras (73), Cruzeiro (60), Fluminense (57), Athletico-PR (54) e Bahia (53), estes dois últimos indo à fase preliminar. Pela conta da UFMG, a Raposa não deve ser ultrapassada por Fluminense, Athletico, Bahia e Atlético, que é o sétimo, com 50 pontos.</p><p>A vaga pode ser confirmada matematicamente já na próxima rodada, quando o Cruzeiro recebe o Palmeiras no Mineirão, na quarta-feira, 18 de novembro, às 20h30. Para isso, o time precisa pontuar e torcer por um tropeço do Atlético.</p><p>O Galo joga antes: visita o Mirassol neste sábado (14), às 18h30, em partida antecipada por causa da final da Copa Sul-Americana, marcada para 21 de novembro em Barranquilla, na Colômbia. Se o Atlético for campeão, garante vaga na Libertadores e, terminando o Brasileiro entre os seis primeiros, abre mais uma vaga pela Série A.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/182532_75.jpg",
+  "credito_foto": "Gustavo Aleixo/Cruzeiro",
+  "fonte": "No Ataque",
   "resumos": ""
  }
 ]
