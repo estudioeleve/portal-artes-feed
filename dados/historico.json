@@ -22370,5 +22370,33 @@
   "fonte": "G1",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "10:26",
+  "id": "132610_173",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "VESPASIANO",
+  "titulo": "Jovem morto em pagode em Vespasiano era parente de vítimas da chacina em festa infantil de Ribeirão das Neves",
+  "titulo_orig": "Morto em pagode era parente de vítimas de chacina em festa infantil em Ribeirão das Neves | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/morto-em-pagode-era-parente-de-vitimas-de-chacina-em-festa-infantil-em-ribeirao-das-neves/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "10:26",
+  "id": "132606_145",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Fã passa mal e morre durante show de Fábio Jr. no interior de São Paulo; cantor lamenta \"imensa dor\"",
+  "titulo_orig": "Fã morre em show de Fábio Jr. em São Paulo e cantor se pronuncia: 'Imensa dor'",
+  "link": "https://www.terra.com.br/diversao/gente/fa-morre-em-show-de-fabio-jr-em-sao-paulo-e-cantor-se-pronuncia-imensa-dor,78ef0ceaf8436b233b0e1d2d371365770r2cbyop.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
