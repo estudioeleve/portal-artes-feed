@@ -21628,5 +21628,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-09/091316_23.jpg",
   "media_id": "18111150250907929"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "06:34",
+  "id": "091319_123",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "85,8% das famílias de BH estão endividadas, acima da média do país; cartão de crédito puxa a alta",
+  "titulo_orig": "Endividamento  das famílias de BH  segue nas alturas",
+  "link": "https://www.em.com.br/economia/2026/11/7535156-endividamento-das-familias-de-bh-segue-nas-alturas.html",
+  "fonte": "Estado de Minas",
+  "arte": "artes/2026-11-09/091319_123.jpg",
+  "media_id": "18095763779674138"
  }
 ]
