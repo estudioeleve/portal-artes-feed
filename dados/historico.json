@@ -22710,20 +22710,6 @@
  {
   "data": "2026-11-09",
   "hora": "12:24",
-  "id": "151730_80",
-  "bloco": "bh",
-  "portal": "one",
-  "ed": "BELO HORIZONTE",
-  "titulo": "Sudecap abre seleção com 27 vagas temporárias e salários de até R$ 9,3 mil em BH; inscrição começa nesta terça",
-  "titulo_orig": "SUDECAP de Belo Horizonte (MG) lança seletivo com vagas de até R$ 9 mil",
-  "link": "https://concursosnobrasil.com/concursos/mg/2026/11/09/sudecap-de-belo-horizonte-mg-lanca-seletivo-com-vagas-de-ate-r-9-mil/",
-  "fonte": "Concursos no Brasil",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-09",
-  "hora": "12:24",
   "id": "151734_22",
   "bloco": "politica",
   "portal": "politica",
@@ -22788,6 +22774,20 @@
   "titulo_orig": "Russell Brand é condenado a 10 anos e meio de prisão por estupro e agressão sexual | G1",
   "link": "https://g1.globo.com/pop-arte/noticia/2026/11/09/russell-brand-e-condenado-a-10-anos-e-meio-de-prisao-por-estupro-e-agressao-sexual.ghtml",
   "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "12:24",
+  "id": "152429_16",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Governo de Minas promete prazos mais previsíveis para licença ambiental e abertura de empresas",
+  "titulo_orig": "Eloos: governo estadual tenta aumentar previsibilidade para empresas que querem investir em Minas, diz secretário | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/economia/negocios/eloos/mineracao/eloos-governo-estadual-tenta-aumentar-previsibilidade-para-empresas-que-querem-investir-em-minas-diz-secretario/",
+  "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
  }

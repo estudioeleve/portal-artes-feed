@@ -1,17 +1,5 @@
 [
  {
-  "id": "162022_245",
-  "data": "2026-11-07T13:22:26-03:00",
-  "titulo": "Frente fria chega a BH: máxima cai de 32°C para 18°C e mínima pode chegar a 12°C na terça",
-  "linha_fina": "Fim de semana ainda tem pancadas de chuva e trovoadas; a partir de segunda (9), massa de ar frio derruba as temperaturas em Minas.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Uma frente fria deve derrubar as temperaturas em Belo Horizonte e em toda Minas Gerais a partir de segunda-feira (9). Segundo a previsão do Instituto Nacional de Meteorologia (Inmet), a capital, que pode chegar a 32°C neste sábado (7), deve ter máxima de apenas 18°C na terça-feira (10), com mínima de 12°C.</p><p>Antes da mudança, o fim de semana segue com instabilidade. Para o sábado, a previsão é de pancadas de chuva à tarde e trovoadas isoladas, com possibilidade de granizo e rajadas de vento de até 60 km/h. No domingo (8), o céu deve ficar nublado e a máxima cai para 27°C. As temperaturas do fim de semana devem variar entre 19°C e 32°C.</p><p>O Inmet também alertou para chuvas intensas, entre 20 e 30 milímetros por hora ou até 50 milímetros ao longo do dia, em todas as regiões de Minas Gerais neste fim de semana.</p><p>A partir de segunda-feira, uma massa de ar frio associada à frente fria provoca queda acentuada nas temperaturas. Em Belo Horizonte, a mínima deve ficar em torno de 14°C e a máxima não deve passar de 20°C. Na terça, o frio se intensifica, com mínima de 12°C e máxima de 18°C, céu parcialmente nublado e possibilidade de chuvas isoladas.</p><p>A previsão chega depois de uma semana de temporais na capital e na Região Metropolitana. Na quinta-feira (5), a chuva forte causou alagamentos e quedas de árvores em BH e em cidades vizinhas, como Santa Luzia e Contagem. Dados da Defesa Civil mostram que as regiões Noroeste e Oeste registraram 50,6 milímetros em quatro horas, mais de 20% da média de todo o mês de novembro, que é de 236 milímetros.</p><p>Várias regiões da capital, entre elas Venda Nova, Norte, Nordeste, Pampulha, Noroeste e Oeste, estão sob alerta de risco geológico forte até segunda-feira. A Defesa Civil orienta evitar áreas sujeitas a alagamento, não atravessar ruas inundadas e não se abrigar debaixo de árvores durante tempestades. Em emergências, o telefone é o 199.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/162022_245.jpg",
-  "credito_foto": "Reprodução/Correio do Povo",
-  "fonte": "Correio do Povo, com dados do Inmet",
-  "resumos": ""
- },
- {
   "id": "162136_183",
   "data": "2026-11-07T13:22:26-03:00",
   "titulo": "Projeto na Câmara cria política nacional de saúde mental nas escolas, com verba de apostas e índice de bem-estar",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/152158_63.jpg",
   "credito_foto": "Foto: Jack Taylor/Reuters",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "152429_16",
+  "data": "2026-11-09T12:24:40-03:00",
+  "titulo": "Governo de Minas promete prazos mais previsíveis para licença ambiental e abertura de empresas",
+  "linha_fina": "Secretário adjunto de Desenvolvimento Econômico falou no encerramento do Eloos Indústria, nesta segunda (9), em BH.",
+  "categoria": "comercio",
+  "texto": "<p>O secretário adjunto de Desenvolvimento Econômico de Minas Gerais, Frederico Amaral, afirmou nesta segunda-feira (9) que o governo estadual trabalha para dar mais previsibilidade a quem quer investir no estado. A declaração foi dada no segundo painel do ciclo de encerramento do Eloos Indústria, realizado na Casa Vereda, em Belo Horizonte.</p><p>Segundo Amaral, o foco tem sido garantir prazos mais claros em etapas que costumam travar investimentos, como o licenciamento ambiental e os processos de abertura de empresas. Para ele, o objetivo é tornar mais simples o caminho de quem decide empreender em Minas.</p><p>O secretário também citou o potencial do estado para agregar valor à economia, com destaque para as terras raras e os desafios tecnológicos do setor mineral. De acordo com ele, o Estado tem destinado recursos de pesquisa para que as empresas melhorem seus processos produtivos.</p><p>O encontro marca o fim da edição do Eloos dedicada à mineração, que debate os efeitos da nova Lei de Minerais Críticos e Estratégicos, a atração de investimentos, a inovação e o avanço da industrialização em Minas. O evento reúne representantes dos setores público e privado.</p><p>Para o pequeno empreendedor, a promessa de processos mais rápidos de abertura de empresa interessa diretamente: em Minas, o registro é feito pela Junta Comercial (Jucemg), e o MEI pode se formalizar de graça pelo portal Gov.br.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/152429_16.jpg",
+  "credito_foto": "Foto: UV Foto e Vídeo/Itatiaia",
+  "fonte": "Rádio Itatiaia",
   "resumos": ""
  }
 ]
