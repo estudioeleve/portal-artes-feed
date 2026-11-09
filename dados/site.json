@@ -1,17 +1,5 @@
 [
  {
-  "id": "111148_23",
-  "data": "2026-11-07T08:15:39-03:00",
-  "titulo": "Governo Lula estuda ampliar em 20% as despesas que podem ser bloqueadas para equilibrar as contas",
-  "linha_fina": "Equipe econômica também avalia mudanças no arcabouço fiscal e nos pisos de saúde e educação; nada foi decidido.",
-  "categoria": "politica",
-  "texto": "<p>A equipe econômica do governo Luiz Inácio Lula da Silva estuda ampliar em 20% a base de despesas federais que podem ser contingenciadas, ou seja, bloqueadas temporariamente, incluindo gastos obrigatórios. A medida faz parte de um pacote em discussão para reforçar o equilíbrio das contas públicas no quarto mandato do presidente. As informações foram publicadas pelo jornal Valor Econômico.</p><p>Segundo a reportagem, as propostas ainda estão em fase preliminar e nenhuma decisão foi tomada por Lula. Hoje, a maior parte do Orçamento é formada por despesas obrigatórias, o que limita a capacidade do governo de fazer ajustes ao longo do ano quando as receitas ficam abaixo do previsto.</p><p>Outra ideia em análise prevê que os valores contingenciados até o fim de um ano sejam descontados do limite de gastos do ano seguinte. O objetivo seria evitar que bloqueios temporários acabem virando espaço extra no Orçamento futuro.</p><p>A equipe econômica também discute mudanças no ritmo de crescimento das despesas. Pelas regras atuais do arcabouço fiscal, os gastos federais podem crescer no máximo 2,5% acima da inflação por ano. Durante a campanha, integrantes do governo sinalizaram ao mercado a possibilidade de reduzir esse teto para 2% ou até 1,5%.</p><p>Estão em avaliação ainda alterações na forma de correção dos pisos constitucionais de saúde e educação e a tributação de investimentos que hoje são isentos de imposto. Qualquer mudança nas regras fiscais e nos pisos depende de aprovação do Congresso Nacional, que terá nova composição a partir de fevereiro de 2027.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-07/111148_23.jpg",
-  "credito_foto": "Adriano Machado/Reuters",
-  "fonte": "Valor Econômico",
-  "resumos": ""
- },
- {
   "id": "111155_50",
   "data": "2026-11-07T08:15:39-03:00",
   "titulo": "Bruno Rodrigues lamenta não poder enfrentar o Palmeiras e pede foco do Cruzeiro na vaga da Libertadores",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/101332_173.jpg",
   "credito_foto": "Foto: Yara Nardi/Reuters",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "101815_159",
+  "data": "2026-11-09T07:18:26-03:00",
+  "titulo": "MP que renegocia dívidas de produtores rurais pode perder a validade na quarta-feira sem votação",
+  "linha_fina": "Comissão mista só se reuniu uma vez; bancada ruralista considera o texto do relator Paulo Pimenta inviável e tenta acordo até terça.",
+  "categoria": "politica",
+  "texto": "<p>A medida provisória que renegocia as dívidas de produtores rurais entra nesta semana no limite do prazo. O texto perde a validade na quarta-feira (11) e ainda precisa passar pela comissão mista, pelo plenário da Câmara dos Deputados e pelo Senado, segundo a CNN Brasil.</p><p>A comissão mista que analisa a MP fez apenas uma reunião, a de instalação, e não voltou a se reunir desde agosto. O relator, deputado Paulo Pimenta (PT-RS), já apresentou duas versões do texto, mas ambas enfrentam resistência da Frente Parlamentar da Agropecuária (FPA).</p><p>A bancada ruralista tenta fechar um acordo com o relator para mudar a proposta antes do prazo e espera se reunir com ele até terça-feira (10). Para o setor, a MP é a principal saída para renegociar as dívidas em atraso do agro, que chegaram em agosto ao maior percentual da série histórica do Banco Central.</p><p>Segundo a FPA, a segunda versão do relatório, apresentada na quinta-feira (5), continua insatisfatória. O presidente da frente, deputado Pedro Lupion (Republicanos-PR), classificou a proposta como \"inviável\", mas disse que deixar a MP caducar seria \"o pior dos mundos\". Os ruralistas querem ampliar o perfil de quem pode renegociar, reduzir os juros e permitir o uso de garantias já dadas em outros financiamentos ainda em pagamento.</p><p>A frente aponta como principal obstáculo a falta de disposição do relator e do presidente da comissão, senador Renan Calheiros (MDB-AL), para novas reuniões e mudanças. Já uma fonte próxima a Pimenta disse à CNN que o deputado desconhece a insatisfação da FPA e não deve apresentar um novo relatório.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/101815_159.jpg",
+  "credito_foto": "Foto: Leonardo Sá/Agência Senado",
+  "fonte": "CNN Brasil",
   "resumos": ""
  }
 ]
