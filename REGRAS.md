@@ -10,6 +10,8 @@
 - Na hora: `python3 robo/colunas.py <arquivo.zip>` e depois `git add -A && git commit && git push`. Vai para `dados/colunas.json` (não para o site.json, nem para o Instagram) e o site publica no nome do colunista em até 15 minutos.
 - Precisa do tema **2.4.4** instalado no WordPress (`tema/portal-one-2.4.4.zip`). Se faltar o usuário do colunista, o painel "Robô de notícias" avisa e a coluna espera.
 - Não mexer no texto do colunista; manter o crédito da imagem.
+- **Por enquanto só no site** (Israel, 09/11/2026 14h50). Instagram das colunas só depois que ele mandar a moldura específica de colunas; até lá, nada de coluna no Instagram.
+- Zip repetido (mesmo conteúdo já enviado): o `colunas.py` avisa "já está no colunas.json" e não duplica.
 
 ## ⚽ JOGO GRANDE DE ATLÉTICO OU CRUZEIRO: COBERTURA ESPECIAL, PRINCIPALMENTE NO SITE (Israel, 07/11/2026 ~19h40, bronca: "O Atlético jogando um jogo muito importante e você não deu uma atenção... deveria fazer uma cobertura especial... colocar um placar online")
 - Jogo decisivo (semifinal, final, clássico, jogo que vale título/vaga/rebaixamento) do time principal de Atlético ou Cruzeiro: **a rodada que pegar o jogo faz cobertura especial**, não deixa "para a próxima rodada".
