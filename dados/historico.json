@@ -23924,5 +23924,33 @@
   "fonte": "Sou Mais Pop",
   "arte": "artes/2026-11-09/211453_77.jpg",
   "media_id": "18085629134342461"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "18:29",
+  "id": "212832_340",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Vice-governador eleito, Falcão diz que situação fiscal de Minas é \"desafiadora\" e prevê déficit de R$ 10,5 bi em 2027",
+  "titulo_orig": "Vice-governador eleito de MG diz que  cenário fiscal do estado é 'desafiador e complicado'",
+  "link": "https://cbn.globo.com/belo-horizonte/noticia/2026/11/09/vice-governador-eleito-de-mg-diz-que-cenario-fiscal-do-estado-e-desafiador-e-complicado.ghtml",
+  "fonte": "CBN",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "18:29",
+  "id": "212840_136",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Comissão da Assembleia vota para derrubar vetos de Mateus Simões à LDO, incluindo regra ligada ao Propag",
+  "titulo_orig": "O veto de Mateus Simões ligado ao Propag que está ameaçado na Assembleia",
+  "link": "https://ofator.com.br/informacao/o-veto-de-mateus-simoes-ligado-ao-propag-que-esta-ameacado-na-assembleia/",
+  "fonte": "O Fator",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
