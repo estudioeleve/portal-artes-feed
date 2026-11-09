@@ -23756,5 +23756,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-09/201210_34.jpg",
   "media_id": "18119600080799370"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "17:35",
+  "id": "201215_262",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Metrô de BH liga parque solar que vai abastecer estações da Linha 1 e oficinas do São Gabriel",
+  "titulo_orig": "Parque solar do Metrô BH entra em operação para abastecer Linha 1 e oficinas - BH 24 Horas",
+  "link": "https://bh24horas.com.br/minas-gerais/parque-solar-do-metro-bh-entra-em-operacao-para-abastecer-linha-1-e-oficinas/",
+  "fonte": "BH 24 Horas",
+  "arte": "artes/2026-11-09/201215_262.jpg",
+  "media_id": "18126872108305078"
  }
 ]
