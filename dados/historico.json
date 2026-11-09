@@ -21292,5 +21292,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-08/013403_87.jpg",
   "media_id": "17979070661931834"
+ },
+ {
+  "data": "2026-11-08",
+  "hora": "23:11",
+  "id": "013443_149",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Depois dos temporais, BH tem segunda-feira de frio, com mínima de 16°C e chuva a qualquer hora",
+  "titulo_orig": "Temperaturas despencam em BH após fortes chuvas; veja previsão",
+  "link": "https://www.metropoles.com/minas-gerais/temperaturas-despencam-em-bh-apos-fortes-chuvas-veja-previsao",
+  "fonte": "Metrópoles",
+  "arte": "artes/2026-11-08/013443_149.jpg",
+  "media_id": "17913959664488893"
  }
 ]
