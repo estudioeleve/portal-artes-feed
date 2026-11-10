@@ -1,17 +1,5 @@
 [
  {
-  "id": "151637_8",
-  "data": "2026-11-08T12:19:08-03:00",
-  "titulo": "Último dia: Whindersson Nunes faz hoje, às 20h, a última sessão do seu novo show em BH",
-  "linha_fina": "Humorista encerra a passagem pela capital neste domingo no Grande Teatro Minascentro; ingressos de R$ 70 a R$ 240.",
-  "categoria": "entretenimento",
-  "texto": "<p>O humorista Whindersson Nunes encerra neste domingo (8) a passagem por Belo Horizonte com o espetáculo \"Isso Definitivamente Não É Um Culto\". A apresentação começa às 20h, no Grande Teatro Minascentro, no Centro da capital, com abertura dos portões às 19h.</p>\n<p>A turnê percorre o Brasil desde 2025 e marca uma das fases de maior repercussão da carreira do artista. No palco, Whindersson transforma experiências pessoais e observações sobre a sociedade em histórias de humor, com reflexões sobre saúde mental, comportamento, redes sociais e espiritualidade.</p>\n<p>Segundo a produção, o projeto já passou por 65 cidades, em 23 estados brasileiros e seis países. As apresentações somam mais de 230 mil espectadores, em 94 sessões principais e 47 sessões extras.</p>\n<p>O Grande Teatro Minascentro fica na Avenida Augusto de Lima, 785. O espetáculo tem duração aproximada de 1h20.</p>\n<p>Os ingressos custam entre R$ 70 e R$ 240, de acordo com o setor, e são vendidos pela Sympla, sujeitos à disponibilidade. A classificação etária é de 18 anos, e menores de idade só entram acompanhados dos pais.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/151637_8.jpg",
-  "credito_foto": "Divulgação",
-  "fonte": "SouBH",
-  "resumos": ""
- },
- {
   "id": "151642_54",
   "data": "2026-11-08T12:19:08-03:00",
   "titulo": "Curto-circuito no plenário da Câmara dos Deputados aciona sistema anti-chamas em Brasília",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/121300_beatriz.jpg",
   "credito_foto": "Foto: Reprodução/Redes sociais",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "122000_presepios",
+  "data": "2026-11-10T12:15:04-03:00",
+  "titulo": "Santa Luzia abre a 21ª edição do Circuito de Presépios no dia 26 de novembro, no Teatro Municipal",
+  "linha_fina": "Solenidade de abertura será às 19h no Teatro Municipal Antônio Roberto de Almeida; evento celebra 21 edições de fé, tradição e cultura.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Prefeitura de Santa Luzia, por meio da Secretaria Municipal de Cultura e Turismo, realiza no dia 26 de novembro, às 19h, a solenidade de abertura oficial da 21ª edição do Circuito de Presépios de Santa Luzia. A cerimônia será no Teatro Municipal Antônio Roberto de Almeida.</p><p>Consolidado como uma das mais importantes manifestações culturais e religiosas do município, o Circuito de Presépios chega a 21 edições de história, fé e tradição. Segundo a prefeitura, o evento reafirma o compromisso da cidade com a preservação do seu patrimônio cultural e das manifestações que atravessam gerações.</p><p>\"21 edições celebrando a fé, preservando tradições e mantendo viva a memória cultural de Santa Luzia\": é assim que a Secretaria de Cultura e Turismo resume o significado do circuito, que vai além de uma celebração natalina e valoriza a identidade luziense, a religiosidade popular e o sentido do Natal, o nascimento de Jesus Cristo.</p><p>No convite oficial, assinado pela secretária municipal de Cultura e Turismo, Regilene Carvalho, a prefeitura destaca que a abertura será um momento de celebração da fé, da cultura e do patrimônio da cidade. A administração também convidou os veículos de comunicação e profissionais de imprensa para acompanhar a solenidade e ajudar a divulgar a tradição para a população.</p><p>Serviço: Abertura Oficial da 21ª edição do Circuito de Presépios de Santa Luzia. Data: 26 de novembro de 2026 (quinta-feira). Horário: 19h. Local: Teatro Municipal Antônio Roberto de Almeida, em Santa Luzia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/122000_presepios.jpg",
+  "credito_foto": "Foto: Divulgação/Prefeitura de Santa Luzia",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
