@@ -25870,5 +25870,33 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-10/131656_59.jpg",
   "media_id": "17930526078186051"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "11:30",
+  "id": "142952_38",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Documentário 'Retratos da Várzea', gravado em BH e em Ribeirão das Neves, tem estreia gratuita na Arena Mineirinho neste sábado",
+  "titulo_orig": "Documentário 'Retratos da Várzea' estreia em BH com sessão gratuita na Arena Mineirinho | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/cultura-e-lazer/documentario-retratos-da-varzea-estreia-em-bh-com-sessao-gratuita-na-arena-mineirinho/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "11:33",
+  "id": "141821_52",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Comparsa no porta-malas roubava passageiras de app em BH; polícia faz nova operação",
+  "titulo_orig": "Grupo suspeito de roubar e extorquir passageiros durante corrida de app é alvo de nova operação",
+  "link": "https://www.otempo.com.br/cidades/2026/11/10/grupo-suspeito-de-roubar-e-extorquir-passageiros-durante-corrida-de-app-e-alvo-de-nova-operacao",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-10/141821_52.jpg",
+  "media_id": "18016163181002274"
  }
 ]
