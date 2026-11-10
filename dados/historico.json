@@ -24890,5 +24890,33 @@
   "fonte": "G1",
   "arte": "artes/2026-11-09/011441_33.jpg",
   "media_id": "18123150805998237"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "06:15",
+  "id": "091156_14",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "BRT Amazonas: Prefeitura de BH apresenta o projeto em reuniões abertas com moradores até quinta",
+  "titulo_orig": "Projeto do BRT Amazonas será apresentado à população de BH",
+  "link": "https://rede98.com.br/noticias/bh-regiao/projeto-do-brt-amazonas-sera-apresentado-a-populacao-de-bh/",
+  "fonte": "Rede 98",
+  "arte": "artes/2026-11-10/091156_14.jpg",
+  "media_id": "18128460049865579"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "06:15",
+  "id": "091128_0",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Caso da capitã Michele: Justiça começa a ouvir hoje 28 testemunhas do processo contra sargento em BH",
+  "titulo_orig": "Capitã Michele Leão: Justiça ouve testemunhas de sargento em BH | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/10/justica-ouve-primeiras-testemunhas-em-processo-contra-sargento-acusado-de-matar-esposa-capita-em-bh.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-10/091128_0.jpg",
+  "media_id": "SITE"
  }
 ]
