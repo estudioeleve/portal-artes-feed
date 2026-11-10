@@ -27523,5 +27523,19 @@
   "fonte": "www.otempo.com.br",
   "arte": "artes/2026-11-10/221950_6-07.jpg",
   "media_id": "18106171607455738"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "20:00",
+  "id": "221909_125",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "FGTS: agora você autoriza o banco a ver seu extrato e não precisa mais levar o papel",
+  "titulo_orig": "Trabalhador poderá autorizar bancos a consultar extrato do FGTS",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabalhador-podera-autorizar-bancos-consultar-extrato-do-fgts",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-10/221909_125.jpg",
+  "media_id": "18154390906535350"
  }
 ]
