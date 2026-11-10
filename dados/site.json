@@ -1,17 +1,5 @@
 [
  {
-  "id": "142734_12",
-  "data": "2026-11-08T11:27:47-03:00",
-  "titulo": "Barrichello com o filho, Pedro Scooby, Veigh e influenciadores: famosos lotam o paddock do GP de São Paulo",
-  "linha_fina": "Interlagos recebe neste domingo a corrida de Fórmula 1, que fecha a programação do fim de semana na capital paulista.",
-  "categoria": "entretenimento",
-  "texto": "<p>O Autódromo de Interlagos, na Zona Sul de São Paulo, recebe neste domingo (8) o Grande Prêmio de São Paulo de Fórmula 1, e a corrida virou também ponto de encontro de famosos. Desde cedo, ex-pilotos, artistas, atletas e influenciadores circulam pelo paddock e pelas áreas reservadas do circuito.</p>\n<p>O ex-piloto Rubens Barrichello foi um dos primeiros a chegar, acompanhado do filho, Fernando, o Fefo Barrichello, que também segue carreira no automobilismo.</p>\n<p>O surfista Pedro Scooby e o cantor Veigh também já estavam no autódromo para acompanhar a programação antes da largada.</p>\n<p>Entre os criadores de conteúdo, apareceram nomes como Julio Cocielo, Mitico e Brino, que acompanharam a movimentação dos boxes e a preparação das equipes para a prova.</p>\n<p>A presença de celebridades começou já na sexta-feira (6), dia dos primeiros treinos, quando a atriz Deborah Secco esteve no circuito.</p>\n<p>A corrida deste domingo encerra a programação oficial do GP de São Paulo, que movimentou a cidade durante todo o fim de semana. O grid ficou embaralhado depois da chuva na classificação, com Lewis Hamilton e Max Verstappen largando no fim do pelotão, o que promete uma prova movimentada. Antes da largada, a cantora Ana Castela interpreta o Hino Nacional, e escolas de samba se apresentam na pista.</p>\n<p>Para quem vai acompanhar de casa, a transmissão da corrida é da TV Band, que também mostra a cobertura dos bastidores e a chegada dos convidados ao autódromo.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/142734_12.jpg",
-  "credito_foto": "Reprodução/Instagram @f1saopaulo",
-  "fonte": "Band",
-  "resumos": ""
- },
- {
   "id": "151547_29",
   "data": "2026-11-08T12:19:08-03:00",
   "titulo": "Mulher foge pelo telhado, e homem é preso suspeito de agredir a ex e pôr fogo na casa em Contagem",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/142952_38.jpg",
   "credito_foto": "Foto: Lucas Campolina/Divulgação (via Itatiaia)",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "143323_mana",
+  "data": "2026-11-10T11:34:08-03:00",
+  "titulo": "Metrô de BH tem espera de 24 minutos entre trens depois das 20h até sexta por causa de obras",
+  "linha_fina": "Mudança vale na Linha 1, de Vilarinho ao Novo Eldorado; Calafate e Gameleira operam em via única e não haverá baldeação.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Quem usa o metrô de Belo Horizonte à noite precisa reservar mais tempo para a viagem nesta semana. Até sexta-feira (13), os trens da Linha 1 circulam com intervalos de 24 minutos depois das 20h. A mudança, que começou na segunda-feira (9), é por causa das obras de modernização do sistema.</p><p>Além da espera maior, a operação foi adaptada nas estações Calafate e Gameleira, onde os trens passam a usar uma única via depois das 20h. Por isso, a concessionária Metrô BH orienta os passageiros a conferir a direção do trem antes de embarcar, para não seguir no sentido contrário ao destino.</p><p>Não será necessário fazer baldeação durante as intervenções. Ainda assim, a combinação de intervalos maiores e via única pode deixar as viagens mais demoradas, principalmente na volta para casa depois do trabalho. Funcionários da concessionária vão ficar nas estações para orientar os usuários, e as mudanças também serão informadas nas telas digitais, no sistema de som, no site oficial da Metrô BH e no Instagram da empresa.</p><p>As obras fazem parte do projeto de modernização da Linha 1, que liga a Estação Vilarinho, em Venda Nova, na Região Norte de BH, à Estação Novo Eldorado, em Contagem, em 28 quilômetros. Dividido em quatro etapas, o projeto começou em 2023 e prevê os serviços sem a interrupção total da circulação dos trens.</p><p>Fora do período das obras, o metrô funciona todos os dias das 5h15 às 23h. De segunda a sexta, os intervalos são de 7,5 minutos nos horários de pico, das 6h às 8h e das 16h30 às 18h30, e de 15 minutos no resto do dia. Aos sábados, os trens passam a cada 7,5 minutos entre 6h e 8h e depois a cada 15 minutos; aos domingos e feriados, o intervalo é de 15 minutos o dia todo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/143323_mana.jpg",
+  "credito_foto": "Foto: Reprodução/O Tempo",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
