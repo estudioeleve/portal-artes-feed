@@ -1,17 +1,5 @@
 [
  {
-  "id": "151601_56",
-  "data": "2026-11-08T12:19:08-03:00",
-  "titulo": "\"Me despedi de todo mundo\": Giovanna Antonelli vive pânico em voo, e avião volta para BH",
-  "linha_fina": "Atriz mandou mensagens de despedida à família durante a turbulência; o avião não conseguiu pousar e retornou a Belo Horizonte.",
-  "categoria": "entretenimento",
-  "texto": "<p>A atriz Giovanna Antonelli relatou ter vivido um dos maiores sustos da vida durante um voo que enfrentou forte turbulência em meio a uma tempestade. A aeronave não conseguiu fazer o pouso previsto e precisou retornar a Belo Horizonte, onde aterrissou em segurança.</p>\n<p>\"Foi o maior medo que eu passei na minha vida. Eu me despedi de todo mundo, mandei mensagem para filho, para filha, marido, meu irmão\", contou a atriz em um vídeo gravado depois do pouso. Ela viajava acompanhada de Helen Ferreira e de Cristiano Ferreira.</p>\n<p>Giovanna disse que ficou tão nervosa que chegou a pensar em organizar questões financeiras durante a turbulência, mas não conseguiu lembrar a senha do banco. \"Fiquei tão nervosa que não tinha nem como deixar um dinheirinho\", brincou, já mais tranquila.</p>\n<p>Segundo o relato, o desespero tomou conta também de outros passageiros. \"Eu olhava para ela, ela chorava e eu chorava. Eu gritava um santo, ela rezava\", lembrou a atriz.</p>\n<p>O voo retornou à capital mineira e terminou sem registro de feridos. Depois do pouso, o clima mudou para alívio, e Cristiano brincou que a história renderia uma participação de Giovanna no \"Que História É Essa, Porchat?\", programa que reúne relatos inusitados de famosos.</p>\n<p>O episódio aconteceu num fim de semana de temporais em várias regiões do Sudeste, com alertas da Defesa Civil em Minas Gerais e no Rio de Janeiro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/151601_56.jpg",
-  "credito_foto": "Reprodução/Instagram",
-  "fonte": "Jornal de Brasília",
-  "resumos": ""
- },
- {
   "id": "151637_8",
   "data": "2026-11-08T12:19:08-03:00",
   "titulo": "Último dia: Whindersson Nunes faz hoje, às 20h, a última sessão do seu novo show em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/143438_46.jpg",
   "credito_foto": "Foto: Gabriela Biló/Folhapress",
   "fonte": "Folha de S.Paulo",
+  "resumos": ""
+ },
+ {
+  "id": "121300_beatriz",
+  "data": "2026-11-10T12:13:36-03:00",
+  "titulo": "Laudo aponta que Beatriz Vitória foi enterrada viva em mata de Jaboticatubas",
+  "linha_fina": "Perícia achou material arenoso na traqueia da jovem de 27 anos, sinal de que ela aspirou a terra; ex-namorado e a namorada dele foram indiciados por feminicídio.",
+  "categoria": "regiao-metropolitana",
+  "texto": "<p>Um laudo pericial obtido com exclusividade pela Rádio Itatiaia indica que Beatriz Vitória Aparecida Neves Mota, de 27 anos, ainda estava viva quando foi enterrada em uma área de mata em Jaboticatubas, na Região Metropolitana de Belo Horizonte.</p><p>Segundo o documento, foi encontrado material arenoso e pastoso na traqueia da vítima, o que mostra que ela aspirou esse conteúdo ainda com vida. \"Havia ainda a presença de material arenoso/pastoso na luz traqueal, indicando ter havido aspiração deste conteúdo ainda com a periciada viva\", registra o laudo.</p><p>O ex-namorado de Beatriz, Samuel Castro Melo, de 18 anos, e a atual namorada dele, Carla Luiza da Silva, de 23, foram indiciados pela Polícia Civil por feminicídio, ocultação de cadáver, corrupção de menores e fraude processual. Carla também responde por furto qualificado.</p><p>De acordo com a polícia, o crime aconteceu em 9 de outubro, dia em que Beatriz desapareceu. O corpo foi encontrado em 21 de outubro, em uma área de mata do município, e os dois suspeitos foram presos em flagrante no mesmo dia.</p><p>As investigações apontaram a participação de uma adolescente de 15 anos, que indicou aos policiais o local onde o corpo estava. Segundo a polícia, ela contou que estava no carro com Samuel e Carla e que, depois de uma parada em uma área de lotes vagos, Beatriz não voltou ao veículo.</p><p>As defesas negam as acusações. O advogado de Samuel afirmou que pretende analisar as provas e individualizar a conduta atribuída a cada investigado. A defesa de Carla informou que ela nega os fatos e exerceu o direito constitucional ao silêncio.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/121300_beatriz.jpg",
+  "credito_foto": "Foto: Reprodução/Redes sociais",
+  "fonte": "Rádio Itatiaia",
   "resumos": ""
  }
 ]
