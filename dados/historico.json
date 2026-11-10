@@ -24806,5 +24806,33 @@
   "fonte": "www.em.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "23:23",
+  "id": "022217_200",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Comércio de BH pode abrir nos feriados de 15 e 20 de novembro; veja o que o lojista precisa pagar ao funcionário",
+  "titulo_orig": "Confira como fica o funcionamento do comércio em BH nos feriados dos dias 15 e 20 de novembro",
+  "link": "https://www.cdlbh.com.br/noticia/confira-como-fica-o-funcionamento-do-comercio-em-bh-nos-feriados-dos-dias-15-e-20-de-novembro/",
+  "fonte": "CDL BH",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "23:23",
+  "id": "022253_3",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Kits de irrigação do Governo de Minas chegam a mais de 5 mil agricultores familiares do Norte do estado",
+  "titulo_orig": "Balanço 2023-2026: Kits de irrigação entregues pelo Governo de Minas melhoram a vida de produtores no semiárido",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/balanco-2023-2026-kits-de-irrigacao-entregues-pelo-governo-de-minas-melhoram-a-vida-de-produtores-no-semiarido",
+  "fonte": "Agência Minas",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
