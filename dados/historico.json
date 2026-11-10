@@ -24540,5 +24540,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-09/001313_22.jpg",
   "media_id": "18131187085856994"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "21:38",
+  "id": "001335_184",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fim da escala 6x1: decreto que regulamenta a mudança fica para depois da volta de Lula, dia 16",
+  "titulo_orig": "Regulamentação do fim da escala 6x1 é adiada pelo governo Lula | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/politica/governo-adia-publicacao-decreto-fim-escala-6x1/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-09/001335_184.jpg",
+  "media_id": "18096973208159409"
  }
 ]
