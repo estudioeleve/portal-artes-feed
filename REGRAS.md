@@ -61,7 +61,7 @@
 ## 🎬 REELS SEMPRE COM A MOLDURA DE REELS (Israel, 10/11/2026 ~12h45, bronca: "Você postou sem a moldura do Reels, portal luziense. Não pode postar sem a moldura")
 - O Reels do Circuito de Presépios (12h29) saiu com o convite cru, sem moldura. **Não pode.** No **site** a foto vai sem moldura; no **Instagram, feed e Reels, sempre com a moldura**.
 - Moldura de Reels do Portal Luziense: Canva "REELS LUZIENSE" (canva.link/os103tnzgm6mzyt), recriada em `robo/modelo/reels.html` (1080x1920, fundo transparente: faixa azul com "Portal luziense" no alto à esquerda, degradê preto embaixo, etiqueta, título em 3 linhas e "acesse o nosso site www.portalonenews.com.br").
-- Como fazer: gere o PNG da moldura com o `reels.html` (Playwright, `omitBackground`), ponha por cima da foto/vídeo com ffmpeg (`overlay`) e publique com `create_video_post`. Olhe um quadro do vídeo (Read) antes de publicar. Ex.: `videos/2026-11-10/122000_presepios_moldura.mp4`.
+- Como fazer: gere o PNG da moldura com o `reels.html` (Playwright, `omitBackground`), ponha por cima da foto/vídeo com ffmpeg (`overlay`) e publique com `create_video_post`. Olhe um quadro do vídeo (Read) antes de publicar. **Vídeo: use o link raw.githubusercontent** (pelo jsDelivr o Instagram deu "container status: ERROR" 2 vezes em 10/11) e gere com `-loop 1 -framerate 30` + `-r 30` para não sair com quadros a mais. Ex.: `videos/2026-11-10/122000_presepios_moldura.mp4`.
 
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
 - **"Portal Luziense" (ou Política, Comércio) quer dizer a moldura, não outra conta** (Israel, 10/11/2026): tudo é postado no **@portalonenews**, inclusive vídeo para Reels (`create_video_post`).
