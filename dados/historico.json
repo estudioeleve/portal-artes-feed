@@ -26332,5 +26332,19 @@
   "fonte": "Prefeitura de Belo Horizonte",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "13:40",
+  "id": "161523_68",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Minas bloqueia 2,6 mil empresas de fachada de remédios e cosméticos e protege o lojista legal",
+  "titulo_orig": "Secretaria de Fazenda bloqueia 2,6 mil empresas irregulares dos segmentos de medicamentos, cosméticos e limpeza ",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/secretaria-de-fazenda-bloqueia-26-mil-empresas-irregulares-dos-segmentos-de-medicamentos-cosmeticos-e-limpeza",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "artes/2026-11-10/161523_68.jpg",
+  "media_id": "18099600059650715"
  }
 ]
