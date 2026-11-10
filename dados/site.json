@@ -1,17 +1,5 @@
 [
  {
-  "id": "141051_23",
-  "data": "2026-11-08T11:15:07-03:00",
-  "titulo": "Venda Nova volta a alagar e moradores cobram as bacias de contenção paradas desde 2021",
-  "linha_fina": "Reservatórios Nado 1 e Vilarinho 2 tiveram contratos cancelados; Prefeitura lançou novo edital, mas não há data para o fim das obras.",
-  "categoria": "venda-nova",
-  "texto": "<p>Os moradores de Venda Nova, na região Norte de Belo Horizonte, voltaram a conviver com ruas alagadas neste fim de semana de temporais e cobram a retomada das obras das bacias de contenção Nado 1 e Vilarinho 2. Os dois reservatórios, que deveriam segurar a água da chuva e reduzir as enchentes, estão com as obras paradas.</p>\n<p>As intervenções começaram em 2021, com previsão de entrega até 2026. Hoje, porém, os canteiros estão abandonados, segundo quem vive e trabalha na região. Um comerciante da Avenida Padre Pedro Pinto, uma das vias mais atingidas, contou que enfrenta alagamentos há cinco anos. \"É a mesma coisa todo ano\", lamentou.</p>\n<p>A região chegou a ser descrita pelos moradores como um \"cemitério de obras paradas\". A cada chuva forte, lojas fecham as portas mais cedo, carros ficam ilhados e famílias tentam salvar móveis e mercadorias.</p>\n<p>A Prefeitura de Belo Horizonte informou que cancelou os contratos com as empresas responsáveis depois de identificar irregularidades. Para o Vilarinho 2, foi lançado um novo edital, de R$ 67,5 milhões. O contrato do Nado 1 está em revisão. O objetivo, segundo o município, é reduzir os impactos das chuvas na região.</p>\n<p>Ainda não há, no entanto, data para que as obras sejam retomadas e concluídas. Enquanto isso, a orientação da Defesa Civil para os dias de temporal continua a mesma: não atravessar ruas alagadas, não estacionar perto de córregos e acionar o telefone 199 em caso de risco.</p>\n<p>Venda Nova foi uma das regiões com mais chamados à Defesa Civil depois da chuva de sábado para domingo.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/141051_23.jpg",
-  "credito_foto": "Reprodução/RECORD Minas",
-  "fonte": "R7",
-  "resumos": ""
- },
- {
   "id": "141056_28",
   "data": "2026-11-08T11:15:08-03:00",
   "titulo": "Lona de circo desaba durante o temporal em BH e deixa três feridos, entre eles uma criança",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/132234_23.jpg",
   "credito_foto": "Reuters/Yara Nardi",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "132335_84",
+  "data": "2026-11-10T10:23:55-03:00",
+  "titulo": "Receita Federal apreende R$ 2,4 milhões em eletrônicos sem nota fiscal em Piumhi",
+  "linha_fina": "Operação com apoio da PM vistoriou quatro lojas e um galpão; celulares, consoles e kits Starlink foram levados ao depósito da Receita.",
+  "categoria": "minas-gerais",
+  "texto": "<p>Uma operação de combate ao comércio ilegal de eletrônicos e produtos importados apreendeu cerca de R$ 2,4 milhões em mercadorias nesta segunda-feira (9) em Piumhi, no Sudoeste de Minas Gerais. A ação fez parte da Operação Fronteira Receita Federal 2026 e teve apoio da Polícia Militar de Minas Gerais.</p><p>As equipes fiscalizaram quatro estabelecimentos comerciais e um galpão de grande porte, escolhidos com base em levantamentos prévios da investigação. O objetivo era conferir a origem das mercadorias e a documentação fiscal dos produtos colocados à venda.</p><p>Foram encontrados centenas de itens sem comprovação de origem, entre eles smartphones, tablets, robôs aspiradores, consoles de videogame, caixas de som, kits de antenas de internet via satélite Starlink, baterias de celular e diversos acessórios eletrônicos.</p><p>Toda a mercadoria foi retida e levada ao depósito da Receita Federal. Segundo o órgão, os donos dos estabelecimentos autuados terão o prazo previsto em lei para apresentar as notas fiscais e tentar recuperar os produtos, comprovando a importação ou a compra regular dos itens.</p><p>A operação mobilizou 26 servidores da Receita Federal e 14 policiais militares. A fiscalização em Piumhi integra uma mobilização nacional da Receita contra o contrabando e o descaminho, que costuma se intensificar perto das vendas de fim de ano. Para o comerciante regular, a orientação é sempre exigir nota fiscal do fornecedor e guardar a documentação de cada lote comprado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/132335_84.jpg",
+  "credito_foto": "Divulgação/Receita Federal",
+  "fonte": "Carmo Web TV",
   "resumos": ""
  }
 ]
