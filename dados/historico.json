@@ -26654,5 +26654,19 @@
   "fonte": "O Tempo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "15:22",
+  "id": "181618_80",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Covid sobe em BH: 7% dos testes dão positivo, maior taxa de 2026; veja quem deve tomar a vacina",
+  "titulo_orig": "BH registra maior taxa de testes positivos para covid-19 em 2026; vacinação é melhor forma de prevenção | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/bh-registra-maior-taxa-de-testes-positivos-para-covid-19-em-2026-vacinacao-e-melhor-forma-de-prevencao/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-10/181618_80.jpg",
+  "media_id": "17955705552317581"
  }
 ]
