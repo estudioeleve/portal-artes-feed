@@ -59,6 +59,7 @@
 - Continuam valendo as travas (REPETIDO, FOTO REPETIDA), a moldura e o intervalo entre posts. Se a trava barrar uma matéria de Santa Luzia, anote em `dados/erros.txt` para o Israel decidir.
 
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
+- **"Portal Luziense" (ou Política, Comércio) quer dizer a moldura, não outra conta** (Israel, 10/11/2026): tudo é postado no **@portalonenews**, inclusive vídeo para Reels (`create_video_post`).
 - "Notícias que eu te mandar aqui você pode postar na hora, não precisa colocar em programação." Publique assim que preparar, **sem esperar o intervalo entre posts**. Se ele disser "só no site", vai só no site, também na hora; senão, Instagram e site. Continuam valendo as regras de moldura, título, foto e legenda.
 
 ## 🌧️ CHUVA EM BH E REGIÃO: ATENÇÃO MÁXIMA, PRINCIPALMENTE SANTA LUZIA (Israel, 05/11/2026)
