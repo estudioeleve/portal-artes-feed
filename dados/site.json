@@ -1,17 +1,5 @@
 [
  {
-  "id": "101336_76",
-  "data": "2026-11-08T07:17:55-03:00",
-  "titulo": "Da Loira do Bonfim à Moça Fantasma da Serra: as lendas que assombram BH e Minas há mais de um século",
-  "linha_fina": "Pesquisador da história da capital explica que as assombrações mineiras revelam costumes, desigualdades e conflitos de cada época.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Muito antes do Halloween virar moda, Minas Gerais já tinha as suas assombrações. De noivas mortas que aparecem em estradas a criaturas misteriosas do interior, as lendas mineiras atravessam gerações e continuam sendo contadas em Belo Horizonte e no interior do estado, segundo levantamento do Metrópoles.</p><p>Para o pesquisador Rafael Sette, responsável pelo projeto Caminhas BH, que promove roteiros temáticos pela capital, essas histórias vão além do susto. \"Aquilo que a sociedade de uma época não consegue dizer acaba sendo colocado na boca das lendas e das assombrações\", explica.</p><p>A mais famosa de BH é a Loira do Bonfim. Segundo a lenda, com mais de cem anos, uma mulher loira vestida de branco embarcava no último bonde da noite na Avenida Afonso Pena rumo ao Cemitério do Bonfim. A cada parada, ficava mais esquelética, até que os passageiros fugiam e ela atravessava o portão do cemitério sem abri-lo. Uma versão da história foi registrada pelo escritor Pedro Nava no livro \"Baú de Ossos\".</p><p>Sette vê na lenda um retrato do machismo da época: a mulher morre \"incompleta\", sem ter cumprido o que se esperava dela, casar e ter filhos, e por isso volta como assombração.</p><p>Outra história conhecida é a da Moça Fantasma. Uma jovem entra em um táxi de madrugada na Savassi e pede para ir até a antiga Rua do Chumbo, atual Rua Estevão Pinto, no bairro Serra. O motorista a observa pelo retrovisor, e, ao passar pela rua, ela desaparece. A lenda inspirou um poema de Carlos Drummond de Andrade.</p><p>Algumas dessas histórias podem ter origem em fatos reais; outras ganharam força pela literatura. Em comum, ajudam a entender como os mineiros viam o mundo em cada período da história.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/101336_76.jpg",
-  "credito_foto": "Arte/Metrópoles",
-  "fonte": "Metrópoles",
-  "resumos": ""
- },
- {
   "id": "101343_63",
   "data": "2026-11-08T07:17:55-03:00",
   "titulo": "Corinthians atrasa de novo acordo da dívida com a União e já deve R$ 26 milhões em parcelas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/093548_6.jpg",
   "credito_foto": "Reuters/Gleb Garanich",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "101316_-bh",
+  "data": "2026-11-10T07:14:37-03:00",
+  "titulo": "Táxis de Santa Luzia e BH agora podem pegar passageiros nas duas cidades e usar corredores do MOVE",
+  "linha_fina": "Acordo entre as prefeituras libera pontos compartilhados e o uso das faixas exclusivas de ônibus da capital pelos taxistas.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Santa Luzia e Belo Horizonte assinaram um acordo de cooperação para o serviço de táxi entre as duas cidades. A informação foi divulgada pela Prefeitura de Belo Horizonte (PBH) nesta terça-feira (10). Com o convênio, os taxistas passam a ter mais liberdade para trabalhar dos dois lados da divisa.</p><p>Na prática, o acordo prevê a cooperação técnico-operacional no Serviço de Transporte Individual de Passageiros por Táxi entre os dois municípios. Isso significa que os motoristas podem compartilhar pontos de táxi e captar passageiros tanto em Santa Luzia quanto na capital, sem a restrição de atender apenas a cidade onde o veículo está registrado.</p><p>Outro ponto importante é que os táxis envolvidos no acordo podem usar os corredores do Sistema MOVE e as faixas exclusivas de transporte público de Belo Horizonte. Para o passageiro que faz o trajeto entre Santa Luzia e a capital, a mudança pode significar viagens mais rápidas, principalmente nos horários de trânsito pesado, como no Vetor Norte e nas avenidas que ligam a região ao Centro.</p><p>Segundo a PBH, Santa Luzia é mais uma cidade da Região Metropolitana a entrar nesse tipo de parceria. Em outubro, um acordo semelhante foi oficializado com Confins e Lagoa Santa, o que já facilita o atendimento de quem chega ou sai do Aeroporto Internacional de Belo Horizonte.</p><p>Ainda de acordo com a prefeitura da capital, estão em negociação os acordos com Vespasiano e Nova Lima. Quando todos forem assinados, a integração do serviço de táxi vai alcançar boa parte das cidades vizinhas a Belo Horizonte.</p><p>Para os taxistas de Santa Luzia, a expectativa é de mais oportunidades de corrida, já que muitos moradores da cidade trabalham, estudam ou fazem tratamento de saúde em BH e precisam voltar para casa. As regras de cada município para o serviço continuam valendo, e os motoristas devem acompanhar as orientações das prefeituras sobre a aplicação do convênio.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/101316_-bh.jpg",
+  "credito_foto": "Divulgação/PBH",
+  "fonte": "Prefeitura de Belo Horizonte",
   "resumos": ""
  }
 ]
