@@ -24876,5 +24876,19 @@
   "fonte": "CartaCapital",
   "arte": "artes/2026-11-09/011402_16.jpg",
   "media_id": "18219929191362523"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "00:00",
+  "id": "011441_33",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Após arquivar inquérito das fake news, Fachin mantém sigilo de dados sensíveis; PGR queria mais",
+  "titulo_orig": "Fachin mantém sigilo de dados sensíveis do inquérito das fake news; PGR queria reserva integral | G1",
+  "link": "https://g1.globo.com/politica/noticia/2026/11/09/fachin-mantem-sigilo-de-dados-sensiveis-do-inquerito-das-fake-news-pgr-queria-reserva-integral.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-09/011441_33.jpg",
+  "media_id": "18123150805998237"
  }
 ]
