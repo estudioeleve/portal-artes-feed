@@ -1,17 +1,5 @@
 [
  {
-  "id": "101153_36",
-  "data": "2026-11-09T07:16:51-03:00",
-  "titulo": "BR-040 tem bloqueios parciais de faixas em Congonhas até sábado por causa das obras de duplicação",
-  "linha_fina": "EPR Via Mineira trabalha entre os km 602 e 612; interdições parciais acontecem das 6h às 18h, de segunda (9) a sábado (14).",
-  "categoria": "minas-gerais",
-  "texto": "<p>Quem passa pela BR-040 na altura de Congonhas, na Região Central de Minas, deve contar com bloqueios parciais de faixas ao longo desta semana. Entre esta segunda-feira (9) e o sábado (14), a concessionária EPR Via Mineira segue com as frentes de trabalho da duplicação da rodovia, além de serviços de conservação no trecho concedido entre Belo Horizonte e Juiz de Fora.</p><p>A duplicação avança em cerca de 10 quilômetros, entre os km 602 e 612, no trecho entre os bairros Pires e Jardim Profeta. As equipes trabalham na preparação do terreno, na construção de estruturas para escoar a água da chuva e na instalação de contenções. No km 603, a obra de um muro de contenção bloqueia parcialmente uma faixa no sentido Juiz de Fora; no km 612, o bloqueio parcial é no sentido Belo Horizonte.</p><p>Durante toda a semana, das 6h às 18h, também serão instaladas barreiras de concreto do tipo New Jersey entre os km 602,5 e 604, no sentido Juiz de Fora, e entre os km 611 e 612,3, no sentido BH. Nesta segunda, um caminhão munck fará o carregamento de barreiras perto do acesso ao IFMG, o que pode exigir a interdição momentânea de uma faixa.</p><p>Paralelamente, a concessionária faz pintura de faixas, instalação de defensas metálicas, limpeza de drenagem e poda de vegetação, de forma itinerante e nos dois sentidos, entre 7h e 17h. A Prefeitura de Congonhas também tem intervenções programadas de terça (10) a sexta (13), com a implantação de uma faixa adicional e construção de meio-fio entre os km 608 e 610.</p><p>Segundo a EPR Via Mineira, os trabalhos são feitos por etapas e acompanhados pelo monitoramento 24 horas, com sinalização e barreiras delimitando as áreas de obra. Até o momento, a concessionária não registrou retenções provocadas pelas intervenções.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/101153_36.jpg",
-  "credito_foto": "Foto: Divulgação/EPR Via Mineira",
-  "fonte": "As Notícias Online, com informações da EPR Via Mineira",
-  "resumos": ""
- },
- {
   "id": "101211_123",
   "data": "2026-11-09T07:16:51-03:00",
   "titulo": "BH está entre as capitais que vão transformar a Guarda Municipal em polícia após a PEC da Segurança",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/211612_15.jpg",
   "credito_foto": "Divulgação/CBMMG",
   "fonte": "BHAZ",
+  "resumos": ""
+ },
+ {
+  "id": "212020_103",
+  "data": "2026-11-10T18:20:38-03:00",
+  "titulo": "Roberta Sá faz show gratuito com o novo \"Samba Sá\" no Festival Som Clube, em BH, no dia 29",
+  "linha_fina": "Apresentação é na Serraria Souza Pinto; ingressos gratuitos podem ser retirados pela internet a partir de 16 de novembro.",
+  "categoria": "entretenimento",
+  "texto": "<p>A cantora Roberta Sá é a principal atração do Festival Som Clube 2026, que acontece no domingo, 29 de novembro, na Serraria Souza Pinto, em Belo Horizonte. A entrada é gratuita.</p><p>No palco, a artista apresenta o show \"Samba Sá\", projeto que também reúne disco de estúdio e audiovisual. Inspirado no clima das rodas de samba, o espetáculo marca as duas décadas de carreira da cantora, com um repertório que mistura músicas próprias e sucessos de nomes como Zeca Pagodinho, Arlindo Cruz e Martinho da Vila.</p><p>O roteiro também homenageia mulheres que marcaram a história do samba, com clássicos de Dona Ivone Lara, Alcione, Jovelina Pérola Negra e Beth Carvalho. Estão previstas canções como \"Eu sambo mesmo\", \"Samba de Um Minuto\", \"Interessa\" e \"Ah, Se Eu Vou\".</p><p>Apesar de gratuitos, os ingressos precisam ser retirados pelo site da Eventim a partir de 16 de novembro. Como a procura costuma ser alta, a recomendação é garantir a entrada logo no primeiro dia.</p><p>Criado em 2000, o Som Clube leva música e cultura a espaços públicos de BH e valoriza novos nomes da música brasileira. O festival é apresentado pelo Ministério da Cultura, por meio da Lei Federal de Incentivo à Cultura, com patrocínio da Localiza.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/212020_103.jpg",
+  "credito_foto": "Reprodução/Cenário Minas",
+  "fonte": "Cenário Minas",
   "resumos": ""
  }
 ]
