@@ -1,17 +1,5 @@
 [
  {
-  "id": "151642_54",
-  "data": "2026-11-08T12:19:08-03:00",
-  "titulo": "Curto-circuito no plenário da Câmara dos Deputados aciona sistema anti-chamas em Brasília",
-  "linha_fina": "Problema em um nobreak na galeria do plenário Ulysses Guimarães levantou suspeita de incêndio na noite de sábado; não havia fogo.",
-  "categoria": "politica",
-  "texto": "<p>Um curto-circuito em um nobreak na galeria superior do plenário Ulysses Guimarães, na Câmara dos Deputados, acionou o sistema anti-chamas do local na noite de sábado (7) e mobilizou o Corpo de Bombeiros Militar do Distrito Federal (CBMDF), chamado por suspeita de incêndio.</p>\n<p>Ao chegar, os militares descartaram o fogo e identificaram que o sistema havia disparado por causa do curto-circuito no equipamento elétrico.</p>\n<p>Segundo nota da corporação, a rede elétrica foi desligada pela brigada de incêndio da Câmara, e as equipes do CBMDF fizeram uma vistoria completa no local, com medição de temperatura por câmera térmica. Não foi encontrado nenhum foco de incêndio nem ponto de calor.</p>\n<p>Depois da vistoria, o plenário ficou sob responsabilidade da brigada de incêndio da própria Câmara. Não houve registro de feridos.</p>\n<p>O plenário Ulysses Guimarães é o principal espaço de votações da Casa e recebe as sessões deliberativas dos 513 deputados federais. O episódio aconteceu num fim de semana, sem atividade legislativa no prédio.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/151642_54.jpg",
-  "credito_foto": "Divulgação/CBMDF",
-  "fonte": "Metrópoles",
-  "resumos": ""
- },
- {
   "id": "151645_17",
   "data": "2026-11-08T12:19:08-03:00",
   "titulo": "\"O senhor é casado?\": Susana Vieira se encanta por médico no Altas Horas e leva fora",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/122000_presepios.jpg",
   "credito_foto": "Foto: Divulgação/Prefeitura de Santa Luzia",
   "fonte": "Prefeitura de Santa Luzia",
+  "resumos": ""
+ },
+ {
+  "id": "151954_3",
+  "data": "2026-11-10T12:25:48-03:00",
+  "titulo": "Caminhão-baú arrasta fiação, derruba dois postes e deixa fios energizados no bairro Europa, em BH",
+  "linha_fina": "Ninguém se feriu; fios energizados encostaram em uma casa na região de Venda Nova e moradores ficaram sem poder sair.",
+  "categoria": "venda-nova",
+  "texto": "<p>Um caminhão-baú arrastou a fiação elétrica e derrubou dois postes no bairro Europa, na região de Venda Nova, em Belo Horizonte, nesta terça-feira (10). Ninguém ficou ferido.</p><p>De acordo com o Corpo de Bombeiros, o motorista contou que a fiação estava baixa e que, por isso, o baú do veículo acabou enroscando nos cabos. Com o impacto, os postes cederam e os fios, ainda energizados, ficaram caídos no chão e encostados em uma residência.</p><p>A situação impediu que os moradores da casa saíssem do imóvel com segurança. Os bombeiros isolaram a área para evitar acidentes. Um dos imóveis atingidos teve danos no muro e no padrão de energia.</p><p>A Cemig informou que enviou uma equipe ao local para fazer o reparo da rede, e os trabalhos estavam em andamento. A Defesa Civil de Belo Horizonte também foi acionada para avaliar os danos nas casas.</p><p>A orientação das autoridades é que ninguém se aproxime de fios caídos, mesmo que pareçam desligados, e que ocorrências do tipo sejam comunicadas imediatamente à Cemig, pelo telefone 116, ou ao Corpo de Bombeiros, pelo 193.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/151954_3.jpg",
+  "credito_foto": "Foto: Divulgação/Corpo de Bombeiros",
+  "fonte": "Rádio Itatiaia",
   "resumos": ""
  }
 ]
