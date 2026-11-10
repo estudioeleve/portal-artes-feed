@@ -1,17 +1,5 @@
 [
  {
-  "id": "101420_21",
-  "data": "2026-11-08T07:17:55-03:00",
-  "titulo": "\"Lá na Minha Terra\" estreia nesta segunda: Dira Paes descobre que o marido sumido virou milionário e tem outra família",
-  "linha_fina": "Nova novela das seis, de Mario Teixeira, tem Daniel de Oliveira, Camila Morgado, Lilia Cabral e Mateus Solano no elenco.",
-  "categoria": "entretenimento",
-  "texto": "<p>A TV Globo estreia nesta segunda-feira (9) a novela das seis \"Lá na Minha Terra\", com uma história de abandono, bigamia e disputas de família. A protagonista é Rosenda, vivida por Dira Paes, que criou cinco filhos sozinha no interior do Nordeste depois que o marido, Severino, papel de Daniel de Oliveira, desapareceu.</p><p>Quinze anos depois, ela descobre que ele está vivo, enriqueceu em São Paulo e formou outra família. Com o nome de Cesário Ávila, Severino virou empresário milionário e vive com Ismália, personagem de Camila Morgado, com quem tem uma filha, sem nunca ter se divorciado de Rosenda.</p><p>Na fictícia Lavra Seca, Rosenda sustenta os filhos com uma pequena criação de cabras em terras arrendadas de Almerindo, papel de Mateus Solano, fazendeiro viúvo apaixonado por ela. A morte de um padre leva a protagonista a São Paulo em busca de respostas, onde ela cruza com Celestina, vivida por Lilia Cabral, dona de pensão que conhece o segredo de Cesário e passa a chantageá-lo.</p><p>A descoberta da bigamia vira a trama de cabeça para baixo: Ismália expulsa o marido de casa, mas não quer abrir mão dele, e Rosenda terá de decidir entre perdoar ou viver um novo amor.</p><p>O elenco tem ainda Arianne Botelho, Danilo Mesquita, Jesuita Barbosa, Miguel Rômulo, Lucy Alves, Giulia Benite e Castorine. A novela foi gravada na Chapada Diamantina, na Bahia, e em São Paulo, e marca a terceira parceria do autor Mario Teixeira com o diretor artístico Allan Fiterman, depois de \"Mar do Sertão\" e \"No Rancho Fundo\".</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/101420_21.jpg",
-  "credito_foto": "Foto: Beatriz Damy/Globo",
-  "fonte": "Rádio Itatiaia",
-  "resumos": ""
- },
- {
   "id": "101336_76",
   "data": "2026-11-08T07:17:55-03:00",
   "titulo": "Da Loira do Bonfim à Moça Fantasma da Serra: as lendas que assombram BH e Minas há mais de um século",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/092703_10.jpg",
   "credito_foto": "Mateus Bonomi/Folhapress",
   "fonte": "Folha de S.Paulo",
+  "resumos": ""
+ },
+ {
+  "id": "093548_6",
+  "data": "2026-11-10T06:36:21-03:00",
+  "titulo": "Rússia e Ucrânia voltam a sentar com enviados de Trump para tentar um acordo de paz",
+  "linha_fina": "Negociações previstas para dois dias terão mediação de Steve Witkoff e Jared Kushner; Kremlin nega presença de países europeus.",
+  "categoria": "mundo",
+  "texto": "<p>Rússia e Ucrânia se reúnem com autoridades dos Estados Unidos em uma nova tentativa de negociar o fim da guerra. Segundo a agência de notícias estatal russa RIA, estão previstos inicialmente dois dias de negociações, com mediação dos enviados do presidente Donald Trump, Steve Witkoff e Jared Kushner.</p><p>O novo empenho americano em buscar um acordo também mobilizou autoridades europeias, que pressionam por um lugar à mesa. O ministro das Relações Exteriores da França, Jean-Noël Barrot, chegou a afirmar que Reino Unido, Alemanha e França estariam presentes. Nesta segunda-feira (9), porém, o Kremlin negou. O porta-voz Dmitry Peskov disse que ucranianos e americanos têm seus próprios canais de comunicação com a Europa.</p><p>As conversas ocorrem poucos dias depois de um dos maiores ataques recentes contra a infraestrutura de energia da Ucrânia. Na madrugada de sábado (7), a Rússia lançou 36 mísseis balísticos e 172 drones, dos quais 149 foram abatidos, segundo o presidente Volodymyr Zelensky. As instalações de energia foram o principal alvo.</p><p>\"A capital enfrenta sérias dificuldades com o fornecimento de eletricidade, água e aquecimento\", escreveu Zelensky, com temperaturas próximas de 0ºC em Kiev. Subestações da capital e de outras cinco regiões foram atingidas, e uma importante ponte sobre o rio Dnipro foi danificada, segundo o prefeito Vitali Klitschko. Pelo menos duas pessoas morreram e cerca de uma dúzia ficaram feridas.</p><p>O Ministério da Defesa russo confirmou o ataque e afirmou ter mirado alvos que considera ligados ao esforço militar ucraniano. Não há previsão de quando um eventual acordo poderia ser anunciado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/093548_6.jpg",
+  "credito_foto": "Reuters/Gleb Garanich",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
