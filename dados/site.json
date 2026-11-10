@@ -1,17 +1,5 @@
 [
  {
-  "id": "152845_126",
-  "data": "2026-11-08T12:29:02-03:00",
-  "titulo": "BR-101 fecha nos dois sentidos na Paraíba neste domingo para implosão de ponte que desabou após 16 anos de uso",
-  "linha_fina": "Interdição no km 77, entre João Pessoa e Natal, vai das 13h30 às 16h; PRF indica desvios por Capim, Sapé, Sobrado e Lucena.",
-  "categoria": "brasil",
-  "texto": "<p>A BR-101 fica totalmente interditada neste domingo (8), das 13h30 às 16h, no km 77, na Paraíba, nos dois sentidos. O bloqueio é necessário para a implosão da ponte sobre o Rio Paraíba, que sofreu colapso em março deste ano.</p>\n<p>A estrutura foi construída entre 2008 e 2010, no segundo governo Lula, como parte das obras de duplicação da rodovia incluídas no Programa de Aceleração do Crescimento (PAC). Segundo dados do Departamento Nacional de Infraestrutura de Transportes (Dnit), a ponte tinha 187 metros de comprimento, 13,6 metros de largura e 16 pilares, com fundações em estacas metálicas de cerca de 28 metros de profundidade.</p>\n<p>Com apenas 16 a 18 anos de uso, a ponte desabou. O colapso foi associado à corrosão severa das estacas que sustentavam a estrutura.</p>\n<p>A interdição afeta o trânsito entre João Pessoa e Natal. A Polícia Rodoviária Federal (PRF) orienta os motoristas a planejar a viagem e a contar com tempo extra por causa dos desvios.</p>\n<p>As rotas alternativas passam por rodovias estaduais nos municípios de Capim, Sapé e Sobrado, com retorno pela BR-230. Outra opção é o desvio pelo município de Lucena. A PRF pede atenção à sinalização e às orientações das equipes que estarão no local.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/152845_126.jpg",
-  "credito_foto": "Foto: Reprodução/BZ Notícias",
-  "fonte": "BZ Notícias e PRF",
-  "resumos": ""
- },
- {
   "id": "161223_55",
   "data": "2026-11-08T13:14:38-03:00",
   "titulo": "Tragédia em Barra Mansa: carro capota, cai em lago e dez pessoas morrem, entre elas cinco crianças",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/152635_10.jpg",
   "credito_foto": "Foto: Cristiano Mariz/Agência O Globo",
   "fonte": "O Globo",
+  "resumos": ""
+ },
+ {
+  "id": "153327_45",
+  "data": "2026-11-10T12:33:46-03:00",
+  "titulo": "Dino rebate Marinho sobre o STF na escala 6x1: \"É porque alguém pediu. É básico isso\"",
+  "linha_fina": "Relator da ação da CNC contra o prazo de transição do fim da 6x1, ministro diz que a Corte vai continuar no tema porque há demanda social.",
+  "categoria": "politica",
+  "texto": "<p>O ministro do Supremo Tribunal Federal Flávio Dino afirmou nesta terça-feira (10) que a Corte entrou na discussão sobre o fim da escala 6x1 porque foi provocada pelas entidades empresariais. A declaração foi dada durante o 3º Congresso Brasileiro de Direito Parlamentar, no Senado, em Brasília.</p><p>Dino respondeu a críticas do ministro do Trabalho, Luiz Marinho, que questionou a atuação do tribunal na ação da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). \"Hoje vi uma autoridade política dizendo: 'Por que o Supremo está se metendo nisso?'. Eu disse: 'Querido, é porque alguém pediu. É básico isso'\", disse o ministro.</p><p>Segundo Dino, que é o relator do caso, ouvir os empresários não significa concordar com os argumentos deles, mas garantir o direito de manifestação dos setores produtivos. \"A Corte continuará a se meter porque há uma demanda social para o tema\", afirmou.</p><p>A ação da CNC, apresentada em 3 de novembro, contesta o prazo de dois meses previsto para a primeira etapa da transição da jornada, de 44 para 42 horas semanais. A confederação alega que o período é curto demais para as empresas se adaptarem.</p><p>A audiência convocada pela 1ª Turma do STF nesta terça reúne confederações empresariais, centrais sindicais, a Advocacia-Geral da União, a Procuradoria-Geral da República, a Câmara e o Senado. Dino já havia dito que a redução da jornada não está em discussão, apenas as regras da transição.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/153327_45.jpg",
+  "credito_foto": "Foto: Reprodução/Poder360",
+  "fonte": "Poder360",
   "resumos": ""
  }
 ]
