@@ -25898,5 +25898,33 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-10/141821_52.jpg",
   "media_id": "18016163181002274"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "11:36",
+  "id": "141839_48",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Vorcaro recorre ao STF e à Comissão Interamericana para tentar sair da prisão",
+  "titulo_orig": "Vorcaro aciona STF e comissão internacional para reverter prisão",
+  "link": "https://www.poder360.com.br/poder-justica/vorcaro-aciona-stf-e-comissao-internacional-contra-prisao/",
+  "fonte": "Poder360",
+  "arte": "artes/2026-11-10/141839_48.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "11:36",
+  "id": "143438_46",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Justiça Federal desiste de pedir R$ 208,9 milhões extras para pagar penduricalho a magistrados neste ano",
+  "titulo_orig": "Justiça Federal desiste de pedir crédito extra para pagar penduricalho a magistrados",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/presidente-do-conselho-da-justica-federal-desiste-de-pedido-ao-stf-por-verba-extra-para-bonus-de-magistrados.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
