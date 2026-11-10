@@ -1,17 +1,5 @@
 [
  {
-  "id": "131347_44",
-  "data": "2026-11-08T10:18:36-03:00",
-  "titulo": "Lojista, atenção: com família endividada, Black Friday deve vender mais itens baratos",
-  "linha_fina": "Comprometimento da renda com dívidas passou de 50% pela primeira vez; varejo físico deve faturar menos em novembro, e internet cresce.",
-  "categoria": "comercio",
-  "texto": "<p>A Black Friday de 2026 deve encontrar o consumidor com o orçamento mais apertado. O comprometimento da renda das famílias com dívidas chegou a 50,1% em agosto, o maior patamar da série histórica do Banco Central, iniciada em 2005. É a primeira vez que o indicador passa da metade da renda.</p><p>Segundo economistas ouvidos pelo jornal Valor Econômico, a tendência é que as vendas se concentrem em produtos de menor valor, enquanto bens duráveis, como móveis e eletrodomésticos, devem ter desempenho mais fraco. A Pesquisa de Endividamento e Inadimplência do Consumidor (Peic), da Confederação Nacional do Comércio (CNC), aponta 81,6% das famílias endividadas em outubro, pouco abaixo do pico de 82% registrado em julho.</p><p>Estudo da IEMI com base em dados do IBGE projeta faturamento de R$ 296,8 bilhões para o varejo restrito em novembro, queda de 2,5% em relação aos R$ 304,4 bilhões do mesmo mês de 2025. No acumulado do ano, porém, a expectativa ainda é de alta de 0,9%. Para o diretor da IEMI, Marcelo Prado, a alta das importações, o fim da chamada taxa das blusinhas, o aumento de impostos e as incertezas pesam sobre o setor.</p><p>No comércio eletrônico, o cenário é outro. Levantamento da Confi com a E-Commerce Brasil estima R$ 13,3 bilhões em vendas on-line entre 26 e 29 de novembro, crescimento de 20,7% sobre o ano passado. Especialistas lembram que o desconto sozinho não garante a venda: se a oferta não for competitiva, o cliente adia a compra.</p><p>Para o pequeno lojista, os números indicam o caminho: preços claros, ofertas reais e atenção aos presentes de Natal. Pesquisa da CNDL e do SPC Brasil mostra que sete em cada dez consumidores pretendem usar a Black Friday para antecipar as compras de fim de ano, e 82% dizem pesquisar preços antes de comprar.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/131347_44.jpg",
-  "credito_foto": "Reprodução/TV Sim Brasil",
-  "fonte": "Valor Econômico",
-  "resumos": ""
- },
- {
   "id": "131414_19",
   "data": "2026-11-08T10:18:36-03:00",
   "titulo": "Musical dos 50 anos de carreira de Alcione chega a BH com direção de Miguel Falabella",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/122139_75.jpg",
   "credito_foto": "CODCOM/MP-RJ",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "122328_rais",
+  "data": "2026-11-10T09:23:54-03:00",
+  "titulo": "TCE-MG faz blitz em ônibus escolares de 40 cidades de Minas e confere pneus, cintos e motoristas",
+  "linha_fina": "Operação Rota Segura mobiliza mais de 50 auditores para checar contratos, superlotação e condições dos veículos que levam 50 mil alunos.",
+  "categoria": "politica",
+  "texto": "<p>O Tribunal de Contas do Estado de Minas Gerais (TCE-MG) começou nesta terça-feira (10) uma operação para fiscalizar o transporte escolar oferecido a alunos da rede pública. Batizada de Rota Segura, a ação mobiliza mais de 50 auditores, que vão visitar 40 cidades de todas as regiões do estado.</p><p>Segundo o tribunal, os municípios fiscalizados transportam todos os dias mais de 50 mil estudantes e receberam, em 2025, mais de R$ 200 milhões em repasses do governo estadual para o serviço. A ideia é cruzar dados de contratos, repasses, rotas, diários de bordo, consumo de combustível e manutenção para saber se o dinheiro público está se transformando em um serviço de qualidade.</p><p>Os auditores também vão às ruas verificar se há superlotação, se os motoristas têm habilitação adequada e o curso especializado exigido pelo Código de Trânsito Brasileiro para conduzir escolares. As condições dos veículos serão avaliadas item por item: desgaste dos pneus, validade dos extintores, funcionamento do tacógrafo e dos cintos de segurança e conservação interna e externa.</p><p>O presidente do TCE-MG, conselheiro Durval Ângelo, afirmou que a operação mostra o compromisso do tribunal de ir além dos gabinetes e verificar se o recurso público garante dignidade e cidadania. Para ele, uma educação de qualidade começa com o direito de chegar à escola em segurança.</p><p>De acordo com o tribunal, Minas Gerais tem entre 15 mil e 18,5 mil ônibus escolares em atividade, atendendo rotas rurais e urbanas em 841 cidades conveniadas ao Programa Estadual de Transporte Escolar. Os resultados da fiscalização devem embasar recomendações e possíveis cobranças às prefeituras.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/122328_rais.jpg",
+  "credito_foto": "Divulgação/TCE-MG",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
