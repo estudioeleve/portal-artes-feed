@@ -1,17 +1,5 @@
 [
  {
-  "id": "111124_10",
-  "data": "2026-11-08T08:15:26-03:00",
-  "titulo": "Eliminação dupla na Dança dos Famosos: Bianca Andrade e Lucas Guedez deixam a disputa",
-  "linha_fina": "Resultado da rodada de samba de gafieira foi definido na gravação e vai ao ar no Domingão com Huck.",
-  "categoria": "entretenimento",
-  "texto": "<p>A Dança dos Famosos terá eliminação dupla neste domingo (8), no Domingão com Huck, da TV Globo. Segundo o Observatório da TV, deixam a competição a empresária e influenciadora digital Bianca Andrade, conhecida como Boca Rosa, e o influenciador Lucas Guedez.</p><p>As duas saídas acontecem na rodada de samba de gafieira, já na fase de mata-mata do quadro, em que o desempenho de cada apresentação é decisivo para a permanência. Bianca termina a etapa na última colocação da classificação geral, resultado que determinou sua eliminação. Lucas é o segundo eliminado da mesma rodada.</p><p>O resultado foi definido durante a gravação do programa, realizada nos Estúdios Globo na quinta-feira anterior à exibição. O episódio deste domingo mostra ao público as coreografias e as notas que levaram às duas despedidas.</p><p>Com as eliminações simultâneas, a competição avança para uma nova fase com menos participantes, e quem segue no quadro continua na disputa pelo título da temporada.</p><p>O Domingão com Huck vai ao ar nas tardes de domingo, depois da programação esportiva da emissora. Neste domingo, a grade da Globo também tem o Grande Prêmio de São Paulo de Fórmula 1, em Interlagos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/111124_10.jpg",
-  "credito_foto": "Foto: Reprodução/TV Globo",
-  "fonte": "Observatório da TV",
-  "resumos": ""
- },
- {
   "id": "111128_2",
   "data": "2026-11-08T08:15:26-03:00",
   "titulo": "TSE abre investigação contra Lula e Alckmin a pedido do Novo e já soma 21 ações contra as chapas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/102612_113.jpg",
   "credito_foto": "Foto: Getty Images/Reprodução Globo",
   "fonte": "Globo",
+  "resumos": ""
+ },
+ {
+  "id": "103708_0",
+  "data": "2026-11-10T07:37:58-03:00",
+  "titulo": "Vídeo: PM arromba portão de casa no Barreiro após denúncia de roubo, e morador leva choque",
+  "linha_fina": "Polícia diz que agiu em flagrante de roubo de celular; advogado da família afirma que nada foi encontrado na casa.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Uma briga entre vizinhos terminou com policiais militares entrando à força em uma casa e um homem ferido no bairro Mineirão, na Região do Barreiro, em Belo Horizonte, na noite desta segunda-feira (9). Moradores gravaram o momento em que os policiais entram no imóvel e sobem as escadas. O portão ficou danificado.</p><p>Segundo o boletim de ocorrência, a PM foi chamada inicialmente para atender a uma denúncia de disparos de arma de fogo. No local, um homem disse aos militares que não houve tiros, mas que tinha sido agredido por vizinhos e que teve o celular roubado durante a confusão. Ele relatou que quatro pessoas participaram das agressões e que um dos envolvidos levou o aparelho e entrou em uma casa próxima. A vítima disse ainda que, no dia anterior, já havia registrado outra ocorrência por ameaça de um dos vizinhos.</p><p>De acordo com a Polícia Militar, as pessoas que estavam na casa se recusaram a abrir o portão e disseram que os policiais só poderiam entrar com mandado judicial. Os militares chamaram reforço e tentaram novo contato. Como a entrada continuou sendo negada, a corporação afirma que considerou haver flagrante do suposto roubo e decidiu entrar à força.</p><p>Durante a ação, um morador que estava perto de uma escada foi atingido por uma arma de choque, o taser. Segundo a PM, ele resistiu à imobilização e bateu a cabeça na quina da escada, sofrendo um corte na testa. O boletim classifica os ferimentos como leves, e houve atendimento médico. O caso foi registrado como roubo, resistência e desobediência.</p><p>Os moradores contam outra versão. Segundo eles, os desentendimentos com os vizinhos começaram no domingo (8) e se repetiram na segunda. Quando a PM chegou, procuraram um advogado e foram orientados a permanecer dentro do imóvel.</p><p>O advogado Edson Pereira, que representa um dos homens, afirma que o cliente estava na escada quando recebeu a descarga do taser e caiu de cabeça em um degrau. \"A alegação de roubo é infundada, uma vez que não há materialidade. A Polícia Militar fez buscas no interior da residência e não localizou o celular roubado\", disse. A Polícia Civil foi procurada e ainda não havia se manifestado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/103708_0.jpg",
+  "credito_foto": "Foto: Reprodução/TV Globo",
+  "fonte": "g1 Minas",
   "resumos": ""
  }
 ]
