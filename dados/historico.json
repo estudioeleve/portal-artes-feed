@@ -27691,5 +27691,19 @@
   "fonte": "Diário do Comércio",
   "arte": "artes/2026-11-10/231109_46.jpg",
   "media_id": "18633221029048079"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "20:44",
+  "id": "231119_77",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Câmara aprova até R$ 13,5 bilhões em crédito para empresas atingidas pela tarifa dos EUA",
+  "titulo_orig": "Câmara aprova ampliação de até R$ 13,5 bi em crédito para empresas afetadas por tarifas dos EUA",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/camara-aprova-ampliacao-de-ate-r-135-bi-em-credito-para-empresas-afetadas-por-tarifas-dos-eua.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "artes/2026-11-10/231119_77.jpg",
+  "media_id": "18145645252581844"
  }
 ]
