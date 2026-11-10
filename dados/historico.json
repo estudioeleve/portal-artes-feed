@@ -25212,5 +25212,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-10/101233_63.jpg",
   "media_id": "17915684883501371"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "07:27",
+  "id": "102607_116",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Deputado republicano pede o impeachment do secretário de Guerra de Trump, Pete Hegseth; veja as acusações",
+  "titulo_orig": "Secretário de Guerra de Trump é alvo de pedido de impeachment: veja as 8 acusações apresentadas contra Hegseth | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/10/secretario-guerra-de-trump-e-alvo-de-pedido-de-impeachment-veja-as-8-acusacoes-apresentadas-contra-hegseth.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "07:27",
+  "id": "102612_113",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "LUTO",
+  "titulo": "Morre aos 74 anos Toukie Smith, modelo e atriz que foi casada com Robert De Niro",
+  "titulo_orig": "Morre a atriz e modelo Toukie Smith, que foi casada com Robert De Niro",
+  "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/morre-a-atriz-e-modelo-toukie-smith-que-foi-casada-com-robert-de-niro.ghtml",
+  "fonte": "Globo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
