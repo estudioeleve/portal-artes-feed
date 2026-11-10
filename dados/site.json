@@ -1,17 +1,5 @@
 [
  {
-  "id": "161228_107",
-  "data": "2026-11-08T13:16:56-03:00",
-  "titulo": "Coletivo da linha do bairro Nacional é tomado pelas chamas no Carlos Prates e 50 passageiros escapam",
-  "linha_fina": "Chamas começaram no motor do coletivo da linha do bairro Nacional, na Rua Padre Eustáquio, e atingiram fiação e comércio.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Um ônibus que fazia a linha entre Belo Horizonte e o bairro Nacional pegou fogo na Rua Padre Eustáquio, no bairro Carlos Prates, na Região Noroeste da capital. O veículo levava cerca de 50 passageiros e ficou completamente destruído, segundo reportagem do Balanço Geral MG, da Record.</p><p>De acordo com relatos, as chamas começaram no motor e se espalharam rapidamente. Um passageiro contou que voltava do trabalho quando percebeu que o ônibus parou e a fumaça começou a sair aos poucos.</p><p>O motorista orientou todos a deixarem o veículo correndo, segundo outra testemunha. Apesar do susto e do pânico, ninguém ficou ferido.</p><p>O fogo atingiu a fiação elétrica da rua e parte do comércio local. Ainda segundo a reportagem, o incêndio levou cerca de três horas para ser totalmente controlado.</p><p>O Corpo de Bombeiros investiga o que provocou o incêndio. A empresa responsável pela linha não havia se manifestado até a última atualização.</p><p>Em caso de fumaça ou cheiro de queimado dentro do ônibus, a orientação é avisar o motorista imediatamente, sair com calma pelas portas e se afastar do veículo.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/161228_107.jpg",
-  "credito_foto": "Reprodução/R7",
-  "fonte": "R7",
-  "resumos": ""
- },
- {
   "id": "161746_ucu",
   "data": "2026-11-08T13:18:21-03:00",
   "titulo": "Duas cegonheiras batem e pegam fogo na Fernão Dias, em Itatiaiuçu, e rodovia fica interditada",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/162018_128.jpg",
   "credito_foto": "Divulgação/PCMG",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "163227_70",
+  "data": "2026-11-10T13:32:40-03:00",
+  "titulo": "Período de chuvas: canal gratuito da Defesa Civil de BH no WhatsApp passa de 112 mil seguidores; veja como entrar",
+  "linha_fina": "Canal \"defesacivilbh\" manda alertas de temporal, granizo, alagamento e deslizamento, com orientações para se proteger.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Com o início do período chuvoso 2026/2027, a Prefeitura de Belo Horizonte reforçou a divulgação do canal gratuito da Defesa Civil no WhatsApp, que envia alertas meteorológicos e orientações sobre situações de risco. O canal público fica na aba \"Atualizações\" do aplicativo e aparece com o nome \"defesacivilbh\".</p>\n<p>Lançado em novembro de 2023, o serviço fez de BH a primeira capital do país a usar um canal público do WhatsApp para alertas preventivos. Em outubro de 2026, o canal já tinha mais de 112 mil seguidores.</p>\n<p>Pela plataforma, a Defesa Civil divulga previsões do tempo e avisos de chuva forte, tempestades, granizo, rajadas de vento, risco de alagamentos e deslizamentos, ondas de calor e outros fenômenos que possam ameaçar a população. As mensagens trazem também dicas de autoproteção, como evitar áreas sujeitas a inundação, não atravessar ruas alagadas, procurar abrigo seguro durante temporais e ficar atento a sinais de instabilidade em encostas, terrenos e imóveis.</p>\n<p>O subsecretário de Proteção e Defesa Civil de Belo Horizonte, Elcione Menezes Alves, afirmou que, em situações de risco, cada minuto faz diferença e que o canal amplia o alcance de informações oficiais para que as pessoas possam se proteger.</p>\n<p>Segundo a prefeitura, os alertas são emitidos com base em análise de dados meteorológicos, monitoramento das condições ambientais e avaliação técnica dos riscos, o que permite orientar a população antes que os danos aconteçam. A iniciativa segue as diretrizes da ONU para a redução de riscos de desastres.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/163227_70.jpg",
+  "credito_foto": "Divulgação/PBH",
+  "fonte": "Prefeitura de Belo Horizonte",
   "resumos": ""
  }
 ]
