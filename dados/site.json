@@ -1,17 +1,5 @@
 [
  {
-  "id": "141056_28",
-  "data": "2026-11-08T11:15:08-03:00",
-  "titulo": "Lona de circo desaba durante o temporal em BH e deixa três feridos, entre eles uma criança",
-  "linha_fina": "Acidente foi no bairro União, perto do Minas Shopping, enquanto o público esperava o espetáculo; feridos tiveram ferimentos leves.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Três pessoas ficaram feridas depois que parte da estrutura de um circo desabou durante o temporal da tarde de sábado (7), no bairro União, na região Nordeste de Belo Horizonte. O acidente aconteceu por volta das 17h, nas proximidades do Minas Shopping. Entre as vítimas estão uma criança de 4 anos e a mãe dela, de 42.</p>\n<p>De acordo com o Corpo de Bombeiros, o público aguardava o início da apresentação, marcada para as 16h, quando a região foi atingida por chuva forte e ventania. Os organizadores orientaram as pessoas a esperar em um espaço ao lado da lona, mas a chuva chegou rápido e parte da estrutura cedeu.</p>\n<p>As três pessoas atingidas tiveram ferimentos leves. A criança e a mãe foram socorridas pelo Samu e levadas ao Hospital Municipal Odilon Behrens. A terceira vítima foi levada a um hospital por familiares.</p>\n<p>Os bombeiros fizeram uma varredura em toda a área e confirmaram que ninguém ficou preso sob os escombros. Por segurança, a energia elétrica do local foi desligada, e os responsáveis pelo circo receberam orientações para evitar novos acidentes.</p>\n<p>Em nota, o Happy Day Circus afirmou que tem as autorizações necessárias para funcionar, incluindo a licença municipal, válida até 15 de dezembro, e o Auto de Vistoria do Corpo de Bombeiros. As sessões estão suspensas até a avaliação das instalações, e quem comprou ingresso pela internet vai receber o dinheiro de volta.</p>\n<p>O temporal de sábado provocou ainda quedas de muros, destelhamentos e alagamentos em várias regiões da capital, segundo a Defesa Civil.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/141056_28.jpg",
-  "credito_foto": "CBMMG/Divulgação",
-  "fonte": "R7",
-  "resumos": ""
- },
- {
   "id": "141118_43",
   "data": "2026-11-08T11:15:08-03:00",
   "titulo": "Câmara de BH vota nesta segunda multa menor por imposto atrasado e mudança no ISS",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/132335_84.jpg",
   "credito_foto": "Foto: Reprodução/Carmo Web TV",
   "fonte": "Carmo Web TV",
+  "resumos": ""
+ },
+ {
+  "id": "105827_slsaude",
+  "data": "2026-11-10T10:59:19-03:00",
+  "titulo": "Prefeitura de Santa Luzia explica atraso no pagamento dos médicos dos postos de saúde",
+  "linha_fina": "Estão pendentes metade de julho e todo o mês de agosto; prefeitura diz que contrato venceu em junho e prepara novo acordo com TAC.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Prefeitura de Santa Luzia, por meio da Secretaria Municipal de Saúde, divulgou nesta terça-feira (10) uma nota de esclarecimento sobre o atraso no pagamento dos médicos que atuam na Atenção Primária à Saúde (APS), o atendimento feito nas unidades básicas e postos de saúde do município.</p><p>Segundo a prefeitura, o contrato com a empresa responsável por fornecer esses profissionais terminou em junho de 2026. Por ser um contrato emergencial, ele não pôde ser renovado nos mesmos moldes, o que exigiu novas providências administrativas e jurídicas.</p><p>A Secretaria afirma que, desde que a atual gestão assumiu a pasta, trabalha para formalizar um novo contrato. Essa etapa, de acordo com a nota, vai permitir dar início à regularização dos valores pendentes, incluindo a assinatura de um Termo de Ajustamento de Conduta (TAC), conforme orientação jurídica.</p><p>A prefeitura também explicou como funciona o pagamento: ao fim de cada mês de serviço, a empresa fecha a produção e emite a nota fiscal. Depois do recebimento, da conferência e da liquidação do documento, o município tem até 30 dias para pagar. Segundo a nota, atrasos da empresa no fechamento da produção ou na entrega da nota fiscal podem afetar esse prazo.</p><p>No momento, estão pendentes 50% da remuneração de julho e todo o mês de agosto. O pagamento de setembro ainda está dentro do prazo previsto.</p><p>A Secretaria diz reconhecer a importância do trabalho dos médicos da Atenção Primária e os impactos da situação para os profissionais, com quem mantém contato frequente para informar as providências. A administração afirma que a regularização é prioridade e que está adotando medidas para acelerar os procedimentos.</p><p>Ainda de acordo com a nota, a situação atinge apenas os médicos ligados à Atenção Primária. Os pagamentos dos demais médicos que atuam na rede municipal de saúde de Santa Luzia estão em dia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/105827_slsaude.jpg",
+  "credito_foto": "Divulgação/Prefeitura de Santa Luzia",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
