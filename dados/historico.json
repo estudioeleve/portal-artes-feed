@@ -25940,5 +25940,19 @@
   "fonte": "Hoje em Dia",
   "arte": "artes/2026-11-10/143512_258.jpg",
   "media_id": "18393452740229198"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "11:54",
+  "id": "143323_mana",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Metrô de BH tem espera de 24 minutos entre trens depois das 20h até sexta por causa de obras",
+  "titulo_orig": "Metrô de BH terá intervalo de 24 minutos à noite durante obras nesta semana",
+  "link": "https://www.otempo.com.br/cidades/2026/11/9/metro-de-bh-tera-intervalo-de-24-minutos-a-noite-durante-obras-nesta-semana",
+  "fonte": "www.otempo.com.br",
+  "arte": "artes/2026-11-10/143323_mana.jpg",
+  "media_id": "18138843238660366"
  }
 ]
