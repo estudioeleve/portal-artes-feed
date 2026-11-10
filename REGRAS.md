@@ -37,6 +37,7 @@
 - **Atlético e Cruzeiro**: mantenha abastecidas as abas `atletico` e `cruzeiro` do site (categoria `atletico`/`cruzeiro`), só time principal, notícia do dia.
 - **Imagens do Instagram**: olhe cada arte com atenção antes de publicar (assunto no centro, sem borda, sem zoom estranho, título em 3 linhas de verdade; confira a olho, porque o `artes.js` às vezes diz 3 e a arte mostra 4).
 - **O que o Israel mandar na conversa sai na hora** (ver regra de 05/11). E se o radar trouxer matéria sobre o mesmo fato que ele mandou, **não poste de novo**.
+  - 10/11/2026 12h: laudo do caso Beatriz Vitória (Jaboticatubas, "enterrada viva") já saiu no Instagram e no site a pedido dele. **Não repetir** se aparecer em outro veículo.
 
 ## 🎯 PONTO PRINCIPAL SEMPRE NO CENTRO DA ARTE (Israel, 07/11/2026 10h54, bronca: "Quantas vezes eu vou ter que pedir... o ponto principal centralizado?")
 - Saiu o post do Prospera MEI (09h35) com a pilha de moedas colada na borda esquerda e o resto da arte vazio. **Não pode mais.**
