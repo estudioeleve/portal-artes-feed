@@ -27257,5 +27257,19 @@
   "fonte": "BHAZ",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "18:20",
+  "id": "211356_42",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Sem coleta desde quinta, moradores do Coqueiros e do Glória, em BH, denunciam ratos e baratas",
+  "titulo_orig": "Sem coleta de lixo, moradores de bairros de BH denunciam infestação de ratos e baratas",
+  "link": "https://bhaz.com.br/noticias/sem-coleta-de-lixo-moradores-de-bairros-de-bh-denunciam-infestacao-de-ratos-e-baratas/",
+  "fonte": "bhaz.com.br",
+  "arte": "artes/2026-11-10/211356_42.jpg",
+  "media_id": "18403665166207126"
  }
 ]
