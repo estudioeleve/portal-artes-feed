@@ -26935,5 +26935,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-10/191638_75.jpg",
   "media_id": "17913951939477134"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "16:48",
+  "id": "191721_147",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista: empresas têm R$ 1,6 bilhão esquecido nos bancos, diz o Banco Central",
+  "titulo_orig": "Dinheiro esquecido no sistema financeiro ultrapassa R$ 6 bilhões",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dinheiro-esquecido-no-sistema-financeiro-ultrapassa-r-6-bilhoes",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-10/191721_147.jpg",
+  "media_id": "18084979382397359"
  }
 ]
