@@ -1,17 +1,5 @@
 [
  {
-  "id": "101137_94",
-  "data": "2026-11-08T07:17:55-03:00",
-  "titulo": "\"Tô bem\": Fred minimiza lesão depois da queda do Galo, mas Domínguez diz que o meia ainda tem a lesão aberta",
-  "linha_fina": "Meia voltou depois de quase um mês parado e jogou 33 minutos contra o Grêmio; técnico explicou por que ele e Cassierra não começaram.",
-  "categoria": "atletico",
-  "texto": "<p>O meia Fred minimizou a própria condição física depois da eliminação do Atlético para o Grêmio na semifinal da Copa do Brasil, neste sábado (7), na Arena MRV. Na zona mista, perguntado sobre a recuperação, ele respondeu de forma curta: \"Tô bem. Tô bem.\"</p><p>Fred ficou quase um mês afastado por uma lesão no músculo posterior da coxa esquerda e voltou justamente no jogo decisivo. Ele entrou no segundo tempo e ficou em campo por cerca de 33 minutos.</p><p>A fala contrastou com a explicação do técnico Eduardo Domínguez, que disse que Fred e o atacante Mateo Cassierra não tinham condições de jogar muitos minutos. \"Fred ainda está com a lesão aberta\", afirmou o treinador, lembrando que os dois tinham feito apenas um treino normal antes da semifinal.</p><p>Domínguez também apontou a falta de ritmo. \"Quase um mês ficaram fora. O ritmo não é o mesmo, se notou. Fred perdeu algumas bolas que não costuma perder\", disse. Segundo ele, se os dois entrassem antes, seria ainda mais difícil criar oportunidades.</p><p>Mesmo assim, o técnico elogiou a participação do meia em um dos lances mais perigosos do segundo tempo, quando Fred deixou Renan Lodi em boa condição para finalizar e o lateral parou em grande defesa de Weverton.</p><p>Fora da Copa do Brasil, o Atlético agora volta as atenções para a reta final do Campeonato Brasileiro, onde briga por vaga na Libertadores de 2027.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/101137_94.jpg",
-  "credito_foto": "Foto: Pedro Souza/Atlético",
-  "fonte": "Terra",
-  "resumos": ""
- },
- {
   "id": "101326_ie-b",
   "data": "2026-11-08T07:17:55-03:00",
   "titulo": "Já rebaixado, América enfrenta o Ceará hoje, às 19h15, em busca da quarta vitória seguida na Série B",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/091302_22.jpg",
   "credito_foto": "Leo Lara/Divulgação",
   "fonte": "Diário do Comércio",
+  "resumos": ""
+ },
+ {
+  "id": "091258_79",
+  "data": "2026-11-10T06:17:11-03:00",
+  "titulo": "Homem que matou o sargento Roger Dias na Região Norte de BH é condenado a 40 anos de prisão",
+  "linha_fina": "Júri no Fórum Lafayette condenou o réu por homicídio qualificado; ele estava foragido da saidinha de Natal quando atirou no policial, em 2024.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>O homem acusado de matar o sargento Roger Dias da Cunha, da Polícia Militar de Minas Gerais, foi condenado nesta segunda-feira (9) a 40 anos de prisão em regime fechado. O julgamento ocorreu no Fórum Lafayette, em Belo Horizonte.</p><p>Welbert de Souza Fagundes foi condenado por homicídio qualificado, tentativa de homicídio qualificado contra outro policial e porte ilegal de arma de fogo. O júri rejeitou as teses de legítima defesa e de ausência de intenção apresentadas pela defesa. Durante o processo, um exame de sanidade mental atestou a plena capacidade do réu.</p><p>Segundo a denúncia do Ministério Público, em 5 de janeiro de 2024 policiais militares receberam a informação de que dois suspeitos de roubo de carro estavam armados na avenida Risoleta Neves, na Região Norte da capital. Na perseguição, o carro derrubou uma motocicleta e bateu em um poste, e os suspeitos fugiram a pé pelo bairro Novo Aarão Reis.</p><p>O sargento continuou a perseguição e mandou Welbert deitar no chão, mas foi atingido por dois tiros na cabeça. Ele foi socorrido, mas teve a morte cerebral confirmada dois dias depois. Outro policial, Raphael Henrique Ferreira Lopes, trocou tiros com o acusado e conseguiu prendê-lo.</p><p>Welbert não havia voltado ao sistema prisional após a saída temporária de Natal de 2023 e, segundo a polícia, deveria ter retornado justamente no dia do crime. O caso causou comoção e impulsionou no Congresso a mudança na lei, com restrições às saídas temporárias de presos.</p><p>O outro envolvido, Geovanni Faria de Carvalho, apontado como o motorista do carro, já havia sido condenado em 2025 a 13 anos e sete meses de prisão por tentativas de homicídio.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/091258_79.jpg",
+  "credito_foto": "Divulgação/TJMG",
+  "fonte": "Folha de S.Paulo",
   "resumos": ""
  }
 ]
