@@ -25072,5 +25072,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-10/093548_6.jpg",
   "media_id": "18181099144444161"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "07:04",
+  "id": "011338_98",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Minas lidera ranking de rodovias com problemas da CNT: 56 dos 75 trechos avaliados têm falhas",
+  "titulo_orig": "Minas Gerais tem o maior número de trechos de rodovias classificados como regulares, ruins ou péssimos",
+  "link": "https://bhaz.com.br/noticias/minas-gerais-maior-numero-trechos-rodovias/",
+  "fonte": "bhaz.com.br",
+  "arte": "artes/2026-11-09/011338_98.jpg",
+  "media_id": "18121069045994859"
  }
 ]
