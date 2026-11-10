@@ -26963,5 +26963,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-10/191730_178.jpg",
   "media_id": "17900981736680841"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "17:19",
+  "id": "201533_45",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fim da 6x1: Dino garante que jornada não cai direto para 40 horas em dezembro, mesmo sem acordo",
+  "titulo_orig": "Dino afasta redução imediata para 40h mesmo sem acordo sobre fim da 6x1 | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/dino-afasta-reducao-imediata-para-40h-mesmo-sem-acordo-sobre-fim-da-6x1/",
+  "fonte": "CNN Brasil",
+  "arte": "artes/2026-11-10/201533_45.jpg",
+  "media_id": "18120454400085629"
  }
 ]
