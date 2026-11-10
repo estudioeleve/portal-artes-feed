@@ -1,17 +1,5 @@
 [
  {
-  "id": "013359_62",
-  "data": "2026-11-08T22:37:22-03:00",
-  "titulo": "Na TV, Lula promete responsabilidade fiscal e diz que \"jamais abandonou o país\"",
-  "linha_fina": "No primeiro pronunciamento depois da reeleição, presidente disse estar preocupado com a dívida e os juros, mas não anunciou medidas concretas.",
-  "categoria": "politica",
-  "texto": "<p>O presidente Lula (PT) fez neste domingo (8) o primeiro pronunciamento em rede nacional de TV desde a reeleição. Em 7 minutos e 44 segundos, ele afirmou ter compromisso com a responsabilidade fiscal e prometeu que o governo vai criar condições para a queda da taxa de juros, mas não anunciou medidas concretas.</p><p>\"A trajetória da dívida pública e os juros altos me preocupam. Por isso, reafirmo meu compromisso com a responsabilidade fiscal para viabilizar políticas sociais sustentáveis e a ampliação tão necessária do investimento. Todo esse esforço será feito preservando as regras fiscais\", disse o presidente.</p><p>A fala marca uma mudança de tom em relação à campanha, quando Lula chegou a dizer que a dívida não o preocupava e que fazer superávit, ou seja, ter receitas maiores que os gastos, era \"babaquice\".</p><p>O presidente também mandou uma indireta ao candidato derrotado Flávio Bolsonaro (PL), que deixou o Brasil rumo aos Estados Unidos dois dias depois do segundo turno. \"Jamais abandonei meu país\", afirmou.</p><p>Lula deu ainda um recado ao Judiciário ao defender que \"a magistratura precisa de juízes isentos, éticos e livres de conflitos de interesses e projetos de enriquecimento\". Ele destacou a mobilização nas ruas, que ajudou na virada inédita no segundo turno, depois de terminar a primeira votação atrás de Flávio.</p><p>A reação do mercado ao discurso deve aparecer na abertura dos negócios desta segunda-feira (9).</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/013359_62.jpg",
-  "credito_foto": "Foto: Gabriela Biló/Folhapress",
-  "fonte": "Folha de S.Paulo",
-  "resumos": ""
- },
- {
   "id": "013403_87",
   "data": "2026-11-08T22:37:22-03:00",
   "titulo": "Ataque a tiros durante enterro em cemitério de BH mata adolescente e deixa dois feridos",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/182305_161.jpg",
   "credito_foto": "CNI/José Paulo Lacerda/Agência Brasil",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "184500_lojaeletrica",
+  "data": "2026-11-10T15:45:47-03:00",
+  "titulo": "Loja Elétrica nega ter suspendido centro de distribuição em Pedro Leopoldo",
+  "linha_fina": "Empresa diz que o projeto já tem licença do ICMBio, está na fase final de aprovação na Prefeitura e segue o planejamento previsto.",
+  "categoria": "pedro-leopoldo",
+  "texto": "<p>A Loja Elétrica afirmou que o projeto de implantação do seu novo Centro de Distribuição em Pedro Leopoldo, na Região Metropolitana de Belo Horizonte, continua em andamento. Segundo a empresa, não houve nenhuma decisão de suspender o empreendimento, que segue o planejamento estratégico previsto.</p><p>Em esclarecimento divulgado nesta terça-feira (10), a empresa informou que o projeto já tem o licenciamento do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) e está na fase final de aprovação na Prefeitura de Pedro Leopoldo.</p><p>De acordo com a Loja Elétrica, o empreendimento envolve procedimentos técnicos e exigências específicas, principalmente por causa das características ambientais da região.</p><p>A empresa também reforçou o compromisso com os investimentos e com a expansão das suas atividades em Minas Gerais, respeitando as condições necessárias para que o projeto seja viável.</p><p>O posicionamento foi publicado depois que circularam informações de que o projeto do Centro de Distribuição, estimado em R$ 200 milhões, teria sido congelado. Com o esclarecimento, a empresa afirma que o cronograma segue mantido e que a próxima etapa é a conclusão da aprovação municipal.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/184500_lojaeletrica.jpg",
+  "credito_foto": "Divulgação/Loja Elétrica",
+  "fonte": "Prefeitura de Pedro Leopoldo e Loja Elétrica",
   "resumos": ""
  }
 ]

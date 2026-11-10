@@ -39,6 +39,8 @@ def achar(o,H=None):
   for h in H:
     if h.get('id')==o.get('id'): continue
     if lk and norm_link(h.get('link'))==lk: return h
+    # pedido_israel: matéria que o Israel mandou na conversa (fato novo de tema já publicado): só o link igual barra
+    if o.get('pedido_israel'): continue
     for x in (o.get('titulo'),o.get('titulo_orig')):
       for y in (h.get('titulo'),h.get('titulo_orig')):
         if x and y and parecido(x,y): return h

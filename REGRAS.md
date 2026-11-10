@@ -37,6 +37,8 @@
 - **Atlético e Cruzeiro**: mantenha abastecidas as abas `atletico` e `cruzeiro` do site (categoria `atletico`/`cruzeiro`), só time principal, notícia do dia.
 - **Imagens do Instagram**: olhe cada arte com atenção antes de publicar (assunto no centro, sem borda, sem zoom estranho, título em 3 linhas de verdade; confira a olho, porque o `artes.js` às vezes diz 3 e a arte mostra 4).
 - **O que o Israel mandar na conversa sai na hora** (ver regra de 05/11). E se o radar trouxer matéria sobre o mesmo fato que ele mandou, **não poste de novo**.
+  - 10/11/2026 ~15h: Loja Elétrica nega suspensão do Centro de Distribuição em Pedro Leopoldo (Reels + site, pedido dele). **Não repetir** se aparecer em outro veículo. Fonte: Prefeitura de Pedro Leopoldo e Loja Elétrica; **nunca citar Por Dentro de Tudo** nessa matéria.
+  - Item que o Israel manda e que a trava barraria por tema parecido (fato novo): marque `"pedido_israel": true` no lote (só o link igual barra).
   - 10/11/2026 12h: laudo do caso Beatriz Vitória (Jaboticatubas, "enterrada viva") já saiu no Instagram e no site a pedido dele. **Não repetir** se aparecer em outro veículo.
 
 ## 🎯 PONTO PRINCIPAL SEMPRE NO CENTRO DA ARTE (Israel, 07/11/2026 10h54, bronca: "Quantas vezes eu vou ter que pedir... o ponto principal centralizado?")

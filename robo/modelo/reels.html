@@ -15,10 +15,12 @@
 .ti{font:700 64px/1.12 RB;letter-spacing:-.045em}
 .rod{position:absolute;right:72px;top:1672px;color:#fff;font:400 22px PP}.rod b{font-weight:700}
 </style></head><body><section class="s" id="arte"><div class="gr"></div>
-<div class="tab"><div class="lg"><img src="portal.png"><span>luziense</span></div></div>
+<div class="tab"><div class="lg" id="lg"><img src="portal.png"><span>luziense</span></div></div>
 <div class="txt"><div class="ed" id="ed">SANTA LUZIA</div><div class="ti" id="ti">Título</div></div>
 <div class="rod">acesse o nosso site <b>www.portalonenews.com.br</b></div></section>
 <script>const q=new URLSearchParams(location.search);
+/* portal=one: moldura Canva "REELS ONE NEWS" (canva.link/4k8klc77od955qf), mesma faixa azul com "Portal one news" */
+if(q.get('portal')==='one')lg.innerHTML='<img src="portal.png" style="height:31px"><img src="one.png" style="height:19px"><img src="news.png" style="height:19px">';
 if(q.get('ed'))ed.textContent=q.get('ed');if(q.get('ti'))ti.textContent=q.get('ti');
 let fs=64;while(ti.scrollHeight>fs*1.12*3+4&&fs>48){fs-=2;ti.style.fontSize=fs+'px'}
 document.body.dataset.linhas=Math.round(ti.scrollHeight/(fs*1.12));</script></body></html>
