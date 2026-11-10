@@ -26528,5 +26528,19 @@
   "fonte": "Diário do Transporte",
   "arte": "artes/2026-11-10/171632_50.jpg",
   "media_id": "18124853150016840"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "14:51",
+  "id": "171851_41",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista, confira o Pix antes de entregar: preso suspeito de dar golpe com comprovante falso",
+  "titulo_orig": "Polícia Civil prende em Campo Belo homem suspeito de aplicar golpes do PIX falso no Sul de Minas | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/suldeminas/policia-civil-prende-em-campo-belo-homem-suspeito-de-aplicar-golpes-do-pix-falso-no-sul-de-minas/",
+  "fonte": "Itatiaia",
+  "arte": "artes/2026-11-10/171851_41.jpg",
+  "media_id": "17915634474558784"
  }
 ]
