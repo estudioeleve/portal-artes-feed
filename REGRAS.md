@@ -58,6 +58,11 @@
 - **No começo de cada rodada**, procure em `dados/site.json` as matérias de Santa Luzia (categoria `santa-luzia` ou título com o nome da cidade) dos últimos 2 dias que não têm registro de Instagram em `dados/historico.json` e publique primeiro.
 - Continuam valendo as travas (REPETIDO, FOTO REPETIDA), a moldura e o intervalo entre posts. Se a trava barrar uma matéria de Santa Luzia, anote em `dados/erros.txt` para o Israel decidir.
 
+## 🎬 REELS SEMPRE COM A MOLDURA DE REELS (Israel, 10/11/2026 ~12h45, bronca: "Você postou sem a moldura do Reels, portal luziense. Não pode postar sem a moldura")
+- O Reels do Circuito de Presépios (12h29) saiu com o convite cru, sem moldura. **Não pode.** No **site** a foto vai sem moldura; no **Instagram, feed e Reels, sempre com a moldura**.
+- Moldura de Reels do Portal Luziense: Canva "REELS LUZIENSE" (canva.link/os103tnzgm6mzyt), recriada em `robo/modelo/reels.html` (1080x1920, fundo transparente: faixa azul com "Portal luziense" no alto à esquerda, degradê preto embaixo, etiqueta, título em 3 linhas e "acesse o nosso site www.portalonenews.com.br").
+- Como fazer: gere o PNG da moldura com o `reels.html` (Playwright, `omitBackground`), ponha por cima da foto/vídeo com ffmpeg (`overlay`) e publique com `create_video_post`. Olhe um quadro do vídeo (Read) antes de publicar. Ex.: `videos/2026-11-10/122000_presepios_moldura.mp4`.
+
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
 - **"Portal Luziense" (ou Política, Comércio) quer dizer a moldura, não outra conta** (Israel, 10/11/2026): tudo é postado no **@portalonenews**, inclusive vídeo para Reels (`create_video_post`).
 - "Notícias que eu te mandar aqui você pode postar na hora, não precisa colocar em programação." Publique assim que preparar, **sem esperar o intervalo entre posts**. Se ele disser "só no site", vai só no site, também na hora; senão, Instagram e site. Continuam valendo as regras de moldura, título, foto e legenda.
