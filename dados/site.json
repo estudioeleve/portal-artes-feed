@@ -1,17 +1,5 @@
 [
  {
-  "id": "091319_123",
-  "data": "2026-11-09T06:15:38-03:00",
-  "titulo": "85,8% das famílias de BH estão endividadas, acima da média do país; cartão de crédito puxa a alta",
-  "linha_fina": "Pesquisa da CNC mostra endividamento estável e alto na capital; Minas virou o 2º estado com mais inadimplentes do país.",
-  "categoria": "comercio",
-  "texto": "<p>O endividamento das famílias de Belo Horizonte continua elevado e acima da média do país. Segundo a Pesquisa de Endividamento e Inadimplência do Consumidor (Peic), da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), 85,8% das famílias da capital mineira estavam endividadas em outubro, mesmo patamar registrado em setembro.</p><p>No Brasil, o índice ficou em 81,6%, com leve recuo de 0,1 ponto percentual em relação ao mês anterior, o que a CNC classifica como estabilidade. O cartão de crédito segue como a principal forma de dívida. Na capital, 63,4% das famílias endividadas têm contas atrasadas e 31,4% dizem que não terão condições de pagá-las.</p><p>Dados da Serasa reforçam o quadro. Belo Horizonte tem 1,09 milhão de consumidores negativados, que somam R$ 9,36 bilhões em débitos. Minas Gerais passou a ser, em setembro, o segundo estado com mais inadimplentes em número absoluto, atrás apenas de São Paulo, com mais de 8 milhões de pessoas com o nome sujo e R$ 56,8 bilhões em dívidas.</p><p>Bancos e cartões de crédito concentram a maior parte dos registros (26,4%), seguidos pelas contas básicas de água, luz e gás (21,1%). O valor médio devido por pessoa em BH é de R$ 8.591,38.</p><p>Para o comércio, o dado acende um sinal de atenção às vésperas da Black Friday e do Natal, as datas mais fortes do ano. Com o orçamento das famílias apertado, especialistas recomendam que o lojista reforce a análise de crédito antes de vender a prazo, ofereça descontos para pagamento à vista e no Pix e evite parcelamentos longos que aumentem o risco de calote.</p><p>Por outro lado, a chegada do 13º salário costuma ser usada por parte dos consumidores para quitar dívidas, o que pode abrir espaço para novas compras no fim do ano.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/091319_123.jpg",
-  "credito_foto": "Marcelo Camargo/Agência Brasil",
-  "fonte": "Estado de Minas",
-  "resumos": ""
- },
- {
   "id": "091322_74",
   "data": "2026-11-09T06:15:38-03:00",
   "titulo": "Barba admite alerta com lesões no Atlético após eliminação: \"Estamos buscando respostas\"",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/201439_28.jpg",
   "credito_foto": "Reprodução/BHAZ",
   "fonte": "BHAZ",
+  "resumos": ""
+ },
+ {
+  "id": "202124_432",
+  "data": "2026-11-10T17:21:37-03:00",
+  "titulo": "PF faz a Operação Argos em Ipatinga para apurar irregularidades em registros de CAC e no controle de armas",
+  "linha_fina": "Quinze policiais federais cumpriram dois mandados de busca e apreensão expedidos pela Justiça Federal no Vale do Aço.",
+  "categoria": "minas-gerais",
+  "texto": "<p>A Polícia Federal deflagrou nesta terça-feira (10) a Operação Argos, em Ipatinga, no Vale do Aço, para apurar possíveis irregularidades na concessão de Certificados de Registro de Colecionador, Atirador Desportivo e Caçador, os chamados registros de CAC. A investigação também verifica o cumprimento das normas de controle e fiscalização de armas de fogo.</p>\n<p>Durante a ação, foram cumpridos dois mandados de busca e apreensão em endereços da cidade. As ordens foram expedidas pela Justiça Federal e têm o objetivo de reunir elementos que ajudem a esclarecer os fatos investigados. A PF não divulgou quem são os investigados nem o que foi recolhido nos endereços.</p>\n<p>Ao todo, 15 policiais federais participaram da operação, entre eles integrantes do Grupo de Pronta Intervenção (GPI), a equipe tática da Polícia Federal em Minas Gerais, que deu apoio operacional ao cumprimento das medidas judiciais.</p>\n<p>O nome da operação faz referência a Argos Panoptes, personagem da mitologia grega conhecido como o guardião de muitos olhos. Segundo a corporação, a escolha remete à importância da vigilância e da fiscalização dos requisitos legais exigidos para atividades com armas.</p>\n<p>A PF informou que a ação faz parte do trabalho permanente de prevenção e repressão a irregularidades com produtos controlados. As investigações continuam, com respeito ao devido processo legal e à presunção de inocência. A corporação lembra que denúncias anônimas podem ser feitas pelos canais oficiais, com garantia de sigilo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/202124_432.jpg",
+  "credito_foto": "Polícia Federal/Divulgação",
+  "fonte": "g1 Vales de Minas Gerais",
   "resumos": ""
  }
 ]
