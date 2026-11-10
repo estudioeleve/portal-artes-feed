@@ -37,7 +37,7 @@
 - **Atlético e Cruzeiro**: mantenha abastecidas as abas `atletico` e `cruzeiro` do site (categoria `atletico`/`cruzeiro`), só time principal, notícia do dia.
 - **Imagens do Instagram**: olhe cada arte com atenção antes de publicar (assunto no centro, sem borda, sem zoom estranho, título em 3 linhas de verdade; confira a olho, porque o `artes.js` às vezes diz 3 e a arte mostra 4).
 - **O que o Israel mandar na conversa sai na hora** (ver regra de 05/11). E se o radar trouxer matéria sobre o mesmo fato que ele mandou, **não poste de novo**.
-  - 10/11/2026 ~15h: Loja Elétrica nega suspensão do Centro de Distribuição em Pedro Leopoldo (Reels + site, pedido dele). **Não repetir** se aparecer em outro veículo. Fonte: Prefeitura de Pedro Leopoldo e Loja Elétrica; **nunca citar Por Dentro de Tudo** nessa matéria.
+  - 10/11/2026 ~15h: Loja Elétrica nega suspensão do Centro de Distribuição em Pedro Leopoldo (site + Reels com a moldura **Comércio**, 20s; o Reels com moldura ONE foi apagado por ele: era Portal Comércio). **Não repetir** se aparecer em outro veículo. Fonte: Prefeitura de Pedro Leopoldo e Loja Elétrica; **nunca citar Por Dentro de Tudo** nessa matéria.
   - Item que o Israel manda e que a trava barraria por tema parecido (fato novo): marque `"pedido_israel": true` no lote (só o link igual barra).
   - 10/11/2026 12h: laudo do caso Beatriz Vitória (Jaboticatubas, "enterrada viva") já saiu no Instagram e no site a pedido dele. **Não repetir** se aparecer em outro veículo.
 
@@ -63,6 +63,7 @@
 ## 🎬 REELS SEMPRE COM A MOLDURA DE REELS (Israel, 10/11/2026 ~12h45, bronca: "Você postou sem a moldura do Reels, portal luziense. Não pode postar sem a moldura")
 - O Reels do Circuito de Presépios (12h29) saiu com o convite cru, sem moldura. **Não pode.** No **site** a foto vai sem moldura; no **Instagram, feed e Reels, sempre com a moldura**.
 - Moldura de Reels do Portal Luziense: Canva "REELS LUZIENSE" (canva.link/os103tnzgm6mzyt), recriada em `robo/modelo/reels.html` (1080x1920, fundo transparente: faixa azul com "Portal luziense" no alto à esquerda, degradê preto embaixo, etiqueta, título em 3 linhas e "acesse o nosso site www.portalonenews.com.br").
+- Molduras de Reels no `reels.html`: padrão = Luziense; `?portal=one` = Canva "REELS ONE NEWS" (canva.link/4k8klc77od955qf); `?portal=comercio` = Canva "REELS COMERCIO" (canva.link/a1l5w0h25oqqb66). Reels de foto: trilha própria `animada` (institucional) do `est-dio-eleve/chip/chip-de-edicao/scripts/trilha.py`.
 - Como fazer: gere o PNG da moldura com o `reels.html` (Playwright, `omitBackground`), ponha por cima da foto/vídeo com ffmpeg (`overlay`) e publique com `create_video_post`. Olhe um quadro do vídeo (Read) antes de publicar. **Vídeo: use o link raw.githubusercontent** (pelo jsDelivr o Instagram deu "container status: ERROR" 2 vezes em 10/11) e gere com `-loop 1 -framerate 30` + `-r 30` para não sair com quadros a mais. Ex.: `videos/2026-11-10/122000_presepios_moldura.mp4`.
 
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)

@@ -26739,5 +26739,19 @@
   "arte": "videos/2026-11-10/184500_lojaeletrica_moldura.mp4",
   "media_id": "18037600364895971",
   "obs": "Reels ONE apagado pelo Israel (era Portal Comércio); refazer com moldura Reels Comércio, 20s"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "15:50",
+  "id": "185500_lojaeletrica_comercio",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Loja Elétrica nega ter suspendido centro de distribuição em Pedro Leopoldo",
+  "titulo_orig": "Loja Elétrica afirma que projeto de Centro de Distribuição segue em andamento e nega suspensão em Pedro Leopoldo",
+  "link": "https://pordentrodetudo.com.br/loja-eletrica-afirma-que-projeto-de-centro-de-distribuicao-segue-em-andamento-e-nega-suspensao-em-pedro-leopoldo/",
+  "fonte": "Prefeitura de Pedro Leopoldo e Loja Elétrica",
+  "arte": "videos/2026-11-10/185500_lojaeletrica_comercio.mp4",
+  "media_id": "18134243081497897"
  }
 ]
