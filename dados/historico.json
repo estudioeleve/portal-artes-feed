@@ -24526,5 +24526,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-09/001343_29.jpg",
   "media_id": "18455882902193549"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "21:29",
+  "id": "001313_22",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Seis linhas de ônibus mudam de ponto na rua São Paulo, no Centro de BH, a partir desta terça",
+  "titulo_orig": "Pontos de ônibus no Centro de BH terão mudanças a partir desta terça; saiba quais",
+  "link": "https://www.otempo.com.br/cidades/2026/11/9/pontos-de-onibus-no-centro-de-bh-terao-mudancas-a-partir-desta-terca-saiba-quais",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-09/001313_22.jpg",
+  "media_id": "18131187085856994"
  }
 ]
