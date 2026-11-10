@@ -1,17 +1,5 @@
 [
  {
-  "id": "141209_120",
-  "data": "2026-11-08T11:17:07-03:00",
-  "titulo": "Itaipu tinha R$ 1 bilhão em banco do Paraguai que quebrou; lado brasileiro diz que não perdeu nada",
-  "linha_fina": "Margem paraguaia da hidrelétrica entrou na Justiça para recuperar o dinheiro do Ueno Bank; geração de energia não foi afetada.",
-  "categoria": "mundo",
-  "texto": "<p>A administração paraguaia da Itaipu Binacional tinha cerca de R$ 1 bilhão depositados no Ueno Bank, banco do Paraguai que teve as operações suspensas na terça-feira (3) depois de problemas identificados pelo Banco Central do país. A hidrelétrica informou no sábado (7) que já entrou com medidas judiciais para tentar recuperar o dinheiro.</p>\n<p>Segundo o comunicado, a Itaipu tinha US$ 163,8 milhões e 115,2 bilhões de guaranis no banco na data da suspensão. Somados, os valores chegam a cerca de US$ 182,2 milhões, pouco mais de R$ 1 bilhão. O dinheiro seria usado para pagar obrigações contratuais e compromissos de convênios.</p>\n<p>A Itaipu é administrada em conjunto por Brasil e Paraguai, mas cada lado tem estrutura financeira própria. Em nota, a administração brasileira afirmou que não tinha recursos sob sua gestão no Ueno Bank e que \"a operação da Itaipu segue normalmente, sem impacto na produção e no fornecimento de energia\".</p>\n<p>O lado paraguaio disse que acionou a Procuradoria-Geral do Estado do Paraguai e acompanha os procedimentos do Banco Central para a devolução dos valores. A entidade afirmou que trabalhava com o Ueno Bank desde janeiro de 2025 e que distribui os recursos entre vários bancos para reduzir riscos.</p>\n<p>Entre 2024 e 2026, a Itaipu transferiu mais de US$ 2,4 bilhões do Brasil para o Paraguai. O valor retido no banco representa 7,6% dessas remessas, segundo a margem paraguaia.</p>\n<p>Não foram informados prazos para a recuperação do dinheiro. A quebra do Ueno Bank também atingiu correntistas, entre eles brasileiros que vivem no Paraguai e tiveram valores bloqueados.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-08/141209_120.jpg",
-  "credito_foto": "Divulgação/Itaipu Binacional",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "141845_185",
   "data": "2026-11-08T11:18:59-03:00",
   "titulo": "Monte Verde aposta na gastronomia para vender o ano todo, e restaurantes mudam o cardápio com o Sebrae",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/141844_34.jpg",
   "credito_foto": "Foto: Reprodução/O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "142420_.amp",
+  "data": "2026-11-10T11:25:21-03:00",
+  "titulo": "Black Friday: só 35% dos lojistas mineiros vão fazer promoção, diz Fecomércio MG",
+  "linha_fina": "Desconto forte lidera as estratégias; 57% esperam vender até 30% a mais, e a maioria diz que a data não atrapalha o Natal.",
+  "categoria": "comercio",
+  "texto": "<p>Apenas cerca de 35% dos varejistas de Minas Gerais pretendem fazer promoções na Black Friday deste ano, segundo levantamento inédito do Núcleo de Pesquisa e Inteligência da Federação do Comércio de Bens, Serviços e Turismo de Minas Gerais (Fecomércio MG). Ao mesmo tempo, quase todas as empresas ouvidas (95,8%) disseram conhecer a data.</p><p>As promoções devem ser adotadas por 35,3% das lojas físicas e por 19,2% dos negócios de comércio eletrônico. Entre as estratégias, os descontos agressivos aparecem em primeiro lugar, citados por 58,1% das empresas, seguidos por facilidades de pagamento (22,3%), campanhas de propaganda e divulgação (19,6%) e promoções gerais (18,9%).</p><p>\"A Black Friday deixou de ser um evento isolado de queima de estoque e passou a integrar o núcleo do planejamento estratégico do varejo mineiro\", avalia a economista da Fecomércio MG Gabriela Martins. A expectativa é positiva: 57,4% das empresas esperam crescimento de até 30% no volume de vendas no período, e só 3,3% não esperam nenhum impacto.</p><p>Mesmo assim, parte dos empresários lembra que a data não garante bom resultado. Entre as barreiras citadas estão a crise econômica, o baixo movimento no comércio, o endividamento do consumidor e a falta de recursos para investir. Entre os que conhecem a data e não vão participar, 56,4% disseram não ter interesse na campanha; 26,1% acham que ela não dá lucro no seu tipo de negócio.</p><p>A pesquisa também perguntou sobre o Natal. Para 64,2% dos empresários, a Black Friday não interfere nas vendas de fim de ano. Outros 23,3% veem impacto positivo e 12,5%, negativo. Entre estes, a maioria (64,2%) diz que a data antecipa as compras de dezembro, e 27,7% afirmam que o consumidor chega sem dinheiro ao Natal.</p><p>Para o pequeno lojista, a dica é planejar antes: calcular a margem, escolher bem os produtos em promoção, conferir o estoque e evitar descontos que comprometam o caixa de dezembro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/142420_.amp.jpg",
+  "credito_foto": "Foto: Reprodução/O Tempo",
+  "fonte": "O Tempo, com dados da Fecomércio MG",
   "resumos": ""
  }
 ]
