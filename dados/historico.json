@@ -25380,5 +25380,19 @@
   "fonte": "Jornal Jogo Sério",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "08:30",
+  "id": "111231_54",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Caso Master: PF afasta delegados após relatórios sobre três ministros do STF",
+  "titulo_orig": "Delegados do caso Master foram afastados após entregar relatório sobre três ministros do STF",
+  "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/delegados-do-caso-master-foram-exonerados-apos-entregar-relatorio-sobre-ministros-do-stf.ghtml",
+  "fonte": "O GLOBO",
+  "arte": "artes/2026-11-10/111231_54.jpg",
+  "media_id": "17909988126657968"
  }
 ]
