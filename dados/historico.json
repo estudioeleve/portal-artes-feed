@@ -26668,5 +26668,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-10/181618_80.jpg",
   "media_id": "17955705552317581"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "15:23",
+  "id": "182304_106",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Quem já teve dengue corre mais risco na segunda vez: especialistas explicam por que e como se proteger",
+  "titulo_orig": "Especialistas alertam para risco de reinfecção da dengue",
+  "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/especialistas-alertam-pessoas-que-ja-tiveram-dengue-pela-2a-vez",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "15:23",
+  "id": "182305_161",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Alimentador de linha de produção e pedreiro lideram ranking de acidentes de trabalho no Brasil",
+  "titulo_orig": "Trabalho: 10 ocupações detém um terço de notificações de acidentes",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabalho-10-ocupacoes-detem-um-terco-de-notificacoes-de-acidentes",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
