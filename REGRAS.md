@@ -5,6 +5,12 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## 🔍 IMAGEM NÍTIDA E NADA DE "VÍDEO" EM POST DE FOTO (Israel, 10/11/2026 ~08h30, bronca: "essa imagem não dá para ver nada... no título você colocou vídeo, sendo que é uma imagem estática... nós somos um portal de notícias sério")
+- O post do Barreiro (10/11 07:52) saiu com um print escuro e borrado de vídeo, onde não dava para entender nada, e com o título começando por "Vídeo:". **Não pode mais.**
+- **Imagem nítida**: no Instagram só vai foto em que dá para entender o assunto de primeira (boa luz, foco, boa resolução). Print de vídeo, frame escuro, noturno, tremido ou borrado: **não use**. Busque outra foto do fato (`coletar.py <URL> --anexar`); se não houver, a notícia fica **só no site**.
+- **Nunca escrever "Vídeo", "Veja o vídeo", "Assista" ou "Imagens mostram" no título da arte** (nem chamar o leitor para um vídeo na legenda): o post é uma foto estática. Diga o fato, não o formato da fonte.
+- Ao olhar cada arte (Read) antes de publicar, pergunte também: **a imagem está nítida e dá para entender o que é?** E: **o título fala de vídeo?** Se sim em qualquer um dos problemas, não publique.
+
 ## 🖋️ COLUNAS EM ZIP: PUBLICAR NA HORA (Israel, 09/11/2026: "sempre que eu te enviar, você, na hora, posta nas colunas de cada um")
 - O Israel manda na conversa um zip (feito pelo ChatGPT) com `manifesto.json`, `materias/*.txt` e `imagens/*.png`, para as colunas de **Israel Fernandes**, **Jota Bertoldo (J. Bertoldo)** e **Paulo Alexandre**.
 - Na hora: `python3 robo/colunas.py <arquivo.zip>` e depois `git add -A && git commit && git push`. Vai para `dados/colunas.json` (não para o site.json, nem para o Instagram) e o site publica no nome do colunista em até 15 minutos.
