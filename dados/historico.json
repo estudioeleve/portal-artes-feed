@@ -27677,5 +27677,19 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-10/231113_95.jpg",
   "media_id": "17903555859672615"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "20:35",
+  "id": "231109_46",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista, atenção: 63,4% das famílias de BH estão com contas atrasadas antes do Natal",
+  "titulo_orig": "Mais de seis em cada dez consumidores de Belo Horizonte estão com contas atrasadas - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/inadimplencia-familias-bh-fecomercio/",
+  "fonte": "Diário do Comércio",
+  "arte": "artes/2026-11-10/231109_46.jpg",
+  "media_id": "18633221029048079"
  }
 ]
