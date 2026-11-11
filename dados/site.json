@@ -1,17 +1,5 @@
 [
  {
-  "id": "001347_40",
-  "data": "2026-11-09T21:18:45-03:00",
-  "titulo": "Rubio diz que EUA vão manter diálogo com o governo Lula, mas cobra aval ao embaixador indicado por Trump",
-  "linha_fina": "Secretário de Estado americano falou na reunião do G7, em Paris, e citou impasse sobre a indicação de Daniel Perez.",
-  "categoria": "politica",
-  "texto": "<p>O secretário de Estado dos Estados Unidos, Marco Rubio, afirmou nesta segunda-feira (9) que o governo de Donald Trump vai continuar mantendo contato com o governo brasileiro, apesar das divergências entre os dois países. A fala foi durante a reunião de chanceleres do G7, em Paris, na França, dias depois da reeleição do presidente Luiz Inácio Lula da Silva (PT).</p><p>Questionado sobre a relação bilateral, Rubio disse que pretende conversar com o ministro das Relações Exteriores, Mauro Vieira, sobre os próximos passos. \"Vamos lidar com o governo brasileiro. Já lidávamos com ele antes\", declarou. Ele também disse ter uma boa relação com o chanceler brasileiro.</p><p>Ao mesmo tempo, o secretário cobrou uma solução para o impasse em torno de Daniel Perez, escolhido por Trump em junho para ser embaixador dos Estados Unidos no Brasil. A indicação já foi aprovada pelo Senado americano, mas ainda depende da aprovação do governo brasileiro, procedimento diplomático chamado de agrément.</p><p>\"Temos um problema porque eles não permitiram que nosso embaixador entrasse no país. Isso precisa ser resolvido\", afirmou Rubio, segundo o g1. Para ele, a situação prejudica a relação. \"Não achamos que isso estabeleça um bom tom para a nossa relação. Eles têm um embaixador nos Estados Unidos, mas, em algum momento, esse desequilíbrio não pode continuar\", disse.</p><p>O tema deve seguir na pauta diplomática nas próximas semanas, com a expectativa de uma conversa entre Rubio e Mauro Vieira sobre a agenda entre os dois países.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/001347_40.jpg",
-  "credito_foto": "Brendan Smialowski/Pool via Reuters/g1",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "001351_23",
   "data": "2026-11-09T21:18:45-03:00",
   "titulo": "Chuvas no Sul deixam feridos, centenas de desabrigados e 1.500 casas destelhadas em Bento Gonçalves",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/181842_97.jpg",
   "credito_foto": "Divulgação/Embaixada da Rússia nos EUA",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "182858_136",
+  "data": "2026-11-11T15:29:09-03:00",
+  "titulo": "Concurso da Transpetro amplia de 33 para 52 as cidades de prova; exame continua marcado para 6 de dezembro",
+  "linha_fina": "Novas cidades ficam na Bahia, Espírito Santo, Rio e São Paulo; concurso tem 281 vagas imediatas e salários de até R$ 15 mil.",
+  "categoria": "brasil",
+  "texto": "<p>A Transpetro, subsidiária de logística da Petrobras, aumentou de 33 para 52 o número de cidades que vão receber os candidatos do concurso público para novos funcionários. A data da prova está mantida para 6 de dezembro.</p>\n<p>As novas localidades ficam na Bahia, no Espírito Santo, no Rio de Janeiro e em São Paulo. Segundo a empresa, a mudança tem o objetivo de ajustar a capacidade de atendimento aos candidatos inscritos nesses estados. As cidades foram definidas pela Fundação Cesgranrio, organizadora do concurso.</p>\n<p>De acordo com a Cesgranrio, a redistribuição vai levar em conta o município de residência informado na inscrição e a cidade de prova escolhida originalmente. Na prática, a medida evita longos deslocamentos: no Rio, por exemplo, Cabo Frio passou a ser local de prova; na Bahia, Ilhéus foi incluída, e os candidatos de lá não precisarão mais ir a Salvador.</p>\n<p>Para conferir o local definitivo, o candidato deve consultar os canais oficiais da Cesgranrio ou da Transpetro e verificar o Cartão de Confirmação de Inscrição.</p>\n<p>O concurso oferece 281 vagas imediatas e 3.890 para cadastro de reserva, em cargos de níveis médio, técnico e superior, divididos em quatro editais: quadro de mar (oficiais), quadro de mar (suboficiais e guarnição), quadro de terra de nível médio e quadro de terra de nível superior. O salário inicial vai de R$ 5.464 a R$ 15.034,81, além de benefícios como previdência complementar e plano de saúde. As inscrições já estão encerradas.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/182858_136.jpg",
+  "credito_foto": "Transpetro/Divulgação/Agência Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
