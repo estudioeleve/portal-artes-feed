@@ -29245,5 +29245,47 @@
   "fonte": "Diário do Comércio",
   "arte": "artes/2026-11-11/141502_25.jpg",
   "media_id": "18105892271644914"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "11:23",
+  "id": "142224_92",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Brasileiros tiram R$ 8,88 bilhões a mais do que depositam na poupança em outubro",
+  "titulo_orig": "Saques da poupança superam depósitos em R$ 8,88 bilhões em outubro",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/saques-da-poupanca-superam-depositos-em-r-888-bilhoes-em-outubro",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "11:23",
+  "id": "142225_99",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Setor de serviços fica estável em setembro e interrompe sequência de 29 altas, diz IBGE",
+  "titulo_orig": "Setor de serviços varia -0,1% em setembro, impactado pelos transportes",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/setor-de-servicos-varia-01-em-setembro-impactado-pelos-transportes",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "11:23",
+  "id": "142226_116",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Número de mulheres prefeitas mais que dobra em 24 anos, mas elas ainda comandam só 13% das cidades",
+  "titulo_orig": "Presença feminina no comando de prefeituras mais que dobrou em 24 anos",
+  "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/presenca-feminina-no-comando-de-prefeituras-mais-que-dobrou-em-24-anos",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
