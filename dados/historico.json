@@ -29105,5 +29105,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-11/131756_12.jpg",
   "media_id": "18202846714340116"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "10:49",
+  "id": "131805_51",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Congresso prorroga a MP que proíbe as bets, e a decisão final pode ficar para o novo Congresso",
+  "titulo_orig": "Congresso prorroga por 60 dias MP que proíbe bets | G1",
+  "link": "https://g1.globo.com/politica/noticia/2026/11/11/congresso-prorroga-por-60-dias-mp-que-proibe-bets.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-11/131805_51.jpg",
+  "media_id": "18119600825008633"
  }
 ]
