@@ -29651,5 +29651,33 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-11/161305_46.jpg",
   "media_id": "18110366957360957"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "13:19",
+  "id": "161844_68",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "MEI com DAS atrasado perde o CNPJ? Entenda o que acontece com a dívida e como se regularizar",
+  "titulo_orig": "MEI pode perder o CNPJ por dívida. Veja como acontece e se regularize",
+  "link": "https://jornalcontabil.com.br/noticia/mei-pode-perder-o-cnpj-por-divida-veja-como-acontece-e-se-regularize/",
+  "fonte": "Jornal Contábil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "13:19",
+  "id": "161849_162",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "MINAS GERAIS",
+  "titulo": "Deputados pedem audiência na ALMG sobre crise do aço depois de paralisações em Divinópolis, Pará de Minas e Mariana",
+  "titulo_orig": "Deputados solicitam audiência na ALMG sobre crise do aço em MG",
+  "link": "https://portalgerais.com/deputados-solicitam-audiencia-na-almg-sobre-crise-do-aco-em-mg/",
+  "fonte": "Portal Gerais",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
