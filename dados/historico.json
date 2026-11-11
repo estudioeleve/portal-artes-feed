@@ -29497,5 +29497,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-11/151428_20.jpg",
   "media_id": "18218466565360736"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "12:36",
+  "id": "151740_bro",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Venda de seminovos e usados cai 1,8% em Minas em 2026, mas média por dia útil ainda sobe",
+  "titulo_orig": "Vendas de veículos seminovos e usados caem 1,8% em Minas Gerais em 2026 - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/venda-veiculos-seminovos-usados-outubro/",
+  "fonte": "diariodocomercio.com.br",
+  "arte": "artes/2026-11-11/151740_bro.jpg",
+  "media_id": "18157615876518301"
  }
 ]
