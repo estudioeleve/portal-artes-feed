@@ -30603,5 +30603,19 @@
   "fonte": "Conexão 424",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "18:17",
+  "id": "211138_19",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Alerta de tempestade com granizo vale para BH e Grande BH nesta quinta; chuva pode chegar a 50 mm",
+  "titulo_orig": "Sete Lagoas e região estão sob alerta para chuva forte e possibilidade de granizo a partir da madrugada desta quinta-feira (12)",
+  "link": "https://www.megacidade.com/noticia/70416/sete-lagoas-e-regiao-estao-sob-alerta-para-chuva-forte-e-possibilidade-de-granizo-a-partir-da-madrugada-desta-quinta-feira-12",
+  "fonte": "Mega Cidade",
+  "arte": "artes/2026-11-11/211138_19.jpg",
+  "media_id": "18352466314250549"
  }
 ]
