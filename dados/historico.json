@@ -30113,5 +30113,19 @@
   "fonte": "R7 Esportes",
   "arte": "artes/2026-11-11/181847_222.jpg",
   "media_id": "17955114261337570"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "16:07",
+  "id": "181850_256",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Ameaçado pelo Irã, secretário do Tesouro dos EUA deixa a casa e passa a morar em base militar",
+  "titulo_orig": "Secretário do Tesouro dos Estados Unidos se muda para base militar após ameaça do Irã, diz jornal | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/11/secretario-do-tesouro-dos-estados-unidos-se-muda-para-base-militar-apos-ameaca-do-ira-afirma-nyt.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-11/181850_256.jpg",
+  "media_id": "18043969022839215"
  }
 ]
