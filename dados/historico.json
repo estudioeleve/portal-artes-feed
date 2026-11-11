@@ -28181,5 +28181,19 @@
   "fonte": "G1",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "23:25",
+  "id": "021131_36",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Petrobras lucra R$ 39,8 bilhões no 3º trimestre, alta de 21,5%, e bate recorde de produção de diesel",
+  "titulo_orig": "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-10/021131_36.jpg",
+  "media_id": "17916653961495559"
  }
 ]
