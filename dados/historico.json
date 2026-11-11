@@ -27719,5 +27719,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-10/231143_121.jpg",
   "media_id": "18106821230201564"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "21:02",
+  "id": "231133_34",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "PBH fiscaliza pneus de ônibus na porta das garagens e tira dois veículos de circulação",
+  "titulo_orig": "Em mais uma Operação Tolerância Zero, PBH fiscaliza condições dos pneus de ônibus em garagens de BH",
+  "link": "https://prefeitura.pbh.gov.br/noticias/em-mais-uma-operacao-tolerancia-zero-pbh-fiscaliza-condicoes-dos-pneus-de-onibus-em",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "artes/2026-11-10/231133_34.jpg",
+  "media_id": "18134506273688678"
  }
 ]
