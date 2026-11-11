@@ -30477,5 +30477,19 @@
   "fonte": "R7",
   "arte": "artes/2026-11-11/201117_145.jpg",
   "media_id": "18344359111279121"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "17:53",
+  "id": "201121_137",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista, atenção: golpes na Black Friday podem tirar dinheiro do caixa até semanas depois da venda",
+  "titulo_orig": "Black Friday: golpes ameaçam lojistas e podem gerar prejuízos até semanas após as vendas",
+  "link": "https://www.dm.com.br/economia/black-friday-golpes-ameacam-lojistas-e-podem-gerar-prejuizos-ate-semanas-apos-as-vendas/",
+  "fonte": "Diário da Manhã",
+  "arte": "artes/2026-11-11/201121_137.jpg",
+  "media_id": "18116344396858639"
  }
 ]
