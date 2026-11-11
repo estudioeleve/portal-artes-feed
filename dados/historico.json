@@ -30673,5 +30673,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-11/211130_14.jpg",
   "media_id": "18120469070081343"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "19:04",
+  "id": "211224_79",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "TCU aponta que 84 milhões de brasileiros ficaram fora do Gov.br e cobra atendimento presencial",
+  "titulo_orig": "TCU:  84 milhões de brasileiros não usam o Gov.br, que falha no atendimento presencial a quem precisa - ConvergenciaDigital",
+  "link": "https://convergenciadigital.com.br/governo/tcu-84-milhoes-de-brasileiros-nao-usam-o-gov-br-que-falha-no-atendimento-presencial-a-quem-precisa/",
+  "fonte": "ConvergenciaDigital",
+  "arte": "artes/2026-11-11/211224_79.jpg",
+  "media_id": "17976550938184397"
  }
 ]
