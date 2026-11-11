@@ -30827,5 +30827,19 @@
   "fonte": "G1",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "19:37",
+  "id": "221208_16",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Câmara de BH aprova sensor de glicose grátis para mais pacientes e exame de vista nas escolas",
+  "titulo_orig": "BH amplia acesso a sensores de glicose e prevê exames oftalmológicos nas escolas | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/bh-amplia-acesso-a-sensores-de-glicose-e-preve-exames-oftalmologicos-nas-escolas/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-11/221208_16.jpg",
+  "media_id": "18147470254607833"
  }
 ]
