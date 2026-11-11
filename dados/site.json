@@ -1,29 +1,5 @@
 [
  {
-  "id": "132606_145",
-  "data": "2026-11-09T10:26:34-03:00",
-  "titulo": "Fã passa mal e morre durante show de Fábio Jr. no interior de São Paulo; cantor lamenta \"imensa dor\"",
-  "linha_fina": "Sheila Cruz Martins foi socorrida na apresentação em Jaguariúna, no sábado; artista só soube do caso depois do show.",
-  "categoria": "entretenimento",
-  "texto": "<p>Uma fã do cantor Fábio Jr. morreu depois de passar mal durante um show do artista em Jaguariúna, no interior de São Paulo, no sábado (7). Sheila Cruz Martins recebeu atendimento médico no local da apresentação, o espaço Red Eventos, mas não resistiu.</p><p>A morte foi confirmada no domingo (8) em um comunicado publicado nas redes sociais oficiais do cantor. Segundo a nota, Fábio Jr. e a equipe só foram informados do que tinha acontecido depois do fim do show, quando foram procurados por familiares da fã.</p><p>\"Fábio Jr e toda a sua equipe lamentam profundamente o falecimento de Sheila Cruz Martins. Durante a apresentação realizada ontem, em Jaguariúna, Sheila passou mal e precisou de atendimento médico\", diz o texto, que fala em \"imensa dor\" e manifesta solidariedade à família.</p><p>A causa da morte não foi divulgada. A organização do evento não detalhou como foi o atendimento prestado à fã durante o show.</p><p>Nas redes sociais, fãs do cantor deixaram mensagens de pesar e de apoio aos familiares de Sheila.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/132606_145.jpg",
-  "credito_foto": "Reprodução/Globo/Terra",
-  "fonte": "Terra",
-  "resumos": ""
- },
- {
-  "id": "132706_47",
-  "data": "2026-11-09T10:27:29-03:00",
-  "titulo": "Depois do fiasco republicano nas eleições, extrema direita europeia se afasta de Trump de olho nas próprias urnas",
-  "linha_fina": "Meloni e Le Pen mostram cautela com o aliado americano; Espanha, Itália, França, Grécia e Polônia terão eleições em breve.",
-  "categoria": "mundo",
-  "texto": "<p>Com eleições se aproximando na Espanha, na Itália, na França, na Grécia e na Polônia, líderes da extrema direita europeia têm preferido manter distância do presidente dos Estados Unidos, Donald Trump. O movimento ganhou força depois do mau resultado dos republicanos nas eleições de meio de mandato, segundo análise publicada pelo g1.</p><p>Políticos populistas que até pouco tempo elogiavam Trump agora evitam ser associados a ele, com medo de perder votos de eleitores insatisfeitos.</p><p>A primeira-ministra da Itália, Giorgia Meloni, e a francesa Marine Le Pen, da Reunião Nacional, dividem com Trump bandeiras como a política rígida contra a imigração, mas ambas têm mostrado cautela com o aliado americano.</p><p>Favorita para as eleições presidenciais de maio do ano que vem na França, Le Pen tenta aproveitar o descontentamento com a alta do custo de vida, que levou a grandes protestos no país nas últimas semanas. Sem citar Trump, o presidente do partido, Jordan Bardella, atribuiu à guerra dos Estados Unidos contra o Irã os efeitos sentidos nas economias do mundo.</p><p>Isolado pelos partidos tradicionais europeus, Trump agora também enfrenta a indiferença de antigos parceiros ideológicos no continente.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/132706_47.jpg",
-  "credito_foto": "Eric Lee/Reuters/g1",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "132657_14",
   "data": "2026-11-09T10:27:29-03:00",
   "titulo": "Belutti quebrou vértebras no acidente com Porsche, revela a esposa; cantor já está em casa",
@@ -4797,6 +4773,30 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/011906_161.jpg",
   "credito_foto": "Foto: Reprodução/g1",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "021103_2",
+  "data": "2026-11-10T23:15:29-03:00",
+  "titulo": "Cruzeiro aceita vender Gabigol em definitivo, mas só com proposta boa; novo empréstimo fica fora",
+  "linha_fina": "Emprestado ao Santos até dezembro, atacante tem contrato com a Raposa até 2028 e futuro indefinido para 2027.",
+  "categoria": "cruzeiro",
+  "texto": "<p>O Cruzeiro admite negociar o atacante Gabigol em definitivo, desde que receba uma proposta considerada vantajosa para o clube e para o jogador. A informação foi publicada nesta terça-feira (10) e mexe com o planejamento celeste para 2027.</p>\n<p>Gabigol está emprestado ao Santos até dezembro e vive um bom momento no clube paulista, que o revelou. O contrato dele com o Cruzeiro vai até dezembro de 2028. Se não houver um novo acordo, o atacante volta a Belo Horizonte quando o empréstimo terminar.</p>\n<p>Segundo a apuração, a diretoria cruzeirense não pretende manter a divisão dos salários num eventual novo empréstimo. A preferência é por uma negociação definitiva, que alivie a folha do clube e traga retorno financeiro.</p>\n<p>Até agora, não existe proposta formal nem valor de compra fixado. O Cruzeiro também não foi procurado oficialmente pelo Santos. A diretoria santista pretende abrir conversas somente depois do fim do Brasileirão, dependendo do cenário financeiro, da eleição do clube e da vontade do atleta.</p>\n<p>Desde que voltou à Vila Belmiro, Gabigol ganhou destaque e soma gols importantes na temporada, o que aumenta o interesse do Santos em mantê-lo.</p>\n<p>A definição deve ficar para as próximas semanas, depois da última rodada do Campeonato Brasileiro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/021103_2.jpg",
+  "credito_foto": "Gustavo Aleixo/Cruzeiro",
+  "fonte": "Terra",
+  "resumos": ""
+ },
+ {
+  "id": "021131_36",
+  "data": "2026-11-10T23:15:29-03:00",
+  "titulo": "Petrobras lucra R$ 39,8 bilhões no 3º trimestre, alta de 21,5%, e bate recorde de produção de diesel",
+  "linha_fina": "Estatal aprovou R$ 15,3 bilhões em dividendos, que serão pagos em fevereiro e março de 2027.",
+  "categoria": "brasil",
+  "texto": "<p>A Petrobras registrou lucro líquido de R$ 39,8 bilhões no terceiro trimestre de 2026, alta de 21,5% em relação ao mesmo período do ano passado. O balanço foi divulgado nesta terça-feira (10).</p>\n<p>O fluxo de caixa operacional da companhia somou R$ 61,8 bilhões, o equivalente a US$ 12 bilhões, crescimento de 15% em doze meses. No período, os investimentos chegaram a R$ 33 bilhões, sendo R$ 27,5 bilhões em exploração e produção, com construção de plataformas e interligação de poços.</p>\n<p>A presidente da estatal, Magda Chambriard, afirmou que a empresa revisou para cima a previsão de produção. A projeção inicial era encerrar o ano com média de 3,1 milhões de barris de óleo equivalente por dia; agora, a estimativa é de 3,3 a 3,4 milhões.</p>\n<p>Em 2026, a Petrobras bateu recorde trimestral de produção de óleo três vezes seguidas. Onze plataformas foram autorizadas a operar acima da capacidade original, sem investimento extra.</p>\n<p>As vendas de derivados no mercado interno chegaram a 1,85 milhão de barris por dia, o maior volume desde o terceiro trimestre de 2021. A produção de diesel também foi recorde: 769 mil barris por dia.</p>\n<p>A companhia aprovou R$ 15,3 bilhões em dividendos e juros sobre capital próprio, que serão divididos entre acionistas privados e públicos. O pagamento será feito em duas parcelas, em 22 de fevereiro e em 22 de março de 2027.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/021131_36.jpg",
+  "credito_foto": "Petrobras/Divulgação",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
