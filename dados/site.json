@@ -1,17 +1,5 @@
 [
  {
-  "id": "001351_23",
-  "data": "2026-11-09T21:18:45-03:00",
-  "titulo": "Chuvas no Sul deixam feridos, centenas de desabrigados e 1.500 casas destelhadas em Bento Gonçalves",
-  "linha_fina": "Santa Catarina tem 278 desabrigados e 11 cidades em situação de emergência; força-tarefa distribui cestas, colchões e telhas.",
-  "categoria": "brasil",
-  "texto": "<p>Dezenas de cidades da Região Sul do país montaram forças-tarefas para atender a população atingida pelas chuvas que caíram entre quinta-feira (5) e sábado (7). Há distribuição de cestas básicas, colchões, kits de higiene e telhas para as famílias afetadas.</p><p>Os três estados da região tiveram chuva forte, vendavais, enxurradas e granizo, em um cenário influenciado pelo El Niño. No Rio Grande do Sul, a situação mais grave foi em Bento Gonçalves, onde três pessoas ficaram feridas e cerca de 1.500 casas foram destelhadas. Cacique Doble e Pontão também tiveram casas alagadas. Segundo a Defesa Civil gaúcha, o estado tem 42 pessoas desalojadas e quatro desabrigadas.</p><p>Em Santa Catarina, as chuvas deixaram 278 pessoas desabrigadas e 75 desalojadas. Foi decretada situação de emergência em 11 cidades: Abdon Batista, Agronômica, Bocaina do Sul, Cerro Negro, Laurentino, Nova Erechim, Papanduva, Ponte Alta do Norte, Rio do Oeste, São José do Cerrito e Vargem.</p><p>Rio do Sul, no Alto Vale do Itajaí, concentra o maior número de danos, com cerca de 580 moradias atingidas e 190 pessoas desabrigadas. Em Blumenau, foram 43 ocorrências, entre deslizamentos, alagamentos, enxurradas e quedas de árvores e muros.</p><p>Abdon Batista, Bocaina do Sul e Vargem pediram ajuda humanitária ao governo catarinense, com itens como colchões, cestas básicas, kits de limpeza e água potável. Em Lages, a prefeitura pediu aos moradores que evitem o desperdício de água, porque há risco de racionamento.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/001351_23.jpg",
-  "credito_foto": "Divulgação/Prefeitura RS/Agência Brasil",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "001404_33",
   "data": "2026-11-09T21:18:45-03:00",
   "titulo": "Cruzeiro chega à Data Fifa com a maior sequência de vitórias do ano e quase garantido na Libertadores",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/182858_136.jpg",
   "credito_foto": "Transpetro/Divulgação/Agência Brasil",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "184600_consciencia",
+  "data": "2026-11-11T15:46:19-03:00",
+  "titulo": "Santa Luzia abre indicações para homenagear 16 personalidades no Dia da Consciência Negra",
+  "linha_fina": "Indicações vão até 16 de novembro pelo app Conecta Santa Luzia; homenagem será no dia 20, na Praça da Juventude.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Prefeitura de Santa Luzia, por meio da Secretaria Municipal da Cultura e do Turismo, convida a população a indicar personalidades, vivas ou in memoriam, com trajetória ligada aos objetivos do Dia da Consciência Negra. Os escolhidos serão homenageados em 20 de novembro.</p>\n<p>As indicações podem ser feitas de 11 a 16 de novembro de 2026, exclusivamente pelo aplicativo Conecta Santa Luzia. A votação é restrita a pessoas com 18 anos ou mais.</p>\n<p>Os 16 nomes mais votados serão homenageados. Em caso de empate, a prefeitura fará um sorteio público para definir os escolhidos.</p>\n<p>A homenagem e uma exposição de fotos vão acontecer em 20 de novembro de 2026, Dia da Consciência Negra, na Praça da Juventude, em Santa Luzia. O material de divulgação da prefeitura não informa o horário do evento.</p>\n<p>A iniciativa busca reconhecer moradores e figuras importantes da cidade que contribuíram para a valorização da cultura afro-brasileira, a luta contra o racismo e a promoção da igualdade racial. Quem quiser participar deve baixar o aplicativo Conecta Santa Luzia e enviar a indicação dentro do prazo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/184600_consciencia.jpg",
+  "credito_foto": "Divulgação/Prefeitura de Santa Luzia",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
