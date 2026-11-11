@@ -1,17 +1,5 @@
 [
  {
-  "id": "162023_33",
-  "data": "2026-11-09T13:25:04-03:00",
-  "titulo": "Operação mira grupo que vendia diploma falso pela internet com entrega em casa; alvos em Minas e Goiás",
-  "linha_fina": "Site oferecia diplomas de ensino médio, técnico e superior por R$ 2 mil a R$ 3 mil; celulares e notebooks foram apreendidos.",
-  "categoria": "minas-gerais",
-  "texto": "<p>A Polícia Civil do Rio de Janeiro deflagrou nesta segunda-feira (9/11) a operação Falso Saber, contra um grupo suspeito de vender diplomas falsos pela internet. Foram cumpridos mandados de busca e apreensão contra quatro investigados que moram em Goiás e em Minas Gerais, com apoio das polícias civis dos dois estados.</p><p>A investigação começou a partir de uma denúncia ao Ministério Público feita por um morador do Rio que disse ter se arrependido de contratar o serviço. Ele apresentou capturas de tela do diploma, que podia ser encomendado por um site cujo próprio endereço já indicava a atividade.</p><p>Segundo a polícia, a página oferecia diplomas de ensino médio, cursos tecnológicos e graduação por valores entre R$ 2 mil e R$ 3 mil, com atendimento por aplicativo de mensagens e promessa de entrega em casa \"com discrição\". Para parecer confiável, o site dizia ter mais de 15 anos no mercado, mais de 200 cursos e milhares de clientes.</p><p>Após a quebra de sigilo telemático da conta, do canal de atendimento e do domínio, os investigadores identificaram pelo menos quatro suspeitos. Nas buscas em Goiás, foram apreendidos sete celulares e dois notebooks. Segundo a polícia, um dos alvos tentou destruir o telefone jogando-o no chão, mas o aparelho foi danificado só em parte.</p><p>O endereço do investigado que mora em Minas Gerais não foi localizado pelos agentes.</p><p>O material apreendido passará por perícia para esclarecer a participação de cada suspeito e a possível existência de outros envolvidos. A operação é da Delegacia de Repressão aos Crimes de Informática do Rio.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-09/162023_33.jpg",
-  "credito_foto": "Foto: Divulgação/Polícia Civil",
-  "fonte": "Extra",
-  "resumos": ""
- },
- {
   "id": "162014_85",
   "data": "2026-11-09T13:25:04-03:00",
   "titulo": "Massa de ar polar derruba temperaturas em BH, e semana deve ser de frio com chuva fraca",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/101657_html.jpg",
   "credito_foto": "Imagem ilustrativa: Caroline Ferraz/Sul21",
   "fonte": "Estado de Minas",
+  "resumos": ""
+ },
+ {
+  "id": "101857_71",
+  "data": "2026-11-11T07:19:22-03:00",
+  "titulo": "Com medo de traição no PL, Marinho quer que senadores mostrem a cédula na eleição para o Senado",
+  "linha_fina": "Candidato do PL à presidência da Casa defende exposição voluntária dos votos; eleição de fevereiro é secreta e exige 41 dos 81 senadores.",
+  "categoria": "politica",
+  "texto": "<p>O senador Rogério Marinho (PL-RN), candidato do PL à presidência do Senado, tem defendido em conversas com aliados que os integrantes da bancada exponham as cédulas de voto na eleição para o comando da Casa, marcada para fevereiro de 2027. A informação foi publicada nesta quarta-feira (11) pelo jornal O Globo.</p><p>A ideia surge diante do risco de dissidências. Embora o PL tenha conquistado o maior número de cadeiras no Senado nas eleições de outubro, aliados de Marinho reconhecem, reservadamente, que nem todos os parlamentares contados inicialmente devem seguir a orientação do partido. Como a votação é secreta, eventuais traições não poderiam ser identificadas.</p><p>Marinho, no entanto, descarta impor a exposição dos votos. A medida é tratada como uma demonstração voluntária de apoio, sem punição para quem preferir manter o sigilo. O senador Efraim Filho (PL-PB), que coordena a campanha, também rejeita qualquer obrigatoriedade. Procurado, Marinho não se manifestou.</p><p>Para vencer, o candidato precisa de maioria absoluta: 41 dos 81 senadores. Mesmo com a maior bancada, Marinho terá de buscar votos em outros partidos.</p><p>A senadora Tereza Cristina (PP-MS) também se movimenta para a disputa e é vista por parte da oposição como um nome com mais diálogo com o centro. O atual presidente, Davi Alcolumbre (União Brasil-AP), articula a reeleição com apoio da base governista.</p><p>Nos bastidores, aliados de Marinho e de Tereza Cristina discutem um possível entendimento para não dividir os votos da oposição, comparando as projeções de apoio mais perto da eleição.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/101857_71.jpg",
+  "credito_foto": "Foto: Ton Molina/Agência Senado",
+  "fonte": "O Globo",
   "resumos": ""
  }
 ]
