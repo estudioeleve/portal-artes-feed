@@ -30617,5 +30617,19 @@
   "fonte": "Mega Cidade",
   "arte": "artes/2026-11-11/211138_19.jpg",
   "media_id": "18352466314250549"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "18:26",
+  "id": "211125_41",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Engavetamento com 11 veículos após protesto deixa a BR-040 com 14 km de fila em Itabirito",
+  "titulo_orig": "BR-040, em Itabirito, tem congestionamento de 14 km no sentido BH e 12 km no sentido RJ | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/br-040-em-itabirito-tem-congestionamento-de-14-km-no-sentido-bh-e-12-km-no-sentido-rj/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-11/211125_41.jpg",
+  "media_id": "17876005191602032"
  }
 ]
