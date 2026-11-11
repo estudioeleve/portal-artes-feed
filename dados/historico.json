@@ -31051,5 +31051,19 @@
   "fonte": "Portal 6",
   "arte": "artes/2026-11-11/231325_52.jpg",
   "media_id": "17912075139665481"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "20:58",
+  "id": "231351_51",
+  "bloco": "bh",
+  "portal": "politica",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Prefeitura de BH recebe cônsul do Canadá e busca parcerias em tecnologia e energia limpa",
+  "titulo_orig": "Belo Horizonte busca parcerias com o Canadá nas áreas de tecnologia, mineração e energia limpa",
+  "link": "https://prefeitura.pbh.gov.br/noticias/belo-horizonte-busca-parcerias-com-o-canada-nas-areas-de-tecnologia-mineracao-e-energia",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "artes/2026-11-11/231351_51.jpg",
+  "media_id": "18135076483707038"
  }
 ]
