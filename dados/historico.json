@@ -29875,5 +29875,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-11/171431_45.jpg",
   "media_id": "18469797016138465"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "14:38",
+  "id": "171439_17",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF forma maioria para permitir que faculdades municipais cobrem mensalidade em cursos novos",
+  "titulo_orig": "STF forma maioria para permitir mensalidades em faculdades municipais",
+  "link": "https://jurinews.com.br/stf-noticias/stf-forma-maioria-para-permitir-mensalidades-em-faculdades-municipais",
+  "fonte": "Jurinews",
+  "arte": "artes/2026-11-11/171439_17.jpg",
+  "media_id": "18124707694911779"
  }
 ]
