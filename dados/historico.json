@@ -28573,5 +28573,19 @@
   "fonte": "Fato Paulista",
   "arte": "artes/2026-11-11/101204_65.jpg",
   "media_id": "18137159449737816"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "07:45",
+  "id": "101334_60",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "É falso que o governo anunciou a volta do DPVAT: vídeo que viralizou é reportagem de 2024",
+  "titulo_orig": "Governo Lula não anunciou volta do seguro DPVAT para 2027 | G1",
+  "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/11/e-fake-que-governo-lula-anunciou-volta-do-seguro-dpvat-video-exibe-reportagem-de-2024.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-11/101334_60.jpg",
+  "media_id": "18115521191130104"
  }
 ]
