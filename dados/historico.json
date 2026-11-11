@@ -29861,5 +29861,19 @@
   "fonte": "Fato Real",
   "arte": "artes/2026-11-11/171401_8.jpg",
   "media_id": "18053147396819687"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "14:29",
+  "id": "171431_45",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista, atenção: 85,8% das famílias de BH estão endividadas e o cartão de crédito lidera as dívidas",
+  "titulo_orig": "Endividamento segue acima dos 85% entre os moradores de Belo Horizonte\n",
+  "link": "https://www.otempo.com.br/economia/2026/11/11/endividamento-segue-acima-dos-85-entre-os-moradores-de-belo-horizonte",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-11/171431_45.jpg",
+  "media_id": "18469797016138465"
  }
 ]
