@@ -29889,5 +29889,33 @@
   "fonte": "Jurinews",
   "arte": "artes/2026-11-11/171439_17.jpg",
   "media_id": "18124707694911779"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "14:46",
+  "id": "171509_43",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Produção de veículos passa de 250 mil unidades em outubro e vendas sobem 16% no ano, diz Anfavea",
+  "titulo_orig": "Em alta, produção de veículos ultrapassa 250 mil unidades em outubro",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/em-alta-producao-de-veiculos-ultrapassa-250-mil-unidades-em-outubro",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-11/171509_43.jpg",
+  "media_id": "18108463526196691"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "14:46",
+  "id": "171508_131",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Receita vai propor adiar em um mês a cobrança da CBS; empresas pedem o novo imposto só em 2028",
+  "titulo_orig": "Governo vai propor adiamento da cobrança da CBS para fevereiro",
+  "link": "https://www.poder360.com.br/poder-economia/governo-propora-adiar-para-fevereiro-cobrar-cbs/",
+  "fonte": "Poder360",
+  "arte": "artes/2026-11-11/171508_131.jpg",
+  "media_id": "SITE"
  }
 ]
