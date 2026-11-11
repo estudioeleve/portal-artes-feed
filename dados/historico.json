@@ -27845,5 +27845,33 @@
   "fonte": "Prefeitura de Belo Horizonte",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "21:20",
+  "id": "001936_398",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Documentos do Hospital João XXIII apontam falta de seringas e agulhas e verba 43% menor para remédios",
+  "titulo_orig": "Hospital João XXIII em BH: Documentos revelam falta de materiais | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/10/documentos-do-hospital-joao-xxiii-apontam-falta-de-materiais-e-de-verba-para-medicamentos-em-bh.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "21:20",
+  "id": "002005_282",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "TCE-MG mantém suspenso o patrocínio de R$ 32 milhões do Governo de Minas a Atlético, Cruzeiro e América",
+  "titulo_orig": "TCE-MG mantém suspensão de patrocínio do Governo de Minas a clubes",
+  "link": "https://www.n3news.com.br/2026/11/tce-mg-mantem-suspensao-de-patrocinio-a-clubes",
+  "fonte": "www.n3news.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
