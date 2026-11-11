@@ -29707,5 +29707,19 @@
   "fonte": "SouBH",
   "arte": "artes/2026-11-11/161349_56.jpg",
   "media_id": "18112436618221814"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "13:46",
+  "id": "161310_73",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Comissão do Senado aprova levar incentivos da Lei do Bem a micro e pequenas empresas do Simples",
+  "titulo_orig": "CCT estende incentivos fiscais a startups e micro e pequenas empresas",
+  "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cct-estende-incentivos-fiscais-a-startups-e-micro-e-pequenas-empresas",
+  "fonte": "Senado",
+  "arte": "artes/2026-11-11/161310_73.jpg",
+  "media_id": "18015814262762960"
  }
 ]
