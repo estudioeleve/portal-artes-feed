@@ -1,17 +1,5 @@
 [
  {
-  "id": "184500_lojaeletrica",
-  "data": "2026-11-10T15:45:47-03:00",
-  "titulo": "Loja Elétrica nega ter suspendido centro de distribuição em Pedro Leopoldo",
-  "linha_fina": "Empresa diz que o projeto já tem licença do ICMBio, está na fase final de aprovação na Prefeitura e segue o planejamento previsto.",
-  "categoria": "pedro-leopoldo",
-  "texto": "<p>A Loja Elétrica afirmou que o projeto de implantação do seu novo Centro de Distribuição em Pedro Leopoldo, na Região Metropolitana de Belo Horizonte, continua em andamento. Segundo a empresa, não houve nenhuma decisão de suspender o empreendimento, que segue o planejamento estratégico previsto.</p><p>Em esclarecimento divulgado nesta terça-feira (10), a empresa informou que o projeto já tem o licenciamento do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) e está na fase final de aprovação na Prefeitura de Pedro Leopoldo.</p><p>De acordo com a Loja Elétrica, o empreendimento envolve procedimentos técnicos e exigências específicas, principalmente por causa das características ambientais da região.</p><p>A empresa também reforçou o compromisso com os investimentos e com a expansão das suas atividades em Minas Gerais, respeitando as condições necessárias para que o projeto seja viável.</p><p>O posicionamento foi publicado depois que circularam informações de que o projeto do Centro de Distribuição, estimado em R$ 200 milhões, teria sido congelado. Com o esclarecimento, a empresa afirma que o cronograma segue mantido e que a próxima etapa é a conclusão da aprovação municipal.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/184500_lojaeletrica.jpg",
-  "credito_foto": "Divulgação/Loja Elétrica",
-  "fonte": "Prefeitura de Pedro Leopoldo e Loja Elétrica",
-  "resumos": ""
- },
- {
   "id": "191634_59",
   "data": "2026-11-10T16:21:09-03:00",
   "titulo": "Irmãos de 11 e 9 anos fecham portas e janelas, seguram o fogo e salvam a mãe e os vizinhos em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/121523_31.jpg",
   "credito_foto": "Foto: Reuters/Heiko Becker",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "122229_ado",
+  "data": "2026-11-12T09:23:14-03:00",
+  "titulo": "Dia dos Supermercados: Minas é o 2º maior mercado do país, e redes associativas ganham força",
+  "linha_fina": "Estado faturou R$ 68,3 bilhões e tem 11 redes bilionárias; união de pequenos supermercados em redes associativas soma 883 empresas.",
+  "categoria": "comercio",
+  "texto": "<p>O Dia dos Supermercados é celebrado nesta quinta-feira (12), e Minas Gerais aparece como o segundo maior mercado do varejo alimentar do Brasil. O estado responde por 9,4% do faturamento de R$ 1,145 trilhão registrado pelo setor supermercadista no país, atrás apenas de São Paulo, que concentra 45%. O varejo alimentar representa 9,02% do Produto Interno Bruto (PIB) nacional.</p><p>De acordo com o Ranking Abras 2026, da Associação Brasileira de Supermercados, os supermercados mineiros encerraram o ano passado com receita de R$ 68,3 bilhões. Minas também é o segundo estado em número de lojas, com 1.604 estabelecimentos em 2025.</p><p>A pesquisa, feita em parceria com a NielsenIQ, identificou 89 redes com faturamento igual ou superior a R$ 1 bilhão no país. Minas tem 11 delas, atrás apenas de São Paulo, com 27. Em 2011, o estado tinha só três empresas bilionárias no setor. Juntas, as 11 redes mineiras faturaram R$ 81,6 bilhões.</p><p>Para os pequenos e médios supermercados, uma das saídas para competir com as grandes redes tem sido o associativismo. O modelo permite que varejistas independentes se unam para comprar, negociar e fazer ações em conjunto, sem perder a autonomia jurídica e de gestão.</p><p>Segundo a Abras, Minas reúne oito redes associativas entre as maiores do país, que faturaram R$ 21,9 bilhões em 2024, quase 17% do total das 42 maiores centrais de negócios brasileiras. São 883 empresas associadas no estado, com 1.059 lojas e 48.095 funcionários. Seis dessas redes já faturam mais de R$ 1 bilhão.</p><p>Para o comerciante do setor, os números mostram que a união com outros varejistas pode ser um caminho para ganhar poder de compra e competir em preço.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/122229_ado.jpg",
+  "credito_foto": "Foto: Divulgação/Bigmais Supermercados",
+  "fonte": "Diário do Comércio / Abras",
   "resumos": ""
  }
 ]
