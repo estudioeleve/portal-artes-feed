@@ -32675,5 +32675,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "11:21",
+  "id": "142036_62",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "MEI tem orientação de contador de graça: programa federal já fez 16,5 mil atendimentos no país",
+  "titulo_orig": "Orientação contábil atende 16,5 mil MEIs",
+  "link": "https://arenadenoticias.com.br/noticia/185238/orientacao-contabil-atende-16-5-mil-meis",
+  "fonte": "Arena de Notícias",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "11:21",
+  "id": "142032_97",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Semana Internacional do Café reúne mais de 200 expositores no Expominas, em BH, até sexta",
+  "titulo_orig": "Semana Internacional do Café reúne toda cadeia em busca de novidades e tecnologia, em Belo Horizonte",
+  "link": "https://noticias.r7.com/minas-gerais/mg-record/video/semana-internacional-do-cafe-reune-toda-cadeia-em-busca-de-novidades-e-tecnologia-em-belo-horizonte-12112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
