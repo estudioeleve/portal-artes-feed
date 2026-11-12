@@ -32339,5 +32339,19 @@
   "fonte": "diariodocomercio.com.br",
   "arte": "artes/2026-11-12/122229_ado.jpg",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "09:34",
+  "id": "121357_50",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Frio perde força em BH nesta quinta, mas Inmet alerta para temporal com granizo à tarde",
+  "titulo_orig": "Frio começa a perder força em BH, e dia pode ter chuva forte à tarde; veja previsão",
+  "link": "https://bhaz.com.br/noticias/bh/frio-perde-forca-bh-maxima-28c-e-chuva-tarde/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-12/121357_50.jpg",
+  "media_id": "18386011813232942"
  }
 ]
