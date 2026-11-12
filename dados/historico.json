@@ -33263,5 +33263,33 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-12/171641_1.jpg",
   "media_id": "18622140850067038"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "14:25",
+  "id": "172403_63",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo Lula quer tirar até R$ 10,5 bilhões da subvenção ao diesel da meta fiscal para evitar novo congelamento de gastos",
+  "titulo_orig": "Governo quer tirar subvenção ao diesel da meta fiscal para evitar contenção extra de gastos neste ano",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/governo-quer-tirar-subvencao-ao-diesel-da-meta-fiscal-para-evitar-contencao-extra-de-gastos-neste-ano.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "14:25",
+  "id": "172407_104",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ala do PT tenta barrar Camilo Santana na Casa Civil depois de emenda pela redução da maioridade penal",
+  "titulo_orig": "Ala do PT quer barrar Camilo Santana na Casa Civil após racha sobre redução da maioridade penal",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/ala-do-pt-quer-barrar-camilo-santana-na-casa-civil-apos-racha-sobre-reducao-da-maioridade-penal.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
