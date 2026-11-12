@@ -32381,5 +32381,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-12/121403_72.jpg",
   "media_id": "18153545752474206"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "10:01",
+  "id": "121421_37",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF suspende mais de 7,7 mil ações de hospitais que cobram na Justiça o reajuste da tabela do SUS",
+  "titulo_orig": "STF suspende processos sobre reajuste da tabela do SUS",
+  "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-11/stf-suspende-processos-sobre-reajuste-da-tabela-do-sus",
+  "fonte": "Agência Brasil",
+  "arte": "artes/2026-11-12/121421_37.jpg",
+  "media_id": "18122682203069075"
  }
 ]
