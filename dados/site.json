@@ -1,17 +1,5 @@
 [
  {
-  "id": "191742_20",
-  "data": "2026-11-10T16:26:02-03:00",
-  "titulo": "Igam lança portal que mostra quanto cada cidade e setor paga pelo uso da água em Minas",
-  "linha_fina": "Plataforma reúne dados de 2010 a 2026 sobre valores cobrados, arrecadados e em aberto nas bacias hidrográficas do estado.",
-  "categoria": "minas-gerais",
-  "texto": "<p>O Governo de Minas, por meio do Instituto Mineiro de Gestão das Águas (Igam), lançou o Portal de Consulta da Cobrança pelo Uso de Recursos Hídricos (CRH). A ferramenta reúne informações de 2010 a 2026 sobre os valores cobrados, arrecadados e ainda pendentes pelo uso da água no estado.</p><p>As consultas podem ser feitas por bacia hidrográfica, por município e por segmento produtivo. Os dados aparecem de forma agregada, sem exposição de informações individuais de quem paga, em respeito à Lei Geral de Proteção de Dados (LGPD).</p><p>O portal tem mais de 173 mil registros de parcelas emitidas. No histórico, são mais de R$ 1,05 bilhão em valores cobrados e R$ 778,5 milhões arrecadados. As informações estão organizadas pelas dez bacias federais que passam por Minas e pelas 36 Circunscrições Hidrográficas do estado.</p><p>Entre as funções estão gráficos por setor, como saneamento, área rural, indústria e mineração, e um painel que classifica os 853 municípios mineiros pela inadimplência: baixa (até 25%), média (de 25% a 50%) e crítica (acima de 50%). Também é possível baixar os dados em planilha.</p><p>Segundo o diretor-geral do Igam, Marcelo da Fonseca, a cobrança não tem caráter punitivo nem arrecadatório. Ele afirma que 100% do valor arrecadado volta para investimentos nas próprias bacias e que a plataforma reforça a transparência.</p><p>A ideia é que o portal ajude os Comitês e as Agências de Bacia a planejar ações e enfrentar a inadimplência, que reduz o dinheiro disponível para obras e projetos de preservação dos rios.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/191742_20.jpg",
-  "credito_foto": "Evandro Rodney/IEF",
-  "fonte": "Agência Minas",
-  "resumos": ""
- },
- {
   "id": "191746_93",
   "data": "2026-11-10T16:26:02-03:00",
   "titulo": "Anvisa manda apreender suplementos vendidos sem registro, incluindo colostro bovino e marca anunciada na Shopee",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/131640_125.jpg",
   "credito_foto": "Foto: Andressa Anholete/STF",
   "fonte": "STF / Jurinews",
+  "resumos": ""
+ },
+ {
+  "id": "131444_59",
+  "data": "2026-11-12T10:21:34-03:00",
+  "titulo": "Escolas de BH ganham semana para prevenir violência contra a mulher; lei foi publicada hoje",
+  "linha_fina": "Lei 12.172 cria atividades anuais na primeira semana de agosto na rede municipal, com palestras, rodas de conversa e canais de denúncia.",
+  "categoria": "educacao",
+  "texto": "<p>As escolas da rede municipal de Belo Horizonte vão poder desenvolver, todos os anos, atividades de prevenção e combate à violência contra a mulher durante a primeira semana de agosto. A medida está na Lei nº 12.172, publicada no Diário Oficial do Município (DOM) desta quinta-feira (12) e sancionada pelo prefeito Álvaro Damião.</p><p>A nova lei inclui a Semana Municipal Escolar de Prevenção e Combate à Violência contra a Mulher no calendário de datas comemorativas da capital. A iniciativa complementa a legislação federal, que já prevê uma semana escolar sobre o tema no mês de março.</p><p>As atividades poderão ser trabalhadas de forma interdisciplinar e educativa pelas escolas, respeitando a autonomia administrativa e pedagógica de cada unidade, além da faixa etária e do grau de desenvolvimento dos estudantes.</p><p>O objetivo é conscientizar a comunidade escolar sobre as diferentes formas de violência contra a mulher e divulgar os direitos das mulheres, as medidas de proteção, os canais de denúncia e os serviços de atendimento e acolhimento. A lei também quer ajudar os alunos a reconhecer situações de violência e a buscar ajuda de forma segura, além de divulgar a Lei Maria da Penha.</p><p>Durante a semana, as escolas poderão promover palestras, seminários, debates, rodas de conversa, atividades pedagógicas, campanhas educativas, oficinas e apresentações culturais, e produzir materiais informativos. Órgãos públicos, instituições de ensino, entidades privadas, organizações da sociedade civil e profissionais da área poderão participar de forma voluntária.</p><p>A lei tem origem no Projeto de Lei nº 861/26, de autoria do vereador Edmar Branco, e já está em vigor desde a data de publicação.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/131444_59.jpg",
+  "credito_foto": "Foto: Joédson Alves/Agência Brasil",
+  "fonte": "BHAZ / Diário Oficial do Município",
   "resumos": ""
  }
 ]
