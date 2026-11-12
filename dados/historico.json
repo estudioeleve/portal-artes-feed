@@ -32143,5 +32143,19 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-12/111257_126.jpg",
   "media_id": "18114828614129168"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "08:37",
+  "id": "111307_19",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Enviados de Trump se encontram com Putin em Moscou nesta quinta para discutir a paz na Ucrânia",
+  "titulo_orig": "Putin e enviados de Trump discutem paz na Ucrânia em Moscou | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/12/putin-se-encontra-com-enviados-de-trump-na-russia-para-debater-acordo-de-paz-apos-nova-rodada-de-negociacoes.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-12/111307_19.jpg",
+  "media_id": "18217419706360324"
  }
 ]
