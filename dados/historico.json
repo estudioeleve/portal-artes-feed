@@ -34047,5 +34047,19 @@
   "fonte": "Portal Agita",
   "arte": "artes/2026-11-12/211249_64.jpg",
   "media_id": "18190551298420848"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "18:30",
+  "id": "211228_117",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Trump ameaça dobrar tarifas contra o México por caravanas de migrantes, e Sheinbaum rebate",
+  "titulo_orig": "Trump ameaça dobrar tarifas contra México por caravanas de migrantes | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/12/trump-fala-em-invasao-de-imigrantes-mexicanos-e-ameaca-dobrar-taifas-mexico-desmente.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-12/211228_117.jpg",
+  "media_id": "18110625998624307"
  }
 ]
