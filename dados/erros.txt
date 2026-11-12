@@ -217,3 +217,4 @@
 
 2026-11-12 14:59 - Rodada 14h: 6 posts (Cleitinho pendente, mineração ilegal BH/Neves, capotamento Divinópolis, perseguição Santa Luzia enviada pelo Israel, vacina herpes-zóster, Petrobras Logum). 8 notícias só para o site. Barrados: alerta de granizo (REPETIDO de 05/11), Corinto spray e Xuxa (REPETIDO no site.py). PF concurso foi só para o site (foto borrada).
 12/11/2026 16:35 - 191407_20 (Dino 6x1): "Media ID is not available" 3 vezes (jsDelivr e raw); item foi para pendentes.json
+12/11/2026 17:35 - 201121_60 (jovem morto em Venda Nova): "Media ID is not available" 3 vezes (jsDelivr e raw); item foi para pendentes.json
