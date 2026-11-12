@@ -33123,5 +33123,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-12/161728_248.jpg",
   "media_id": "18675215923032536"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "13:59",
+  "id": "161717_43",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Serviços em Minas caem 1,2% em setembro, puxados pelo transporte de cargas, aponta Fecomércio",
+  "titulo_orig": "Desempenho dos transportes limita avanço do setor de serviços em Minas Gerais - Fecomércio",
+  "link": "https://fecomerciomg.org.br/noticias/desempenho-dos-transportes-limita-avanco-do-setor-de-servicos-em-minas-gerais/",
+  "fonte": "Fecomércio MG",
+  "arte": "artes/2026-11-12/161717_43.jpg",
+  "media_id": "17955031428342107"
  }
 ]
