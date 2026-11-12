@@ -1,17 +1,5 @@
 [
  {
-  "id": "191851_157",
-  "data": "2026-11-10T16:26:03-03:00",
-  "titulo": "Peru inaugura estátua de 14 metros do papa Leão XIV, a maior de um pontífice no mundo, antes da visita",
-  "linha_fina": "Monumento fica em Callao, perto de Lima; papa chega ao país nesta quarta (11), última etapa da viagem pela América do Sul.",
-  "categoria": "mundo",
-  "texto": "<p>O Peru inaugurou na segunda-feira (9) uma estátua de 14 metros de altura do papa Leão XIV em Callao, cidade portuária vizinha à capital, Lima. Segundo as autoridades locais, é a maior estátua de um papa no mundo.</p><p>A inauguração aconteceu dois dias antes da chegada do pontífice ao país, prevista para esta quarta-feira (11). O Peru é a última etapa da viagem de Leão XIV pela América do Sul.</p><p>A escultura mostra o papa com as tradicionais vestes brancas e um terço no pescoço. Nascido nos Estados Unidos, Leão XIV, de 71 anos, tem uma ligação forte com o Peru: viveu cerca de 20 anos no país, trabalhou como missionário e foi bispo de Chiclayo, no Norte peruano, antes de ser nomeado cardeal.</p><p>Antes de seguir para o Peru, o papa celebrou na segunda-feira uma missa campal em Buenos Aires, na Argentina. Segundo estimativas oficiais, mais de 2,5 milhões de fiéis se reuniram na Avenida do Libertador, no bairro de Palermo, um número recorde.</p><p>A viagem de 12 dias pela América Latina começou no Uruguai, em 6 de novembro. Leão XIV chegou à Argentina no domingo (8), onde fica até quarta-feira. A visita ao continente termina no dia 17.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/191851_157.jpg",
-  "credito_foto": "Daniel Becerril/Reuters",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "201426_31",
   "data": "2026-11-10T17:19:12-03:00",
   "titulo": "Avanço de sinal vermelho causou 1,7 mil acidentes em Minas em 2026, mais que em todo 2024",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/132058_27.jpg",
   "credito_foto": "Foto: Reprodução/EBC",
   "fonte": "Poder360 / EBC",
+  "resumos": ""
+ },
+ {
+  "id": "131636_19",
+  "data": "2026-11-12T10:30:23-03:00",
+  "titulo": "Três caminhonetes de luxo furtadas em BH são achadas num matagal entre Betim e Contagem",
+  "linha_fina": "Polícia Civil suspeita de organização criminosa; um dos veículos foi localizado depois que o rastreador foi ativado.",
+  "categoria": "regiao-metropolitana",
+  "texto": "<p>Três caminhonetes de luxo furtadas em Belo Horizonte foram encontradas abandonadas em um matagal durante uma operação da Polícia Civil entre Betim e Contagem, na Região Metropolitana. Os veículos tinham sido levados na mesma semana, em diferentes regiões da capital.</p><p>Para a polícia, a quantidade e o tipo de veículo encontrados no mesmo local indicam a atuação de uma organização criminosa. Segundo o delegado responsável pelo caso, três carros desse padrão e de alto valor reunidos num mesmo ponto já caracterizam a ação de um grupo organizado.</p><p>Um dos donos foi localizado depois que o rastreador instalado na caminhonete foi ativado, o que ajudou a polícia a chegar à área onde os veículos estavam escondidos.</p><p>As caminhonetes vão passar por perícia antes de ser devolvidas aos proprietários. A Polícia Civil continua as investigações para identificar os responsáveis pelos furtos e descobrir para onde os veículos seriam levados.</p><p>A polícia também fez um alerta aos donos de carros de luxo: segundo os investigadores, os criminosos investem em equipamentos capazes de recodificar chaves, por isso a recomendação é não confiar apenas na segurança eletrônica do veículo. Travas mecânicas, rastreadores e cuidado com o local onde o carro é estacionado ajudam a dificultar a ação dos ladrões.</p><p>Quem tiver informações sobre os furtos pode fazer denúncia anônima pelo Disque Denúncia Unificado, no número 181.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/131636_19.jpg",
+  "credito_foto": "Foto: Reprodução/R7",
+  "fonte": "R7 / Polícia Civil",
   "resumos": ""
  }
 ]
