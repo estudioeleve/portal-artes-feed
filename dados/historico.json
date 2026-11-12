@@ -33893,5 +33893,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-12/201304_52.jpg",
   "media_id": "18120757844083962"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "17:45",
+  "id": "202045_59",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Minas passa de 100 mil empresas abertas em 2026, com alta de 8,6%; serviços lideram os novos negócios",
+  "titulo_orig": "Minas Gerais supera marca de cem mil empresas abertas em 2026 e registra crescimento de 8,64%",
+  "link": "https://desenvolvimento.mg.gov.br/noticias/minas-crescimento-empresas-empreendedorismo",
+  "fonte": "Secretaria de Estado de Desenvolvimento Econômico",
+  "arte": "artes/2026-11-12/202045_59.jpg",
+  "media_id": "18119574542050849"
  }
 ]
