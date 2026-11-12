@@ -1,17 +1,5 @@
 [
  {
-  "id": "201426_31",
-  "data": "2026-11-10T17:19:12-03:00",
-  "titulo": "Avanço de sinal vermelho causou 1,7 mil acidentes em Minas em 2026, mais que em todo 2024",
-  "linha_fina": "Detran-MG aplicou mais de 207 mil multas pela infração até outubro; motociclistas, ciclistas e pedestres são os mais atingidos.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Minas Gerais registrou cerca de 1,7 mil acidentes de trânsito que tiveram o avanço do sinal vermelho como causa presumida entre janeiro e setembro de 2026. Os dados são da Secretaria de Estado de Justiça e Segurança Pública (Sejusp-MG) e mostram que o número já passou o total de todo o ano de 2024, quando foram contabilizados 1.507 casos. No mesmo período de 2025, de janeiro a setembro, haviam sido 1.558 ocorrências.</p>\n<p>A fiscalização também mostra o tamanho do problema. O Departamento Estadual de Trânsito de Minas Gerais (Detran-MG) contabilizou mais de 207 mil autuações pela infração entre janeiro e 7 de outubro. Em todo o ano de 2025 foram 278 mil registros, e em 2024, cerca de 249 mil.</p>\n<p>Segundo o Detran-MG, quem avança o sinal quebra a previsibilidade do trânsito justamente nos cruzamentos, onde veículos de sentidos diferentes dividem o mesmo espaço. O risco é maior para motociclistas, ciclistas e pedestres, que atravessam a via confiando que o fluxo está interrompido e ficam mais expostos a ferimentos graves em caso de batida. Dependendo da velocidade, as consequências podem ser fatais.</p>\n<p>\"A tentativa de ganhar alguns segundos pode resultar em colisões e atropelamentos. Respeitar a sinalização é essencial para proteger todos os usuários das vias\", afirmou o diretor de Educação para o Trânsito do Detran-MG, Fernando Sette.</p>\n<p>O órgão lembra que a pressa nem sempre resulta em um trajeto mais rápido e que uma decisão tomada em poucos segundos pode deixar consequências irreversíveis para vítimas e famílias. O Detran-MG afirma que mantém ações educativas regulares para conscientizar motoristas sobre os riscos da infração.</p>\n<p>Avançar o sinal vermelho é infração gravíssima pelo Código de Trânsito Brasileiro, com multa e sete pontos na carteira de habilitação.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/201426_31.jpg",
-  "credito_foto": "Detran-MG/Divulgação",
-  "fonte": "Agência Minas",
-  "resumos": ""
- },
- {
   "id": "201533_45",
   "data": "2026-11-10T17:19:12-03:00",
   "titulo": "Fim da 6x1: Dino garante que jornada não cai direto para 40 horas em dezembro, mesmo sem acordo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/131636_19.jpg",
   "credito_foto": "Foto: Reprodução/R7",
   "fonte": "R7 / Polícia Civil",
+  "resumos": ""
+ },
+ {
+  "id": "133121_6",
+  "data": "2026-11-12T10:31:37-03:00",
+  "titulo": "UFMG abre 2.048 vagas remanescentes na graduação para 2027; inscrições começam dia 23",
+  "linha_fina": "Vagas são para transferência e novo título, em BH e Montes Claros; seleção usa nota do Enem de 2021 a 2026.",
+  "categoria": "educacao",
+  "texto": "<p>A Universidade Federal de Minas Gerais (UFMG) divulgou nesta quinta-feira (12) a oferta de 2.048 vagas remanescentes em cursos presenciais de graduação, para ingresso no primeiro semestre de 2027. As vagas são nas modalidades transferência e obtenção de novo título, e as inscrições vão de 23 de novembro a 29 de dezembro.</p><p>Do total, 1.783 vagas são para cursos em Belo Horizonte e 265 para o campus de Montes Claros, distribuídas em 96 opções de ingresso. As inscrições devem ser feitas pelo site da Copeve, a comissão que organiza os processos seletivos da universidade.</p><p>A taxa de inscrição é de R$ 215. Quem precisar pode pedir isenção total ou parcial do valor entre os dias 23 e 27 de novembro.</p><p>A transferência é para estudantes de outras instituições de ensino superior que querem entrar num curso igual ou de área parecida com o que já fazem. Já a obtenção de novo título é voltada a quem já terminou uma graduação e quer começar outro curso.</p><p>Para participar, é preciso ter feito pelo menos uma edição do Enem entre 2021 e 2026. Os candidatos à transferência também precisam comprovar vínculo com outra instituição no segundo semestre de 2026 e ter cumprido pelo menos 300 horas do curso de origem.</p><p>A seleção será feita pelas notas do Enem. Os candidatos a Artes Visuais, Letras-Libras e Música também farão provas de habilidades em Belo Horizonte, nos dias 29 e 31 de janeiro de 2027. Para Dança e Teatro, valerá só a nota do Enem. O resultado final está previsto para 22 de fevereiro de 2027.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/133121_6.jpg",
+  "credito_foto": "Foto: Leonardo Fonseca/BHAZ",
+  "fonte": "BHAZ / UFMG",
   "resumos": ""
  }
 ]
