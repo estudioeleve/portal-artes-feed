@@ -32913,5 +32913,19 @@
   "fonte": "Portal Gerais",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "12:28",
+  "id": "151511_38",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Mercado Livre abre novo centro de distribuição em Contagem e tem mais de 300 vagas de emprego",
+  "titulo_orig": "Mercado Livre inaugura novo centro de distribuição em Contagem e abre mais de 300 vagas de emprego",
+  "link": "https://www.otempo.com.br/economia/2026/11/12/mercado-livre-inaugura-novo-centro-de-distribuicao-em-contagem-e-abre-mais-de-300-vagas-de-emprego",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-12/151511_38.jpg",
+  "media_id": "18350050951255844"
  }
 ]
