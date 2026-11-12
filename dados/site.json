@@ -1,17 +1,5 @@
 [
  {
-  "id": "131711_13",
-  "data": "2026-11-10T10:20:46-03:00",
-  "titulo": "Black Friday deve ter mais pedidos e compra média menor; veja como o lojista protege a margem",
-  "linha_fina": "Projeção aponta R$ 16,6 bilhões no e-commerce, alta de 31% nos pedidos e tíquete médio 5,2% menor; especialista dá dicas ao varejo.",
-  "categoria": "comercio",
-  "texto": "<p>A Black Friday de 2026 deve trazer mais pedidos para o varejo, mas com um valor médio menor em cada compra. A projeção é da Associação Brasileira de Inteligência Artificial e E-commerce (Abiacom), que estima movimento de R$ 16,6 bilhões no comércio eletrônico brasileiro na semana da data, alta de 24,4% em relação ao ano passado.</p><p>Segundo a entidade, o número de pedidos deve chegar a 21,66 milhões, crescimento de 31,2%. Já o tíquete médio, o valor gasto em cada compra, deve cair 5,2%, para R$ 766,50. O cenário mostra um consumidor mais atento a preços e aumenta o desafio dos lojistas de vender mais sem perder dinheiro.</p><p>Para Elói Assis, diretor-executivo para Varejo e Distribuição da TOTVS, o varejista precisa olhar além do faturamento. Descontos mais agressivos podem elevar o volume de vendas, mas reduzem a margem de cada operação. Sem conhecer o custo real do pedido, dimensionar o estoque e acompanhar os recebimentos, a empresa pode encerrar a campanha com bons números de venda e resultado financeiro ruim.</p><p>O aumento de pedidos também pressiona a operação, do estoque à separação e à entrega. A orientação é avaliar quais produtos terão maior procura, garantir mercadoria disponível e preparar a logística para o pico de demanda, evitando atrasos que geram reclamações e cancelamentos.</p><p>Para o pequeno comerciante, inclusive o de lojas físicas, a lição vale do mesmo jeito: definir antes até onde vai o desconto, calcular impostos, taxas de cartão e frete de cada venda e planejar o caixa para os dias seguintes à promoção. A Black Friday deste ano acontece em 27 de novembro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/131711_13.jpg",
-  "credito_foto": "DepositPhotos/33Giga",
-  "fonte": "33Giga",
-  "resumos": ""
- },
- {
   "id": "131706_7",
   "data": "2026-11-10T10:20:46-03:00",
   "titulo": "Mais de 12 mil celulares usados em presídios já foram bloqueados sem apreensão",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/001507_8.jpg",
   "credito_foto": "Foto: Divulgação/Faminas",
   "fonte": "Faminas",
+  "resumos": ""
+ },
+ {
+  "id": "002628_16",
+  "data": "2026-11-11T21:26:50-03:00",
+  "titulo": "Davi nega compra de iPhones para senadores após cobrança de Cleitinho: \"A narrativa é maior que o fato\"",
+  "linha_fina": "Presidente do Senado diz que aparelhos são cedidos em comodato; contrato estimado em R$ 6 milhões por quatro anos ainda está em pregão.",
+  "categoria": "politica",
+  "texto": "<p>O presidente do Senado, Davi Alcolumbre (União-AP), afirmou nesta quarta-feira (11) que a Casa não está comprando smartphones para os 81 senadores e para servidores com cargos de direção, como vinha sendo noticiado. Segundo ele, o contrato é de comodato, modalidade em que os aparelhos são cedidos, e não comprados pelo Senado.</p><p>A declaração foi feita durante as votações no Plenário, depois que o senador Cleitinho (Republicanos-MG), governador eleito de Minas Gerais, pediu que Davi cancelasse o que chamou de \"licitação de iPhones\". \"Todos os órgãos do Estado brasileiro fazem comodato de aparelhos de telefone, mas a narrativa é maior que o fato. Não é compra de iPhones\", disse o presidente do Senado.</p><p>Davi afirmou que Cleitinho estava repetindo algo que não é verdade e lembrou que vários benefícios ligados ao cargo de senador não são obrigatórios. Segundo ele, quem não quiser o aparelho pode devolver, assim como pode reduzir o gabinete, deixar de nomear assessores e não usar toda a verba disponível.</p><p>De acordo com documentos do Portal da Transparência do Senado, referentes ao Pregão 290/2026, a opção pelo comodato leva em conta economia e eficiência: nesse modelo, custos com troca por obsolescência, manutenção e substituição de aparelhos com defeito ficam incluídos no serviço.</p><p>O valor estimado da contratação é de cerca de R$ 6 milhões para quatro anos, o que dá aproximadamente R$ 1,5 milhão por ano. O contrato atual, em vigor desde 2022, custa R$ 1,1 milhão. O valor final depende do resultado do pregão, que será decidido pelo menor preço.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/002628_16.jpg",
+  "credito_foto": "Foto: Agência Senado",
+  "fonte": "Agência Senado",
   "resumos": ""
  }
 ]
