@@ -1,17 +1,5 @@
 [
  {
-  "id": "121824_15",
-  "data": "2026-11-10T09:22:54-03:00",
-  "titulo": "Relação do CEO da Nvidia com suposta espiã chinesa ajudou a enviar US$ 7,5 bilhões em chips à China, diz site",
-  "linha_fina": "Segundo o The Information, empresária montou rede de empresas para obter cerca de 240 mil chips; FBI e conselho da Nvidia investigam.",
-  "categoria": "mundo",
-  "texto": "<p>O relacionamento do presidente-executivo da Nvidia, Jensen Huang, com uma empresária apontada como possível espiã da China teria facilitado o envio de pelo menos US$ 7,5 bilhões em chips da empresa para companhias chinesas, o equivalente a cerca de R$ 41 bilhões. A informação foi publicada nesta terça-feira (10) pelo site americano The Information, com base em duas fontes que conhecem a empresária.</p><p>Segundo a reportagem, Alice Huang, o marido e a irmã dela montaram uma rede de empresas na China e em Cingapura para comprar chips da Nvidia. Apesar do sobrenome, ela não tem parentesco com o executivo. No centro do esquema estaria a Shanghai Century Litong, fundada em 2023, que obteve o status de parceira preferencial de nuvem da Nvidia e, com isso, acesso prioritário aos processadores.</p><p>Quando pedidos de chips sujeitos às restrições de exportação dos Estados Unidos ficaram travados, Alice teria usado contatos dentro da Nvidia e entre distribuidores para garantir o fornecimento. Ao todo, ela teria ajudado a mandar à China cerca de 240 mil chips dos modelos H100, H200 e A100, usados para desenvolver e rodar sistemas de inteligência artificial.</p><p>Desde 2022, os EUA limitam a venda de chips avançados ao país asiático. O conselho da Nvidia abriu uma investigação interna para apurar se Jensen Huang, de 63 anos, foi alvo de uma operação de inteligência estrangeira, e o FBI também investiga o caso. O executivo admitiu a funcionários que foi infiel à esposa, sem dar detalhes.</p><p>As ações da Nvidia fecharam em queda de mais de 4% na segunda-feira (9), depois do anúncio da investigação interna. A empresa não respondeu ao pedido de comentário da agência Reuters.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/121824_15.jpg",
-  "credito_foto": "Reuters/Reprodução g1",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "122137_61",
   "data": "2026-11-10T09:22:54-03:00",
   "titulo": "Biblioteca Nacional abre mostra gratuita com 150 obras para celebrar os 150 anos de seu acervo de imagens",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/001434_114.jpg",
   "credito_foto": "Foto: Divulgação/Proteção Animal de Confins",
   "fonte": "Proteção Animal de Confins",
+  "resumos": ""
+ },
+ {
+  "id": "001453_50",
+  "data": "2026-11-11T21:24:39-03:00",
+  "titulo": "Em reviravolta, democrata vence no Mississippi e será o 1º senador negro do estado desde 1874",
+  "linha_fina": "Scott Colom derrotou a republicana Cindy Hyde-Smith por cerca de 4,6 mil votos; democratas chegam a 55 cadeiras no Senado dos EUA.",
+  "categoria": "mundo",
+  "texto": "<p>O democrata Scott Colom venceu a disputa por uma vaga no Senado dos Estados Unidos pelo Mississippi e será o primeiro senador negro eleito pelo estado desde 1874. A vitória foi projetada pela agência Associated Press (AP) nesta quarta-feira (11).</p><p>Colom derrotou a republicana Cindy Hyde-Smith, que tentava a reeleição. Com 99% dos votos apurados, ele tinha 49,2%, contra 48,7% da adversária, uma diferença de 4.669 votos.</p><p>O resultado é uma reviravolta em um estado tradicionalmente republicano, onde as pesquisas indicavam vitória tranquila de Hyde-Smith. A disputa foi uma das últimas a serem definidas após as eleições de meio de mandato, realizadas em 3 de novembro.</p><p>A campanha ganhou repercussão nas redes por um vídeo em que Colom rebateu uma fala da senadora sobre a alta da carne. Hyde-Smith havia dito que os consumidores poderiam escolher outras fontes de proteína. No vídeo, um homem prepara hambúrgueres e responde que prefere escolher outro senador.</p><p>Na noite da eleição, antes do fim da apuração, Hyde-Smith chegou a declarar vitória. Ela já tinha se oposto à indicação de Colom para um cargo de juiz federal, feita pelo então presidente Joe Biden.</p><p>Com a vitória, os democratas passam a ter 55 das 100 cadeiras do Senado e também vão assumir o controle da Câmara dos Representantes a partir de janeiro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/001453_50.jpg",
+  "credito_foto": "Foto: Lauren Witte/USA Today Network via Reuters",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
