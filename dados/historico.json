@@ -31359,5 +31359,33 @@
   "fonte": "Portal Agita",
   "arte": "artes/2026-11-11/011543_7.jpg",
   "media_id": "18133232782836537"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "22:25",
+  "id": "012503_24",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Relator do Orçamento de 2027, Eduardo Braga diz que votação depende do pacote fiscal e de uma PEC",
+  "titulo_orig": "Relator, Braga diz que Orçamento de 2027 depende de novas regras",
+  "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/relator-braga-diz-que-orcamento-de-2027-depende-de-novas-regras",
+  "fonte": "Senado",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "22:25",
+  "id": "012458_38",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "BNDES tira nota máxima em ranking de transparência e recebe o selo Diamante pela quarta vez seguida",
+  "titulo_orig": "BNDES recebe selo Diamante de transparência pública pela quarta vez",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bndes-recebe-selo-diamante-de-transparencia-publica-pela-quarta-vez",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
