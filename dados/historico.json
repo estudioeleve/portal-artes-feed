@@ -31205,5 +31205,19 @@
   "fonte": "Senado",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "21:35",
+  "id": "001453_50",
+  "bloco": "mundo",
+  "portal": "politica",
+  "ed": "MUNDO",
+  "titulo": "Em reviravolta, democrata vence no Mississippi e será o 1º senador negro do estado desde 1874",
+  "titulo_orig": "Democrata vence e será o 1º senador negro do Mississippi desde 1874 | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/11/em-reviravolta-democrata-vence-no-mississippi-e-sera-primeiro-senador-negro-do-estado-em-150-anos.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-11/001453_50.jpg",
+  "media_id": "18027236579929282"
  }
 ]
