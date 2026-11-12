@@ -4786,5 +4786,17 @@
   "credito_foto": "Foto: Leonardo Fonseca/BHAZ",
   "fonte": "BHAZ / UFMG",
   "resumos": ""
+ },
+ {
+  "id": "133915_23",
+  "data": "2026-11-12T10:39:38-03:00",
+  "titulo": "Minas tem 21 cidades entre as mais frias do país nesta quinta; Monte Verde marca 11,3°C e BH, 13,6°C",
+  "linha_fina": "Levantamento do Inmet considera as mínimas até as 9h; Diamantina e Maria da Fé também aparecem entre as mais geladas.",
+  "categoria": "minas-gerais",
+  "texto": "<p>Minas Gerais aparece com 21 registros na lista das localidades que tiveram as menores temperaturas do Brasil na manhã desta quinta-feira (12), segundo levantamento do Instituto Nacional de Meteorologia (Inmet). A medição considera as mínimas observadas até as 9h, no horário de Brasília.</p><p>Monte Verde, no Sul de Minas, teve a menor temperatura entre as cidades mineiras, com 11,3°C. Na sequência aparecem Diamantina, no Vale do Jequitinhonha, com 12,7°C, e Maria da Fé, também no Sul do estado, com 13,4°C.</p><p>Em Belo Horizonte, a menor marca foi registrada na estação do Cercadinho, na região Oeste, com 13,6°C, a mesma de Juiz de Fora. Na Pampulha, os termômetros marcaram 15,4°C, e no Santo Agostinho, 15,7°C.</p><p>Na Grande BH e no Vetor Norte, o Aeroporto de Confins registrou 15,4°C e Lagoa Santa, 15,5°C. Sete Lagoas marcou 15,9°C.</p><p>Completam a lista mineira Capelinha e Passa Quatro (14,2°C), Ouro Branco (14,8°C), Manhuaçu (14,9°C), Guanhães (15°C), Caldas (15,1°C), São João del-Rei (15,2°C), Machado (15,8°C), Varginha e Viçosa (15,9°C).</p><p>No ranking nacional, a temperatura mais baixa foi registrada no Morro da Igreja, em Bom Jardim da Serra (SC), com 6,1°C. Monte Verde ficou em sétimo lugar no país. Apesar das manhãs frias, a previsão é de que o calor volte a ganhar força ao longo do dia na capital mineira, com possibilidade de pancadas de chuva à tarde.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/133915_23.jpg",
+  "credito_foto": "Foto: Paulo Pinto/Agência Brasil",
+  "fonte": "Rádio Itatiaia / Inmet",
+  "resumos": ""
  }
 ]
