@@ -33837,5 +33837,47 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-12/201300_33.jpg",
   "media_id": "18108492869620700"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "17:21",
+  "id": "202051_37",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "VIRALIZOU",
+  "titulo": "Léo Chaves se abriga da chuva em ponto de ônibus de BH, diz ser \"cover\" e canta para passageiros",
+  "titulo_orig": "Léo Chaves canta \"Borboletas\" para passageiros enquanto espera chuva passar em BH - BH 24 Horas",
+  "link": "https://bh24horas.com.br/sertanejo/leo-chaves-canta-borboletas-para-passageiros-enquanto-espera-chuva-passar-em-bh/",
+  "fonte": "BH 24 Horas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "17:21",
+  "id": "202056_35",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Vila Mineiridade abre em 20 de novembro na Praça da Liberdade, com comida mineira e atrações de Natal até 6 de janeiro",
+  "titulo_orig": "Notícia: Vila Mineiridade prepara chegada do Natal e promete transformar Belo Horizonte em um cenário de celebração ",
+  "link": "https://www.bheventos.com.br/noticia/11-12-2026-vila-mineiridade-prepara-chegada-do-natal-e-promete-transformar-belo-horizonte-em-um-cenario-de-celebracao",
+  "fonte": "BH Eventos",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "17:21",
+  "id": "202058_62",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Produtora de Três Pontas recebe o primeiro certificado de café regenerativo de Minas na Semana do Café",
+  "titulo_orig": "Semana Internacional do Café: produtora de Três Pontas recebe a primeira certificação de café regenerativo de Minas ",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/semana-internacional-do-cafe-produtora-de-tres-pontas-recebe-a-primeira-certificacao-de-cafe-regenerativo-de-minas",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
