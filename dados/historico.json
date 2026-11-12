@@ -32185,5 +32185,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-12/111321_23.jpg",
   "media_id": "18131891978490638"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "09:09",
+  "id": "111341_114",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Ebola segue como emergência no Congo, com 11 mil casos; Quênia dá alta ao último paciente",
+  "titulo_orig": "Ebola segue emergência na RD Congo, mas Quênia inicia contagem de 42 dias",
+  "link": "https://news.un.org/pt/story/2026/11/1854901",
+  "fonte": "UN News",
+  "arte": "artes/2026-11-12/111341_114.jpg",
+  "media_id": "17936867160146069"
  }
 ]
