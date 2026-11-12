@@ -32703,5 +32703,33 @@
   "fonte": "R7",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "11:30",
+  "id": "143036_222",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Ataques russos deixam nove regiões da Ucrânia sem luz, e drone atinge prédio em Kiev",
+  "titulo_orig": "Ataques da Rússia na Ucrânia: apagão em 9 regiões e drone em Kiev | G1",
+  "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/12/ataques-da-russia-causam-apagao-em-9-regioes-da-ucrania.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "11:32",
+  "id": "141345_1",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "MINAS GERAIS",
+  "titulo": "TCE acha mais de 90% dos ônibus escolares sem autorização em 40 cidades de Minas: \"calamidade\"",
+  "titulo_orig": "'É um tapa na cara de cada mineiro', diz presidente do TCE sobre transporte escolar sem autorização e em condições precárias em MG | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/12/e-um-tapa-na-cara-de-cada-mineiro-diz-presidente-do-tce-sobre-transporte-escolar-sem-autorizacao-e-em-condicoes-precarias-em-mg.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-12/141345_1.jpg",
+  "media_id": "18577570009077589"
  }
 ]

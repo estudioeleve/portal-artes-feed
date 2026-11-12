@@ -1,17 +1,5 @@
 [
  {
-  "id": "211356_42",
-  "data": "2026-11-10T18:19:23-03:00",
-  "titulo": "Sem coleta desde quinta, moradores do Coqueiros e do Glória, em BH, denunciam ratos e baratas",
-  "linha_fina": "Lixo acumulado na Região Noroeste foi arrastado pela chuva e entupiu bueiros; Prefeitura diz que apura a situação.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Moradores e comerciantes de bairros da Região Noroeste de Belo Horizonte reclamam que a coleta de lixo não passa pelas ruas desde a última quinta-feira (5). Sem o recolhimento, os sacos se acumularam nas calçadas, e o problema ficou mais grave com a chuva forte do fim de semana.</p><p>A dona de um restaurante no bairro Coqueiros, Diumara Cardoso, de 46 anos, relatou que a água arrastou os sacos até as bocas de lobo e impediu o escoamento. Segundo ela, os sacos ficaram boiando sobre os bueiros, e a água não tinha por onde sair.</p><p>No dia seguinte ao temporal, a comerciante encontrou a entrada do estabelecimento tomada por lixo espalhado, além de ratos e baratas. Ela diz que não recebeu nenhuma explicação sobre a interrupção do serviço e que o caminhão não passa pela rua desde a semana passada.</p><p>No bairro Glória, na mesma região, a situação descrita é parecida. A aposentada Beatriz Oliveira afirma que as lixeiras estão cheias, principalmente na porta de comércios e prédios, e que não houve coleta desde quinta-feira.</p><p>O acúmulo de lixo em período de chuva preocupa porque, além de atrair animais que transmitem doenças, pode entupir a drenagem e aumentar o risco de alagamentos nas ruas.</p><p>Procurada, a Prefeitura de Belo Horizonte informou que está apurando a situação. Até a última atualização, não havia sido divulgada uma data para a normalização do serviço nos bairros citados pelos moradores.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-10/211356_42.jpg",
-  "credito_foto": "Reprodução/BHAZ",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "211400_211",
   "data": "2026-11-10T18:19:23-03:00",
   "titulo": "Confins abre seleção com 171 vagas na Educação; inscrições começam nesta quinta",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/142032_97.jpg",
   "credito_foto": "Reprodução/R7",
   "fonte": "R7",
+  "resumos": ""
+ },
+ {
+  "id": "143036_222",
+  "data": "2026-11-12T11:30:49-03:00",
+  "titulo": "Ataques russos deixam nove regiões da Ucrânia sem luz, e drone atinge prédio em Kiev",
+  "linha_fina": "Uma pessoa morreu e ao menos seis ficaram feridas na capital; Zelensky reclama de falhas no sistema de comunicação usado pela defesa aérea.",
+  "categoria": "mundo",
+  "texto": "<p>Uma nova onda de ataques da Rússia contra a infraestrutura de energia da Ucrânia provocou apagões em nove regiões do país nesta quinta-feira (12). Segundo o vice-ministro da Energia, Artem Nekrasov, foram afetadas Vinnytsia, Dnipropetrovsk, Zhytomyr, Zaporizhzhia, Odesa, Rivne, Sumy, Kharkiv e Cherkasy.</p>\n<p>O primeiro-ministro ucraniano, Sergiy Koretskyi, afirmou em uma rede social que o alvo, mais uma vez, foi a infraestrutura de energia e de transporte. Pela manhã, um drone atingiu um prédio residencial de nove andares em Kiev, matando uma pessoa e ferindo pelo menos seis.</p>\n<p>De acordo com Koretskyi, os ataques também atingiram uma usina de geração de energia em Zaporizhzhia e subestações de alta tensão nas regiões de Odesa e Rivne.</p>\n<p>Após a ofensiva, o presidente Volodymyr Zelensky reclamou de instabilidade no sistema de defesa aérea. Segundo ele, unidades militares registraram por vários dias interrupções significativas no serviço de comunicação por satélite Starshield, o que afetou toda a linha de frente. Zelensky disse que restrições no sistema estariam impedindo os interceptadores ucranianos de alcançar velocidade suficiente para derrubar alvos russos.</p>\n<p>\"Isso ajuda os russos a matar mais ucranianos e a realizar ataques mais precisos contra a Ucrânia\", afirmou o presidente, que disse estar buscando explicações junto aos Estados Unidos sobre os motivos da restrição.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/143036_222.jpg",
+  "credito_foto": "Gleb Garanich/Reuters",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
