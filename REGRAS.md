@@ -41,6 +41,7 @@
   - 13/11/2026 ~00h: Prefeitura de Santa Luzia corta gastos por 90 dias (decreto de 12/11; id `130004_israel`). O Israel mandou **"apenas site"**: **não postar no Instagram** (é exceção à regra "toda matéria de Santa Luzia vai para o Instagram") e não repetir se aparecer em outro veículo.
   - 13/11/2026 ~00h: Prefeitura de Vespasiano adota contenção de despesas (Decreto 11.387/2026; id `130007_israel`). Israel: **"apenas site"**: não postar no Instagram nem repetir se aparecer em outro veículo.
   - 13/11/2026 ~07h45: Câmara de Santa Luzia confirma suspeita de sarna humana (apuração do próprio Portal ONE News; id `130747_israel`). Israel: **"apenas site"**: não postar no Instagram nem repetir se aparecer em outro veículo (só atualização com fato novo, ex.: esclarecimento oficial da Câmara).
+  - 13/11/2026 ~08h30: Vespasiano suspende aulas em toda a rede municipal por sarna humana (12, 13, 16 e 17/11; retorno 18/11; id `130829_israel`), site + Instagram a pedido dele. **Não repetir** se aparecer em outro veículo (só fato novo, ex.: retorno adiado ou número de casos).
   - Item que o Israel manda e que a trava barraria por tema parecido (fato novo): marque `"pedido_israel": true` no lote (só o link igual barra).
   - 10/11/2026 12h: laudo do caso Beatriz Vitória (Jaboticatubas, "enterrada viva") já saiu no Instagram e no site a pedido dele. **Não repetir** se aparecer em outro veículo.
 
