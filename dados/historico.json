@@ -36091,5 +36091,19 @@
   "fonte": "R7",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "12:51",
+  "id": "153357_249",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Hotmart, de BH, avisa usuários sobre vazamento de dados e alerta para golpes em nome da empresa",
+  "titulo_orig": "Mineira Hotmart comunica invasão a usuários e alerta para golpes | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/colunas/diario-do-comercio/economia/mineira-hotmart-comunica-invasao-a-usuarios-e-alerta-para-golpes/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-13/153357_249.jpg",
+  "media_id": "18441387322178906"
  }
 ]
