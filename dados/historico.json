@@ -35027,5 +35027,19 @@
   "fonte": "Diário da Manhã",
   "arte": "artes/2026-11-12/021103_48.jpg",
   "media_id": "18130263025884208"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "23:37",
+  "id": "021215_35",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Kassab elogia ajuste fiscal de Lula e diz que aceita convite para conversar sobre ministérios",
+  "titulo_orig": "Kassab elogia 'predisposição' de Lula com ajuste fiscal e diz que aceita convite para reunião sobre ministérios",
+  "link": "https://cbn.globo.com/politica/noticia/2026/11/12/kassab-elogia-predisposicao-de-lula-com-ajuste-fiscal-e-diz-que-aceita-convite-para-reuniao-sobre-ministerios.ghtml",
+  "fonte": "CBN",
+  "arte": "artes/2026-11-12/021215_35.jpg",
+  "media_id": "18474312331190652"
  }
 ]
