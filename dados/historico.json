@@ -36231,5 +36231,19 @@
   "fonte": "Rádio Santana FM",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "13:33",
+  "id": "162026_350",
+  "bloco": "saude",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Teste do pezinho do SUS em Minas já detecta 64 doenças e diagnosticou mais de 2 mil bebês",
+  "titulo_orig": "Balanço 2023-2026: Teste do Pezinho tem ampliação histórica em Minas Gerais e chega a triagem de 64 doenças raras",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/balanco-2023-2026-teste-do-pezinho-tem-ampliacao-historica-em-minas-gerais-e-chega-a-triagem-de-64-doencas-raras",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "artes/2026-11-13/162026_350.jpg",
+  "media_id": "17918729583466486"
  }
 ]
