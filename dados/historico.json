@@ -34649,5 +34649,19 @@
   "fonte": "Poder360",
   "arte": "artes/2026-11-12/001156_43.jpg",
   "media_id": "17978153591938453"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "21:36",
+  "id": "001134_1",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Senado aprova texto-base do pacote fiscal de Lula por 45 a 31; destaques ficam para terça (17)",
+  "titulo_orig": "Senado aprova texto-base do 'plano Moretti' de ajuste, com medidas para conter gastos e elevar receitas",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-texto-base-do-plano-moretti-de-ajuste-com-medidas-para-conter-gastos-e-elevar-receitas.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "artes/2026-11-12/001134_1.jpg",
+  "media_id": "18140211001637680"
  }
 ]
