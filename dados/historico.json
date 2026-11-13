@@ -34663,5 +34663,19 @@
   "fonte": "Folha de S.Paulo",
   "arte": "artes/2026-11-12/001134_1.jpg",
   "media_id": "18140211001637680"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "21:45",
+  "id": "001202_37",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Caixa Vida e Previdência sofre ataque hacker e dados de 7,6 milhões de clientes são vazados",
+  "titulo_orig": "Caixa Seguridade informa ataque cibernético e vazamento de dados",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-12/001202_37.jpg",
+  "media_id": "18099146123404728"
  }
 ]
