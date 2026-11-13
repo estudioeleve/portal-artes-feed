@@ -1,17 +1,5 @@
 [
  {
-  "id": "151504_207",
-  "data": "2026-11-11T12:21:57-03:00",
-  "titulo": "Taquaraçu de Minas terá palestra gratuita sobre aposentadoria rural e benefícios do INSS no dia 4 de dezembro",
-  "linha_fina": "Encontro no Salão Padre Ephraim, das 8h às 13h, vai explicar aposentadoria rural, urbana e híbrida, auxílios por incapacidade e BPC/Loas.",
-  "categoria": "regiao-metropolitana",
-  "texto": "<p>Moradores de Taquaraçu de Minas, na Grande BH, vão poder tirar dúvidas sobre aposentadoria e benefícios do Instituto Nacional do Seguro Social (INSS) em uma palestra marcada para sexta-feira, 4 de dezembro.</p><p>O encontro será no Salão Padre Ephraim, das 8h às 13h, e vai ser conduzido por Ubiratan Campelo Reis, especialista em aposentadoria rural. A divulgação é da Prefeitura de Taquaraçu de Minas.</p><p>A programação vai explicar as diferentes modalidades de aposentadoria: a rural, a urbana e a híbrida, que soma períodos de trabalho no campo e na cidade. Esse último formato costuma interessar a quem trabalhou parte da vida na roça e depois se mudou para a área urbana, ou o contrário.</p><p>Também estão na pauta os benefícios por incapacidade temporária e permanente, os antigos auxílio-doença e aposentadoria por invalidez, e o Benefício de Prestação Continuada (BPC/Loas), pago a idosos e pessoas com deficiência de baixa renda.</p><p>Segundo a organização, a proposta é apresentar os direitos previdenciários e assistenciais da população e esclarecer dúvidas sobre como ter acesso aos benefícios.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/151504_207.jpg",
-  "credito_foto": "Foto: Divulgação/Prefeitura de Taquaraçu de Minas",
-  "fonte": "Jornal Panorama Minas",
-  "resumos": ""
- },
- {
   "id": "151606_157",
   "data": "2026-11-11T12:21:58-03:00",
   "titulo": "Fernanda Montenegro, Camila Pitanga e outros artistas protestam contra diárias de 12 horas: \"Estamos cansados\"",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/130004_israel.jpg",
   "credito_foto": "Foto: Reprodução",
   "fonte": "Prefeitura de Santa Luzia",
+  "resumos": ""
+ },
+ {
+  "id": "130007_israel",
+  "data": "2026-11-13T00:08:02-03:00",
+  "titulo": "Vespasiano adota contenção de despesas e restringe contratações, reajustes e horas extras",
+  "linha_fina": "Decreto assinado pelo prefeito Zé Wilson cita queda no FPM e incertezas na arrecadação; serviços essenciais serão mantidos.",
+  "categoria": "vespasiano",
+  "texto": "<p>A Prefeitura de Vespasiano, na Região Metropolitana de Belo Horizonte, adotou medidas de contenção de despesas diante de um cenário de dificuldades financeiras e de incerteza sobre a arrecadação do município. As regras estão no Decreto nº 11.387/2026, assinado pelo prefeito Zé Wilson no dia 5 de novembro.</p><p>Segundo a administração municipal, a decisão foi motivada, entre outros fatores, pela redução nos repasses do Fundo de Participação dos Municípios (FPM), principal transferência do governo federal às prefeituras, e pelo aumento das despesas obrigatórias com encargos previdenciários. O decreto também cita as incertezas ligadas à reforma tributária.</p><p>Outros pontos levados em conta foram a previsão de queda na arrecadação própria e dificuldades relacionadas aos repasses destinados à área da saúde.</p><p>Entre as medidas previstas estão restrições a novas contratações, a reajustes, ao pagamento de horas extras e a outras despesas da prefeitura. O decreto, no entanto, traz exceções para situações específicas previstas no próprio texto.</p><p>De acordo com a prefeitura, o cenário de aperto nas contas não é exclusivo de Vespasiano e também atinge outros municípios.</p><p>O prefeito Zé Wilson afirmou que, mesmo com as medidas de contenção, nenhum serviço considerado essencial para a população será interrompido.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/130007_israel.jpg",
+  "credito_foto": "Foto: Reprodução/Prefeitura de Vespasiano",
+  "fonte": "Prefeitura de Vespasiano",
   "resumos": ""
  }
 ]
