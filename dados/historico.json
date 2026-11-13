@@ -35083,5 +35083,19 @@
   "fonte": "Prefeitura de Vespasiano",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "06:17",
+  "id": "091206_100",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Starship decola nesta sexta e SpaceX tenta pela 1ª vez trazer a nave e o propulsor de volta à base",
+  "titulo_orig": "SpaceX faz novo teste da Starship e tentará manobra inédita | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/13/spacex-faz-novo-teste-da-starship-e-tentara-manobra-inedita-para-recuperar-nave-e-propulsor.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-13/091206_100.jpg",
+  "media_id": "17920511364532501"
  }
 ]
