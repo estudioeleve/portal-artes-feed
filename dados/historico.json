@@ -34831,5 +34831,19 @@
   "fonte": "Terra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "22:26",
+  "id": "011105_30",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PGR se manifesta contra revisão da condenação de Bolsonaro a 27 anos; caso vai ao plenário do STF",
+  "titulo_orig": "PGR é contra revisar condenação de Jair Bolsonaro ",
+  "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-12/011105_30.jpg",
+  "media_id": "17895711297616730"
  }
 ]
