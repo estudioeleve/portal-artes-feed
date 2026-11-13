@@ -37603,5 +37603,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-13/231608_22.jpg",
   "media_id": "18019338956747243"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "20:38",
+  "id": "231611_1",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "SpaceX lança a Starship pela 15ª vez e tenta recuperar o foguete e a nave pela primeira vez",
+  "titulo_orig": "AO VIVO: SpaceX lança 15ª missão do foguete Starship",
+  "link": "https://g1.globo.com/mundo/ao-vivo/spacex-faz-novo-teste-da-starship-e-tenta-manobra-inedita.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-13/231611_1.jpg",
+  "media_id": "18079325477451004"
  }
 ]
