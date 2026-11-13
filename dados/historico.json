@@ -34635,5 +34635,19 @@
   "fonte": "stf noticias",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "21:26",
+  "id": "001156_43",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Prédio do jornal Estado de Minas, em BH, vai ser desapropriado pelo governo e ocupado pelo TRT",
+  "titulo_orig": "Governo manda desapropriar prédio do jornal \"Estado de Minas\"",
+  "link": "https://www.poder360.com.br/poder-midia/governo-manda-desapropriar-predio-do-jornal-estado-de-minas/",
+  "fonte": "Poder360",
+  "arte": "artes/2026-11-12/001156_43.jpg",
+  "media_id": "17978153591938453"
  }
 ]
