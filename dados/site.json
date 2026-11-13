@@ -1,17 +1,5 @@
 [
  {
-  "id": "012458_38",
-  "data": "2026-11-11T22:25:48-03:00",
-  "titulo": "BNDES tira nota máxima em ranking de transparência e recebe o selo Diamante pela quarta vez seguida",
-  "linha_fina": "Banco e a Amazul foram os únicos órgãos federais com 100% de pontuação entre 53 avaliados no Radar Nacional da Transparência.",
-  "categoria": "brasil",
-  "texto": "<p>O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) recebeu, pela quarta vez seguida, o selo Diamante do Radar Nacional da Transparência Pública. Neste ano, o banco atingiu 100% de pontuação na avaliação, resultado inédito entre os órgãos federais.</p><p>Além do BNDES, só a Amazônia Azul Tecnologias de Defesa (Amazul), empresa pública ligada ao Ministério da Defesa, alcançou a nota máxima entre os 53 órgãos federais avaliados em 2026. O questionário tinha 101 perguntas, que somavam 266 critérios de transparência.</p><p>A certificação foi entregue nesta terça-feira (10), no Museu do Amanhã, no Rio de Janeiro. O selo Diamante vai para instituições que atingem pelo menos 95% de conformidade. O BNDES participa da avaliação desde 2023 e foi certificado em todas as edições.</p><p>Segundo o banco, o portal da instituição divulga dados dos financiamentos, como o CNPJ dos beneficiários, os setores atendidos e as justificativas dos créditos, além de listas de empregados e de gestores responsáveis por contratos.</p><p>A edição de 2026 do radar avaliou 10.880 portais de órgãos públicos dos três Poderes, de ministérios públicos, defensorias e tribunais de contas, nas esferas federal, estadual e municipal, cerca de 8% a mais que no ano anterior. O programa é coordenado pela Associação dos Membros dos Tribunais de Contas do Brasil (Atricon), com os 33 tribunais de contas do país, e verifica a divulgação espontânea de informações de interesse público.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/012458_38.jpg",
-  "credito_foto": "Foto: Rafa Neddermeyer/Agência Brasil",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "013657_152",
   "data": "2026-11-11T22:37:16-03:00",
   "titulo": "Natal nos shoppings de BH: veja onde tirar foto com o Papai Noel e quando as decorações são inauguradas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/201314_374.jpg",
   "credito_foto": "Cemig/Divulgação",
   "fonte": "Agência Minas",
+  "resumos": ""
+ },
+ {
+  "id": "201753_285",
+  "data": "2026-11-13T17:18:06-03:00",
+  "titulo": "Câmara pede ao STF que derrube parte das regras de Dino para a transição da escala 6x1 para a 5x2",
+  "linha_fina": "Casa contesta jornada de até 8h24 sem acordo coletivo, mas apoia calendário de 42 horas semanais a partir de 16 de dezembro",
+  "categoria": "politica",
+  "texto": "<p>A Câmara dos Deputados pediu ao Supremo Tribunal Federal que derrube parte da decisão do ministro Flávio Dino que fixou regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário não confirme alguns pontos da liminar e preserve o texto aprovado pelo Congresso.</p>\n<p>A Casa concorda, porém, com pontos centrais da decisão, como a manutenção do calendário aprovado pelos parlamentares, que prevê jornada de 42 horas semanais e dois dias de descanso a partir de 16 de dezembro.</p>\n<p>Entre os pontos contestados está a possibilidade de jornada diária de até 8 horas e 24 minutos durante a transição, mesmo sem acordo ou convenção coletiva. A Câmara também é contra a retirada das travas semanais e mensais para compensar as folgas, contra a regulamentação temporária pelo Executivo nos primeiros 90 dias caso a negociação coletiva fracasse e contra os prazos de 180 dias fixados por Dino para regras de regimes diferenciados e para micro e pequenas empresas.</p>\n<p>O órgão ainda questiona a redução, de um ano para 180 dias, do prazo de adaptação dos contratos com a administração pública e a extensão de uma exceção de controle de jornada a empresas estatais que atuam em regime de concorrência.</p>\n<p>Na manifestação, a Advocacia da Câmara afirma que a Emenda Constitucional 141/2026 resultou de amplo debate e foi aprovada por maiorias expressivas nas duas Casas, com uma transição gradual pensada para equilibrar interesses de trabalhadores e empregadores.</p>\n<p>O pedido chega enquanto o plenário virtual do STF analisa a liminar. Nesta sexta-feira (13), o ministro Alexandre de Moraes acompanhou o relator, e o placar chegou a 2 a 0 pela confirmação integral da decisão de Dino.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/201753_285.jpg",
+  "credito_foto": "Divulgação/Câmara dos Deputados",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
