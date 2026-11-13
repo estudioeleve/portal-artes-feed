@@ -2,8 +2,8 @@
 uso: python3 robo/story.py <id> [<id> ...]
 Lê o item em dados/historico.json (ou dados/lote.json) para saber o portal e a arte.
 Fundo: one e luziense = azul-escuro; politica = preto; comercio = laranja (regra do Israel, 13/11/2026).
-Grava stories/AAAA-MM-DD/<id>.jpg. O botão "MATÉRIA COMPLETA" é só desenho:
-a API do Instagram (Windsor create_story) não aceita figurinha de link nem de menção."""
+Grava stories/AAAA-MM-DD/<id>.jpg. Só a imagem: sem botão "MATÉRIA COMPLETA" e sem @
+(Israel, 13/11/2026: a API não aceita figurinha de link, então não desenhar o botão)."""
 import json,os,sys
 from PIL import Image,ImageDraw,ImageFont,ImageFilter
 B=os.path.dirname(os.path.abspath(__file__));R=os.path.dirname(B)
@@ -26,20 +26,11 @@ def gerar(i,o):
   for y in range(H):
     t=y/H;dr.line([(0,y),(W,y)],fill=tuple(int(c1[k]+(c2[k]-c1[k])*t) for k in range(3)))
   a=Image.open(f'{R}/{arte}').convert('RGB');w=960;a=a.resize((w,int(a.height*w/a.width)))
-  x=(W-w)//2;y=(H-a.height)//2-60
+  x=(W-w)//2;y=(H-a.height)//2
   m=Image.new('L',a.size,0);ImageDraw.Draw(m).rounded_rectangle([0,0,a.width,a.height],36,fill=255)
   sh=Image.new('L',(W,H),0);ImageDraw.Draw(sh).rounded_rectangle([x,y+12,x+w,y+12+a.height],36,fill=140)
   bg.paste((0,0,0),(0,0),sh.filter(ImageFilter.GaussianBlur(24)))
   bg.paste(a,(x,y),m)
-  f=ImageFont.truetype(FB,46);txt='MATÉRIA COMPLETA'
-  tw=dr.textlength(txt,font=f);bw=int(tw+150);bh=104;bx=(W-bw)//2;by=y+a.height-bh//2
-  dr.rounded_rectangle([bx,by,bx+bw,by+bh],28,fill=(255,255,255))
-  ix,iy=bx+42,by+bh//2
-  for dx,col in ((-11,(214,41,118)),(11,(250,126,30))):
-    dr.rounded_rectangle([ix+dx-17,iy-9,ix+dx+17,iy+9],9,outline=col,width=6)
-  dr.text((bx+90,by+bh//2),txt,font=f,fill=(17,17,17),anchor='lm')
-  f2=ImageFont.truetype(FB,40)
-  dr.text((x+20,by+bh+40),'@portalonenews',font=f2,fill=(255,255,255),anchor='lm')
   dia=os.path.basename(os.path.dirname(arte));os.makedirs(f'{R}/stories/{dia}',exist_ok=True)
   fn=f'stories/{dia}/{i}.jpg';bg.save(f'{R}/{fn}',quality=90);print(i,'story:',fn)
 D=itens()

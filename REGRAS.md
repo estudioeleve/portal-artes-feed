@@ -7,10 +7,10 @@
 
 ## 📱 STORIES: 30% A 40% DOS POSTS, SÓ OS MAIS IMPORTANTES (Israel, 13/11/2026 ~09h)
 - Depois de publicar no feed uma notícia **muito importante ou impactante** (Santa Luzia, urgente, chuva, trânsito travado, polícia de grande repercussão, decisão que mexe com o bolso), repita no **story**. Meta: **30% do total de posts do dia, no máximo 40%**. Notícia comum, curiosidade, fofoca e esporte de rotina não vão para o story.
-- Como fazer: `python3 robo/story.py <id>` (gera `stories/AAAA-MM-DD/<id>.jpg`, 1080x1920, arte do feed no centro, botão "MATÉRIA COMPLETA" e "@portalonenews"), commit + push, e publique com `create_story` (`image_url` = link raw.githubusercontent do arquivo). Registre o id em `dados/stories.json` (lista `{"data","hora","id","media_id"}`) para contar a cota.
+- Como fazer: `python3 robo/story.py <id>` (gera `stories/AAAA-MM-DD/<id>.jpg`, 1080x1920, **só a arte do feed no centro**, sem botão "MATÉRIA COMPLETA" e sem @: Israel, 13/11 ~09h20), commit + push, e publique com `create_story` (`image_url` = link raw.githubusercontent do arquivo). Registre o id em `dados/stories.json` (lista `{"data","hora","id","media_id"}`) para contar a cota.
 - **Fundo por portal**: ONE News e Luziense = **azul-escuro** (#06153E); Política = **preto**; Comércio = **laranja** (#FF5400 → #E01D0D).
 - Olhe a imagem (Read) antes de publicar. Story vem **depois** do post do feed, e não conta nos 100 do feed.
-- **Limite técnico**: a API do Instagram (Windsor `create_story`) não aceita figurinha de link nem de menção. O botão "MATÉRIA COMPLETA" sai só desenhado, **não clicável**. O Israel quer que a pessoa clique e vá ao post: isso continua manual até a API permitir.
+- **Limite técnico**: a API do Instagram (Windsor `create_story`) não aceita figurinha de link nem de menção. Por isso **não desenhar** botão de link (Israel: "só coloca a imagem nos stories"). O link clicável, quando ele quiser, ele põe à mão.
 
 ## 🔍 IMAGEM NÍTIDA E NADA DE "VÍDEO" EM POST DE FOTO (Israel, 10/11/2026 ~08h30, bronca: "essa imagem não dá para ver nada... no título você colocou vídeo, sendo que é uma imagem estática... nós somos um portal de notícias sério")
 - O post do Barreiro (10/11 07:52) saiu com um print escuro e borrado de vídeo, onde não dava para entender nada, e com o título começando por "Vídeo:". **Não pode mais.**
