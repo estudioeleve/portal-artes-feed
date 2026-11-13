@@ -35041,5 +35041,19 @@
   "fonte": "CBN",
   "arte": "artes/2026-11-12/021215_35.jpg",
   "media_id": "18474312331190652"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "23:46",
+  "id": "021232_29",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Tesla vai encerrar a produção da Cybertruck em 2027 e usar a fábrica para fazer robotáxis",
+  "titulo_orig": "Tesla vai encerrar produção de um de seus carros mais famosos",
+  "link": "https://www.terra.com.br/mobilidade/carros/tesla-vai-encerrar-producao-de-um-de-seus-carros-mais-famosos,31385790b6f7dc7c9135c80a0ace85efecus1f8i.html",
+  "fonte": "Terra",
+  "arte": "artes/2026-11-12/021232_29.jpg",
+  "media_id": "18121479724955414"
  }
 ]
