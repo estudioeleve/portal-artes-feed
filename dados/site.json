@@ -1,17 +1,5 @@
 [
  {
-  "id": "091309_15",
-  "data": "2026-11-12T06:18:34-03:00",
-  "titulo": "Mulheres empreendedoras têm capacitação grátis da CDL/BH com oficinas de IA, finanças e vendas",
-  "linha_fina": "Evento \"Elas Movem o Horizonte\" acontece nos dias 18 e 19, em parceria com o Sebrae Minas, com oficinas, mentorias e diagnóstico digital.",
-  "categoria": "comercio",
-  "texto": "<p>A Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH) vai realizar, nos dias 18 e 19 de novembro, a primeira edição do \"Elas Movem o Horizonte\", uma capacitação gratuita voltada para mulheres empreendedoras. O encontro será no Horizonte – Inovação Empreendedora, na Avenida João Pinheiro, 515, no Centro da capital.</p><p>Organizado em parceria com o Sebrae Minas e o Hub Rosa, o evento terá oficinas práticas de inteligência artificial, finanças e vendas, três temas que pesam no dia a dia de quem toca o próprio negócio. A programação inclui ainda mentorias e um diagnóstico de maturidade digital, que ajuda a empreendedora a entender em que ponto a empresa está no uso de ferramentas on-line e onde pode melhorar.</p><p>As inscrições são gratuitas. Segundo a CDL/BH, o encontro também marca a criação de uma comunidade permanente de empreendedoras, com reuniões mensais, para troca de experiências e continuidade da formação.</p><p>Os números mostram o peso das mulheres no setor. De acordo com o Sebrae Minas, mais de 1 milhão dos 2,6 milhões de pequenos negócios de Minas Gerais são liderados por mulheres.</p><p>A capacitação chega num momento importante para o comércio, com a aproximação da Black Friday e das vendas de Natal, quando organizar o caixa, divulgar bem os produtos e usar as redes sociais a favor do negócio faz diferença no resultado do fim do ano.</p><p>Na mesma semana, a Federaminas entrega no sábado (14) o Mérito Empresarial 2026, no Tauá Caeté Resort, na Grande BH, homenageando 52 empresários indicados por associações comerciais de todo o estado. A solenidade encerra o 28º Congresso Federaminas, realizado em parceria com o Sebrae, e tem entrada mediante convite.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/091309_15.jpg",
-  "credito_foto": "Reprodução/Diário do Comércio",
-  "fonte": "Diário do Comércio",
-  "resumos": ""
- },
- {
   "id": "091318_105",
   "data": "2026-11-12T06:18:35-03:00",
   "titulo": "Senado deve votar nesta quinta o pacote de ajuste fiscal do governo, com impacto de até R$ 60 bilhões",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/211358_157.jpg",
   "credito_foto": "Odelyn Joseph/AP",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "221249_37",
+  "data": "2026-11-13T19:14:15-03:00",
+  "titulo": "Temporal atinge BH nesta sexta, árvore cai sobre ônibus e Defesa Civil alerta para enxurradas",
+  "linha_fina": "Defesa Civil registrou chuva extremamente forte em quatro regionais; no São Marcos, árvore derrubou fiação e caiu sobre ônibus.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Uma tempestade com chuva extremamente forte e rajadas de vento atingiu Belo Horizonte no início da noite desta sexta-feira (13/11). A Defesa Civil emitiu alerta e moradores receberam mensagens no celular sobre a possibilidade de enxurradas nas áreas mais baixas da capital.</p>\n<p>De acordo com o órgão, até as 18h25 a chuva foi classificada como extremamente forte nas regionais Barreiro, Centro-Sul, Oeste e Leste. Mais cedo, o Instituto Nacional de Meteorologia (Inmet) já havia colocado BH e a região metropolitana em alerta amarelo para tempestade, com possibilidade de granizo e ventos de até 60 km/h.</p>\n<p>Na Avenida José Cândido da Silveira, no bairro São Marcos, na região Nordeste, uma árvore derrubou a fiação elétrica e caiu sobre um ônibus que seguia no sentido Centro. Segundo o Corpo de Bombeiros, a queda provocou curto-circuito na rede. Até a última atualização não havia informação sobre feridos, e a Cemig foi acionada para o local.</p>\n<p>A Defesa Civil reforça as recomendações para o período de chuva: evitar áreas de inundação e ruas próximas a córregos e ribeirões, não atravessar vias alagadas, não deixar crianças brincarem em enxurradas e não se abrigar nem estacionar veículos debaixo de árvores.</p>\n<p>Quem mora em encostas e morros deve ficar atento a rachaduras nas paredes, fendas no terreno ou surgimento de minas d'água e avisar a Defesa Civil imediatamente. Em caso de raios, a orientação é não ficar em áreas abertas nem usar equipamentos ligados à tomada.</p>\n<p>Fios caídos não devem ser tocados em nenhuma hipótese. Em emergências, os telefones são 116, da Cemig, e 199, da Defesa Civil.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/221249_37.jpg",
+  "credito_foto": "Foto: Reprodução/O Tempo",
+  "fonte": "O Tempo e Rádio Itatiaia",
   "resumos": ""
  }
 ]
