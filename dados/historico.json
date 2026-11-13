@@ -37379,5 +37379,33 @@
   "fonte": "bhaz.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "19:28",
+  "id": "222659_113",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Fachin diz que há juízas negras à altura de uma vaga no STF",
+  "titulo_orig": "Fachin defende a indicação de mulheres negras ao STF",
+  "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/fachin-defende-a-indicacao-de-mulheres-negras-ao-stf.ghtml",
+  "fonte": "O GLOBO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "19:28",
+  "id": "222654_94",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Entidades acusam Congresso de esvaziar corte de supersalários no Plano Moretti",
+  "titulo_orig": "Congresso esvazia corte de supersalários no 'plano Moretti', dizem organizações",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/congresso-esvazia-corte-de-supersalarios-no-plano-moretti-dizem-organizacoes.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
