@@ -1,17 +1,5 @@
 [
  {
-  "id": "151610_75",
-  "data": "2026-11-11T12:21:57-03:00",
-  "titulo": "Atlético abre mais 50 vagas no voo fretado para a final da Sul-Americana depois de esgotar o primeiro lote em menos de 24 horas",
-  "linha_fina": "Pacote custa R$ 7.900 com subsídio do clube, inclui ingresso para a final contra o Boca em Barranquilla e é exclusivo para sócios Galo Na Veia.",
-  "categoria": "atletico",
-  "texto": "<p>O Atlético anunciou nesta quarta-feira (11) a abertura de mais 50 vagas no pacote de viagem para a final da Copa Sul-Americana. As primeiras 50 vagas, oferecidas em parceria com a ABSOLUT Sport, agência oficial de pacotes da Conmebol, foram vendidas em menos de 24 horas.</p><p>Por causa da procura, o clube decidiu liberar um novo lote com as mesmas condições promocionais. O Galo continua subsidiando parte do valor das passagens para facilitar a ida do torcedor à decisão contra o Boca Juniors.</p><p>A final está marcada para o sábado, 21 de novembro, no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia.</p><p>O pacote custa R$ 7.900. A viagem será em voo fretado, com ida na quinta-feira, 19 de novembro, e volta no domingo, dia 22. Cada comprador ganha do clube, por meio do programa Galo Na Veia, um ingresso da categoria 3 para assistir à final. As informações sobre a entrega dos ingressos serão enviadas depois aos compradores.</p><p>A venda é exclusiva para sócios do Galo Na Veia com plano ativo e é feita pelo link divulgado no site oficial do Atlético.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/151610_75.jpg",
-  "credito_foto": "Foto: Divulgação/Atlético",
-  "fonte": "Site oficial do Atlético",
-  "resumos": ""
- },
- {
   "id": "151504_207",
   "data": "2026-11-11T12:21:57-03:00",
   "titulo": "Taquaraçu de Minas terá palestra gratuita sobre aposentadoria rural e benefícios do INSS no dia 4 de dezembro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/021738_75.jpg",
   "credito_foto": "Foto: Nathan Howard/Reuters",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "130004_israel",
+  "data": "2026-11-13T00:04:21-03:00",
+  "titulo": "Prefeitura de Santa Luzia corta gastos por 90 dias: suspende horas extras, revê contratos e reduz salário do prefeito",
+  "linha_fina": "Decreto de 12 de novembro prevê corte de até 20% nos cargos comissionados e preserva os serviços essenciais; não há calamidade financeira.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Prefeitura de Santa Luzia, na Região Metropolitana de Belo Horizonte, adotou um pacote de medidas temporárias para reduzir despesas e equilibrar as contas do município. O decreto, com data de 12 de novembro de 2026, vale por 90 dias a partir da publicação e pode ser revisto ou prorrogado.</p><p>Entre as principais medidas está a suspensão de novas autorizações de horas extras e de contratações temporárias. As exceções só serão aceitas com justificativa. O decreto também determina a revisão dos contratos em vigor e impõe restrições a novas obras, compras e eventos durante o período.</p><p>O texto prevê ainda uma avaliação para a possível redução de até 20% dos cargos comissionados e das funções de confiança que estão ocupados hoje na administração. Para materiais de consumo e serviços prestados por empresas, a meta é cortar até 30% dos gastos em 60 dias, desde que respeitadas as exigências da legislação orçamentária e fiscal.</p><p>O próprio primeiro escalão também entra na conta. O decreto prevê redução de 20% nos subsídios do prefeito e do vice-prefeito, de 15% nos dos secretários municipais e do procurador-geral do município e de 10% nos vencimentos dos secretários executivos e do subprocurador-geral. Esses cortes, porém, dependem de análise jurídica prévia e do cumprimento das exigências legais antes de serem aplicados.</p><p>Segundo o documento, os serviços essenciais à população e as obrigações legais e contratuais do município deverão ser mantidos durante a vigência das medidas.</p><p>O decreto não declara estado de calamidade financeira em Santa Luzia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/130004_israel.jpg",
+  "credito_foto": "Foto: Reprodução",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
