@@ -36567,5 +36567,19 @@
   "fonte": "Conexão 424",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "15:18",
+  "id": "181304_30",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SABARÁ",
+  "titulo": "Ônibus 4990 volta a ligar bairros de Sabará ao Centro de BH a partir da segunda-feira (16)",
+  "titulo_orig": "Moradores de Adelmolândia e Paciência terão linha 4990 de volta",
+  "link": "https://sousabara.com.br/noticias/moradores-de-adelmolandia-e-paciencia-terao-linha-4990-de-volta/",
+  "fonte": "Sou Sabará",
+  "arte": "artes/2026-11-13/181304_30.jpg",
+  "media_id": "18112590953230862"
  }
 ]
