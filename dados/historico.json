@@ -36399,5 +36399,19 @@
   "fonte": "Notícias da TV",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "14:26",
+  "id": "171244_49",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Avril Lavigne anuncia de surpresa o nascimento da primeira filha: 'Nossa mini princesa chegou'",
+  "titulo_orig": "Avril Lavigne revela chegada de primeira filha: 'Nossa mini princesa' | G1",
+  "link": "https://g1.globo.com/pop-arte/noticia/2026/11/13/avril-lavigne-revela-chegada-de-primeira-filha-nossa-mini-princesa.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-13/171244_49.jpg",
+  "media_id": "17889787671495255"
  }
 ]
