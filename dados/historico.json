@@ -34705,5 +34705,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-12/001206_29.jpg",
   "media_id": "18150933337576858"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "22:16",
+  "id": "011037_87",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Dólar dispara 1,58%, fecha a R$ 5,65 e chega ao maior valor em 17 meses depois do pacote fiscal",
+  "titulo_orig": "Dólar dispara 1,58% e fecha a R$ 5,65, maior nível em 17 meses",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-dispara-158-e-fecha-r-565-maior-nivel-em-17-meses",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-12/011037_87.jpg",
+  "media_id": "18378325507245391"
  }
 ]
