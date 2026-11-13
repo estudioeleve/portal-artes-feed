@@ -34621,5 +34621,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-12/001125_5.jpg",
   "media_id": "18123686282512716"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "21:18",
+  "id": "001747_17",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF encerra de vez ação dos planos econômicos; poupador tem até junho de 2027 para aderir ao acordo",
+  "titulo_orig": "STF rejeita recursos contra decisão que homologou acordo dos planos econômicos",
+  "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-recursos-contra-decisao-que-homologou-acordo-dos-planos-economicos/",
+  "fonte": "stf noticias",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

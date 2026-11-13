@@ -1,17 +1,5 @@
 [
  {
-  "id": "131830_18",
-  "data": "2026-11-11T10:20:48-03:00",
-  "titulo": "TCU sugere ao Senado alíquota de 11,3% para a CBS, o novo imposto federal da reforma tributária",
-  "linha_fina": "Relatório foi entregue por Vital do Rêgo a Davi Alcolumbre; o Senado tem até 15 de dezembro para definir o percentual.",
-  "categoria": "politica",
-  "texto": "<p>O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou ao presidente do Senado, Davi Alcolumbre (União-AP), um relatório técnico que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS).</p><p>A CBS é o novo tributo federal criado pela reforma tributária. Ela substitui o PIS e a Cofins e, junto com o Imposto sobre Bens e Serviços (IBS), de estados e municípios, forma o modelo de imposto sobre valor agregado que passa a valer no país.</p><p>Pelo calendário da reforma, cabe ao Senado definir o valor da alíquota da CBS até o dia 15 de dezembro. O estudo do TCU serve de base técnica para essa decisão.</p><p>O tema já movimenta o Congresso. Senadores devem ouvir na próxima semana o ministro Vital do Rêgo e o secretário Dario Durigan sobre a proposta, e deputados já admitem cortar isenções caso o imposto total passe do teto de 26,5% previsto na reforma.</p><p>Para comerciantes e prestadores de serviço, a definição da alíquota é importante porque vai pesar no preço final dos produtos e no planejamento dos negócios nos próximos anos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/131830_18.jpg",
-  "credito_foto": "Foto: Reprodução/TV Senado",
-  "fonte": "Agência Senado",
-  "resumos": ""
- },
- {
   "id": "131835_26",
   "data": "2026-11-11T10:20:48-03:00",
   "titulo": "Polícia Civil prende em Ribeirão Preto suspeito de esfaquear dois irmãos em clube no Sul de Minas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/001343_9.jpg",
   "credito_foto": "Reprodução/Estado de Minas",
   "fonte": "Estado de Minas",
+  "resumos": ""
+ },
+ {
+  "id": "001747_17",
+  "data": "2026-11-12T21:17:59-03:00",
+  "titulo": "STF encerra de vez ação dos planos econômicos; poupador tem até junho de 2027 para aderir ao acordo",
+  "linha_fina": "Plenário rejeitou três recursos e decretou o trânsito em julgado da ADPF 165, que validou os planos Bresser, Verão, Collor I e Collor II.",
+  "categoria": "politica",
+  "texto": "<p>O Supremo Tribunal Federal (STF) rejeitou nesta quinta-feira (12/11) três recursos apresentados contra a decisão que validou os planos econômicos Bresser, Verão, Collor I e Collor II e homologou o acordo entre bancos e poupadores. O plenário também determinou o trânsito em julgado da ação, ou seja, não cabem mais recursos, mesmo antes da publicação do acórdão.</p><p>Os recursos, chamados embargos de declaração, foram apresentados pela Associação Civil SOS Consumidores, pela Associação Brasileira do Consumidor e por um particular. Segundo o STF, eles foram rejeitados por motivos processuais: as entidades não tinham legitimidade para recorrer. Os pedidos questionavam, entre outros pontos, a aplicação obrigatória do acordo coletivo aos processos de poupadores que não aderiram a ele.</p><p>Os planos econômicos foram criados em um período de hiperinflação. Em março de 1990, às vésperas do Plano Collor, a inflação chegou a 82,18% em um único mês, o equivalente a mais de 133.000% ao ano. Poupadores que tinham dinheiro na poupança na época foram à Justiça cobrar as diferenças de correção monetária, os chamados expurgos inflacionários.</p><p>A ação ficou suspensa por anos por causa dos acordos firmados desde 2018 entre os bancos e os poupadores, com participação da Advocacia-Geral da União, da Febraban, do Idec e da Frente Brasileira pelos Poupadores. O mérito foi julgado em maio de 2025, quando o STF declarou os planos constitucionais.</p><p>Na mesma decisão de 2025, o tribunal prorrogou até 3 de junho de 2027 o prazo para aderir ao acordo coletivo e receber as diferenças. Quem tem direito e ainda não aderiu deve procurar o banco ou o advogado responsável pelo processo para saber como fazer a adesão dentro do prazo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/001747_17.jpg",
+  "credito_foto": "Reprodução/STF",
+  "fonte": "Supremo Tribunal Federal",
   "resumos": ""
  }
 ]
