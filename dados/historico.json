@@ -35419,5 +35419,19 @@
   "fonte": "Conexão 424",
   "arte": "artes/2026-11-13/101122_52.jpg",
   "media_id": "18127539649710037"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "08:10",
+  "id": "101108_12",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Pela segunda vez, nenhuma empresa se interessa em patrocinar o Carnaval de BH de 2027 a 2029",
+  "titulo_orig": "Pela segunda vez, PBH não recebe propostas para patrocínio dos próximos Carnavais",
+  "link": "https://www.otempo.com.br/carnaval/2027/2026/11/13/pela-segunda-vez-pbh-nao-recebe-propostas-para-patrocinio-dos-proximos-carnavais",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-13/101108_12.jpg",
+  "media_id": "18076216022779946"
  }
 ]
