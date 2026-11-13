@@ -1,17 +1,5 @@
 [
  {
-  "id": "191204_31",
-  "data": "2026-11-11T16:18:45-03:00",
-  "titulo": "Fiscalização em garagens termina com sete ônibus de BH sem autorização para rodar e dez multas às empresas",
-  "linha_fina": "Prefeitura vistoriou 61 veículos em dois dias, nos bairros São Marcos e Nova Vista; pneus e limpadores estavam entre os problemas",
-  "categoria": "belo-horizonte",
-  "texto": "<p>A Prefeitura de Belo Horizonte terminou nesta quarta-feira (11) mais uma etapa de fiscalização dos ônibus do transporte coletivo da capital. Em dois dias, 61 veículos foram vistoriados e sete tiveram as autorizações de tráfego recolhidas, o que impede que circulem até que os problemas sejam corrigidos.</p>\n<p>Entre os motivos estão problemas nos pneus. Outros dois ônibus foram retirados de circulação por falhas nos limpadores de para-brisa. No total, a BHTrans aplicou dez autuações às empresas responsáveis pelos veículos vistoriados.</p>\n<p>As verificações foram feitas ao mesmo tempo na porta de duas garagens, nos bairros São Marcos e Nova Vista, nas regiões Nordeste e Leste da cidade, entre terça (10) e quarta-feira.</p>\n<p>A ação faz parte da Operação Tolerância Zero, iniciada em 2024 e realizada em conjunto pela Superintendência de Mobilidade (Sumob), pela BHTrans e pela Polícia Municipal. Os fiscais conferem itens como ar-condicionado, cumprimento dos horários, elevador e equipamentos de acessibilidade, extintores, freio de porta, iluminação, limpeza, pneus e freios, saídas de emergência, vazamentos e possível omissão de viagens.</p>\n<p>Segundo a Prefeitura, o objetivo é garantir um serviço mais seguro e regular para os passageiros.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-11/191204_31.jpg",
-  "credito_foto": "Foto: Divulgação/PBH",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "191454_41",
   "data": "2026-11-11T16:18:45-03:00",
   "titulo": "Operador de máquinas morre depois que retroescavadeira tomba e afunda em represa no Sul de Minas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/152746_2.jpg",
   "credito_foto": "Foto: Reprodução/TV Globo",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "152805_35",
+  "data": "2026-11-13T12:30:31-03:00",
+  "titulo": "Vendas no varejo sobem 0,2% em setembro e surpreendem o mercado, mostra o IBGE",
+  "linha_fina": "Informática, combustíveis e vestuário puxaram a alta; móveis e eletrodomésticos caíram 2,6% às vésperas da Black Friday",
+  "categoria": "comercio",
+  "texto": "<p>As vendas do varejo brasileiro subiram 0,2% em setembro na comparação com agosto, segundo a Pesquisa Mensal de Comércio divulgada nesta sexta-feira (13) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O resultado surpreendeu o mercado, que esperava recuo de 0,2% no mês.</p>\n<p>Foi o segundo mês seguido de alta. Na comparação com setembro de 2025, as vendas cresceram 1,7%, mesma taxa do acumulado do ano e dos últimos 12 meses. O varejo ampliado, que inclui veículos, material de construção e atacado de alimentos, também subiu 0,2%. Ainda assim, o terceiro trimestre fechou com queda de 0,3%.</p>\n<p>Cinco das oito atividades pesquisadas avançaram. Equipamentos de escritório, informática e comunicação lideraram, com alta de 7,6%, seguidos por combustíveis e lubrificantes (2,8%) e tecidos, vestuário e calçados (2,5%). Artigos farmacêuticos e de perfumaria subiram 1%, e livros, jornais e papelaria, 0,8%. Móveis e eletrodomésticos recuaram 2,6%.</p>\n<p>Para o gerente da pesquisa, Cristiano Santos, o momento é de acomodação das vendas em um patamar elevado, perto do pico registrado em março. Ele observa que as famílias podem estar fazendo outras escolhas, como poupar ou quitar dívidas, em vez de consumir.</p>\n<p>O endividamento recorde preocupa o comércio às vésperas da Black Friday, marcada para 27 de novembro. O setor projeta faturamento de R$ 13,3 bilhões com a data neste ano.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/152805_35.jpg",
+  "credito_foto": "Foto: Marcello Casal Jr/Agência Brasil",
+  "fonte": "IBGE e TV Sim Brasil",
   "resumos": ""
  }
 ]
