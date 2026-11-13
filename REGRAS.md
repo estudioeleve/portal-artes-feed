@@ -40,6 +40,7 @@
   - 10/11/2026 ~15h: Loja Elétrica nega suspensão do Centro de Distribuição em Pedro Leopoldo (site + Reels com a moldura **Comércio**, 20s; o Reels com moldura ONE foi apagado por ele: era Portal Comércio). **Não repetir** se aparecer em outro veículo. Fonte: Prefeitura de Pedro Leopoldo e Loja Elétrica; **nunca citar Por Dentro de Tudo** nessa matéria.
   - 13/11/2026 ~00h: Prefeitura de Santa Luzia corta gastos por 90 dias (decreto de 12/11; id `130004_israel`). O Israel mandou **"apenas site"**: **não postar no Instagram** (é exceção à regra "toda matéria de Santa Luzia vai para o Instagram") e não repetir se aparecer em outro veículo.
   - 13/11/2026 ~00h: Prefeitura de Vespasiano adota contenção de despesas (Decreto 11.387/2026; id `130007_israel`). Israel: **"apenas site"**: não postar no Instagram nem repetir se aparecer em outro veículo.
+  - 13/11/2026 ~07h45: Câmara de Santa Luzia confirma suspeita de sarna humana (apuração do próprio Portal ONE News; id `130747_israel`). Israel: **"apenas site"**: não postar no Instagram nem repetir se aparecer em outro veículo (só atualização com fato novo, ex.: esclarecimento oficial da Câmara).
   - Item que o Israel manda e que a trava barraria por tema parecido (fato novo): marque `"pedido_israel": true` no lote (só o link igual barra).
   - 10/11/2026 12h: laudo do caso Beatriz Vitória (Jaboticatubas, "enterrada viva") já saiu no Instagram e no site a pedido dele. **Não repetir** se aparecer em outro veículo.
 
