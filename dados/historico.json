@@ -35559,5 +35559,47 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-13/111359_26.jpg",
   "media_id": "17894442555616182"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "08:39",
+  "id": "113818_85",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Flávio Bolsonaro diz que ajuste fiscal de Lula vai cortar recursos da saúde e da educação",
+  "titulo_orig": "Ajuste fiscal de Lula terá cortes em saúde e educação, diz Flávio",
+  "link": "https://www.poder360.com.br/poder-eleicoes-2026/ajuste-fiscal-de-lula-tera-cortes-em-saude-e-educacao-diz-flavio/",
+  "fonte": "Poder360",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "08:39",
+  "id": "113823_127",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Alckmin, Durigan, Fonteles ou Moretti: veja quem são os cotados para comandar a Fazenda no governo Lula 4",
+  "titulo_orig": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula | G1",
+  "link": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "08:39",
+  "id": "113829_64",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Filha de Regina Casé, Benedita Casé Zerbini estreia como atriz em filme e peça sobre perda auditiva",
+  "titulo_orig": "Benedita Casé Zerbini sai do 'armário da surdez' com peça e filme: 'Achava um pouco demais atuar'",
+  "link": "https://www.terra.com.br/diversao/benedita-case-zerbini-sai-do-armario-da-surdez-com-peca-e-filme-achava-um-pouco-demais-atuar,246c030eef3e6e612b560d08aee9cf1b9e977wlw.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
