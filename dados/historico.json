@@ -40557,5 +40557,61 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-14/211303_20.jpg",
   "media_id": "18097552082159950"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:19",
+  "id": "211732_29",
+  "bloco": "brasil",
+  "portal": "politica",
+  "ed": "BRASIL",
+  "titulo": "Dono do BTG, André Esteves diz que ajuste fiscal é \"fácil\" e não impede Lula de cumprir promessas de campanha",
+  "titulo_orig": "Dono do BTG Pactual, André Esteves defende ajuste fiscal e diz que governo Lula pode cumprir promessas de campanha - Jornal Opção",
+  "link": "https://www.jornalopcao.com.br/ultimas-noticias/dono-do-btg-pactual-andre-esteves-defende-ajuste-fiscal-e-diz-que-governo-lula-pode-cumprir-promessas-de-campanha-888774/",
+  "fonte": "Jornal Opção",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:19",
+  "id": "211735_92",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Guarda Nacional permanente: entenda a proposta de Lula para substituir a Força Nacional e as críticas da oposição",
+  "titulo_orig": "Lula planeja Guarda Nacional: entenda a proposta e os riscos apontados pela oposição",
+  "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/lula-reafirma-plano-de-criar-guarda-nacional-permanente-no-brasil/",
+  "fonte": "Gazeta do Povo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:19",
+  "id": "211756_102",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Nana Gouvea mostra o rosto cinco dias depois de plástica no Rio: \"Estou muito bem\"",
+  "titulo_orig": "Nana Gouvea mostra rosto cinco dias após cirurgia plástica: 'Estou muito bem'",
+  "link": "https://extra.globo.com/famosos/noticia/2026/11/nana-gouvea-mostra-rosto-cinco-dias-apos-cirurgia-plastica-estou-muito-bem.ghtml",
+  "fonte": "Extra online",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:19",
+  "id": "211749_13",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "França: 106 mil vão às ruas no 5º sábado de protestos, e equipe de TV é atacada por manifestantes em Lyon",
+  "titulo_orig": "Protestos levam mais de 100 mil pessoas às ruas na França; equipe de TV é agredida em Lyon | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/14/protestos-levam-mais-de-100-mil-pessoas-as-ruas-na-franca-equipe-de-tv-e-agredida-em-lyon.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
