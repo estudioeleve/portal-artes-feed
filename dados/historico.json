@@ -38597,5 +38597,19 @@
   "fonte": "Soda Pop",
   "arte": "artes/2026-11-14/101241_62.jpg",
   "media_id": "17925710268444419"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "08:16",
+  "id": "111217_19",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Petroleiro pega fogo após bater em mina naval perto do Estreito de Ormuz; é o 3º caso na semana",
+  "titulo_orig": "Petroleiro pega fogo após atingir mina naval no Estreito de Ormuz; é o 3º caso em menos de uma semana | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/14/estreito-de-ormuz-navio-fogo.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-14/111217_19.jpg",
+  "media_id": "18139119397729021"
  }
 ]
