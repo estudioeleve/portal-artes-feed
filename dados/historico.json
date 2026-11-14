@@ -39017,5 +39017,61 @@
   "fonte": "Portal ONE News",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:17",
+  "id": "131129_16",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "PBH vai gastar R$ 379 mil com manejo e monitoramento das capivaras da Lagoa da Pampulha",
+  "titulo_orig": "PBH autoriza contratação de R$ 379 mil para manejo de capivaras na Lagoa da Pampulha",
+  "link": "https://www.otempo.com.br/cidades/2026/11/14/pbh-autoriza-contratacao-de-r-379-mil-para-manejo-de-capivaras-na-lagoa-da-pampulha",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:17",
+  "id": "131144_7",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Dia Nacional da Alfabetização: 812 cidades mineiras já têm política municipal para ensinar a ler na idade certa",
+  "titulo_orig": "Dia Nacional da Alfabetização: quase 100% das cidades mineiras instituíram política municipal de educação",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/dia-nacional-da-alfabetizacao-quase-100-das-cidades-mineiras-instituiram-politica-municipal-de-educacao",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:17",
+  "id": "131526_67",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Temporal atinge ginásio e jogo do Cruzeiro contra a Unifacisa pelo NBB é suspenso no último quarto",
+  "titulo_orig": "Cruzeiro x Unifacisa: Jogo do NBB é interrompido por chuvas em BH | Ge",
+  "link": "https://ge.globo.com/pb/basquete/nbb/noticia/2026/11/14/duelo-pelo-nbb-e-interrompido-pelas-fortes-chuvas-em-belo-horizonte.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:17",
+  "id": "131221_32",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Donos de bares e restaurantes de Teófilo Otoni buscam em Paraty ideias para vender mais com a culinária afetiva",
+  "titulo_orig": "Empresários de bares e restaurantes de Teófilo Otoni participam de missão técnica em Paraty - Bomba Bomba",
+  "link": "https://bombabomba.com.br/empresarios-de-bares-e-restaurantes-de-teofilo-otoni-participam-de-missao-tecnica-em-paraty/",
+  "fonte": "bombabomba.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
