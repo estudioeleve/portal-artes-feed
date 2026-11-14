@@ -40487,5 +40487,61 @@
   "fonte": "Portal ONE News",
   "arte": "artes/2026-11-14/173400_israel.jpg",
   "media_id": "17964173280239617"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:16",
+  "id": "211318_27",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Caso Elyne: Glória Perez, Leona Cavalli e família cobram justiça pela morte da médica no Acre",
+  "titulo_orig": "Caso Elyne: Glória Perez, atriz Leona Cavalli e família cobram justiça | G1",
+  "link": "https://g1.globo.com/ac/acre/noticia/2026/11/14/caso-elyne-gloria-perez-atriz-leona-cavalli-e-familia-cobram-justica-com-responsabilizacao-dos-envolvidos.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:16",
+  "id": "211323_25",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "SÃO JOSÉ DA LAPA",
+  "titulo": "Feira Da Terra ao Prato reúne artesãos e pequenos produtores e movimenta a economia de São José da Lapa",
+  "titulo_orig": "Feira Da Terra ao Prato - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/feira-da-terra-ao-prato-valoriza-cultura-artesanato-e-producao-local-em-sao-jose-da-lapa/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:16",
+  "id": "211327_113",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "PM prende suspeito e recupera parte de carga furtada de caminhão em posto às margens da BR-381, em Betim",
+  "titulo_orig": "PM prende homem, apreende adolescente e recupera carga furtada de caminhão em Betim",
+  "link": "https://www.otempobetim.com.br/cidades/2026/11/14/pm-prende-homem-apreende-adolescente-e-recupera-carga-furtada-de-caminhao-em-betim",
+  "fonte": "O TEMPO Betim",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:16",
+  "id": "211332_7",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Desafio Subida da Afonso Pena tem percursos de 5 km e 11 km no dia 20 de novembro, em BH",
+  "titulo_orig": "Desafio Subida da Afonso Pena movimenta BH em novembro",
+  "link": "https://soubh.uai.com.br/noticias/esporte/desafio-subida-da-afonso-pena-movimenta-bh-em-novembro/",
+  "fonte": "SouBH",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
