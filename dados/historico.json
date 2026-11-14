@@ -38723,5 +38723,33 @@
   "fonte": "O GLOBO",
   "arte": "artes/2026-11-14/111231_40.jpg",
   "media_id": "18024025535724212"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "08:26",
+  "id": "112614_5",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Batida entre caminhão e carro deixa dois feridos na MG-167, em Três Corações; vítima ficou presa às ferragens",
+  "titulo_orig": "Colisão entre caminhão e carro deixa duas pessoas feridas e mobiliza Corpo de Bombeiros na MG-167 em Três Corações | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/suldeminas/colisao-entre-caminhao-e-carro-deixa-duas-pessoas-feridas-e-mobiliza-corpo-de-bombeiros-na-mg-167-em-tres-coracoes/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "08:26",
+  "id": "112619_4",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Maior tributo ao U2 das Américas faz show em BH neste sábado, um dia após o lançamento do novo disco da banda",
+  "titulo_orig": "U2 Latin American celebra lançamento de 'Carnaval de Luz' no Underground Black Pub, em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/cultura-e-lazer/u2-latin-american-celebra-lancamento-de-carnaval-de-luz-no-underground-black-pub-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
