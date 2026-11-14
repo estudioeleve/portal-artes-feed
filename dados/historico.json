@@ -40641,5 +40641,19 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "18:35",
+  "id": "211313_3",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Carro capota e vai parar na pista contrária depois de bater em caminhão na BR-381, em Oliveira",
+  "titulo_orig": "Carro capota e invade pista contrária após acidente em Oliveira - Portal Gerais",
+  "link": "https://portalgerais.com/carro-capota-e-invade-pista-contraria-apos-acidente-na-br-381-em-oliveira/",
+  "fonte": "Portal Gerais",
+  "arte": "artes/2026-11-14/211313_3.jpg",
+  "media_id": "18107922989136416"
  }
 ]
