@@ -38849,5 +38849,61 @@
   "fonte": "www.otempo.com.br",
   "arte": "artes/2026-11-14/121442_-stj.jpg",
   "media_id": "18133294543802712"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "09:27",
+  "id": "122548_33",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Papa Leão XIV volta a Chiclayo, no Peru, onde foi bispo, e reúne 500 mil pessoas em missa campal",
+  "titulo_orig": "Papa Leão XIV volta à cidade onde viveu por quase 10 anos e reúne 500 mil pessoas em missa no Peru | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/14/papa-leao-xiv-volta-a-cidade-onde-viveu-por-quase-10-anos-e-reune-500-mil-pessoas-em-missa-no-peru.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "09:27",
+  "id": "122553_64",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "EUA retomam voos depois de pane no controle aéreo, mas mais de 2,5 mil viagens são canceladas neste sábado",
+  "titulo_orig": "EUA retomam voos após falha no controle de tráfego aéreo; mais de 2,5 mil são cancelados neste sábado | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/14/eua-retomam-voos-apos-falha-no-controle-de-trafego-aereo-provocar-caos-nos-aeroportos.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "09:27",
+  "id": "122603_2",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Na COP31, Lula leva roteiros contra o desmatamento e os combustíveis fósseis, mas enfrenta resistência de emergentes",
+  "titulo_orig": "Lula mostra planos ambiciosos na COP31, mas enfrenta entraves",
+  "link": "https://www.poder360.com.br/poder-governo/lula-mostra-planos-ambiciosos-na-cop31-mas-enfrenta-entraves/",
+  "fonte": "Poder360",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "09:27",
+  "id": "122606_12",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Giulia Benite, a Mônica dos cinemas, está de volta à TV em \"Lá na Minha Terra\", nova novela das seis da Globo",
+  "titulo_orig": "Giulia Benite, ex-Turma da Mônica, volta à TV em nova fase da carreira | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/pop/celebridades/giulia-benite-ex-turma-da-monica-volta-a-tv-em-nova-fase-da-carreira/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
