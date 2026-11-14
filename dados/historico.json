@@ -38765,5 +38765,19 @@
   "fonte": "CartaCapital",
   "arte": "artes/2026-11-14/111240_50.jpg",
   "media_id": "18361023382175030"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "08:44",
+  "id": "111252_49",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Rouco, Lula cancela duas falas nas Filipinas, e reuniões na cúpula da Asean correm risco",
+  "titulo_orig": "Desgaste com voz faz Lula cancelar declarações nas Filipinas",
+  "link": "https://www1.folha.uol.com.br/mundo/2026/11/desgaste-com-voz-faz-lula-cancelar-declaracoes-nas-filipinas.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "artes/2026-11-14/111252_49.jpg",
+  "media_id": "18115157510523194"
  }
 ]
