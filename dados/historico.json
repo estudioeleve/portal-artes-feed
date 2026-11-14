@@ -38149,5 +38149,33 @@
   "fonte": "Gazeta da Semana",
   "arte": "artes/2026-11-13/021225_27.jpg",
   "media_id": "18119686859118028"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "23:26",
+  "id": "022447_html",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Presidente da Câmara de BH demite servidores ligados a Diego Sanches, candidato à sua sucessão",
+  "titulo_orig": "Presidente da Câmara de BH demite servidores de rivais",
+  "link": "https://www.em.com.br/politica/2026/11/7538448-presidente-da-camara-de-bh-demite-servidores-de-rivais.html",
+  "fonte": "www.em.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "23:26",
+  "id": "022414_0",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Diagnóstico de Carlos Nobre com ELA lembra famosos que enfrentaram a doença, de Stephen Hawking a Washington",
+  "titulo_orig": "Além de Carlos Nobre: famosos que foram diagnosticados com ELA",
+  "link": "https://tmc.com.br/brasil/alem-de-carlos-nobre-famosos-que-foram-diagnosticados-com-ela/",
+  "fonte": "tmc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
