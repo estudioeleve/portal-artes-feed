@@ -1,17 +1,5 @@
 [
  {
-  "id": "171619_9",
-  "data": "2026-11-12T14:22:40-03:00",
-  "titulo": "Norte e Noroeste de Minas atraem R$ 28 bilhões em energia solar desde 2023 e quase dobram a geração",
-  "linha_fina": "Balanço do Governo de Minas aponta 28 projetos e 1,5 mil empregos diretos; estado tem quase 20% da capacidade solar do país.",
-  "categoria": "minas-gerais",
-  "texto": "<p>O Norte e o Noroeste de Minas Gerais lideram a geração de energia solar e a atração de investimentos no setor no estado, segundo balanço do Governo de Minas para o período de 2023 a 2026. Desde 2023, as duas regiões receberam 28 projetos, que somam R$ 28 bilhões em investimentos.</p>\n<p>De acordo com o governo, os empreendimentos geraram cerca de 1,5 mil empregos diretos para a população local. A capacidade instalada de energia solar no Norte de Minas passou de 3,82 gigawatts (GW) para 6,11 GW no período.</p>\n<p>No estado como um todo, a potência fiscalizada saltou de 7,69 GW para 15,16 GW. Com isso, Minas responde hoje por quase 20% da capacidade instalada de energia solar do Brasil.</p>\n<p>Um dos exemplos citados é o da Atlas Renewable Energy, que fez seu primeiro projeto no estado em 2020, em Pirapora, com apoio da Secretaria de Estado de Desenvolvimento Econômico (Sede-MG) e da Invest Minas. A empresa tem hoje oito usinas solares ativas em Minas, com R$ 12,6 bilhões investidos.</p>\n<p>Segundo representantes do setor, a região atrai investimentos pela forte incidência de sol, pela disponibilidade de grandes áreas, por um sistema de transmissão de energia robusto e pela facilidade para fazer negócios. O governo afirma que pretende manter a atração de novos projetos de energia renovável nos próximos anos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/171619_9.jpg",
-  "credito_foto": "Elera Renováveis/Divulgação",
-  "fonte": "Agência Minas",
-  "resumos": ""
- },
- {
   "id": "171728_24",
   "data": "2026-11-12T14:22:40-03:00",
   "titulo": "Congresso aprova remanejamento de R$ 152 bilhões no Orçamento de 2026, incluindo verba para Angra 3 e Bolsa Família",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/121130_mbro.jpg",
   "credito_foto": "Foto: Reprodução/O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "121442_-stj",
+  "data": "2026-11-14T09:15:20-03:00",
+  "titulo": "Dono de farmácia, atenção: STJ exige farmacêutico na loja o tempo todo, sem plantão a distância",
+  "linha_fina": "Decisão unânime do STJ, em ação do Ministério Público de Minas, diz que atendimento remoto não substitui o profissional em cada loja",
+  "categoria": "comercio",
+  "texto": "<p>Farmácias e drogarias precisam manter um farmacêutico presente fisicamente em cada loja durante todo o horário de funcionamento, sem a possibilidade de trocar o profissional por atendimento a distância. A decisão é da Segunda Turma do Superior Tribunal de Justiça (STJ), tomada por unanimidade, assinada na quarta-feira (11) e publicada nesta sexta-feira (13).</p><p>O tribunal atendeu a um recurso do Ministério Público de Minas Gerais e restabeleceu a sentença de primeira instância que obrigava a Drogaria Araujo a ter um responsável técnico em todas as suas lojas no estado. Se descumprir a ordem, a rede fica sujeita a multa diária de R$ 500, limitada a R$ 500 mil. A empresa informou que não vai comentar o assunto.</p><p>A discussão girava em torno da Lei 5.991, de 1973, que exige a presença de um responsável técnico inscrito no Conselho Regional de Farmácia durante todo o expediente. O Tribunal de Justiça de Minas havia aceitado que a exigência fosse cumprida por profissionais em plantão centralizado, que atenderiam as lojas por internet, e-mail ou videoconferência, e também considerado que as lojas de uma mesma rede não precisariam ser tratadas como estabelecimentos separados.</p><p>O relator no STJ, ministro Marco Aurélio Bellizze, discordou. Para ele, a lei exige a presença física e contínua do farmacêutico em cada unidade, porque é esse profissional quem supervisiona a entrega dos medicamentos, identifica erros nas receitas, orienta os pacientes e fiscaliza o armazenamento e os remédios sujeitos a controle especial. Segundo o ministro, esses objetivos não são alcançados apenas com a possibilidade de contato remoto.</p><p>Bellizze também afirmou que, para fins de controle sanitário, vale o conceito da legislação farmacêutica: cada estabelecimento é o local físico onde os remédios são vendidos e entregues ao consumidor.</p><p>Para donos de farmácias e drogarias, inclusive os pequenos negócios de bairro, a decisão reforça a necessidade de organizar a escala dos farmacêuticos para cobrir todo o horário em que a loja fica aberta, inclusive em fins de semana e feriados, já que o entendimento do STJ tende a orientar outros casos semelhantes.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/121442_-stj.jpg",
+  "credito_foto": "Foto: Imagem ilustrativa/O Tempo",
+  "fonte": "O Tempo e Folhapress",
   "resumos": ""
  }
 ]
