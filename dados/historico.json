@@ -38807,5 +38807,33 @@
   "fonte": "www.otempo.com.br",
   "arte": "artes/2026-11-14/121130_mbro.jpg",
   "media_id": "17986159760901623"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "09:16",
+  "id": "121445_eto",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Ouro Preto confirma sarna humana em bebês de creche em Cachoeira do Campo e suspende dois berçários por sete dias",
+  "titulo_orig": "Casos de sarna humana são confirmados em bebês de creche municipal de Ouro Preto | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/casos-de-sarna-humana-sao-confirmados-em-bebes-de-creche-municipal-de-ouro-preto/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "09:16",
+  "id": "121123_17",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Polícia Civil e Prefeitura de Juiz de Fora assinam acordo para manutenção e internet das delegacias até 2028",
+  "titulo_orig": "Polícia Civil e Prefeitura de Juiz de Fora firmam acordo de cooperação institucional | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/juizdefora/policia-civil-e-prefeitura-de-juiz-de-fora-firmam-acordo-de-cooperacao-institucional/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
