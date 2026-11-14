@@ -40431,5 +40431,47 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "17:24",
+  "id": "201053_11",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista: Fux leva ao plenário físico do STF o julgamento da escala 5x2; regra de Dino segue valendo",
+  "titulo_orig": "Escala 5x2: Fux suspende julgamento no STF e leva para o físico | G1",
+  "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-14/201053_11.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "17:24",
+  "id": "201112_18",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Veneziano lidera no Senado a reação contra a volta das bets; MP precisa ser votada até março",
+  "titulo_orig": "Veneziano assume a linha de frente contra o retorno das bets no Senado",
+  "link": "https://www.metropoles.com/colunas/matheus-leitao/veneziano-assume-a-linha-de-frente-contra-o-retorno-das-bets-no-senado",
+  "fonte": "Metrópoles",
+  "arte": "artes/2026-11-14/201112_18.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "17:24",
+  "id": "201547_1",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Carolina Ferraz conta que Boni a proibiu de usar batom rosa na Globo: \"Não é para você\"",
+  "titulo_orig": "Carolina Ferraz revela proibição inusitada de Boni na Globo: 'Não é para você'",
+  "link": "https://www.terra.com.br/diversao/gente/carolina-ferraz-revela-proibicao-inusitada-de-boni-na-globo-nao-e-para-voce,ce988e8ca895f825ed0018ec80882545to7hyv1i.html",
+  "fonte": "Terra",
+  "arte": "artes/2026-11-14/201547_1.jpg",
+  "media_id": "SITE"
  }
 ]
