@@ -39087,5 +39087,61 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-14/131140_27.jpg",
   "media_id": "18415839496095062"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:23",
+  "id": "131217_33",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "A um mês do G20 nos Estados Unidos, Lula não pediu encontro com Trump e não vê pressa na conversa",
+  "titulo_orig": "A um mês do G20 nos EUA, Lula não pediu encontro com Trump, dizem fontes | Blogs | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/blogs/mariana-janjacomo/internacional/a-um-mes-do-g20-nos-eua-lula-nao-pediu-encontro-com-trump-dizem-fontes/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:25",
+  "id": "132351_34",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Do balé ao passinho: festival Corpo em Cena abre inscrições para aulas de dança em BH",
+  "titulo_orig": "Do balé ao passinho: Festival 'Corpo em Cena' promove formação e encontro de dança em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/cultura-e-lazer/do-bale-ao-passinho-festival-corpo-em-cena-promove-formacao-e-encontro-de-danca-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:25",
+  "id": "131531_3",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PT apoia ajuste fiscal de Lula e chama juros altos do Banco Central de entrave ao crescimento",
+  "titulo_orig": "PT apoia ajuste fiscal de Lula e classifica juros altos como \"entrave ao crescimento\" - Times Brasil | CNBC",
+  "link": "https://timesbrasil.com.br/brasil/pt-apoia-ajuste-fiscal-de-lula-e-classifica-juros-altos-como-entrave-ao-crescimento/",
+  "fonte": "Times Brasil | CNBC",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:25",
+  "id": "131534_25",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Aos 50 anos, Léo Chaves troca a rotina de shows pela vida no campo em fazenda às margens de represa em Uberlândia",
+  "titulo_orig": "Aos 50 anos, cantor preserva vida simples no campo com criação de gado em fazenda em MG - CARAS Brasil",
+  "link": "https://caras.com.br/casa-dos-famosos/aos-50-anos-cantor-preserva-vida-simples-no-campo-com-criacao-de-gado-em-fazenda-em-mg.phtml",
+  "fonte": "CARAS Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
