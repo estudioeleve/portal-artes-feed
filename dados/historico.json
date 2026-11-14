@@ -39451,5 +39451,19 @@
   "fonte": "CNN Brasil",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:23",
+  "id": "151102_46",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Governo federal reconhece emergência em Maringá após tornado de até 253 km/h",
+  "titulo_orig": "Governo federal reconhece emergência em Maringá após tornado de até 253 km/h",
+  "link": "https://www.tribunapr.com.br/noticias/parana/governo-federal-reconhece-situacao-emergencia-maringa-apos-tornado/",
+  "fonte": "Tribuna do Paraná",
+  "arte": "artes/2026-11-14/151102_46.jpg",
+  "media_id": "17971995494965236"
  }
 ]
