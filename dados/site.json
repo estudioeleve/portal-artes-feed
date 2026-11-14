@@ -1,17 +1,5 @@
 [
  {
-  "id": "211303_10",
-  "data": "2026-11-12T18:17:58-03:00",
-  "titulo": "Fiesp diz que pacote fiscal do governo Lula pode aumentar impostos em até R$ 40 bilhões",
-  "linha_fina": "Entidade critica mais tributação sobre empresas do lucro presumido; Fenacon também pede mudanças no projeto que está no Senado.",
-  "categoria": "brasil",
-  "texto": "<p>A Federação das Indústrias do Estado de São Paulo (Fiesp) criticou o projeto de ajuste fiscal do governo Luiz Inácio Lula da Silva (PT) e afirmou que a proposta pode elevar a carga tributária em até R$ 40 bilhões, com impacto concentrado nas empresas do lucro presumido.</p>\n<p>O Projeto de Lei Complementar 299/2026 foi apresentado pelo líder do governo no Senado, Jaques Wagner (PT-BA), tem relatoria do senador Eduardo Braga (MDB-AM) e foi pautado para discussão nesta quinta-feira (12).</p>\n<p>Em nota, a Fiesp criticou o aumento da tributação sobre o lucro presumido e a possibilidade de limitar o uso de créditos tributários para quitar débitos com a Receita Federal. Para a entidade, o pacote é insuficiente para conter o avanço das despesas da União e transfere o custo do ajuste para empresas e consumidores.</p>\n<p>A federação também afirma que o texto pode reduzir recursos para inovação e tornar menos previsível o acesso a incentivos para infraestrutura, já que prevê que um comitê do Executivo escolha os projetos com direito a regime tributário especial na compra de máquinas e equipamentos.</p>\n<p>A Federação Nacional das Empresas de Serviços Contábeis (Fenacon) também pediu ao Congresso a revisão do projeto. Pelos cálculos da entidade, para empresas de serviços no lucro presumido, a parte da receita considerada lucro para fins de tributação subiria de 35,2% para 38,4% sobre o faturamento que passar de R$ 5 milhões.</p>\n<p>O governo estima que o pacote tenha impacto entre R$ 50 bilhões e R$ 60 bilhões em 2027 e defende a aprovação rápida para fechar o Orçamento do ano que vem.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/211303_10.jpg",
-  "credito_foto": "Reprodução/Revista Oeste",
-  "fonte": "Portal VV8",
-  "resumos": ""
- },
- {
   "id": "211324_31",
   "data": "2026-11-12T18:17:58-03:00",
   "titulo": "Atendente percebe nervosismo e manda mensagem discreta a refém: atitude ajudou a libertar mãe e filho em Contagem",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/152350_40.jpg",
   "credito_foto": "Divulgação",
   "fonte": "ge",
+  "resumos": ""
+ },
+ {
+  "id": "152439_68",
+  "data": "2026-11-14T12:24:51-03:00",
+  "titulo": "Festival Melanina Acentuada, de teatro negro, encerra edição em São Paulo neste domingo",
+  "linha_fina": "Evento baiano voltou à capital paulista após 14 anos, com peças a R$ 30 e atividades formativas gratuitas.",
+  "categoria": "entretenimento",
+  "texto": "<p>A 8ª edição do Festival Melanina Acentuada termina neste domingo (15), em São Paulo. O evento, criado na Bahia e itinerante, voltou à capital paulista depois de 14 anos, com programação de teatro e atividades formativas que dão ao público acesso ao processo criativo dos artistas.</p><p>Os espetáculos têm ingressos a R$ 30 (inteira) e R$ 15 (meia). As demais atividades são gratuitas, com retirada de ingresso na bilheteria uma hora antes do início.</p><p>Neste sábado (14), à noite, o público assiste a \"Black Machine\", da dramaturga e atriz Dione Carlos, vencedora dos prêmios Shell e APCA de Dramaturgia em 2023. A montagem reinventa \"Hamlet\", de Shakespeare, e discute raça, poder, memória e representação. No domingo à tarde, o encerramento fica com \"Macacos\", texto e atuação de Clayton Nascimento, premiado pelo Shell, pela APTR e pela APCA.</p><p>O festival começou na quinta-feira (12) com a peça \"Pequeno Manual Antirracista\", adaptação do livro da filósofa Djamila Ribeiro. Nesta edição, a novidade é a entrevista musicada, que alterna canções do grupo Cabokaji com ideias de Abdias do Nascimento, fundador do Teatro Experimental Negro.</p><p>Em mais de uma década, o Melanina Acentuada já levou ao público mais de 40 espetáculos, segundo o idealizador e curador Aldri Anunciação.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/152439_68.jpg",
+  "credito_foto": "CCBB-SP/Divulgação",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
