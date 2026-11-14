@@ -39703,5 +39703,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-14/161352_27.jpg",
   "media_id": "18455543356130839"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "13:27",
+  "id": "161124_2",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Não, o governo não vai ficar com 20% de cada Pix: entenda o split payment da reforma tributária",
+  "titulo_orig": "CHECAGEM | É falso que o governo vai descontar 20% de cada Pix; entenda o que muda com o split payment",
+  "link": "https://gazetadoparana.com.br/publico/checagem-e-falso-que-o-governo-vai-descontar-20-de-cada-pix-entenda-o-que-muda-com-o-split-payment",
+  "fonte": "Gazeta do Paraná",
+  "arte": "artes/2026-11-14/161124_2.jpg",
+  "media_id": "18139011007648159"
  }
 ]
