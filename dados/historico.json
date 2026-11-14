@@ -39395,5 +39395,61 @@
   "fonte": "Tribuna de Minas",
   "arte": "artes/2026-11-14/151058_23.jpg",
   "media_id": "18117853904011630"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:17",
+  "id": "151043_19",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Câmara de Santa Luzia passa por dedetização e fica fechada até segunda após suspeita de sarna humana",
+  "titulo_orig": "Suspeita de escabiose provoca dedetização e interdição temporária da Câmara de Santa Luzia - BH 24 Horas",
+  "link": "https://bh24horas.com.br/minas-gerais/suspeita-de-escabiose-provoca-dedetizacao-e-interdicao-temporaria-da-camara-de-santa-luzia/",
+  "fonte": "BH 24 Horas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:17",
+  "id": "151048_3",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Atlético monitora Carlos Vinícius, centroavante do Grêmio que recusou renovação e só decide o futuro no fim da temporada",
+  "titulo_orig": "Grêmio pode perder Carlos Vinícius para Atlético-MG, Flamengo ou Vasco",
+  "link": "https://www.terra.com.br/esportes/futebol/gremio-pode-perder-carlos-vinicius-para-atletico-mg-flamengo-ou-vasco,0b01d1c1378b2efc5d71ae4cc7350e89a9fzjdaz.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:17",
+  "id": "151106_24",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Planalto estuda recriar secretaria para conduzir reforma do Judiciário no Ministério da Justiça",
+  "titulo_orig": "Planalto estuda recriar secretaria de reforma do Judiciário | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/planalto-estuda-recriar-secretaria-de-reforma-do-judiciario/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:17",
+  "id": "151109_33",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ministério da Segurança Pública deve reunir PF, PRF, Força Nacional e três secretarias da Justiça",
+  "titulo_orig": "Governo desenha Ministério da Segurança com três secretarias da Justiça | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/governo-desenha-ministerio-da-seguranca-com-tres-secretarias-da-justica/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
