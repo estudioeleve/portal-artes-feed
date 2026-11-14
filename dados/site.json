@@ -1,17 +1,5 @@
 [
  {
-  "id": "101300_20",
-  "data": "2026-11-13T07:18:04-03:00",
-  "titulo": "Arábia Saudita conclui o primeiro estádio da Copa de 2034 com oito anos de antecedência",
-  "linha_fina": "Aramco Stadium, em Al-Khobar, tem capacidade para 47 mil torcedores e inauguração prevista ainda para este ano.",
-  "categoria": "esporte",
-  "texto": "<p>A Arábia Saudita concluiu as obras do Aramco Stadium, em Al-Khobar, o primeiro estádio finalizado para a Copa do Mundo de 2034. Com capacidade para 47 mil torcedores, a arena foi entregue com oito anos de antecedência e tem inauguração oficial prevista ainda para este ano.</p>\n<p>O país foi escolhido como única candidata a sediar o Mundial de 2034. A candidatura previa 14 estádios para a competição, que terá 48 seleções, e a Arábia Saudita mantém o plano de realizar todas as partidas em seu território.</p>\n<p>O novo complexo em Al-Khobar será a casa oficial do Al-Qadsiah Football Club e também vai receber partidas internacionais, eventos comunitários e programações culturais. Antes mesmo da abertura oficial, a equipe feminina principal do Al-Qadsiah já realizou um treino no gramado.</p>\n",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/101300_20.jpg",
-  "credito_foto": "Foto: Divulgação",
-  "fonte": "ge",
-  "resumos": ""
- },
- {
   "id": "101539_42",
   "data": "2026-11-13T07:18:04-03:00",
   "titulo": "Congresso aprova créditos de R$ 149,4 bilhões para Bolsa Família e BPC e reforço para a PF",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/232215_2.jpg",
   "credito_foto": "Foto: Reprodução/Band",
   "fonte": "Band",
+  "resumos": ""
+ },
+ {
+  "id": "233301_oca",
+  "data": "2026-11-14T20:33:27-03:00",
+  "titulo": "Galo empata em 0 a 0 com o Mirassol, segue em 7º e agora foca na final da Sul-Americana",
+  "linha_fina": "Atlético teve a melhor chance nos acréscimos, com Scarpa na trave; no sábado (21), decide o título contra o Boca Juniors, em Barranquilla.",
+  "categoria": "atletico",
+  "texto": "<p>O Atlético empatou sem gols com o Mirassol na noite deste sábado (14), no Estádio Campos Maia, o Maião, em Mirassol (SP), em jogo adiantado da 35ª rodada do Campeonato Brasileiro. Foi a última partida do Galo antes da final da Copa Sul-Americana.</p>\n<p>Com o ponto, o Atlético chegou a 51 pontos e continua em sétimo lugar na tabela. O Mirassol foi a 41 e segue na 14ª posição. O time mineiro vinha de seis jogos seguidos sem vitória.</p>\n<p>O primeiro tempo foi equilibrado. Logo aos 2 minutos, Cassierra desviou por cima um cruzamento de Cuello. O Mirassol, que teve mais a bola, assustou com o lateral Reinaldo, e aos 24 minutos Everson fez boa defesa em chute forte de fora da área.</p>\n<p>Na etapa final, o Mirassol começou pressionando e Everson precisou de duas tentativas para segurar a finalização de Denilson. O Atlético passou a encontrar espaços em contra-ataques, mas errou muito no último passe. A melhor chance do jogo veio nos acréscimos: Gustavo Scarpa, que entrou no segundo tempo, cortou para o meio e acertou a trave de Walter.</p>\n<p>O técnico Eduardo Domínguez mexeu no time ao longo do segundo tempo, com as entradas de Cissé, Alexsander, Scarpa, Dudu e Vitor Hugo.</p>\n<p>Agora o Atlético volta todas as atenções para o jogo mais importante da temporada: a final da Copa Sul-Americana contra o Boca Juniors, da Argentina, no sábado (21), às 19h30 (de Brasília), no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia. O Mirassol encara o Fluminense no Maracanã no dia 22.</p>\n",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/233301_oca.jpg",
+  "credito_foto": "Foto: Pedro Souza/Atlético",
+  "fonte": "O Tempo/No Ataque",
   "resumos": ""
  }
 ]
