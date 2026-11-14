@@ -1,17 +1,5 @@
 [
  {
-  "id": "181449_83",
-  "data": "2026-11-12T15:21:16-03:00",
-  "titulo": "Sebrae Minas lança minidocumentário gratuito sobre como pequenas empresas fizeram crescer o polo metalmecânico do Vale do Aço",
-  "linha_fina": "Série em três episódios conta a história do arranjo produtivo de Ipatinga e região, com depoimentos de empresários e lideranças.",
-  "categoria": "comercio",
-  "texto": "<p>O Sebrae Minas lançou um minidocumentário sobre a história do Polo Metalmecânico do Vale do Aço, um dos principais polos industriais do estado. A produção é dividida em três episódios, de cerca de cinco minutos cada, e está disponível de graça na plataforma Histórias de Sucesso, do Sebrae.</p>\n<p>A série mostra como a região de Ipatinga desenvolveu a vocação industrial e como os pequenos negócios se organizaram até formar um Arranjo Produtivo Local (APL). Os episódios reúnem depoimentos de empresários, lideranças e representantes de entidades que acompanharam diferentes fases dessa trajetória.</p>\n<p>O primeiro episódio relembra os marcos que impulsionaram o setor: a chegada da Estrada de Ferro Vitória-Minas, em 1922, e a instalação de grandes indústrias, como a Belgo-Mineira, em 1934, a Acesita, em 1944, e a Usiminas, em 1962. Com elas, surgiu uma cadeia de fornecedores especializados em manutenção, usinagem, caldeiraria, fabricação de equipamentos e montagem industrial.</p>\n<p>No início dos anos 2000, o crescimento da siderurgia e de outras cadeias produtivas levou as empresas a se organizarem para ganhar força e competitividade. Em 2005, foram feitos o primeiro diagnóstico do setor metalmecânico e o projeto voltado às empresas do Vale do Aço.</p>\n<p>A produção destaca que a união entre pequenos negócios, poder público, entidades e instituições de apoio ajudou a fortalecer as empresas, estimular a inovação e abrir novos mercados.</p>\n<p>Para o pequeno empresário de outras regiões, como a Grande BH, a experiência serve de exemplo de como a cooperação entre empresas do mesmo ramo pode gerar ganhos de escala, acesso a crédito e novos clientes. O Sebrae oferece orientação gratuita para quem quer participar de projetos coletivos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/181449_83.jpg",
-  "credito_foto": "Divulgação/Sebrae Minas",
-  "fonte": "Sebrae Minas",
-  "resumos": ""
- },
- {
   "id": "181708_22",
   "data": "2026-11-12T15:21:16-03:00",
   "titulo": "Na despedida da COP31, Lula cobra Trump, Macron e países ricos por dinheiro para proteger florestas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/101637_israel.jpg",
   "credito_foto": "Foto: Portal ONE News",
   "fonte": "Portal ONE News",
+  "resumos": ""
+ },
+ {
+  "id": "131140_27",
+  "data": "2026-11-14T10:17:02-03:00",
+  "titulo": "EUA propõem que a Ucrânia deixe parte do Donbas em troca de entrar na Otan, diz Zelensky",
+  "linha_fina": "Presidente ucraniano afirma que Kiev não abrirá mão de território e vê risco de a Rússia usar a negociação para enfraquecer a aliança militar.",
+  "categoria": "mundo",
+  "texto": "<p>O presidente da Ucrânia, Volodymyr Zelensky, afirmou que os Estados Unidos levantaram, pela primeira vez, a possibilidade de o país retirar suas tropas das áreas do Donbas, no leste ucraniano, que ainda não estão sob controle russo, em troca da adesão à Organização do Tratado do Atlântico Norte (Otan). As declarações foram dadas a jornalistas na sexta-feira (13) e só puderam ser divulgadas neste sábado (14).</p><p>Zelensky reiterou que Kiev não abrirá mão de seu território. Ele classificou a proposta como \"perigosa\" e disse que ela não deveria ser a pauta principal das conversas. Segundo o presidente ucraniano, Washington também mencionou a criação de uma nova estrutura de segurança para a Europa como parte dos esforços para encerrar o conflito.</p><p>Na avaliação de Zelensky, a Rússia estaria mais interessada em rediscutir a segurança do continente do que em concentrar esforços no fim da guerra, que já dura quatro anos e meio. Ele afirmou que o desejo do presidente russo, Vladimir Putin, de alterar as fronteiras europeias \"é um fato\" e que isso faria parte de um plano de revisão das garantias de segurança na Europa.</p><p>O líder ucraniano alertou ainda que Moscou pode aproveitar as negociações para enfraquecer a Otan. A região do Donbas, formada pelas províncias de Donetsk e Luhansk, é o principal foco dos combates e está em grande parte ocupada por forças russas.</p><p>A adesão da Ucrânia à aliança militar ocidental é um dos pontos mais sensíveis do conflito. O Kremlin sempre tratou a entrada do país vizinho na Otan como uma linha vermelha, enquanto Kiev vê a aliança como a principal garantia contra novos ataques.</p><p>Até a publicação desta reportagem, o governo dos Estados Unidos não havia comentado publicamente as declarações de Zelensky. As negociações para um possível acordo de paz seguem sem data para um desfecho.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/131140_27.jpg",
+  "credito_foto": "Foto: Yves Herman/Reuters",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
