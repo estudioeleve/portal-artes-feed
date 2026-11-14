@@ -1,17 +1,5 @@
 [
  {
-  "id": "151511_38",
-  "data": "2026-11-12T12:17:04-03:00",
-  "titulo": "Mercado Livre abre novo centro de distribuição em Contagem e tem mais de 300 vagas de emprego",
-  "linha_fina": "Com a nova unidade, a empresa passa a ter cinco estruturas na cidade da Grande BH e cerca de 1.470 trabalhadores.",
-  "categoria": "comercio",
-  "texto": "<p>O Mercado Livre inaugurou, nesta terça-feira (10), um novo centro de distribuição em Contagem, na Grande BH, e abriu um processo seletivo para preencher mais de 300 vagas de trabalho no município. A unidade faz parte do plano da empresa de ampliar a estrutura de logística na região metropolitana.</p>\n<p>Com a nova operação, a plataforma de comércio eletrônico passa a manter cinco estruturas em funcionamento em Contagem, que reúnem cerca de 1.470 trabalhadores. Os interessados nas vagas devem se inscrever pelo formulário divulgado pela própria empresa.</p>\n<p>A cidade vem atraindo investimentos ligados à logística e ao comércio. Segundo levantamento da Junta Comercial do Estado de Minas Gerais (Jucemg), Contagem é a terceira cidade mineira que mais registrou abertura de empresas entre 2024 e 2025. Outras empresas também ampliam operações no município, como a Shopee, que expande seu centro de distribuição.</p>\n<p>O prefeito de Contagem, Ricardo Faria (PSD), afirmou que a nova unidade confirma a cidade como polo logístico e disse que a inauguração representa mais empregos e fortalecimento do comércio e dos serviços na região.</p>\n<p>Para o pequeno comerciante da Grande BH, o avanço das grandes plataformas de vendas pela internet às vésperas da Black Friday e do Natal é um sinal de atenção: a entrega mais rápida aumenta a concorrência, mas também facilita a vida de quem vende pelos marketplaces. Entidades como o Sebrae oferecem orientação gratuita para lojistas que querem começar a vender on-line.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/151511_38.jpg",
-  "credito_foto": "Foto: Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "151352_42",
   "data": "2026-11-12T12:20:02-03:00",
   "titulo": "BH tem 75 vagas em cursos gratuitos, até de inteligência artificial; inscrição é presencial",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/091230_106.jpg",
   "credito_foto": "Foto: Divulgação",
   "fonte": "Imprensa e Mídia",
+  "resumos": ""
+ },
+ {
+  "id": "091802_ese",
+  "data": "2026-11-14T06:18:44-03:00",
+  "titulo": "Lojista, prepare o estoque: 13º deve injetar R$ 37 bilhões na economia de Minas até o fim do ano",
+  "linha_fina": "Dieese estima que 10,8 milhões de mineiros recebam o benefício, com média de R$ 3.164; dinheiro chega junto com Black Friday e Natal.",
+  "categoria": "comercio",
+  "texto": "<p>O pagamento do 13º salário deve injetar cerca de R$ 37,2 bilhões na economia de Minas Gerais até o fim de 2026, segundo levantamento do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). O valor representa cerca de 3,1% do PIB do estado, 9,3% de tudo o que será pago no Brasil e 19,5% do total da região Sudeste.</p><p>De acordo com o Dieese, cerca de 10,8 milhões de pessoas devem receber o benefício em Minas, com valor médio estimado em R$ 3.164,56. Os trabalhadores com carteira assinada ou estatutários são 59,3% desse público; aposentados e pensionistas do INSS, 38,9%; e empregados domésticos com carteira, 1,8%.</p><p>Na divisão do dinheiro, os empregados formais ficam com 70,3% (R$ 26,1 bilhões), os beneficiários do INSS com 21,4% (R$ 7,9 bilhões), os aposentados e pensionistas do regime próprio do estado com 6,5% (R$ 2,4 bilhões) e os dos regimes próprios dos municípios com 1,8%. No país, o 13º deve movimentar R$ 399,1 bilhões, cerca de 2,9% do PIB.</p><p>Para o comércio, a renda extra chega em boa hora, junto com a Black Friday, marcada para 27 de novembro, e o Natal. Segundo o economista da Federação das Câmaras de Dirigentes Lojistas de Minas Gerais (FCDL-MG), Vinicius Carlos Silva, a combinação do 13º com um mercado de trabalho relativamente estável deve incentivar o consumo, embora o endividamento das famílias continue sendo um ponto de atenção. Parte do dinheiro deve ser usada para quitar dívidas.</p><p>Para o pequeno lojista, a hora é de planejamento: reforçar o estoque dos produtos mais procurados, garantir formas de pagamento como Pix e parcelamento no cartão, organizar a escala de funcionários e temporários e divulgar as promoções com antecedência para atrair o cliente que vai receber a primeira parcela, paga até 30 de novembro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/091802_ese.jpg",
+  "credito_foto": "Foto: Arquivo/Diário do Comércio",
+  "fonte": "Diário do Comércio e Dieese",
   "resumos": ""
  }
 ]
