@@ -1,17 +1,5 @@
 [
  {
-  "id": "161728_248",
-  "data": "2026-11-12T13:30:05-03:00",
-  "titulo": "Mães de crianças com deficiência são chamadas para cobrir falta de auxiliares em escolas de BH",
-  "linha_fina": "Famílias contestam programa da Prefeitura que convoca mães atípicas para substituir profissionais de apoio em escolas infantis.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Uma proposta da Prefeitura de Belo Horizonte para evitar a falta de profissionais de apoio nas escolas de educação infantil está preocupando famílias de crianças com deficiência. Segundo relatos ouvidos pela Rede 98, mães de crianças atípicas estão sendo chamadas para cobrir ausências desses profissionais.</p><p>Os Profissionais de Apoio Escolar acompanham alunos com deficiência e transtornos globais do desenvolvimento, como o autismo. Eles ajudam na locomoção, no uso do banheiro, na alimentação e na participação nas atividades pedagógicas.</p><p>De acordo com uma mãe que preferiu não se identificar, a proposta foi apresentada em reunião como o \"Programa UMA em Ação\", em parceria com o Lar Dorcas, ONG que atua com educação infantil. Na prática, as mães seriam chamadas conforme a necessidade e receberiam pelo dia trabalhado. \"Ser mãe atípica não significa estar preparada para exercer a função de um profissional de apoio escolar\", afirmou.</p><p>A pedagoga Alessandra Latalisa de Sá defende que a função exige formação adequada e contínua, com conhecimentos de desenvolvimento infantil, educação inclusiva, comunicação e acessibilidade. Ela também alerta que a troca frequente de profissionais pode prejudicar o desenvolvimento e a aprendizagem das crianças.</p><p>Outra mãe, que tem um filho autista com deficiências físicas e intelectuais, questionou quem seria responsabilizado em caso de acidente ou maus-tratos com o rodízio de pessoas. As famílias dizem ainda que o aumento do número de auxiliares é uma reivindicação antiga, já que hoje uma profissional atende várias crianças ao mesmo tempo.</p><p>Parte dos responsáveis também relata ter recebido ligações da Prefeitura com perguntas sobre a rotina dos filhos na escola, o que gerou o temor de uma reavaliação e possível redução do apoio. O caso segue sendo acompanhado pelas famílias.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/161728_248.jpg",
-  "credito_foto": "Foto: Reprodução/Rede 98",
-  "fonte": "Rede 98",
-  "resumos": ""
- },
- {
   "id": "161802_337",
   "data": "2026-11-12T13:30:05-03:00",
   "titulo": "Foragido havia dois anos, idoso de 75 anos é preso em Nova Lima suspeito de abusar de menino",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/101251_82.jpg",
   "credito_foto": "Foto: Ana Branco e Globo/Manoella Mello",
   "fonte": "O Globo",
+  "resumos": ""
+ },
+ {
+  "id": "101714_59",
+  "data": "2026-11-14T07:17:27-03:00",
+  "titulo": "Alcolumbre, Rogério Marinho e Tereza Cristina disputam o comando do Senado, e especialistas veem eleição polarizada",
+  "linha_fina": "Votação só acontece em 1º de fevereiro, mas governo e oposição já buscam apoio; Tereza tenta ser a alternativa entre os dois polos.",
+  "categoria": "politica",
+  "texto": "<p>A eleição para a presidência do Senado só acontece em 1º de fevereiro de 2027, mas a disputa já está aberta. Nos últimos dias, Davi Alcolumbre (União-AP), Rogério Marinho (PL-RN) e Tereza Cristina (PP-MS) anunciaram que vão concorrer ao comando da Casa na próxima legislatura, e especialistas avaliam que a votação deve repetir a polarização vista nas eleições nacionais.</p>\n<p>Atual presidente do Congresso, Alcolumbre tenta a reeleição e já tem o apoio da federação União-Progressistas. Ele também deve contar com partidos de centro, como MDB, Republicanos e Podemos, e com o apoio do presidente Lula. Do outro lado, Rogério Marinho representa o grupo bolsonarista, principalmente o PL.</p>\n<p>Para o cientista político Marco Teixeira, professor da FGV, o resultado vai influenciar diretamente a governabilidade. Segundo ele, uma vitória de Marinho tende a levar o Senado para uma postura mais forte de oposição e de confronto com o Supremo Tribunal Federal, enquanto Alcolumbre representaria continuidade.</p>\n<p>O cientista político Leandro Consentino lembra que, além do presidente, a disputa define cargos importantes da Mesa, como vice-presidência e secretarias, que pesam no andamento das votações. Para ele, a polarização contaminando o debate legislativo é ruim para o país, independentemente do lado vencedor.</p>\n<p>Tereza Cristina tenta se colocar como alternativa, apostando no bom trânsito entre bolsonaristas e o centrão, e quer ser a primeira mulher a presidir o Congresso. Na avaliação de Consentino, porém, ela deve ter dificuldade para conquistar esse espaço, já que petistas e bolsonaristas dificilmente mudarão de lado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/101714_59.jpg",
+  "credito_foto": "Foto: Jefferson Rudy, Marcos Oliveira e Waldemir Barreto/Agência Senado",
+  "fonte": "CNN Brasil",
   "resumos": ""
  }
 ]
