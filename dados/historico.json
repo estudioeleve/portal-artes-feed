@@ -38751,5 +38751,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "08:35",
+  "id": "111240_50",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Árbitro uruguaio Andrés Matonte vai apitar Atlético x Boca na final da Sul-Americana",
+  "titulo_orig": "Arbitragem da final da Copa Sul-Americana é definida; saiba mais",
+  "link": "https://www.cartacapital.com.br/esporte/arbitragem-da-final-da-copa-sul-americana-e-definida-saiba-mais/",
+  "fonte": "CartaCapital",
+  "arte": "artes/2026-11-14/111240_50.jpg",
+  "media_id": "18361023382175030"
  }
 ]
