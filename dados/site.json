@@ -1,17 +1,5 @@
 [
  {
-  "id": "171615_92",
-  "data": "2026-11-12T14:22:40-03:00",
-  "titulo": "Mateus Simões escolhe Carlos Eduardo Ferreira Pinto para comandar o Ministério Público de Minas em 2027 e 2028",
-  "linha_fina": "Promotor da área ambiental foi o terceiro mais votado na lista tríplice; o atual procurador-geral, Paulo de Tarso, liderou a eleição interna.",
-  "categoria": "politica",
-  "texto": "<p>O governador Mateus Simões (PSD) anunciou nesta quinta-feira (12) a escolha do promotor de Justiça Carlos Eduardo Ferreira Pinto para chefiar o Ministério Público de Minas Gerais (MPMG) no biênio 2027-2028, no cargo de procurador-geral de Justiça.</p>\n<p>A escolha foi feita a partir da lista tríplice formada em eleição interna do MPMG na terça-feira (10) e entregue no mesmo dia ao governador em exercício, Tadeu Leite (MDB). O mais votado foi o atual procurador-geral, Paulo de Tarso Morais Filho, com 797 votos. O procurador de Justiça José Carlos Fernandes Júnior teve 402, e Carlos Eduardo Ferreira Pinto ficou em terceiro, com 379. A promotora Larissa Rodrigues Amaral, quarta colocada com 249 votos, ficou fora da lista.</p>\n<p>Pela Constituição do estado, o governador pode nomear qualquer um dos três nomes da lista, sem obrigação de escolher o mais votado.</p>\n<p>Carlos Eduardo Ferreira Pinto é promotor do MPMG desde 2004 e tem trajetória ligada à defesa do meio ambiente. Ele coordenou o Centro de Apoio Operacional das Promotorias de Justiça de Defesa do Meio Ambiente (Caoma) de 2014 a 2016 e de 2020 a 2024.</p>\n<p>Paulo de Tarso chegou ao comando do MP com apoio do ex-secretário de Estado de Casa Civil Marcelo Aro (PP), que rompeu com Simões durante a campanha eleitoral deste ano. O novo procurador-geral assume o mandato no início de 2027.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/171615_92.jpg",
-  "credito_foto": "Divulgação/MPMG",
-  "fonte": "Bhaz",
-  "resumos": ""
- },
- {
   "id": "171619_9",
   "data": "2026-11-12T14:22:40-03:00",
   "titulo": "Norte e Noroeste de Minas atraem R$ 28 bilhões em energia solar desde 2023 e quase dobram a geração",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/112619_4.jpg",
   "credito_foto": "Foto: Guilherme Leite/Divulgação",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "121130_mbro",
+  "data": "2026-11-14T09:13:24-03:00",
+  "titulo": "Chuva na Nordeste de BH já passa da média de novembro, e Centro-Sul fica em risco forte",
+  "linha_fina": "Regional recebeu 236,2 mm até as 7h deste sábado; Defesa Civil põe cinco regionais em alerta de deslizamento até segunda",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A chuva das últimas horas fez a regional Nordeste de Belo Horizonte ultrapassar a média de precipitação esperada para todo o mês de novembro. Até as 7h deste sábado (14), a região havia acumulado 236,2 milímetros, o equivalente a 100,1% dos 236 mm previstos para o mês, segundo dados da Defesa Civil da capital.</p><p>Outras regionais caminham para o mesmo patamar. A Oeste soma 217,6 mm (92,9% da média mensal), Venda Nova chegou a 204,8 mm (86,8%) e a Noroeste, a 193,6 mm (82%). Pampulha e Norte já registram 79,4% e 79,2% do volume esperado. O menor índice está no Hipercentro, com 115,8 mm, cerca de metade da média do mês.</p><p>Boa parte desse volume caiu na noite de sexta-feira (13). Entre 17h50 e 23h10, o Barreiro recebeu 71,2 mm, o maior acumulado do período e o equivalente a 30,2% da média de novembro. A Centro-Sul teve 60,6 mm, a Leste 53,8 mm, a Nordeste 49 mm e a Oeste 47,8 mm. Venda Nova registrou 34,2 mm e a Norte, 32,8 mm.</p><p>Com o solo cada vez mais encharcado, a Defesa Civil ampliou o alerta de risco geológico na manhã deste sábado. A regional Centro-Sul passou de risco moderado para forte, mesma classificação do Barreiro. A Nordeste foi incluída no risco moderado, ao lado da Oeste e da Leste. Ao todo, cinco das dez regionais estão sob alerta para deslizamentos e desmoronamentos de terra, com validade até segunda-feira (16).</p><p>A orientação é ficar atento a sinais de instabilidade no terreno e nos imóveis: rachaduras em paredes e no chão, portas e janelas que começam a emperrar, estalos, muros estufados e água surgindo na base de barrancos. Quem mora perto de encostas deve evitar permanecer nesses locais durante a chuva.</p><p>Se houver sinais de movimentação de terra ou de dano na estrutura da casa, a recomendação é deixar o imóvel, procurar um lugar seguro e acionar a Defesa Civil pelo telefone 199.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/121130_mbro.jpg",
+  "credito_foto": "Foto: Reprodução/O Tempo",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
