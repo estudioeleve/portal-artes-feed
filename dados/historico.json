@@ -39465,5 +39465,47 @@
   "fonte": "Tribuna do Paraná",
   "arte": "artes/2026-11-14/151102_46.jpg",
   "media_id": "17971995494965236"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:24",
+  "id": "152342_66",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Luan Santana lança EP \"Além do registro\" com duas músicas inéditas que reaproximam o cantor do sertanejo",
+  "titulo_orig": "Luan Santana expõe o D.N.A. sertanejo nas duas músicas inéditas de EP que expande o registro da turnê do cantor | G1",
+  "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/14/luan-santana-expoe-o-dna-sertanejo-nas-duas-musicas-ineditas-de-ep-que-expande-o-registro-da-turne-do-cantor.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:24",
+  "id": "152346_25",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ESPORTE",
+  "titulo": "Wanna Brito faz a melhor marca do ano no arremesso de peso e fica a 8 cm do próprio recorde mundial",
+  "titulo_orig": "Wanna Brito fica a 8 cm do recorde mundial e faz melhor marca de 2026 | Ge",
+  "link": "https://ge.globo.com/ap/noticia/2026/11/14/wanna-brito-fica-a-8-cm-do-recorde-mundial-e-faz-melhor-marca-de-2026.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "12:24",
+  "id": "152350_40",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ESPORTE",
+  "titulo": "Guga é homenageado em Turim ao lado dos 30 tenistas que já foram número 1 do mundo",
+  "titulo_orig": "Guga é homenageado entre os 30 números 1 do tênis em Turim | Ge",
+  "link": "https://ge.globo.com/tenis/noticia/2026/11/14/guga-e-homenageado-em-turim-em-evento-com-os-30-lideres-da-historia-do-tenis-mundial.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
