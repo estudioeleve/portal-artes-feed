@@ -48,6 +48,7 @@
   - 13/11/2026 ~08h50: carrossel de 4 artes prontas "Sarna humana: transmissão, sintomas e prevenção" (Secretaria de Saúde de Vespasiano e CDC; id `134900_israel`), postado no Instagram (`create_carousel_post`) e no site. **Não repetir** o explicativo de sarna.
   - 13/11/2026 ~16h45: Agenda cultural de Santa Luzia no fim de semana 13 a 15/11 (+20 programações; Secretaria de Cultura e Turismo; arte do Portal ONE News; id `131647_israel`). Israel: **"apenas site"**: não postar no Instagram nem repetir agenda desse fim de semana se aparecer em outro veículo.
   - 14/11/2026 ~10h15: denúncia de morador sobre mato alto no passeio da Avenida das Indústrias, Vila Olga, Santa Luzia (apuração do Portal ONE News; id `101637_israel`). Israel: **"apenas site"**: não postar no Instagram nem repetir (só fato novo, ex.: resposta ou limpeza da Prefeitura).
+  - 14/11/2026 ~17h45: acidente Saveiro x Creta na Vila Olga, Santa Luzia (fotos do Portal ONE News; id `173400_israel`), carrossel de 5 artes com moldura Luziense + site, a pedido dele. **Não repetir** se aparecer em outro veículo (só fato novo, ex.: estado das vítimas ou confirmação da prisão).
   - Item que o Israel manda e que a trava barraria por tema parecido (fato novo): marque `"pedido_israel": true` no lote (só o link igual barra).
   - 10/11/2026 12h: laudo do caso Beatriz Vitória (Jaboticatubas, "enterrada viva") já saiu no Instagram e no site a pedido dele. **Não repetir** se aparecer em outro veículo.
 
