@@ -1,17 +1,5 @@
 [
  {
-  "id": "181336_1",
-  "data": "2026-11-12T15:21:16-03:00",
-  "titulo": "Prestador de serviços é morto a facadas na Ceasa, em Contagem, após discussão; suspeito fugiu",
-  "linha_fina": "Vítima de 53 anos levou três facadas numa área conhecida como Pedra; o suspeito, também prestador de serviços, é procurado pela polícia.",
-  "categoria": "contagem",
-  "texto": "<p>Um prestador de serviços de 53 anos foi morto a facadas na Central de Abastecimento de Minas Gerais (CeasaMinas), em Contagem, na Grande BH, nesta quinta-feira (12). O suspeito do crime, que também trabalha como prestador de serviços no entreposto, fugiu e é procurado pela polícia.</p>\n<p>De acordo com as primeiras informações, o crime aconteceu em uma área da Ceasa conhecida como Pedra. A motivação ainda não foi esclarecida, mas os dois homens teriam discutido antes das agressões. A vítima foi atingida por três golpes de faca.</p>\n<p>O homem chegou a receber os primeiros socorros ainda no local e foi levado para uma unidade de saúde, mas não resistiu aos ferimentos.</p>\n<p>Em nota, a CeasaMinas lamentou a morte do trabalhador e manifestou solidariedade à família, aos amigos e aos colegas. A companhia informou que a equipe de segurança patrimonial agiu assim que a ocorrência foi identificada, isolou a área e acionou a Polícia Militar.</p>\n<p>A empresa também afirmou que está à disposição das autoridades para ajudar a esclarecer o caso. Segundo a CeasaMinas, o entreposto de Contagem recebe cerca de 70 mil pessoas por dia e conta com segurança patrimonial própria, além de um pelotão da Polícia Militar e de uma delegacia da Polícia Civil dentro da área.</p>\n<p>A Polícia Civil deve investigar as circunstâncias do crime. Informações que ajudem a localizar o suspeito podem ser repassadas de forma anônima pelo Disque-Denúncia 181.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/181336_1.jpg",
-  "credito_foto": "Banco de imagens/Unsplash (ilustrativa)",
-  "fonte": "Rádio Itatiaia",
-  "resumos": ""
- },
- {
   "id": "181358_105",
   "data": "2026-11-12T15:21:16-03:00",
   "titulo": "Certidão aponta intoxicação como causa da morte de homem preso em viatura após spray de pimenta em Corinto",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/124111_15.jpg",
   "credito_foto": "Foto: Reprodução/Olhar Direto",
   "fonte": "Olhar Direto e Metrópoles",
+  "resumos": ""
+ },
+ {
+  "id": "131224_-14",
+  "data": "2026-11-14T10:13:59-03:00",
+  "titulo": "Inmet põe Santa Luzia e a Grande BH em alerta de perigo para temporal até o fim deste sábado",
+  "linha_fina": "Aviso de perigo do Inmet vale até as 23h59 deste sábado (14) e prevê até 100 mm de chuva no dia, com risco de alagamentos e queda de árvores.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Santa Luzia, Belo Horizonte e outras 619 cidades de Minas Gerais estão sob alerta de chuvas intensas neste sábado (14). O aviso foi divulgado pelo Instituto Nacional de Meteorologia (Inmet), tem grau de severidade classificado como \"perigo\" e vale das 0h às 23h59.</p><p>Segundo o instituto, a previsão é de chuva entre 30 e 60 milímetros por hora, ou de até 100 milímetros ao longo do dia, acompanhada de ventos intensos que podem chegar a 100 km/h. Na Grande BH, além da capital e de Santa Luzia, aparecem na lista cidades como Vespasiano, Pedro Leopoldo, Lagoa Santa, Sabará, Ribeirão das Neves e Contagem.</p><p>O alerta atinge municípios de quase todas as regiões do estado: Triângulo Mineiro e Alto Paranaíba, Central Mineira, Zona da Mata, Vale do Rio Doce, Oeste de Minas, Campo das Vertentes, Região Metropolitana de Belo Horizonte, Sul e Sudoeste, Jequitinhonha, Noroeste, Vale do Mucuri e Norte de Minas.</p><p>De acordo com o Inmet, há risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e descargas elétricas. O aviso chega depois de uma sexta-feira (13) de temporal na capital, quando a Defesa Civil já havia alertado para enxurradas e risco geológico em várias regionais.</p><p>As orientações para quem mora em áreas de risco são as de sempre: evitar encostas e margens de córregos, não atravessar ruas ou pontes alagadas, não se abrigar debaixo de árvores nem perto de torres e postes durante as rajadas de vento, e desligar aparelhos elétricos das tomadas em caso de raios.</p><p>Em situações de emergência, a população deve acionar a Defesa Civil pelo telefone 199 ou o Corpo de Bombeiros pelo 193. Moradores também podem receber os alertas por SMS cadastrando o CEP no número 40199.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/131224_-14.jpg",
+  "credito_foto": "Foto: Clarissa Guimarães/Itatiaia",
+  "fonte": "Itatiaia, com informações do Inmet",
   "resumos": ""
  }
 ]
