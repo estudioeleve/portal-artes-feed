@@ -39203,20 +39203,6 @@
  {
   "data": "2026-11-14",
   "hora": "11:23",
-  "id": "141651_38",
-  "bloco": "rmbh",
-  "portal": "one",
-  "ed": "PEDRO LEOPOLDO",
-  "titulo": "Pedro Leopoldo perde mais um recurso no STF e segue com a tarifa unificada de esgoto da Copasa",
-  "titulo_orig": "Pedro Leopoldo sofre nova derrota na Justiça em disputa sobre tarifa de esgoto da Copasa",
-  "link": "https://conexao424.com.br/pedro-leopoldo-sofre-nova-derrota-na-justica-em-disputa-sobre-tarifa-de-esgoto-da-copasa/",
-  "fonte": "Conexão 424",
-  "arte": "",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-14",
-  "hora": "11:23",
   "id": "141722_19",
   "bloco": "esporte",
   "portal": "one",
@@ -39295,6 +39281,20 @@
   "titulo_orig": "Horários e onde assistir ao GP de Las Vegas de Fórmula 1 de 2026 | Rádio Itatiaia",
   "link": "https://www.itatiaia.com.br/esportes/motor/formula-1/horarios-e-onde-assistir-ao-gp-de-las-vegas-de-formula-1-de-2026/",
   "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "11:24",
+  "id": "142415_html",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "BH já teve 11 surtos de sarna humana em 2026, diz Prefeitura, enquanto casos avançam na Grande BH",
+  "titulo_orig": "Sarna avança em cidades da Grande BH, e capital registra 11 surtos; entenda",
+  "link": "https://www.em.com.br/gerais/2026/11/7537795-sarna-avanca-em-cidades-da-grande-bh-e-capital-registra-11-surtos-entenda.html",
+  "fonte": "www.em.com.br",
   "arte": "",
   "media_id": "SITE"
  }
