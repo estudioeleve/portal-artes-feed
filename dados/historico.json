@@ -40123,5 +40123,19 @@
   "fonte": "Notícias da TV",
   "arte": "artes/2026-11-14/181104_2.jpg",
   "media_id": "18118334159042609"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "16:00",
+  "id": "181149_46",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Presidente do STF, Fachin defende que Lula indique uma mulher negra para a vaga aberta na Corte",
+  "titulo_orig": "Fachin defende indicação de uma mulher negra para o STF",
+  "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/fachin-defende-indicacao-mulher-negra-stf/",
+  "fonte": "Gazeta do Povo",
+  "arte": "artes/2026-11-14/181149_46.jpg",
+  "media_id": "17967403557229619"
  }
 ]
