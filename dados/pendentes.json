@@ -1,1 +1,31 @@
-[]
+[
+ {
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "bloco": "rmbh",
+  "fonte": "Portal ONE News",
+  "link": "",
+  "pedido_israel": true,
+  "id": "173400_israel",
+  "foto": "fotos/173400_israel.jpg",
+  "titulo": "Acidente entre Saveiro e Creta deixa ocupante preso no carro na Vila Olga, em Santa Luzia",
+  "legenda": "🚨 Acidente entre um Hyundai Creta e uma Volkswagen Saveiro mobilizou Bombeiros, SAMU e Polícia Militar na tarde deste sábado (14), no bairro Vila Olga, em Santa Luzia.\n\nSegundo informações atribuídas ao Corpo de Bombeiros, o chamado foi por volta das 15h10, na altura do número 1232. Com o impacto, um dos ocupantes do Creta ficou retido dentro do carro e precisou da ajuda das equipes de emergência. Um médico do município que passava pelo local teria parado para socorrer a vítima.\n\nAs informações iniciais apontam que o motorista da Saveiro teria invadido a contramão. Ainda segundo informações preliminares, ele teria tentado deixar o local, havia suspeita de embriaguez e ele teria sido preso em flagrante por militares da 150ª Companhia do 35º Batalhão. A Polícia Civil também foi acionada.\n\nA dinâmica do acidente, o estado de saúde dos envolvidos e as circunstâncias da prisão ainda aguardam confirmação oficial. O Portal ONE News acompanha o caso.\n\n#PortalONENews #SantaLuzia #PortalLuziense #VilaOlga\n\nFonte da foto: Portal ONE News\nFonte da matéria: Portal ONE News\n\nMatéria completa no nosso portal: www.portalonenews.com.br",
+  "linha_fina": "Bombeiros, SAMU e PM foram acionados; motorista da Saveiro teria invadido a contramão e sido preso, segundo informações preliminares.",
+  "categoria": "santa-luzia",
+  "texto_site": null,
+  "credito_site": "Portal ONE News",
+  "fonte_site": "Portal ONE News",
+  "foco": "42% 50%",
+  "linhas": 3,
+  "arte": "artes/2026-11-14/173400_israel.jpg",
+  "url_arte": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/artes/2026-11-14/173400_israel.jpg",
+  "carrossel": [
+   "artes/2026-11-14/173400_israel.jpg",
+   "artes/2026-11-14/173400_israel_2.jpg",
+   "artes/2026-11-14/173400_israel_3.jpg",
+   "artes/2026-11-14/173400_israel_4.jpg",
+   "artes/2026-11-14/173400_israel_5.jpg"
+  ],
+  "obs": "Pedido do Israel: CARROSSEL (create_carousel_post) com as 5 artes, na ordem; publicar primeiro. Não deu às 17h40 por limite de 100 posts/24h do Instagram."
+ }
+]
