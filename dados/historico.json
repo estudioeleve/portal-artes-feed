@@ -40403,5 +40403,19 @@
   "fonte": "Brasil 247",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "17:14",
+  "id": "201058_25",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "PBH volta à academia de escalada onde médico morreu na Savassi e encontra o local fechado de novo",
+  "titulo_orig": "PBH vai a academia onde médico morreu em escalada e encontra local fechado",
+  "link": "https://www.em.com.br/gerais/2026/11/7538731-pbh-vai-a-academia-onde-medico-morreu-em-escalada-e-encontra-local-fechado.html",
+  "fonte": "Estado de Minas",
+  "arte": "artes/2026-11-14/201058_25.jpg",
+  "media_id": "18123711173000030"
  }
 ]
