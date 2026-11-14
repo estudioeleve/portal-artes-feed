@@ -1,17 +1,5 @@
 [
  {
-  "id": "001202_37",
-  "data": "2026-11-12T21:16:38-03:00",
-  "titulo": "Caixa Vida e Previdência sofre ataque hacker e dados de 7,6 milhões de clientes são vazados",
-  "linha_fina": "CPF, endereço, telefone, e-mail e data de nascimento foram copiados; empresa diz que não há sinal de vazamento de senhas ou saldos.",
-  "categoria": "brasil",
-  "texto": "<p>A Caixa Seguridade informou nesta quinta-feira (12/11), em comunicado ao mercado, que a subsidiária Caixa Vida e Previdência foi alvo de um ataque cibernético em 6 de novembro. A invasão resultou no vazamento de dados dos 7,6 milhões de clientes ativos da companhia. Informações de ex-clientes também foram expostas.</p><p>Segundo a empresa, foram copiados de forma clandestina CPFs, endereços, telefones, e-mails e datas de nascimento. \"Com base na apuração preliminar, não há indícios de comprometimento de dados financeiros ou de autenticação, tais como valores de apólices, saldos de previdência, dados bancários ou senhas\", diz o comunicado.</p><p>A companhia afirmou que os titulares dos dados estão sendo avisados e recebendo orientações de proteção contra fraudes. Também será criado um canal por e-mail específico para tirar dúvidas dos clientes.</p><p>De acordo com a Caixa Seguridade, os mecanismos usados no ataque foram identificados e bloqueados, novas medidas de proteção foram adotadas e uma consultoria externa especializada em perícia forense foi contratada para apurar a origem, a extensão e os impactos do incidente. A empresa também monitora a internet para identificar se os dados estão sendo divulgados.</p><p>A Caixa Vida e Previdência comunicou o caso em 11 de novembro à Autoridade Nacional de Proteção de Dados (ANPD) e a outras autoridades, como prevê a Lei Geral de Proteção de Dados (LGPD).</p><p>Com dados pessoais nas mãos, golpistas costumam fazer contatos que parecem verdadeiros. A orientação é desconfiar de ligações, mensagens e e-mails que peçam senhas, códigos ou pagamentos, e confirmar qualquer informação nos canais oficiais da empresa.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-12/001202_37.jpg",
-  "credito_foto": "Rafa Neddermeyer/Agência Brasil",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "001222_41",
   "data": "2026-11-12T21:16:38-03:00",
   "titulo": "Lauana Prado vence pela primeira vez o Grammy Latino, com \"Raiz BH\", e comemora por vídeo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/181056_0.jpg",
   "credito_foto": "Arte/Poder360",
   "fonte": "Poder360",
+  "resumos": ""
+ },
+ {
+  "id": "182431_oes",
+  "data": "2026-11-14T15:24:41-03:00",
+  "titulo": "Voto distrital misto volta ao debate no Congresso: entenda o modelo e por que ele já foi rejeitado tantas vezes",
+  "linha_fina": "Proposta articulada por Hugo Motta e partidos de centro prevê \"distritão\" em 2030 e modelo misto a partir de 2034.",
+  "categoria": "politica",
+  "texto": "<p>O voto distrital misto voltou ao centro do debate no Congresso Nacional. A proposta é uma das prioridades do presidente da Câmara, Hugo Motta (Republicanos-PB), e de um grupo de aliados, principalmente de partidos de centro, e passou a ser elaborada como reação ao crescimento da bancada do PL, em especial dos chamados deputados influenciadores.</p><p>No sistema distrital puro, cada região elege apenas o candidato mais votado, por maioria simples, como já acontece hoje nas eleições para prefeito, governador, presidente e senador. Já o distrital misto combina esse modelo com o proporcional: o eleitor vota em um candidato do seu distrito e também em uma lista partidária, que serve para equilibrar a divisão das vagas.</p><p>A ideia não é nova. O Brasil adotou o voto distrital pela primeira vez em 1855, ainda no Império, e manteve variações dele até 1932, quando foi criado o sistema proporcional que vigora até hoje.</p><p>Durante a ditadura militar, o governo Castelo Branco chegou a encomendar ao Tribunal Superior Eleitoral, em 1965, um anteprojeto para dividir o país em 409 distritos. A proposta acabou abandonada diante da resistência de aliados do próprio regime, que temiam perder espaço nas disputas regionais. O tema voltou na Constituinte de 1988 e foi rejeitado de novo.</p><p>Agora, a discussão no Congresso prevê uma transição: o chamado \"distritão\" nas eleições de 2030 e a adoção do modelo misto a partir de 2034. Para valer, a mudança precisa ser aprovada pela Câmara e pelo Senado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/182431_oes.jpg",
+  "credito_foto": "Acervo/Estadão",
+  "fonte": "Estadão",
   "resumos": ""
  }
 ]
