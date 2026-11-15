@@ -44239,5 +44239,19 @@
   "fonte": "Globo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "19:30",
+  "id": "211147_24",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Árvore de grande porte cai sobre carro e interdita rua na Savassi durante temporal em BH",
+  "titulo_orig": "Chuva provoca queda de árvores, atinge carro e deixa ruas interditadas em BH",
+  "link": "https://noticias.r7.com/minas-gerais/chuva-provoca-queda-de-arvores-atinge-carro-e-deixa-ruas-interditadas-em-bh-15112026/",
+  "fonte": "R7",
+  "arte": "artes/2026-11-15/211147_24.jpg",
+  "media_id": "18011139539995423"
  }
 ]
