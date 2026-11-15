@@ -43203,5 +43203,33 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-15/161351_9.jpg",
   "media_id": "18130243868484559"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "14:06",
+  "id": "140500_israel",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "VIRALIZOU",
+  "titulo": "Cantor gospel mostra o início em igreja pequena e a chegada a um palco com milhares de pessoas, e vídeo emociona a web",
+  "titulo_orig": "",
+  "link": "",
+  "fonte": "Redes sociais",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "14:06",
+  "id": "141000_israel",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "VIRALIZOU",
+  "titulo": "Rapaz ora por jogador que fez gol contra, garante que ele fará o último gol e a cena emociona a web",
+  "titulo_orig": "",
+  "link": "",
+  "fonte": "Redes sociais",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

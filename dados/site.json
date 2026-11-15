@@ -1,29 +1,5 @@
 [
  {
-  "id": "231611_1",
-  "data": "2026-11-13T20:20:04-03:00",
-  "titulo": "SpaceX lança a Starship pela 15ª vez e tenta recuperar o foguete e a nave pela primeira vez",
-  "linha_fina": "Maior foguete do mundo decolou do Texas na noite desta sexta (13), com a missão de trazer de volta propulsor e nave.",
-  "categoria": "mundo",
-  "texto": "<p>A SpaceX lançou na noite desta sexta-feira (13) a 15ª missão da Starship, considerada o maior foguete do mundo. A decolagem aconteceu por volta das 19h48, no horário de Brasília, na base da empresa de Elon Musk no sul do Texas, nos Estados Unidos.</p>\n<p>O voo tem um objetivo inédito: recuperar os dois componentes do sistema, o propulsor Super Heavy e a nave Starship, usando os braços mecânicos da torre de lançamento. Se a manobra der certo, será a primeira recuperação completa de um sistema de lançamento orbital.</p>\n<p>Na contagem regressiva, a empresa informou que o foguete atendeu a todos os parâmetros de segurança e funcionalidade previstos. A missão também leva 26 novos satélites da rede Starlink e deve durar mais de 22 horas.</p>\n<p>O lançamento foi mantido mesmo no dia em que a autoridade de aviação dos Estados Unidos suspendeu as decolagens de voos comerciais em todo o país por uma falha na comunicação aérea. Segundo o porta-voz da SpaceX, Dan Huot, o clima estava favorável e não havia impedimento para a partida.</p>\n<p>A reutilização completa dos foguetes é a principal aposta da SpaceX para baratear as viagens espaciais. O resultado das tentativas de recuperação deve ser confirmado pela empresa ao longo da missão.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/231611_1.jpg",
-  "credito_foto": "Reprodução/g1",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
-  "id": "231614_39",
-  "data": "2026-11-13T20:20:04-03:00",
-  "titulo": "Morre aos 43 anos Christian Cousins, ex-ator mirim do filme 'Um Tira no Jardim de Infância'",
-  "linha_fina": "Ele dividia com o irmão gêmeo o papel de Dominic na comédia com Arnold Schwarzenegger; a morte foi em 20 de outubro.",
-  "categoria": "entretenimento",
-  "texto": "<p>Christian Cousins, ex-ator mirim conhecido por dividir com o irmão gêmeo idêntico, Joey Cousins, um papel no filme \"Um Tira no Jardim de Infância\" (1990), morreu aos 43 anos. A informação foi divulgada pelo irmão Jonas Roeser nas redes sociais.</p>\n<p>Segundo Roeser, Christian morreu em 20 de outubro, depois de ser diagnosticado com uma doença hepática. Na publicação, ele lamentou a perda, destacou a personalidade do irmão e contou que os dois eram filhos do mesmo pai biológico, mas só se conheceram na época da faculdade.</p>\n<p>\"Me conforta acreditar que ele agora está no céu com sua mãe, livre da dor que carregava\", escreveu Roeser, ao pedir que o irmão descanse em paz.</p>\n<p>Na comédia de ação dirigida por Ivan Reitman, os gêmeos se revezavam no papel de Dominic, um dos alunos da turma em que o detetive John Kimble, vivido por Arnold Schwarzenegger, trabalhava disfarçado de professor em uma escola primária.</p>\n<p>Christian e Joey atuaram juntos em várias produções entre o fim dos anos 1980 e a década de 1990. Na televisão, participaram de séries como \"Knots Landing\" e \"Intruders\".</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/231614_39.jpg",
-  "credito_foto": "Reprodução/Instagram",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "231704_186",
   "data": "2026-11-13T20:20:05-03:00",
   "titulo": "Governo publica edital e transposição do Rio São Francisco pode ter gestão privada por 30 anos",
@@ -4797,6 +4773,30 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/135500_israel.jpg",
   "credito_foto": "Reprodução/Redes sociais",
   "fonte": "LATAM Airlines Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "140500_israel",
+  "data": "2026-11-15T14:06:50-03:00",
+  "titulo": "Cantor gospel mostra o início em igreja pequena e a chegada a um palco com milhares de pessoas, e vídeo emociona a web",
+  "linha_fina": "\"Nosso louvor na rua foi tão longe... que chegou até o Ore Comigo!\", diz a publicação, que conquistou internautas pela simplicidade.",
+  "categoria": "entretenimento",
+  "texto": "<p>Um cantor gospel emocionou os internautas ao compartilhar nas redes sociais um vídeo que resume a própria trajetória na música: do começo, cantando em uma igreja pequena e em apresentações simples, até o palco de um grande evento, diante de milhares de pessoas em um estádio.</p>\n<p>Nas primeiras imagens, o músico aparece de terno, com a guitarra e um microfone em pedestal, cantando em um espaço simples, com uma faixa ao fundo. \"Nosso louvor na rua foi tão longe...\", diz o texto que acompanha o vídeo.</p>\n<p>Em seguida, a gravação mostra o mesmo cantor em um palco iluminado, com telões e uma multidão na arquibancada, durante o evento \"Ore Comigo\". \"Que chegou até o Ore Comigo!\", completa a legenda.</p>\n<p>A comparação entre os dois momentos chamou a atenção pela simplicidade e pelo tom de gratidão.</p>\n<p>O vídeo foi compartilhado no perfil do cantor e emocionou internautas por mostrar, de forma simples, a evolução da carreira na música gospel.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/140500_israel.jpg",
+  "credito_foto": "Reprodução/Instagram @daniel.marques.ev",
+  "fonte": "Redes sociais",
+  "resumos": ""
+ },
+ {
+  "id": "141000_israel",
+  "data": "2026-11-15T14:06:50-03:00",
+  "titulo": "Rapaz ora por jogador que fez gol contra, garante que ele fará o último gol e a cena emociona a web",
+  "linha_fina": "Vídeo gravado na arquibancada de um jogo de futsal mostra a oração e a comemoração emocionada depois do gol.",
+  "categoria": "esporte",
+  "texto": "<p>Um vídeo gravado na arquibancada de uma partida de futsal viralizou nas redes sociais e rendeu milhares de compartilhamentos. As imagens mostram um rapaz, que aparenta ser irmão ou melhor amigo de um dos jogadores, orando pelo atleta depois de ele ter marcado um gol contra.</p>\n<p>Enquanto filma o jogo, o rapaz afirma que o jogador ainda faria o último gol da partida e começa a orar por ele. A gravação acompanha os lances seguintes, com o ginásio lotado e a torcida apreensiva.</p>\n<p>No fim, o jogador marca o gol, e o vídeo registra a comemoração emocionada dos dois.</p>\n<p>O vídeo rendeu muitos compartilhamentos nas redes sociais, pela reação do rapaz e pela virada do atleta, que passou do gol contra ao gol decisivo no mesmo jogo.</p>\n<p>Os nomes dos envolvidos, o local e a competição não foram informados na publicação.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/141000_israel.jpg",
+  "credito_foto": "Reprodução/Redes sociais",
+  "fonte": "Redes sociais",
   "resumos": ""
  }
 ]
