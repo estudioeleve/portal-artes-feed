@@ -43343,5 +43343,19 @@
   "fonte": "TV Sim Brasil",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "14:28",
+  "id": "171057_17",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Chuva de granizo e ventos fortes atingem bairros de BH na tarde deste domingo; veja os cuidados",
+  "titulo_orig": "Chuva de granizo e ventos intensos atingem alguns pontos de BH neste domingo (15) | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/chuva-de-granizo-e-ventos-intensos-atingem-alguns-pontos-de-bh-neste-domingo-15/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-15/171057_17.jpg",
+  "media_id": "18121632785286675"
  }
 ]
