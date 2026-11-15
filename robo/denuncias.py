@@ -6,8 +6,8 @@ no prompt da tarefa agendada e entra aqui por argumento.
 
 uso:
   python3 robo/denuncias.py preparar '<ENDEREÇO-DA-LISTA-COM-CHAVE>'
-      baixa a lista, prepara a mídia de cada denúncia (foto: arte_feed em JPEG, sem editar;
-      vídeo: 1080x1920 com recorte centralizado + arte_reels por cima do começo ao fim, áudio
+      baixa a lista, prepara a mídia de cada denúncia (instagram_formato feed: arte_feed em JPEG, sem editar;
+      reels: video_url 1080x1920 com recorte centralizado + arte_reels por cima do começo ao fim, áudio
       original, sem música) e grava dados/denuncias_fila.json (sem a chave).
   python3 robo/denuncias.py postada <id> '<ENDEREÇO-DA-LISTA-COM-CHAVE>' <media_id>
       avisa o site (POST vazio em /denuncias/<id>/postada?chave=...) e registra no histórico.
@@ -53,9 +53,11 @@ def preparar(url):
   for d in itens:
     i=str(d.get('id'))
     if i in feitas: print(i,'já postada (denuncias_postadas.json): pulando');continue
-    tipo=(d.get('midia_tipo') or '').lower()
-    it={k:d.get(k) for k in ('id','protocolo','midia_tipo','relato','anonima','nome','cidade','bairro','moldura','titulo','data')}
-    it['extra']={k:v for k,v in d.items() if k not in it and k not in ('midia_url','arte_feed','arte_reels')}
+    # instagram_formato: 'feed' (só foto) ou 'reels' (tem vídeo). midia_tipo fica como reserva.
+    tipo=(d.get('instagram_formato') or d.get('midia_tipo') or '').lower()
+    tipo={'feed':'foto','reels':'video'}.get(tipo,tipo)
+    it={k:d.get(k) for k in ('id','protocolo','instagram_formato','midia_tipo','relato','anonima','nome','cidade','bairro','moldura','titulo','data')}
+    it['extra']={k:v for k,v in d.items() if k not in it and k not in ('midia_url','video_url','arte_feed','arte_reels')}
     try:
       if tipo=='foto':
         os.makedirs(f'{R}/artes/denuncias/{hoje}',exist_ok=True)
@@ -71,7 +73,7 @@ def preparar(url):
         it['arquivo']=out
       elif tipo in ('video','vídeo'):
         os.makedirs(f'{R}/videos/{hoje}',exist_ok=True)
-        v=baixar(d['midia_url'],f'{tmp}/{i}_video')
+        v=baixar(d.get('video_url') or d['midia_url'],f'{tmp}/{i}_video')
         a=baixar(d['arte_reels'],f'{tmp}/{i}_arte.png')
         out=f'videos/{hoje}/denuncia_{i}.mp4'
         # Recorte centralizado para 1080x1920 (cobre a tela inteira, sem faixa preta) e arte por cima do começo ao fim.
@@ -90,10 +92,11 @@ def preparar(url):
         it['quadro']=f'fotos/denuncias/{i}_quadro.jpg'
         if dur<3: print(i,'ATENÇÃO: vídeo com menos de 3 s, o Instagram recusa')
       else:
-        print(i,'midia_tipo desconhecido:',tipo,'-> pulando');continue
+        print(i,'instagram_formato desconhecido:',tipo,'-> pulando');continue
     except Exception as e:
       print(i,'ERRO ao preparar:',e);continue
-    fila.append(it);print(i,tipo,'->',it['arquivo'])
+    it['acao']='create_image_post' if tipo=='foto' else 'create_video_post'
+    fila.append(it);print(i,tipo,'->',it['arquivo'],'|',it['acao'])
   json.dump(fila,open(FILA,'w'),ensure_ascii=False,indent=1)
   print(len(fila),'denúncia(s) na fila. Escreva a legenda de cada uma (regras no REGRAS.md), faça commit + push e poste uma por vez, espaçada dos outros posts.')
 
