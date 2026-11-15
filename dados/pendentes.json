@@ -1,15 +1,5 @@
 [
  {
-  "id": "141000_israel",
-  "data": "2026-11-15",
-  "acao": "create_video_post",
-  "share_to_feed": true,
-  "titulo": "Rapaz ora por jogador que fez gol contra, garante que ele fará o último gol e a cena emociona a web",
-  "arte": "videos/2026-11-15/1410_futsal_oracao_gol.mp4",
-  "video_url": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/befe3b25416da479bae5bdbe01ef38c91d9c8d4a/videos/2026-11-15/1410_futsal_oracao_gol.mp4",
-  "legenda": "🙏⚽ Ele errou, mas o amigo não deixou de acreditar.\n\nUm vídeo gravado na arquibancada de um jogo de futsal viralizou nas redes. Depois de o jogador marcar um gol contra, um rapaz, que parece ser irmão ou melhor amigo dele, afirma que o atleta ainda faria o último gol e começa a orar pela vida dele.\n\nNo fim, o jogador marca, e a comemoração dos dois emocionou quem assistiu.\n\nO vídeo rendeu milhares de compartilhamentos nas redes sociais.\n\n#PortalONENews #Viralizou #Futsal #Fé\n\nFonte da foto: Reprodução/Redes sociais\nFonte da matéria: Redes sociais\nMatéria completa no nosso portal: www.portalonenews.com.br"
- },
- {
   "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/traficante-predador-guerra-da-ucrania-condenado-trafico-brasil.ghtml",
   "titulo": "Traficante \"Predador\" lutou na guerra da Ucrânia por R$ 12 mil por mês mesmo já condenado",
   "fonte": "g1.globo.com",
@@ -206,5 +196,36 @@
   "so_site": false,
   "data": "2026-11-15",
   "acao": "create_image_post"
+ },
+ {
+  "bloco": "minas",
+  "fonte": "difusora95.com.br",
+  "titulo": "Presidente da ALMG, Tadeu Leite se casa com a deputada Maria Clara Marra; governador vai à festa",
+  "link": "https://difusora95.com.br/noticias/deputada-maria-clara-marra-e-presidente-da-almg-tadeu-leite-se-casam-em-cerimonia-em-patrocinio/",
+  "ts": 1794759886,
+  "gnews": true,
+  "concorrente": false,
+  "prio": 9,
+  "n": 29,
+  "hora": "15/11 13:24",
+  "titulo_orig": "Deputada Maria Clara Marra e presidente da ALMG, Tadeu Leite, se casam em cerimônia em Patrocínio - Rádio Difusora FM 95.3",
+  "img": "https://difusora95.com.br/wp-content/uploads/2026/11/captura-de-tela-558-1024x576.png",
+  "texto": "Deputada Maria Clara Marra e presidente da ALMG, Tadeu Leite, se casam em cerimônia em Patrocínio\nUm dos momentos mais emocionantes da celebração foi a entrada da noiva, que chegou à igreja acompanhada do pai, Deiró Marra, ex-prefeito de Patrocínio\nA deputada estadual Maria Clara Marra (PSDB) e o presidente da Assembleia Legislativa de Minas Gerais (ALMG), Tadeu Martins Leite, conhecido como Tadeuzinho (MDB), oficializaram a união religiosa neste sábado (14), em Patrocínio. A cerimônia foi realizada na Igreja Matriz Nossa Senhora do Patrocínio e reuniu familiares, amigos, autoridades e diversas lideranças políticas de Minas Gerais.\nUm dos momentos mais emocionantes da celebração foi a entrada da noiva, que chegou à igreja acompanhada do pai, Deiró Marra, ex-prefeito de Patrocínio. Visivelmente emocionado, Deiró não conteve as lágrimas ao conduzir a filha até o altar, protagonizando uma cena de grande emoção.\nA cerimônia reuniu inúmeros nomes da política mineira. Entre os convidados estavam o vice-governador eleito de Minas Gerais, Luís Eduardo Falcão, acompanhado da esposa, a deputada Estadual Lud Falcão. Também participaram outras autoridades, parlamentares e representantes políticos de diferentes regiões do estado.\nA união já havia sido oficializada no civil na quinta-feira (12). Após a cerimônia religiosa, os convidados participaram da festa de casamento, que também contou com a presença de importantes representantes da política mineira.\nEntre as autoridades presentes estava o governador de Minas Gerais, Mateus Simões (PSD), que retornou ao Brasil para participar da celebração. O chefe do Executivo mineiro esteve na cerimônia, mas não quis conceder entrevista à imprensa.\nA participação de Mateus Simões ocorreu durante uma pausa em sua agenda internacional. Após retornar ao Brasil para compromissos em Minas Gerais, o governador daria continuidade à missão internacional, com viagens à Turquia, para a COP31, e ao Reino Unido.\nDa redação do Grupo Difusora",
+  "credito_foto": "",
+  "id": "171107_29",
+  "foto": "fotos/171107_29.jpg",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "categoria": "politica",
+  "linha_fina": "Cerimônia religiosa foi na Igreja Matriz de Patrocínio e reuniu o governador Mateus Simões e lideranças da política mineira.",
+  "legenda": "💍 Casamento na política mineira!\n\nO presidente da Assembleia Legislativa de Minas Gerais, Tadeu Martins Leite, o Tadeuzinho (MDB), e a deputada estadual Maria Clara Marra (PSDB) se casaram no religioso neste sábado (14), na Igreja Matriz Nossa Senhora do Patrocínio, em Patrocínio, no Alto Paranaíba.\n\nA noiva entrou na igreja com o pai, o ex-prefeito Deiró Marra, que se emocionou ao levá-la ao altar. O casamento civil já tinha sido feito na quinta-feira (12).\n\nO governador Mateus Simões (PSD) fez uma pausa na agenda internacional para ir à cerimônia. Também estiveram lá o vice-governador eleito Luís Eduardo Falcão e vários deputados e lideranças de Minas.\n\n#PortalONENews #PortalPolítica #ALMG #MinasGerais\n\nFonte da foto: Reprodução/Grupo Difusora\nFonte da matéria: Grupo Difusora\nMatéria completa no nosso portal: www.portalonenews.com.br",
+  "credito_site": "Foto: Reprodução/Grupo Difusora",
+  "fonte_site": "Grupo Difusora",
+  "texto_site": "<p>O presidente da Assembleia Legislativa de Minas Gerais (ALMG), Tadeu Martins Leite, conhecido como Tadeuzinho (MDB), e a deputada estadual Maria Clara Marra (PSDB) se casaram no religioso neste sábado (14), em Patrocínio, no Alto Paranaíba. A cerimônia foi realizada na Igreja Matriz Nossa Senhora do Patrocínio.</p><p>Um dos momentos mais marcantes foi a entrada da noiva, acompanhada do pai, o ex-prefeito de Patrocínio Deiró Marra, que se emocionou ao conduzir a filha até o altar. A união já havia sido oficializada no civil na quinta-feira (12).</p><p>A celebração reuniu familiares, amigos e muitos nomes da política mineira. Entre os convidados estavam o vice-governador eleito de Minas, Luís Eduardo Falcão, e a esposa, a deputada estadual Lud Falcão, além de parlamentares e representantes de diferentes regiões do estado.</p><p>O governador Mateus Simões (PSD) também esteve na cerimônia. Segundo o Grupo Difusora, ele voltou ao Brasil durante uma pausa na agenda internacional e, depois do casamento, seguiria viagem para a Turquia, onde participa da COP31, e para o Reino Unido. O governador não deu entrevista à imprensa.</p><p>Depois da cerimônia religiosa, os convidados seguiram para a festa de casamento, que também teve a presença de lideranças políticas do estado.</p>",
+  "foco": "52% 30%",
+  "linhas": 3,
+  "arte": "artes/2026-11-15/171107_29.jpg",
+  "url_arte": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/artes/2026-11-15/171107_29.jpg",
+  "data": "2026-11-15"
  }
 ]
