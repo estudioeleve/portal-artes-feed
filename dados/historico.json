@@ -41453,5 +41453,19 @@
   "fonte": "O POVO",
   "arte": "artes/2026-11-14/011234_205.jpg",
   "media_id": "18131554180869095"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "23:12",
+  "id": "011111_23",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Real Madrid e Barcelona miram Vitão, zagueiro de 18 anos do Atlético avaliado em R$ 90 milhões",
+  "titulo_orig": "Real Madrid e Barcelona miram joia do Atlético-MG",
+  "link": "https://www.terra.com.br/esportes/atletico-mg/real-madrid-e-barcelona-miram-joia-do-atletico-mg,82b55222c6061a8e912767d17e49a5e5dib3ouz6.html",
+  "fonte": "Terra",
+  "arte": "artes/2026-11-14/011111_23.jpg",
+  "media_id": "18150411466583109"
  }
 ]
