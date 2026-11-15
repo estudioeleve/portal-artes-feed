@@ -887,6 +887,22 @@ add_action( 'save_post_po_denuncia', function ( $post_id ) {
 	if ( isset( $_POST['dc_titulo_pub'] ) ) update_post_meta( $post_id, 'dc_titulo_pub', sanitize_text_field( wp_unslash( $_POST['dc_titulo_pub'] ) ) );
 	if ( isset( $_POST['dc_cat_pub'] ) ) update_post_meta( $post_id, 'dc_cat_pub', sanitize_text_field( wp_unslash( $_POST['dc_cat_pub'] ) ) );
 	if ( isset( $_POST['dc_portal_pub'] ) ) update_post_meta( $post_id, 'dc_portal_pub', 'one' === $_POST['dc_portal_pub'] ? 'one' : 'luz' );
+	// campos editáveis da denúncia (local, quem mandou, nome, instagram); o relato é gravado no filtro wp_insert_post_data
+	if ( isset( $_POST['dc_ed_local'] ) ) {
+		$antes = get_post_meta( $post_id, 'dc_local', true ) . '|' . get_post_meta( $post_id, 'dc_identidade', true ) . '|' . get_post_meta( $post_id, 'dc_nome', true );
+		update_post_meta( $post_id, 'dc_local', sanitize_text_field( wp_unslash( $_POST['dc_ed_local'] ) ) );
+		update_post_meta( $post_id, 'dc_identidade', ( isset( $_POST['dc_ed_identidade'] ) && 'credito' === $_POST['dc_ed_identidade'] ) ? 'credito' : 'anonimo' );
+		if ( isset( $_POST['dc_ed_nome'] ) ) update_post_meta( $post_id, 'dc_nome', sanitize_text_field( wp_unslash( $_POST['dc_ed_nome'] ) ) );
+		if ( isset( $_POST['dc_ed_insta'] ) ) update_post_meta( $post_id, 'dc_insta', sanitize_text_field( wp_unslash( $_POST['dc_ed_insta'] ) ) );
+		$depois = get_post_meta( $post_id, 'dc_local', true ) . '|' . get_post_meta( $post_id, 'dc_identidade', true ) . '|' . get_post_meta( $post_id, 'dc_nome', true );
+		// já publicada e o Israel mudou algo (e não clicou em "refazer"): atualiza a matéria do site na hora
+		$mat = (int) get_post_meta( $post_id, 'dc_post_id', true );
+		if ( $mat && get_post( $mat ) && empty( $_POST['dc_aprovar'] ) && ( $antes !== $depois || ! empty( $GLOBALS['po_den_relato_mudou'] ) ) ) {
+			wp_update_post( array( 'ID' => $mat, 'post_content' => po_denuncia_html_site( $post_id ) ) );
+			$anon = 'credito' !== get_post_meta( $post_id, 'dc_identidade', true ) || ! get_post_meta( $post_id, 'dc_nome', true );
+			update_post_meta( $mat, 'po_linha_fina', 'Denúncia · Protocolo ' . get_post_meta( $post_id, 'dc_protocolo', true ) . ' · ' . ( $anon ? 'Denúncia anônima' : 'Enviada por ' . get_post_meta( $post_id, 'dc_nome', true ) ) );
+		}
+	}
 	if ( ! empty( $_POST['dc_aprovar'] ) ) {
 		$md = po_denuncia_midias( $post_id );
 		if ( ! $md['foto'] && ! $md['video'] ) {
@@ -901,6 +917,20 @@ add_action( 'save_post_po_denuncia', function ( $post_id ) {
 		}
 	}
 }, 20 );
+
+/* relato editado pelo Israel no painel: grava no texto da denúncia (o original do leitor fica guardado) */
+add_filter( 'wp_insert_post_data', function ( $data, $postarr ) {
+	if ( 'po_denuncia' !== $data['post_type'] || empty( $postarr['ID'] ) || ! isset( $_POST['dc_ed_relato'] ) ) return $data;
+	if ( ! isset( $_POST['dc_midia_nonce'] ) || ! wp_verify_nonce( $_POST['dc_midia_nonce'], 'dc_midia_pub' ) ) return $data;
+	if ( ! current_user_can( 'edit_post', $postarr['ID'] ) ) return $data;
+	$novo  = trim( sanitize_textarea_field( wp_unslash( $_POST['dc_ed_relato'] ) ) );
+	$atual = trim( (string) get_post_field( 'post_content', $postarr['ID'] ) );
+	if ( $novo === $atual ) return $data;
+	if ( '' !== $atual && ! get_post_meta( $postarr['ID'], 'dc_relato_original', true ) ) update_post_meta( $postarr['ID'], 'dc_relato_original', $atual );
+	$data['post_content'] = wp_slash( $novo );
+	$GLOBALS['po_den_relato_mudou'] = true;
+	return $data;
+}, 10, 2 );
 
 add_action( 'admin_notices', function () {
 	$k = 'po_den_aviso_' . get_current_user_id();
@@ -1154,23 +1184,57 @@ function po_denuncia_metabox_detalhes( $post ) {
 		.dc-anexo audio{width:300px}
 	</style>
 	<div class="dc-box">
+		<?php
+		// guarda o texto original do leitor na primeira vez que o Israel editar (nunca se perde)
+		$original = get_post_meta( $post->ID, 'dc_relato_original', true );
+		?>
 		<div class="dc-grid">
 			<div class="dc-campo"><b>Protocolo</b><?php echo esc_html( $protocolo ?: '—' ); ?></div>
-			<div class="dc-campo"><b>Onde</b><?php echo esc_html( $local ?: '—' ); ?></div>
-			<div class="dc-campo"><b>Quem mandou</b>
-				<?php if ( 'credito' === $identidade ) : ?>
-					<?php echo esc_html( $nome ?: 'Sem nome' ); ?><?php echo $insta ? ' · ' . esc_html( $insta ) : ''; ?>
-				<?php else : ?>
-					<em>Anônimo</em>
-				<?php endif; ?>
-			</div>
 			<div class="dc-campo"><b>Recebido em</b><?php echo $post->ID ? esc_html( get_the_date( 'd/m/Y \à\s H:i', $post ) ) : '—'; ?></div>
 		</div>
 
-		<?php if ( $relato ) : ?>
-			<div class="dc-campo"><b>Relato</b></div>
-			<div class="dc-relato"><?php echo esc_html( $relato ); ?></div>
+		<div class="dc-edit">
+			<label class="dc-campo"><b>Onde (bairro / cidade)</b>
+				<input type="text" name="dc_ed_local" value="<?php echo esc_attr( $local ); ?>" placeholder="Ex.: Bairro Imperial, Santa Luzia">
+			</label>
+			<label class="dc-campo"><b>Quem mandou</b>
+				<select name="dc_ed_identidade" id="dc_ed_identidade">
+					<option value="anonimo" <?php selected( 'credito' !== $identidade ); ?>>Denúncia anônima</option>
+					<option value="credito" <?php selected( 'credito', $identidade ); ?>>Com o nome da pessoa</option>
+				</select>
+			</label>
+			<label class="dc-campo dc-so-nome"><b>Nome</b>
+				<input type="text" name="dc_ed_nome" value="<?php echo esc_attr( $nome ); ?>" placeholder="Nome que aparece na arte e na matéria">
+			</label>
+			<label class="dc-campo dc-so-nome"><b>Instagram da pessoa</b>
+				<input type="text" name="dc_ed_insta" value="<?php echo esc_attr( $insta ); ?>" placeholder="@usuario (opcional)">
+			</label>
+		</div>
+
+		<label class="dc-campo" style="display:block"><b>Relato (texto da denúncia)</b></label>
+		<?php if ( ! trim( $relato ) ) : ?>
+			<p style="margin:0 0 6px;color:#996800"><b>O leitor não mandou texto.</b> Escreva aqui o relato — ele vai para a matéria, para a legenda do Instagram e o robô usa para criar o título.</p>
 		<?php endif; ?>
+		<textarea name="dc_ed_relato" rows="8" class="dc-relato-ed" placeholder="Escreva aqui o que aconteceu, onde e quando."><?php echo esc_textarea( $relato ); ?></textarea>
+		<?php if ( $original && $original !== $relato ) : ?>
+			<details style="margin:-12px 0 20px;max-width:640px"><summary style="cursor:pointer;color:#646970">Ver o texto original que o leitor mandou</summary>
+				<div class="dc-relato" style="margin-top:8px"><?php echo esc_html( $original ); ?></div>
+			</details>
+		<?php endif; ?>
+		<p style="margin:-10px 0 20px;color:#646970;font-size:12px">Depois de mudar, clique em <b>Atualizar</b> (botão azul no topo/lateral). Se a denúncia já foi publicada, a matéria do site é atualizada na hora. O que já foi postado no Instagram não muda.</p>
+		<style>
+			.dc-edit{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:18px;max-width:900px}
+			.dc-edit input,.dc-edit select{width:100%;font-size:16px}
+			.dc-relato-ed{width:100%;max-width:640px;font-size:16px;line-height:1.6;border-radius:8px;padding:12px 14px;margin:0 0 20px}
+		</style>
+		<script>
+		(function () {
+			var s = document.getElementById('dc_ed_identidade');
+			function v() { document.querySelectorAll('.dc-so-nome').forEach(function (e) { e.style.display = s.value === 'credito' ? '' : 'none'; }); }
+			s.addEventListener('change', v); v();
+			document.querySelectorAll('[name^="dc_ed_"]').forEach(function (e) { e.addEventListener('input', function () { window.dcSujo = true; }); });
+		})();
+		</script>
 
 		<div class="dc-midia">
 			<h3>Anexos<?php echo $anexos ? ' (' . count( $anexos ) . ')' : ''; ?></h3>
