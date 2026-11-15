@@ -1,17 +1,5 @@
 [
  {
-  "id": "101208_89",
-  "data": "2026-11-14T07:15:59-03:00",
-  "titulo": "Goteiras na quadra durante o temporal em BH fazem jogo do Cruzeiro no NBB ser adiado com o placar em 66 a 65",
-  "linha_fina": "Partida contra o Unifacisa ficou parada por quase três horas no Ginásio Dona Salomé; faltam 6min28s para o fim.",
-  "categoria": "cruzeiro",
-  "texto": "<p>O forte temporal que atingiu Belo Horizonte na noite de sexta-feira (13) interrompeu o jogo entre Itatiaiuçu Cruzeiro e Unifacisa, pelo NBB, o Campeonato Nacional de Basquete. A chuva provocou goteiras na quadra do Ginásio Dona Salomé, no Barro Preto, e a partida acabou adiada.</p>\n<p>O duelo estava no início do último quarto e muito equilibrado, com o Cruzeiro vencendo por 66 a 65, quando a água começou a pingar na quadra e deixou o piso perigoso para os jogadores.</p>\n<p>Depois de cerca de 30 minutos parado, o árbitro tentou recomeçar o jogo, mas, logo no primeiro lance, o ala-armador Elijah Weaver, do Unifacisa, escorregou e saiu sentindo fortes dores na virilha. A partida ficou paralisada de cerca de 21h20 até perto da meia-noite, sem condições de continuar.</p>\n<p>Restam 6 minutos e 28 segundos a serem disputados. Segundo nota do Unifacisa, a Liga Nacional de Basquete (LNB) ainda vai definir quando o restante do confronto será jogado. A expectativa é de que a retomada aconteça em uma data livre do calendário.</p>\n<p>O temporal de sexta também derrubou árvores e alterou linhas de ônibus em vários pontos da capital, e a Defesa Civil mantém alerta de risco geológico em quatro regionais até segunda-feira (16).</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/101208_89.jpg",
-  "credito_foto": "Foto: Reprodução/Itatiaia",
-  "fonte": "Rádio Itatiaia",
-  "resumos": ""
- },
- {
   "id": "101148_22",
   "data": "2026-11-14T07:15:59-03:00",
   "titulo": "Estudantes de mestrado e doutorado criam \"Exército da Pós\" para cobrar reajuste das bolsas da Capes e do CNPq",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/222202_16.jpg",
   "credito_foto": "Reprodução/Instagram (via Quem)",
   "fonte": "Quem",
+  "resumos": ""
+ },
+ {
+  "id": "224710_1",
+  "data": "2026-11-15T19:47:26-03:00",
+  "titulo": "Embratur comemora 60 anos com exposição, livro, documentário e sessão solene em Brasília",
+  "linha_fina": "Programação vai de 17 a 19 de novembro, com mostra na Câmara dos Deputados, evento no Centro de Convenções Ulysses Guimarães e homenagem no Senado.",
+  "categoria": "brasil",
+  "texto": "<p>A Embratur, agência responsável pela promoção do turismo brasileiro no exterior, vai celebrar seus 60 anos com uma programação especial em Brasília entre terça-feira (17) e quinta-feira (19). As comemorações incluem exposição histórica, lançamento de livro e documentário inéditos e uma sessão solene no Senado Federal.</p><p>A agenda começa na terça (17), às 15h, com a abertura de uma exposição no Espaço Mário Covas, na Câmara dos Deputados. A mostra revisita os principais marcos da história da Embratur e sua contribuição para o desenvolvimento do turismo e para a divulgação dos destinos brasileiros no mundo.</p><p>Na quarta-feira (18), às 19h, o presidente da Embratur, Bruno Reis, participa de um evento comemorativo no Centro de Convenções Ulysses Guimarães, com autoridades, representantes do setor de turismo e parceiros. Na ocasião serão lançados um livro e um documentário que contam seis décadas de transformações do turismo no Brasil.</p><p>As comemorações terminam na quinta-feira (19), às 10h, com uma sessão solene no Senado Federal em homenagem à trajetória da agência e ao trabalho de fortalecimento da imagem do Brasil no exterior.</p><p>Criada em 1966, a Embratur atua hoje como agência de promoção internacional do país, com campanhas e participação em feiras para atrair turistas estrangeiros a todas as regiões brasileiras, incluindo os destinos de Minas Gerais.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/224710_1.jpg",
+  "credito_foto": "Renato Vaz/Embratur",
+  "fonte": "Comex do Brasil, com informações da Embratur",
   "resumos": ""
  }
 ]
