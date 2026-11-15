@@ -1,0 +1,53 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Sora;src:url(sora-latin-700-normal.woff2);font-weight:700}
+@font-face{font-family:Sora;src:url(sora-latin-600-normal.woff2);font-weight:600}
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1350px}
+.art{position:relative;width:1080px;height:1350px;overflow:hidden;font-family:Sora;color:#0B1022;
+  background:radial-gradient(ellipse 80% 70% at 30% 30%,#ffffff 0%,#F4F6FC 55%,#E9EEF9 100%)}
+.faixa{position:absolute;border-radius:999px}
+.f1{width:1400px;height:150px;right:-760px;top:220px;transform:rotate(-58deg);background:linear-gradient(90deg,#1A449D,#2C5FD0)}
+.f2{width:1400px;height:46px;right:-640px;top:120px;transform:rotate(-58deg);background:#0C1E4A;opacity:.9}
+.f3{width:900px;height:120px;right:-520px;bottom:120px;transform:rotate(-58deg);background:linear-gradient(90deg,#0C1E4A,#1A449D)}
+.logo{position:absolute;left:64px;top:62px}
+.logo img{height:96px;display:block}
+.tit{position:absolute;left:64px;top:236px;width:600px;font-weight:700;font-size:70px;line-height:1.08;letter-spacing:-.035em}
+.tit b{color:#1A449D;font-weight:700}
+.cel{position:absolute;left:640px;top:150px;width:390px;height:720px;border-radius:58px;background:#0D111A;padding:14px;transform:rotate(5deg);box-shadow:0 40px 80px rgba(12,30,74,.35)}
+.tela{position:relative;width:100%;height:100%;border-radius:46px;overflow:hidden;background:#fff}
+.tela img{width:100%;display:block;margin-top:58px}
+.notch{position:absolute;top:24px;left:50%;margin-left:-62px;width:124px;height:32px;border-radius:20px;background:#0D111A;z-index:2}
+.circ{position:absolute;left:126px;top:54px;width:158px;height:64px;border:5px solid #1A449D;border-radius:50%;transform:rotate(-4deg)}
+.card{position:absolute;left:64px;right:64px;top:900px;height:250px;background:#fff;border-radius:40px;box-shadow:0 24px 60px rgba(12,30,74,.14);display:flex;align-items:center;gap:30px;padding:0 44px}
+.ic{flex:none;width:126px;height:126px;border-radius:50%;background:linear-gradient(145deg,#2C5FD0,#0C1E4A);display:grid;place-items:center}
+.ic svg{width:68px;height:68px}
+.sep{flex:none;width:5px;height:150px;border-radius:3px;background:#1A449D}
+.tx h2{font-weight:700;font-size:50px;line-height:1.05;letter-spacing:-.035em}
+.tx h2 b{color:#1A449D}
+.tx p{margin-top:12px;font-weight:600;font-size:25px;line-height:1.35;color:#4A5163;letter-spacing:-.01em}
+.zap{position:absolute;left:0;right:0;top:1170px;display:flex;justify-content:center;align-items:center;gap:12px;font-weight:600;font-size:27px;color:#2B3245;letter-spacing:-.01em}
+.zap svg{width:34px;height:34px}
+.zap b{font-weight:700;color:#0B1022}
+.pill{position:absolute;left:64px;right:64px;top:1232px;height:84px;border-radius:999px;background:linear-gradient(90deg,#0C1E4A,#1A449D 70%,#2C5FD0);display:flex;align-items:center;justify-content:center;gap:22px;color:#fff;font-weight:700;font-size:40px;letter-spacing:-.03em}
+.pill svg{width:44px;height:44px}
+.pill i{width:3px;height:44px;background:rgba(255,255,255,.6);display:block}
+.bio{background:#fff;color:#0C1E4A;border-radius:999px;padding:8px 22px;font-size:32px;display:flex;align-items:center;gap:10px}
+.bio svg{width:32px;height:32px}
+.pill .url{font-size:34px}
+</style></head>
+<body><div class="art">
+  <div class="faixa f2"></div><div class="faixa f1"></div><div class="faixa f3"></div>
+  <div class="logo"><img src="logo_navy.png"></div>
+  <div class="tit">Que tal mandar<br>a sua <b>denúncia</b><br><b>ou sugestão</b><br><b>de pauta</b> para<br>a gente?</div>
+  <div class="cel"><div class="tela"><div class="notch"></div><img src="tela.jpg"><div class="circ"></div></div></div>
+  <div class="card">
+    <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l18-5v12L3 14v-3z"/><path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"/></svg></div>
+    <div class="sep"></div>
+    <div class="tx"><h2>Faça sua denúncia<br><b>direto pelo site</b></h2>
+      <p>Toque em “Faça sua denúncia” e mande texto, áudio, foto ou vídeo. Pode ser anônima.</p></div>
+  </div>
+  <div class="zap"><svg viewBox="0 0 24 24"><path fill="#25D366" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/><path fill="#fff" d="M16.5 14.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.5l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2c0 1.3.9 2.6 1.1 2.8.1.2 1.9 2.9 4.6 4 1.7.7 2.4.8 3.2.7.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2-.1-.2-.3-.2-.5-.3z"/></svg>Prefere o WhatsApp? <b>(31) 99237-1702</b></div>
+  <div class="pill" style="gap:18px"><span class="bio"><svg viewBox="0 0 24 24" fill="none" stroke="#0C1E4A" stroke-width="2.4" stroke-linecap="round"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg>Link na bio</span><span class="url">portalonenews.com.br/denuncia</span></div>
+</div></body></html>

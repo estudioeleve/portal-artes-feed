@@ -1,0 +1,38 @@
+TEMA PORTAL ONE NEWS (Studio Eleve) - versão 2.4
+
+Como atualizar
+1. No painel do WordPress: Aparência > Temas > Adicionar novo > Enviar tema > escolha portal-one.zip > Instalar.
+2. O WordPress avisa que o tema já existe: clique em "Substituir o atual pelo enviado".
+3. Entre uma vez no painel depois de atualizar: o tema cria a editoria Comércio e os links dos portais sozinho.
+
+Links próprios dos portais (para acessar e compartilhar)
+- Portal Luziense: /portal-luziense/  (notícias da editoria Santa Luzia)
+- Portal Comércio: /portal-comercio/  (notícias da editoria Comércio)
+- Portal Política: /portal-politica/  (notícias da editoria Política)
+As notícias desses portais continuam aparecendo também na página inicial.
+
+Novidades da 2.4
+- Destaque principal em carrossel (5 notícias, passa sozinho; setas e bolinhas). Notícias fixadas no topo entram primeiro.
+- Santa Luzia fica embaixo do carrossel; Comércio e Política logo depois, só com uma linha na cor de cada portal.
+- Colunistas (Israel Fernandes, Jota Bertoldo e Paulo Alexandre) e Vídeos ficam na coluna da direita/centro, sem espaço vazio.
+- "Entrar no canal" vai direto ao canal do WhatsApp. Botão verde fixo "Fale com a gente" abre o WhatsApp para denúncia, sugestão ou reclamação.
+- Faixa AGORA sem hora e um pouco mais lenta. Cidades novas: Pedro Leopoldo, Matozinhos, Jaboticatubas, Venda Nova, Nova Lima e outras.
+- Novo colunista: Usuários > Adicionar novo (função Autor), depois preencha "Nome da coluna", "Quem é" e o link da foto no perfil.
+
+Como usar no dia a dia
+- Notícia: Posts > Adicionar. Escolha a editoria, coloque a imagem destacada e, se quiser, linha fina, crédito da foto e fonte.
+- Manchete principal: marque "Fixar no topo do blog". Os "Resumos do destaque" (um por linha) aparecem na faixa colorida embaixo da manchete.
+- Colunista: Usuários > Adicionar (função Autor). No perfil, preencha "Nome da coluna", "Quem é", o link da foto e, em "Informações biográficas", um texto curto sobre a pessoa.
+  A página da coluna fica em /author/login-do-colunista/.
+- Vídeo: menu Vídeos > Adicionar. Título, imagem destacada e o link do YouTube ou do Instagram.
+- Anúncio: menu Anúncios > Adicionar. Escolha onde aparece:
+  banner grande 1 (970 × 90, logo na entrada), banner grande 2 (970 × 90, meio da página),
+  quadrado 1 e quadrado 2 (300 × 250), vitrine, patrocínio de vídeos,
+  patrocinador de uma coluna (escolha o colunista) ou patrocinador de um portal (Luziense, Comércio ou Política).
+  Use a "Imagem destacada" para a arte e coloque o link do anunciante.
+  Datas de início e fim são opcionais: depois do fim o banner sai do ar sozinho.
+- Aparência > Personalizar > "Portal ONE News: WhatsApp e textos": link do canal exclusivo, WhatsApp comercial, link do YouTube e do Instagram.
+
+Se alguma página mostrar "Página não encontrada" logo depois de atualizar
+- No painel do WordPress, na barra preta do topo: LiteSpeed Cache > Limpar tudo (Purge All).
+  O site guarda cópias das páginas para ficar rápido; isso apaga as cópias antigas.
