@@ -42545,5 +42545,19 @@
   "fonte": "O Tempo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "10:35",
+  "id": "131138_7",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Sesc Mesa Brasil doa 1.500 kits de alimentos em BH, e Fecomércio pede que empresários doem carne",
+  "titulo_orig": "Ação social do Sesc Mesa Brasil doa 1.500 kits de alimentos e atende 3 mil em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/acao-social-do-sesc-mesa-brasil-doa-1-500-kits-de-alimentos-e-atende-3-mil-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-15/131138_7.jpg",
+  "media_id": "17921930118462926"
  }
 ]
