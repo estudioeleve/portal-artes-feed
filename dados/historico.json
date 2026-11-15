@@ -43973,5 +43973,19 @@
   "fonte": "Gazeta do Paraná",
   "arte": "artes/2026-11-15/201255_92.jpg",
   "media_id": "18488565931112144"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "17:49",
+  "id": "201226_24",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "LUTO",
+  "titulo": "Morre Claudionor Germano, uma das maiores vozes do frevo, aos 94 anos, em casa, no Recife",
+  "titulo_orig": "Morre Claudionor Germano, uma das maiores vozes do frevo de PE | G1",
+  "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/15/claudionor-germano-morre-no-recife-aos-94-anos.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-15/201226_24.jpg",
+  "media_id": "18154141819511727"
  }
 ]
