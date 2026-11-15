@@ -44211,5 +44211,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-15/211151_26.jpg",
   "media_id": "18084119303360196"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "19:22",
+  "id": "222144_1",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Atriz Giovanna Gold tem a conta bancária zerada após cair no golpe do falso advogado",
+  "titulo_orig": "Atriz Giovanna Gold tem a conta bancária zerada após cair no golpe do falso advogado",
+  "link": "https://record.r7.com/domingo-espetacular/video/atriz-giovanna-gold-tem-a-conta-bancaria-zerada-apos-cair-no-golpe-do-falso-advogado-15112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "19:22",
+  "id": "222202_16",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Praia, trilha e piscina natural: famosos esticam a viagem em Noronha após o casamento de Leo Fuchs",
+  "titulo_orig": "Praia, trilha e piscina: famosos curtem Noronha após casamento de Leo Fuchs",
+  "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/praia-trilha-e-piscina-famosos-curtem-noronha-apos-casamento-de-leo-fuchs.ghtml",
+  "fonte": "Globo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
