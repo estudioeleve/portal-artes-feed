@@ -1,17 +1,5 @@
 [
  {
-  "id": "001235_13",
-  "data": "2026-11-13T21:18:41-03:00",
-  "titulo": "Senado vota na terça emenda que derruba limite ao uso de créditos tributários das empresas",
-  "linha_fina": "Emenda de Alan Rick suprime trecho que deixa o governo restringir compensações; setor produtivo critica impacto no caixa.",
-  "categoria": "politica",
-  "texto": "<p>O Senado vai votar na terça-feira (17) a emenda que retira do pacote fiscal do governo o trecho que permite limitar o uso de créditos tributários pelas empresas. A votação é uma das quatro emendas que ficaram para depois da aprovação do texto-base, na quinta-feira (12).</p><p>A emenda é do senador Alan Rick (Republicanos-AC) e propõe suprimir a autorização dada ao Poder Executivo para restringir a compensação de créditos tributários já reconhecidos a favor dos contribuintes. Esses créditos são usados pelas empresas para abater impostos devidos à União.</p><p>O projeto de lei complementar que reúne as medidas de ajuste prevê efeito positivo de R$ 45 bilhões a R$ 56 bilhões nas contas públicas em 2027. Entre R$ 32,3 bilhões e R$ 37,8 bilhões desse total vêm de propostas que aumentam a arrecadação sobre as empresas, e a limitação dos créditos está no centro dessa estratégia, porque obriga as companhias a desembolsar mais dinheiro para pagar os tributos.</p><p>A proposta provocou protestos do setor produtivo. Entidades empresariais afirmam que a medida terá efeito direto no caixa das empresas, já pressionado pelos juros elevados, pelo número recorde de pedidos de recuperação judicial, pela adaptação à reforma tributária e pelo fim da escala 6x1.</p><p>O senador Alan Rick argumenta que a compensação está prevista em lei e que o projeto não fixa teto, prazo nem correção para a restrição. Para ele, a medida prejudica o setor produtivo e traz insegurança às vésperas da entrada em vigor da reforma tributária, em janeiro.</p><p>Se a emenda for aprovada, o governo terá de buscar outras fontes para compensar a perda prevista na arrecadação. Depois da votação das emendas, o texto segue a tramitação no Congresso.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/001235_13.jpg",
-  "credito_foto": "Carlos Moura/Agência Senado",
-  "fonte": "O Globo",
-  "resumos": ""
- },
- {
   "id": "001500_86",
   "data": "2026-11-13T21:22:02-03:00",
   "titulo": "Grupo Pagolua, nascido numa roda de amigos do Bairro da Lua, faz show neste sábado em Pedro Leopoldo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/171331_151.jpg",
   "credito_foto": "Foto: Juca Varella/Agência Brasil",
   "fonte": "TV Sim Brasil, com informações do Inep",
+  "resumos": ""
+ },
+ {
+  "id": "172937_87",
+  "data": "2026-11-15T14:29:52-03:00",
+  "titulo": "Homem-Aranha de BH aparece com caixa de som e anima candidatos do Enem na porta da PUC Minas",
+  "linha_fina": "João Victor, de 22 anos, nunca fez o Enem, mas foi ao Coração Eucarístico descontrair os estudantes antes da abertura dos portões.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Quem chegou cedo para o segundo dia do Enem 2026 na PUC Minas, no bairro Coração Eucarístico, na região Noroeste de Belo Horizonte, teve uma companhia inesperada neste domingo (15). Um Homem-Aranha, com uma caixa de som debaixo do braço, circulou entre os candidatos que esperavam a abertura dos portões e arrancou risadas e fotos.</p><p>Por trás da máscara estava João Victor Soares Santos, de 22 anos. Segundo o jornal O Tempo, ele ficou na entrada principal da universidade, na Rua Dom José Gaspar, onde se concentrava a maior parte dos estudantes, posando para fotos e fazendo gestos para animar quem estava tenso antes da prova.</p><p>João Victor contou que nunca fez o Enem e decidiu aproveitar a movimentação para descontrair os candidatos e, de quebra, divulgar o trabalho como animador de festas. Conhecido nas redes sociais como Homem-Aranha BH, ele também faz transmissões ao vivo no TikTok, onde tem cerca de 18 mil seguidores.</p><p>A presença do super-herói aconteceu pouco antes da abertura dos portões, às 12h. Neste segundo dia, os candidatos respondem a 90 questões de Matemática e Ciências da Natureza. A prova começou às 13h30 e termina às 18h30, no horário de Brasília.</p><p>Em BH, quase 69 mil candidatos estavam inscritos para o segundo dia do exame, que contou com reforço de ônibus e passe livre pelo programa Catraca Livre.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/172937_87.jpg",
+  "credito_foto": "Foto: Reprodução/O Tempo",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
