@@ -43917,5 +43917,47 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-15/201237_10.jpg",
   "media_id": "17954651877342258"
+ },
+ {
+  "id": "denuncia_5946",
+  "data": "2026-11-15",
+  "hora": "17:29",
+  "media_id": "18134351203763654",
+  "titulo": "Denúncia do leitor OC-2026-5946",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:5946",
+  "arte": "artes/denuncias/2026-11-15/denuncia_5946.jpg"
+ },
+ {
+  "id": "denuncia_5795",
+  "data": "2026-11-15",
+  "hora": "17:30",
+  "media_id": "18176854117416356",
+  "titulo": "Denúncia do leitor OC-2026-5795",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:5795",
+  "arte": "artes/denuncias/2026-11-15/denuncia_5795.jpg"
+ },
+ {
+  "id": "denuncia_5630",
+  "data": "2026-11-15",
+  "hora": "17:32",
+  "media_id": "18108895685368278",
+  "titulo": "Denúncia do leitor OC-2026-5630",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:5630",
+  "arte": "videos/2026-11-15/denuncia_5630.mp4"
  }
 ]
