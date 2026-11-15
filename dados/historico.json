@@ -43707,5 +43707,33 @@
   "fonte": "Grupo Portal de Notícias",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "16:29",
+  "id": "191232_54",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Passageiro é preso com 35 barras de droga em ônibus interestadual no Anel Rodoviário de BH",
+  "titulo_orig": "Homem é preso com cocaína, maconha e skunk em ônibus no Anel Rodoviário de BH",
+  "link": "https://www.hojeemdia.com.br/minas/homem-e-preso-com-cocaina-maconha-e-skunk-em-onibus-no-anel-rodoviario-de-bh-1.1140930",
+  "fonte": "Hoje em Dia",
+  "arte": "artes/2026-11-15/191232_54.jpg",
+  "media_id": "17880880812565141"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "16:29",
+  "id": "192422_79",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Cleitinho rebate críticas após cantar e dançar em show de pagode em BH: \"Hoje é sábado\"",
+  "titulo_orig": "Cleitinho rebate críticas após curtir show de pagode em BH: \"É sábado\"",
+  "link": "https://www.metropoles.com/minas-gerais/cleitinho-rebate-criticas-apos-curtir-show-de-pagode-em-bh-e-sabado",
+  "fonte": "Metrópoles",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
