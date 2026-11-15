@@ -44099,5 +44099,19 @@
   "fonte": "A Tribuna",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_1638",
+  "data": "2026-11-15",
+  "hora": "19:11",
+  "media_id": "18105544388040690",
+  "titulo": "Denúncia do leitor 1638",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:1638",
+  "arte": ""
  }
 ]
