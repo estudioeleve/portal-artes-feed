@@ -1,15 +1,5 @@
 [
  {
-  "id": "140500_israel",
-  "data": "2026-11-15",
-  "acao": "create_video_post",
-  "share_to_feed": true,
-  "titulo": "Cantor gospel mostra o início em igreja pequena e a chegada a um palco com milhares de pessoas, e vídeo emociona a web",
-  "arte": "videos/2026-11-15/1405_cantor_gospel_igreja_estadio.mp4",
-  "video_url": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/befe3b25416da479bae5bdbe01ef38c91d9c8d4a/videos/2026-11-15/1405_cantor_gospel_igreja_estadio.mp4",
-  "legenda": "🎸 Do louvor na rua ao palco de um estádio lotado.\n\nUm cantor gospel emocionou as redes sociais ao compartilhar um vídeo que mostra o começo da carreira, cantando em uma igreja pequena e em apresentações simples, e depois o momento em que se apresenta para milhares de pessoas em um grande evento.\n\n\"Nosso louvor na rua foi tão longe... que chegou até o Ore Comigo!\", diz a legenda do vídeo.\n\nA simplicidade e a trajetória do músico conquistaram internautas, que encheram a publicação de mensagens de apoio.\n\n#PortalONENews #Viralizou #Gospel #Louvor\n\nFonte da foto: Reprodução/Instagram Daniel Marques\nFonte da matéria: Redes sociais\nMatéria completa no nosso portal: www.portalonenews.com.br"
- },
- {
   "id": "141000_israel",
   "data": "2026-11-15",
   "acao": "create_video_post",

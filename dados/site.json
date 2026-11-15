@@ -1,17 +1,5 @@
 [
  {
-  "id": "001500_86",
-  "data": "2026-11-13T21:22:02-03:00",
-  "titulo": "Grupo Pagolua, nascido numa roda de amigos do Bairro da Lua, faz show neste sábado em Pedro Leopoldo",
-  "linha_fina": "Apresentação com convidados começa às 20h no Bar Social Club, no Centro; entrada custa R$ 15.",
-  "categoria": "pedro-leopoldo",
-  "texto": "<p>O sábado (14) vai ter samba e pagode em Pedro Leopoldo, na Região Metropolitana de Belo Horizonte. O grupo Pagolua, apontado como revelação da cena musical da região, se apresenta a partir das 20h no Bar Social Club, no Centro da cidade, com participação de convidados especiais.</p><p>A história do grupo começou no bairro Teotônio de Freitas, conhecido pelos moradores como \"Bairro da Lua\", de onde vem o nome Pagolua. Um grupo de amigos que se reunia para tocar e cantar transformou as rodas de samba em um projeto musical, que foi ganhando espaço na agenda cultural de Pedro Leopoldo e das cidades vizinhas.</p><p>Desde então, os músicos passaram a ter a agenda ocupada praticamente todos os fins de semana. Para o líder do grupo, Luís Carlos, o reconhecimento tem um sabor especial justamente por ter nascido de forma despretensiosa, entre amigos. Ele agradeceu o carinho do público que acompanha o grupo desde o início.</p><p>A apresentação deste sábado é mais uma chance para quem gosta de pagode prestigiar artistas da própria região e aproveitar a noite com amigos e família.</p><p><strong>Serviço</strong><br>Pagolua e convidados especiais<br>Quando: sábado, 14 de novembro, às 20h<br>Onde: Bar Social Club, Rua Cristiano Otoni, 532, Centro, Pedro Leopoldo<br>Entrada: R$ 15</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/001500_86.jpg",
-  "credito_foto": "Divulgação/Conexão 424",
-  "fonte": "Conexão 424",
-  "resumos": ""
- },
- {
   "id": "002049_158",
   "data": "2026-11-13T21:22:03-03:00",
   "titulo": "Feira de adoção em Betim neste sábado tem campanha para cães e gatos pretos, os mais rejeitados",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/172937_87.jpg",
   "credito_foto": "Foto: Reprodução/O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "143700_israel",
+  "data": "2026-11-15T14:39:24-03:00",
+  "titulo": "Barbearia do Asteca: Girley seria o alvo dos tiros; dono, Juan, deu emprego ao amigo para recomeçar",
+  "linha_fina": "Girley trabalhava havia 4 meses na barbearia e cortava o cabelo de Juan, o dono, quando os dois foram baleados; Polícia Civil investiga.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Novas informações sobre o duplo homicídio registrado na noite deste sábado (14) dentro de uma barbearia na Rua Jabaquara, no bairro Asteca, em Santa Luzia, indicam que o possível alvo dos atiradores era Girley, que trabalhava no local havia cerca de quatro meses. No momento dos disparos, ele cortava o cabelo de Juan, dono da barbearia, que também foi atingido.</p><p>A informação corrige a versão preliminar divulgada na noite de sábado, que apontava Girley como cliente e o dono da barbearia como quem fazia o corte. O nome do proprietário também foi corrigido: ele se chamava Juan.</p><p>Segundo relatos apurados pelo Portal ONE News, Girley tinha diversas passagens pela polícia e seria ligado a pontos de venda de drogas na região, além de haver suspeita de envolvimento com uma facção criminosa. Essas informações ainda não foram confirmadas oficialmente pelas autoridades.</p><p>Já Juan é descrito por conhecidos como um homem tranquilo e trabalhador. De acordo com os relatos, ele teve uma única passagem pela polícia, em 2018, por receptação, em ocorrência que envolveu justamente Girley. Amigos contam que Juan teria dado a ele uma oportunidade de trabalho na barbearia para que pudesse começar uma nova vida.</p><p>Os dois não morreram no local. Eles foram socorridos para a UPA São Benedito, onde Girley morreu primeiro; Juan morreu logo em seguida. Uma das hipóteses levantadas é que dívidas do passado, ainda não esclarecidas, tenham motivado o crime.</p><p>A Polícia Civil investiga o caso. Até a última atualização desta reportagem, não havia informação sobre suspeitos presos. O Portal ONE News continua acompanhando de perto e atualizará a matéria assim que houver novos detalhes.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/143700_israel.jpg",
+  "credito_foto": "Foto: Arquivo pessoal",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
