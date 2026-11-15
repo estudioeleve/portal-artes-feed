@@ -44407,5 +44407,19 @@
   "fonte": "Fato Paulista",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "20:20",
+  "id": "231319_18",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Dois senadores do PL contrariam o partido e votam a favor do ajuste fiscal de Lula",
+  "titulo_orig": "Senadores do partido de Bolsonaro contrariam determinação do partido e votam a favor de pacote fiscal do governo - Rádio Pampa",
+  "link": "https://www.radiopampa.com.br/senadores-do-partido-de-bolsonaro-contrariam-determinacao-do-partido-e-votam-a-favor-de-pacote-fiscal-do-governo/",
+  "fonte": "Rádio Pampa",
+  "arte": "artes/2026-11-15/231319_18.jpg",
+  "media_id": "18126291265929714"
  }
 ]
