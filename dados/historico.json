@@ -41621,5 +41621,19 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-14/021056_13.jpg",
   "media_id": "17954500293322537"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "23:36",
+  "id": "021108_2",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Um ano após prisão de Vorcaro, caso Master abala o STF, que espera novos documentos da PF",
+  "titulo_orig": "Um ano após prisão de Vorcaro, escândalo do Master extrapola política e põe STF sob suspeita inédita",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/um-ano-apos-prisao-de-vorcaro-escandalo-do-master-extrapola-politica-e-poe-stf-sob-suspeita-inedita.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "artes/2026-11-14/021108_2.jpg",
+  "media_id": "18189424990417028"
  }
 ]
