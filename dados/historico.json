@@ -43553,5 +43553,19 @@
   "fonte": "Terra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "15:29",
+  "id": "171355_html",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Papa Leão XIV viaja na cabine de helicóptero militar, entre os pilotos, sobre os Andes",
+  "titulo_orig": "Papa Leão XIV acompanha voo na cabine de helicóptero militar durante visita aos Andes; veja vídeo",
+  "link": "https://oglobo.globo.com/mundo/noticia/2026/11/15/papa-leao-xiv-acompanha-voo-na-cabine-de-helicoptero-militar-durante-visita-aos-andes-veja-video.ghtml",
+  "fonte": "oglobo.globo.com",
+  "arte": "artes/2026-11-15/171355_html.jpg",
+  "media_id": "18224782735343704"
  }
 ]
