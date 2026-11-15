@@ -1,53 +1,5 @@
 [
  {
-  "id": "201120_44",
-  "data": "2026-11-13T17:16:30-03:00",
-  "titulo": "Petroleiro bate em barco de cruzeiro com 129 passageiros no rio Mississippi, nos EUA",
-  "linha_fina": "Cerca de 129 passageiros desembarcavam no momento da colisão; número de feridos e causa ainda não foram confirmados",
-  "categoria": "mundo",
-  "texto": "<p>Um navio petroleiro se chocou com um barco de cruzeiro no rio Mississippi, em Nova Orleans, nos Estados Unidos, nesta sexta-feira (13). Imagens que circulam nas redes sociais mostram a embarcação de turismo inclinada ao lado do navio de carga, junto ao cais.</p>\n<p>O barco estava atracado e fazia o desembarque de cerca de 129 passageiros, além dos tripulantes, segundo a emissora americana Fox News.</p>\n<p>Equipes da polícia portuária, dos departamentos de polícia e de bombeiros de Nova Orleans, da Guarda Costeira dos Estados Unidos e profissionais de emergência médica foram enviados ao local para fazer o resgate.</p>\n<p>Em comunicado, o porto da cidade afirmou que a prioridade é garantir a segurança dos passageiros, dos tripulantes e dos profissionais envolvidos no atendimento. O órgão informou que a ocorrência ainda estava em andamento.</p>\n<p>Até a última atualização, o número de feridos e a causa da colisão não haviam sido confirmados pelas autoridades. O rio Mississippi é uma das hidrovias mais movimentadas dos Estados Unidos e recebe tanto navios de carga quanto embarcações turísticas na região de Nova Orleans.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/201120_44.jpg",
-  "credito_foto": "Reprodução/Redes sociais (via g1)",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
-  "id": "201110_30",
-  "data": "2026-11-13T17:16:30-03:00",
-  "titulo": "Pacientes com diabetes enfrentam falta de tiras para medir glicose há dois meses em Vespasiano",
-  "linha_fina": "Insumo está em falta na Policlínica Nova Pampulha; prefeitura diz que os lotes recebidos do Estado são insuficientes",
-  "categoria": "vespasiano",
-  "texto": "<p>Pacientes com diabetes de Vespasiano, na Região Metropolitana de Belo Horizonte, enfrentam há dois meses a falta de tiras usadas para medir a glicose no sangue. O problema atinge quem é atendido na Policlínica Nova Pampulha, segundo reportagem exibida nesta sexta-feira (13) pelo Balanço Geral MG.</p>\n<p>As tiras reagentes são usadas com o glicosímetro e fazem parte do acompanhamento diário da doença. Com elas, o paciente confere os níveis de açúcar no sangue e consegue ajustar a alimentação e o uso de medicamentos, como a insulina, conforme a orientação médica.</p>\n<p>A unidade oferece gratuitamente caixas com 50 tiras, mas, de acordo com funcionários, a quantidade disponível não atende à procura. Ainda segundo eles, o material é enviado pelo Governo de Minas, e o fornecimento ainda não foi normalizado.</p>\n<p>Em nota, a Prefeitura de Vespasiano informou que os lotes recebidos são insuficientes para atender à demanda e que busca novas unidades junto à Secretaria de Estado de Saúde para regularizar o abastecimento.</p>\n<p>Até a publicação da reportagem, não havia previsão de data para que a entrega volte ao normal. Pacientes que dependem das tiras devem procurar a unidade de saúde de referência para saber sobre a disponibilidade do material.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/201110_30.jpg",
-  "credito_foto": "Reprodução/Record TV Minas",
-  "fonte": "R7 / Balanço Geral MG",
-  "resumos": ""
- },
- {
-  "id": "201056_66",
-  "data": "2026-11-13T17:16:31-03:00",
-  "titulo": "Câmara de Matozinhos marca eleição da Mesa Diretora 2027/2028 para terça-feira (17)",
-  "linha_fina": "Chapas devem ser registradas até as 21h de segunda (16); votação será nominal e eleitos tomam posse em 1º de janeiro",
-  "categoria": "matozinhos",
-  "texto": "<p>A Câmara Municipal de Matozinhos convocou os vereadores para uma reunião especial que vai definir a Mesa Diretora do biênio 2027/2028. A eleição está marcada para terça-feira, 17 de novembro, às 21h, no plenário da Casa.</p>\n<p>Segundo o edital assinado pelo presidente da Câmara, vereador André Barbosa Moreira, serão escolhidos os ocupantes dos cargos de presidente, vice-presidente, primeiro-secretário e segundo-secretário.</p>\n<p>As chapas interessadas devem ser registradas até as 21h de segunda-feira (16), com antecedência mínima de 24 horas em relação à reunião. O registro será feito pelo sistema Zero Papel da Câmara.</p>\n<p>A votação será nominal, com chamada dos vereadores em ordem alfabética. Para vencer em primeiro turno, a chapa precisa da maioria absoluta dos votos. Se isso não ocorrer, haverá segundo turno, decidido por maioria simples. Em caso de empate, vence a chapa cujo candidato à Presidência seja o vereador mais velho.</p>\n<p>De acordo com o edital, os eleitos tomam posse automaticamente em 1º de janeiro de 2027 e comandam o Legislativo de Matozinhos pelos próximos dois anos. A Mesa Diretora é responsável por conduzir as sessões, organizar a pauta de votações e administrar a Câmara.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/201056_66.jpg",
-  "credito_foto": "Reprodução/Por Dentro de Tudo",
-  "fonte": "Câmara Municipal de Matozinhos",
-  "resumos": ""
- },
- {
-  "id": "201134_68",
-  "data": "2026-11-13T17:16:31-03:00",
-  "titulo": "Dia Mundial dos Pobres reúne mutirão de saúde, documentos e alimentação para população de rua no Centro de BH",
-  "linha_fina": "Ação da Defensoria Pública e da Arquidiocese com mais de 30 parceiros ocorreu no Santuário São José nesta sexta (13)",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Belo Horizonte recebeu nesta sexta-feira (13) a 10ª edição do Dia Mundial dos Pobres, com um mutirão de serviços gratuitos no Santuário São José, na Rua dos Tupis, 164, no Centro. A ação foi das 9h às 13h e reuniu a Defensoria Pública de Minas Gerais, a Arquidiocese de Belo Horizonte e mais de 30 parceiros.</p>\n<p>A iniciativa é voltada principalmente a pessoas em situação de vulnerabilidade extrema, com foco na população em situação de rua da capital. Segundo a Defensoria, em maio de 2026 Belo Horizonte tinha 16.115 pessoas vivendo nas ruas, aumento de 76% em relação a dezembro de 2021, de acordo com o Cadastro Único.</p>\n<p>Quem compareceu teve acesso a orientação jurídica, consulta de processos e pedido de segunda via de certidões. Também houve orientação sobre benefícios sociais, atualização do CadÚnico e encaminhamento para vagas de emprego.</p>\n<p>Na área da saúde, foram oferecidos atendimentos médicos básicos, vacinação e acolhimento psicológico. O mutirão teve ainda espaço para banho, corte de cabelo e barba, distribuição de roupas, calçados e kits de higiene, além de café da manhã, lanches e almoço. Os animais que acompanham as pessoas em situação de rua também receberam cuidados veterinários.</p>\n<p>Na edição de 2025, cerca de mil pessoas foram atendidas. Os organizadores afirmam que o mutirão funciona como uma ponte entre quem vive nas ruas e os serviços essenciais do Estado e da sociedade civil.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/201134_68.jpg",
-  "credito_foto": "Leandro Couri/EM/D.A Press",
-  "fonte": "Estado de Minas",
-  "resumos": ""
- },
- {
   "id": "201137_41",
   "data": "2026-11-13T17:16:31-03:00",
   "titulo": "Câmaras, Assembleia e TCE respondem por um terço das compras de inteligência artificial em Minas",
@@ -4797,6 +4749,54 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/132649_10.jpg",
   "credito_foto": "Reprodução/Instagram Feira Hippie (via O Tempo)",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "141340_40",
+  "data": "2026-11-15T11:17:56-03:00",
+  "titulo": "Lucas Pinheiro vence o slalom de Levi, na Finlândia, e lidera o ranking da Copa do Mundo de esqui",
+  "linha_fina": "Brasileiro campeão olímpico fez o melhor tempo na primeira descida e garantiu a segunda vitória na temporada 2026/2027.",
+  "categoria": "esporte",
+  "texto": "<p>O esquiador brasileiro Lucas Pinheiro Braathen venceu neste domingo (15) a etapa de Levi, na Finlândia, da Copa do Mundo de esqui alpino. Ele competiu no slalom, abriu vantagem logo na primeira descida e terminou a prova no lugar mais alto do pódio.</p>\n<p>Na primeira passagem pela pista, Lucas marcou 52s69 e ficou 65 centésimos à frente do segundo colocado. Na segunda descida, fez 55s35, nono melhor tempo da rodada, o que bastou para manter a liderança. Somando as duas descidas, o brasileiro fechou com 1min48s04. O canadense Liam Wallace ficou em segundo lugar, e o austríaco Johannes Strolz completou o pódio.</p>\n<p>É a segunda vitória de Lucas na temporada 2026/2027. No fim de outubro, ele já tinha vencido o slalom gigante na primeira etapa do circuito, em Sölden, na Áustria. Com os dois resultados, o esquiador assumiu a primeira colocação do ranking da modalidade.</p>\n<p>Depois da prova, Lucas agradeceu o apoio da torcida e disse que segue focado na sequência do calendário. Segundo ele, a próxima etapa da Copa do Mundo, na semana que vem, será desafiadora, mas o objetivo é brigar de novo pela vitória.</p>\n<p>Esta é a terceira temporada de Lucas defendendo o Brasil no circuito internacional. Nesse período, ele conquistou a medalha de ouro nos Jogos Olímpicos de Inverno de Milão-Cortina 2026 e terminou a última temporada na liderança do ranking mundial do slalom gigante, resultados inéditos para o país nos esportes de neve.</p>\n<p>Aos 25 anos, filho de mãe brasileira e pai norueguês, o esquiador passou a competir pelo Brasil depois de defender a Noruega no início da carreira. Desde então, virou a principal referência do país nos esportes de inverno e tem atraído atenção de novos fãs para uma modalidade pouco tradicional por aqui.</p>\n<p>A Copa do Mundo de esqui alpino segue com etapas na Europa e na América do Norte até março, quando são definidos os campeões de cada modalidade e o campeão geral da temporada.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/141340_40.jpg",
+  "credito_foto": "Roni Rekomaa/AFP (via ge)",
+  "fonte": "ge",
+  "resumos": ""
+ },
+ {
+  "id": "141409_13",
+  "data": "2026-11-15T11:17:56-03:00",
+  "titulo": "Pequim proíbe ter drone em casa a partir deste domingo, e a polícia pode apreender os aparelhos",
+  "linha_fina": "Moradores da capital chinesa tiveram até sábado para vender, reciclar ou mandar os drones para fora da cidade.",
+  "categoria": "mundo",
+  "texto": "<p>A partir deste domingo (15), quem mora em Pequim, capital da China, não pode mais nem ter um drone em casa. A nova regra autoriza a polícia a apreender os aparelhos e punir os proprietários, mesmo que os equipamentos nunca tenham sido usados.</p>\n<p>Voar e vender drones já era proibido na cidade havia vários meses. Em setembro, as autoridades chinesas anunciaram que a proibição da posse passaria a valer em 15 de novembro, com o argumento de reforçar a segurança da capital, onde ficam a sede do governo e do Partido Comunista Chinês.</p>\n<p>Os moradores tiveram até sábado (14) para se desfazer dos aparelhos. As opções eram vender os drones em postos autorizados, mandá-los para reciclagem ou despachá-los de graça para fora da capital. Para acelerar a retirada, o governo também ofereceu subsídios a quem entregasse os equipamentos.</p>\n<p>A política de tolerância zero foi adotada poucos meses depois de um acidente que chamou a atenção do país: no fim de junho, um pequeno avião atingiu a torre China Zun, o arranha-céu mais alto de Pequim, e o piloto morreu. O caso não envolveu drones, mas aumentou a preocupação das autoridades com a segurança do espaço aéreo da cidade.</p>\n<p>Com a proibição, fotógrafos, jornalistas e amadores ficam impedidos de fazer imagens aéreas da capital. Segundo as regras divulgadas, exceções só poderão ser concedidas para atividades específicas, como operações de segurança.</p>\n<p>A China é o maior fabricante de drones do mundo, e os aparelhos são muito usados no país para lazer, fotografia, agricultura e entregas. A medida em Pequim, porém, vale apenas para a capital, e as regras em outras cidades chinesas continuam diferentes.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/141409_13.jpg",
+  "credito_foto": "Reuters/Tingshu Wang (via g1)",
+  "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "141421_33",
+  "data": "2026-11-15T11:17:56-03:00",
+  "titulo": "Elizabeth Hurley, de 61 anos, chama atenção com vestido rendado ao lado do noivo, Billy Ray Cyrus",
+  "linha_fina": "Atriz britânica foi ao Baby2Baby Gala, em West Hollywood, com o cantor country, pai de Miley Cyrus, e com o filho Damian.",
+  "categoria": "entretenimento",
+  "texto": "<p>A atriz e modelo britânica Elizabeth Hurley, de 61 anos, chamou atenção no tapete vermelho do Baby2Baby Gala, evento beneficente realizado no sábado (14), em West Hollywood, nos Estados Unidos. Ela escolheu um vestido vermelho rendado, com partes transparentes e decote, e completou o visual com sapatos de salto e uma bolsa prateada.</p>\n<p>Elizabeth não chegou sozinha. Ela estava acompanhada do noivo, o cantor country Billy Ray Cyrus, e do filho, Damian, de 24 anos. O jovem é fruto do relacionamento da atriz com o empresário Steve Bing, que morreu em 2020.</p>\n<p>Billy Ray Cyrus e Elizabeth Hurley vivem um romance desde abril de 2025. O cantor é pai de seis filhos, entre eles a cantora e atriz Miley Cyrus. Em outubro, a atriz praticamente confirmou o noivado ao publicar nas redes sociais uma foto de roupão, exibindo um anel de diamantes. Dias depois, a imprensa norte-americana noticiou que o pedido de casamento tinha mesmo acontecido.</p>\n<p>No evento, o casal posou junto para os fotógrafos e a atriz exibiu a aliança. A aparição foi uma das mais comentadas da noite nas redes sociais.</p>\n<p>O Baby2Baby Gala é promovido por uma organização sem fins lucrativos da Califórnia que distribui fraldas, roupas e outros itens básicos para crianças em situação de pobreza. A festa anual costuma reunir atores, cantores e celebridades de Hollywood e arrecadar doações para os projetos da entidade.</p>\n<p>Conhecida mundialmente desde os anos 1990, Elizabeth Hurley segue ativa como atriz, modelo e empresária, e costuma ser uma das presenças mais fotografadas em eventos de moda e de caridade nos Estados Unidos e no Reino Unido.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/141421_33.jpg",
+  "credito_foto": "Getty Images (via Monet)",
+  "fonte": "Monet",
+  "resumos": ""
+ },
+ {
+  "id": "141350_20",
+  "data": "2026-11-15T11:17:56-03:00",
+  "titulo": "Cashback da reforma tributária começa em janeiro e deve devolver imposto a 70 milhões de pessoas",
+  "linha_fina": "Contas de luz, água, gás, esgoto e telefone de famílias de baixa renda virão sem a CBS; nas compras, a devolução será de 20%.",
+  "categoria": "brasil",
+  "texto": "<p>O governo federal começa a colocar em prática em janeiro de 2027 o chamado cashback da reforma tributária, mecanismo que devolve parte do novo imposto sobre o consumo às famílias de baixa renda. A expectativa é de que cerca de 70 milhões de brasileiros sejam beneficiados.</p>\n<p>Na prática, o governo vai devolver uma parte dos tributos que estão embutidos nas contas de serviços básicos e nos preços dos produtos. A ideia é reduzir o peso dos impostos no orçamento da população mais pobre, que gasta proporcionalmente mais com consumo.</p>\n<p>Segundo a Receita Federal, as contas de energia elétrica, água, gás canalizado, esgoto e telefone dessas famílias já virão no primeiro mês de 2027 com desconto de 100% da Contribuição sobre Bens e Serviços (CBS), o novo tributo federal criado pela reforma, que tem alíquota estimada em 11,3%.</p>\n<p>Nas demais compras, o mecanismo prevê a devolução de 20% da CBS paga. Ficam de fora os produtos sobre os quais incide o imposto seletivo, conhecido como imposto do pecado, como cigarros e bebidas alcoólicas e açucaradas. De acordo com a Receita, essa devolução será feita inicialmente a cada três meses.</p>\n<p>A primeira parcela deve ser paga até 25 de abril, com os valores acumulados em janeiro, fevereiro e março. Depois, ainda sem data definida, os repasses passam a ser mensais. A estimativa é de R$ 10 bilhões devolvidos em 2027, para 27,7 milhões de famílias.</p>\n<p>Para ter direito, é preciso estar inscrito no CadÚnico, ter renda mensal por pessoa de até meio salário mínimo (hoje R$ 820,50), manter os dados e o CPF regularizados e informar o CPF na nota fiscal de todas as compras a partir de 1º de janeiro. O dinheiro será pago ao responsável familiar, e os valores poderão ser acompanhados pelo aplicativo da Receita Federal.</p>\n<p>O cashback faz parte da reforma tributária aprovada pelo Congresso, que substitui aos poucos os tributos atuais sobre o consumo por um imposto sobre valor agregado dividido em duas partes: a CBS, federal, e o IBS, de estados e municípios. A transição completa vai até 2033.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/141350_20.jpg",
+  "credito_foto": "Metropress (via Rádio Metrópole)",
+  "fonte": "Rádio Metrópole, com informações da Receita Federal",
   "resumos": ""
  }
 ]
