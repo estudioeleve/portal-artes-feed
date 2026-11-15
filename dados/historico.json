@@ -43959,5 +43959,19 @@
   "fonte": "Faça sua denúncia",
   "link": "denuncia:5630",
   "arte": "videos/2026-11-15/denuncia_5630.mp4"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "17:41",
+  "id": "201255_92",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista, atenção: STF vai recomeçar julgamento das regras do fim da 6x1; prazo de 16/12 segue",
+  "titulo_orig": "Fux interrompe julgamento sobre fim da escala 6x1 após reação do Congresso",
+  "link": "https://gazetadoparana.com.br/global/fux-interrompe-julgamento-sobre-fim-da-escala-6x1-apos-reacao-do-congresso",
+  "fonte": "Gazeta do Paraná",
+  "arte": "artes/2026-11-15/201255_92.jpg",
+  "media_id": "18488565931112144"
  }
 ]
