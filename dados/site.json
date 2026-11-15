@@ -1,17 +1,5 @@
 [
  {
-  "id": "231608_22",
-  "data": "2026-11-13T20:20:04-03:00",
-  "titulo": "Semana do Café termina em BH com mais de 300 reuniões de negócios com compradores de fora",
-  "linha_fina": "Feira no Expominas aproximou produtores e compradores de fora, anunciou parceria de certificação e premiou os melhores cafés.",
-  "categoria": "comercio",
-  "texto": "<p>A 14ª edição da Semana Internacional do Café (SIC 2026) foi encerrada nesta sexta-feira (13), no Expominas, em Belo Horizonte, com saldo de mais de 300 reuniões de negócios nas rodadas internacionais organizadas pelo Sebrae Minas e parceiros. Durante três dias, produtores, indústrias, especialistas e compradores do Brasil e do exterior circularam pela feira.</p>\n<p>O presidente da Federação da Agricultura e Pecuária do Estado de Minas Gerais (Faemg), Antônio de Salvo, destacou a presença de delegações, compradores e jornalistas estrangeiros e classificou esta como a edição mais internacional do evento. Para o Sebrae Minas, o foco das rodadas é abrir mercados para o produtor rural e valorizar a qualidade do café.</p>\n<p>No campo institucional, a feira oficializou uma nova cooperação entre a Secretaria de Agricultura, por meio do Instituto Mineiro de Agropecuária (IMA), e o Senar, para ampliar a defesa agropecuária e os processos de certificação. Segundo o secretário Thales Fernandes, o programa Certifica Minas já oferece mais de 20 tipos de certificações gratuitas para agricultores familiares.</p>\n<p>O último dia teve ainda a participação da apresentadora Ana Maria Braga, que contou sua experiência como cafeicultora iniciante e falou das etapas de plantio, colheita e secagem.</p>\n<p>No encerramento, foram anunciados os campeões das principais competições. O Coffee of the Year 2026 ficou com Alessandra Dias da Silva, de Iúna (ES), na categoria arábica, e com Vani de Souza, de Apuí (AM), na categoria canéfora. Na Florada Premiada, a mineira Claudiana Medeiros Lacerda, de Espera Feliz, venceu com 94,14 pontos. O Campeonato Brasileiro de Barismo foi vencido por Tiago de Melo.</p>\n<p>A SIC é realizada pela Espresso&amp;CO, pelo Sistema Faemg Senar, pelo Sebrae e pelo Governo de Minas. Para pequenos produtores e comerciantes do setor, as rodadas de negócio e as certificações gratuitas são caminhos para alcançar compradores maiores e mercados no exterior.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/231608_22.jpg",
-  "credito_foto": "Giullia Gurgel/Itatiaia",
-  "fonte": "Itatiaia",
-  "resumos": ""
- },
- {
   "id": "231611_1",
   "data": "2026-11-13T20:20:04-03:00",
   "titulo": "SpaceX lança a Starship pela 15ª vez e tenta recuperar o foguete e a nave pela primeira vez",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/162729_0.jpg",
   "credito_foto": "Lucas Franco/TV Globo",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "135500_israel",
+  "data": "2026-11-15T13:54:46-03:00",
+  "titulo": "Criança de 7 anos é esquecida dentro de avião depois que a família desembarca em Porto Alegre",
+  "linha_fina": "Piloto avisou a torre de comando: \"Tem uma situação meio inusitada aqui\". Latam diz que menino foi entregue à mãe 15 minutos depois.",
+  "categoria": "brasil",
+  "texto": "<p>Uma criança de aproximadamente 7 anos foi esquecida a bordo de um avião na tarde deste sábado (14), no Aeroporto Internacional Salgado Filho, em Porto Alegre, depois que os familiares desembarcaram. O caso viralizou nas redes sociais com o áudio da conversa entre o piloto e a torre de comando.</p>\n<p>Na gravação, o comandante relata o ocorrido aos controladores: \"Tem uma situação meio inusitada aqui. Uma família desembarcou e esqueceu o filho a bordo aqui. Aproximadamente 7 anos. Por favor, eu preciso que um despachante venha aqui, por gentileza\", pediu.</p>\n<p>Em nota, a LATAM Airlines Brasil informou que o caso aconteceu no voo LA3420, que fazia o trajeto entre São Paulo/Guarulhos e Porto Alegre.</p>\n<p>Segundo a companhia aérea, a criança permaneceu na aeronave após o desembarque dos familiares, foi acompanhada pela equipe da empresa durante todo o tempo e entregue em segurança à mãe cerca de 15 minutos depois.</p>\n<p>A família e o piloto não foram identificados.</p>\n<p>O áudio da comunicação com a torre circulou nas redes sociais ao longo do fim de semana e chamou a atenção pela forma tranquila com que o piloto relatou a situação, que terminou sem problemas para a criança.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/135500_israel.jpg",
+  "credito_foto": "Reprodução/Redes sociais",
+  "fonte": "LATAM Airlines Brasil",
   "resumos": ""
  }
 ]
