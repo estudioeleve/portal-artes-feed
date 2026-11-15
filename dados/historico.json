@@ -41467,5 +41467,33 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-14/011111_23.jpg",
   "media_id": "18150411466583109"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "23:15",
+  "id": "021044_12",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "VESPASIANO",
+  "titulo": "Noite violenta na Grande BH: homem é morto a tiros em bar de Vespasiano e jovem é assassinado em Nova Lima",
+  "titulo_orig": "Grande BH tem noite violenta com homicídios em Nova Lima e Vespasiano | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/grande-bh-tem-noite-violenta-com-homicidios-em-nova-lima-e-vespasiano/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "23:18",
+  "id": "021238_70",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "MEI terá dívidas com o INSS perdoadas em 2027, mas terá de pagar o DAS em dia no 1º semestre",
+  "titulo_orig": "Perdão de dívidas do MEI começa em 2027, mas exige boletos em dia no primeiro semestre, entenda",
+  "link": "https://omatogrosso.com/perdao-de-dividas-do-mei-comeca-em-2027-mas-exige-boletos-em-dia-no-primeiro-semestre-entenda/",
+  "fonte": "O Mato Grosso",
+  "arte": "artes/2026-11-14/021238_70.jpg",
+  "media_id": "17956084344336042"
  }
 ]
