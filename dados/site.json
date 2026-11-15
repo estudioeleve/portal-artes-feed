@@ -1,17 +1,5 @@
 [
  {
-  "id": "201113_67",
-  "data": "2026-11-13T17:16:30-03:00",
-  "titulo": "Avião com quatro pessoas tem problema no trem de pouso e se acidenta em Curvelo",
-  "linha_fina": "Aeronave experimental saiu de Caratinga; bombeiros aplicaram espuma na pista para evitar incêndio",
-  "categoria": "minas-gerais",
-  "texto": "<p>Um avião de pequeno porte com quatro pessoas a bordo se acidentou ao pousar no aeródromo de Curvelo, na região Central de Minas Gerais, no início da tarde desta sexta-feira (13). Ninguém ficou ferido.</p>\n<p>Segundo o Corpo de Bombeiros Militar de Minas Gerais, a aeronave, um modelo P4 Paradise Experimental, de prefixo PP-XZF, apresentou problema no trem de pouso por volta das 12h15. O voo havia saído de Caratinga, no Vale do Rio Doce, com destino a Curvelo.</p>\n<p>Militares do pelotão de Curvelo foram ao aeródromo e atuaram para prevenir incêndio ou explosão. Eles aplicaram líquido gerador de espuma, mistura que forma uma camada sobre o combustível, bloqueia o oxigênio, resfria o material e impede a propagação de gases inflamáveis.</p>\n<p>Depois do trabalho dos bombeiros, uma empresa particular foi acionada para retirar o avião da pista do aeródromo.</p>\n<p>As causas do acidente serão investigadas. Ocorrências com aeronaves no país costumam ser apuradas pelo Centro de Investigação e Prevenção de Acidentes Aeronáuticos, o Cenipa, órgão ligado à Força Aérea Brasileira.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/201113_67.jpg",
-  "credito_foto": "Reprodução/Metrópoles",
-  "fonte": "Metrópoles / Corpo de Bombeiros",
-  "resumos": ""
- },
- {
   "id": "201120_44",
   "data": "2026-11-13T17:16:30-03:00",
   "titulo": "Petroleiro bate em barco de cruzeiro com 129 passageiros no rio Mississippi, nos EUA",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/131350_121.jpg",
   "credito_foto": "Reuters/Pavel Bednyakov (via g1)",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "132649_10",
+  "data": "2026-11-15T10:27:49-03:00",
+  "titulo": "Galho solto sobre barracas preocupa frequentadores da Feira Hippie, e PBH pode antecipar o fim da feira neste domingo",
+  "linha_fina": "Vídeo publicado pelo perfil da feira mostra galho de porte médio suspenso; regional Centro-Sul fez vistoria pela manhã",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Um galho de porte médio suspenso sobre barracas da Feira Hippie, na Avenida Afonso Pena, no Centro de Belo Horizonte, preocupou expositores e frequentadores na manhã deste domingo (15). Um vídeo publicado pelo perfil da feira no Instagram mostra o galho aparentemente solto, preso apenas a outras partes da árvore, logo acima das tendas.</p><p>\"Que perigo para cair aqui em cima das barracas. Prefeitura, se puder remover. Está muito perigoso, um vento que der e vai cair aqui e machucar as pessoas\", diz a mulher que grava as imagens. O ponto fica a menos de 500 metros da sede da Prefeitura de Belo Horizonte.</p><p>Procurada pelo jornal O Tempo, a PBH informou que a equipe de manutenção da regional Centro-Sul estava a caminho para vistoriar o local por volta das 9h40. Segundo a prefeitura, a poda deve ser feita assim que a feira for desmontada, mas a ação \"pode ser antecipada, caso se avalie necessário\". Com isso, o encerramento da feira neste domingo pode acontecer mais cedo.</p><p>A preocupação acontece depois de dias de chuva forte na capital. O temporal da última sexta-feira (13) derrubou dezenas de árvores em BH e na Região Metropolitana, algumas delas sobre casas e ônibus, e a Defesa Civil mantém alertas para a cidade.</p><p>A Defesa Civil orienta que, ao perceber árvores com risco de queda, galhos quebrados ou inclinados, os moradores não se aproximem e acionem a prefeitura pelo telefone 156 ou os Bombeiros pelo 193 em caso de emergência.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/132649_10.jpg",
+  "credito_foto": "Reprodução/Instagram Feira Hippie (via O Tempo)",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
