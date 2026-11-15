@@ -1,17 +1,5 @@
 [
  {
-  "id": "181334_57",
-  "data": "2026-11-13T15:18:16-03:00",
-  "titulo": "Cemig é multada em R$ 333 mil pelo Procon-MPMG por quedas de energia frequentes em Frutal",
-  "linha_fina": "Investigação apontou 4,48 mil interrupções entre 2022 e 2023 e indicadores acima dos limites da Aneel; cabe recurso",
-  "categoria": "minas-gerais",
-  "texto": "<p>A Companhia Energética de Minas Gerais (Cemig) foi multada em R$ 333.665,77 pelo Procon do Ministério Público de Minas Gerais (Procon-MPMG) por falhas repetidas no fornecimento de energia elétrica em Frutal, no Triângulo Mineiro.</p>\n<p>A penalidade se refere a interrupções frequentes e prolongadas registradas entre agosto de 2022 e setembro de 2023. A investigação foi aberta pela Promotoria de Justiça de Defesa do Consumidor de Frutal a partir de reclamações de moradores sobre quedas constantes de energia.</p>\n<p>O processo reuniu dados da Agência Nacional de Energia Elétrica (Aneel), do Procon Municipal, de entidades do comércio local e da própria concessionária, além de um parecer técnico da Central de Apoio Técnico do MPMG.</p>\n<p>Segundo a decisão, a Cemig ultrapassou os limites de continuidade do serviço fixados pela Aneel. Em um dos indicadores, a duração das interrupções chegou a 15,86 horas, quase o dobro do limite de oito horas. Em outro, referente à área urbana, a média ficou em 11,50 horas, acima do teto de nove horas.</p>\n<p>A apuração apontou 4,48 mil interrupções no período analisado. Mais de 2 mil foram classificadas pela própria empresa como falhas de equipamentos ou materiais, e mais de mil não tiveram causa identificada.</p>\n<p>Para o comércio da cidade, as quedas de energia significam perda de mercadorias, equipamentos danificados e vendas interrompidas. A Cemig ainda pode recorrer da decisão administrativa.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-13/181334_57.jpg",
-  "credito_foto": "Foto: Reprodução/Diário do Comércio",
-  "fonte": "Diário do Comércio",
-  "resumos": ""
- },
- {
   "id": "181337_83",
   "data": "2026-11-13T15:18:16-03:00",
   "titulo": "Lagoa Santa recebe a Pisada do Caboclo no dia 27, em homenagem a Xangô e Oxumaré",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/111448_-000.jpg",
   "credito_foto": "Reprodução/O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "111926_html",
+  "data": "2026-11-15T08:20:13-03:00",
+  "titulo": "Zé Lucas explica por que recusou proposta do Flamengo: \"Estou muito feliz no Cruzeiro\"",
+  "linha_fina": "Volante de 18 anos diz que pesou a chance de jogar no time principal com Artur Jorge; hoje ele é titular e foi convocado para a Seleção Sub-20.",
+  "categoria": "cruzeiro",
+  "texto": "<p>O volante Zé Lucas, de 18 anos, explicou em entrevista à TNT Sports por que recusou o Flamengo e escolheu o Cruzeiro na metade da temporada de 2026. Segundo ele, o projeto apresentado pelo clube mineiro, com a chance de jogar logo no elenco profissional, foi decisivo.</p>\n<p>Revelado pelo Sport, Zé Lucas chamou atenção de vários clubes depois de se destacar no Brasileirão e nas seleções de base. O Flamengo entrou na disputa, mas o plano era usar o volante inicialmente no time sub-20. O Cruzeiro ofereceu trabalho direto com o grupo principal comandado pelo técnico Artur Jorge.</p>\n<p>\"Fez muita diferença sim. Também o plano que o Cruzeiro ofereceu, tanto financeiramente, quanto para o futuro da carreira. É um projeto muito bacana para mim, que vejo com muito bons olhos. Estou muito feliz no Cruzeiro\", afirmou o jogador.</p>\n<p>Durante a negociação, o Flamengo chegou a oferecer ao Sport 1 milhão de euros por 10% dos direitos econômicos do atleta, proposta que não foi aceita. O clube pernambucano preferiu negociar com o Cruzeiro, que fechou a compra em julho: 5 milhões de dólares por 60% dos direitos econômicos, segundo comunicado oficial do Sport.</p>\n<p>A aposta tem dado retorno. Zé Lucas virou titular no time principal celeste, marcou dois gols em 14 partidas e foi novamente convocado para a Seleção Brasileira Sub-20.</p>\n<p>O Cruzeiro já garantiu vaga na Libertadores de 2027 e segue na reta final do Brasileirão.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/111926_html.jpg",
+  "credito_foto": "Gustavo Aleixo/Cruzeiro",
+  "fonte": "TNT Sports e Terra",
   "resumos": ""
  }
 ]
