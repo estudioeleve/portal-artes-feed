@@ -5,6 +5,12 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
+## 🧩 TODO POST DE FEED VIRA CARROSSEL DE 2 IMAGENS (Israel, 15/11/2026 ~16h45) — vale para notícias e denúncias
+- **Feed**: publicar com `create_carousel_post` (não mais `create_image_post`): `image_urls` = [arte da publicação (link do `links.py`), convite].
+- **2ª imagem, sempre a mesma, sem nenhuma alteração**: o convite do site (`https://portalonenews.com.br/wp-content/themes/portal-one/assets/denuncia/convite-denuncia.png`). Como o Instagram só aceita JPEG, a cópia em JPEG (mesma imagem, 1080x1350, só convertida) está em `artes/convite/convite-denuncia.jpg`: use o link jsDelivr/raw dela no mesmo commit da arte.
+- **Reels continuam sem o convite** (`create_video_post` normal).
+- Denúncia de feed: carrossel [arte_feed, convite]. Fecho da legenda das denúncias passa a ser: "Viu algo errado no seu bairro? Faça sua denúncia pelo link na bio ou em portalonenews.com.br/denuncia".
+
 ## 📢 DENÚNCIAS DO LEITOR ("Faça sua denúncia") NO INSTAGRAM (Israel, 15/11/2026) — tarefa fixa de toda rodada
 - **O endereço da lista (com a chave) fica só no prompt da tarefa agendada, nunca neste repositório** (ele é público). Não copie a chave para nenhum arquivo, commit ou legenda.
 - **Começo da rodada**: `python3 robo/denuncias.py preparar '<ENDEREÇO>'`. A lista traz só as denúncias que o Israel aprovou e que ainda não foram para o Instagram. **Nunca publique denúncia que não esteja nessa lista.** O script prepara a mídia conforme o campo `instagram_formato`:
