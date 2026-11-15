@@ -43301,5 +43301,47 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "14:22",
+  "id": "171323_33",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Governo lança guia para estados e cidades acharem famílias em risco de fome; 2 milhões de casas já foram identificadas",
+  "titulo_orig": "Governo lança guia para identificar famílias em risco de fome e encaminhá-las",
+  "link": "https://spdiario.com.br/noticias/noticias-de-sp/governo-lanca-guia-para-identificar-familias-em-risco-de-fome-e-encaminha-las.html",
+  "fonte": "Diário de São Paulo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "14:22",
+  "id": "171327_30",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Rival do Cruzeiro na quarta, Palmeiras confirma lesão de Piquerez e não terá o zagueiro Murilo",
+  "titulo_orig": "Palmeiras confirma lesão de Piquerez e atualiza quadro de Murilo",
+  "link": "https://www.lance.com.br/palmeiras/palmeiras-confirma-lesao-de-piquerez-e-atualiza-quadro-de-murilo.html",
+  "fonte": "LANCE!",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "14:22",
+  "id": "171331_151",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Enem: BH reforça ônibus e trânsito no 2º dia, mas abstenção recorde preocupa; entenda os números",
+  "titulo_orig": "Por que a abstenção no Enem bate recorde mesmo com operação em BH",
+  "link": "https://tvsimbrasil.com.br/mg/belo-horizonte/educacao/noticia/2026/11/15/por-que-abstencao-no-enem-bate-recorde-operacao-bh",
+  "fonte": "TV Sim Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
