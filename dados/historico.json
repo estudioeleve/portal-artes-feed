@@ -42769,5 +42769,19 @@
   "fonte": "Rádio Metrópole",
   "arte": "artes/2026-11-15/141350_20.jpg",
   "media_id": "17953952844289187"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "12:02",
+  "id": "141413_32",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ESPORTE",
+  "titulo": "Dupla brasileira vence a China na final e é campeã mundial de tênis de mesa paralímpico",
+  "titulo_orig": "Mundial de tênis de mesa paralímpico: Joyce e Lucas ganham ouro | Ge",
+  "link": "https://ge.globo.com/tenis-de-mesa/noticia/2026/11/15/joyce-oliveira-e-lucas-carvalhal-sao-campeoes-no-mundial-de-tenis-de-mesa-paralimpico.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "artes/2026-11-15/141413_32.jpg",
+  "media_id": "17883023229549203"
  }
 ]
