@@ -41285,5 +41285,19 @@
   "fonte": "Gazeta do Povo",
   "arte": "artes/2026-11-14/001332_74.jpg",
   "media_id": "17941241517402437"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "22:16",
+  "id": "011059_3",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Pacientes relatam mais de oito horas de espera por atendimento no Hospital Risoleta Neves, em BH",
+  "titulo_orig": "Pacientes denunciam demora de horas para atendimento no Hospital Risoleta Neves, em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/pacientes-denunciam-demora-de-horas-para-atendimento-no-hospital-risoleta-neves-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-14/011059_3.jpg",
+  "media_id": "18124924507972629"
  }
 ]
