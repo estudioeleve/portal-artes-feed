@@ -1,17 +1,5 @@
 [
  {
-  "id": "111244_34",
-  "data": "2026-11-14T08:17:28-03:00",
-  "titulo": "STF dá razão a 26% dos recursos que chegam direto à Corte, contra só 2,4% dos que foram barrados antes",
-  "linha_fina": "Levantamento STF Dados mostra que a diferença se repete em todos os anos de 2016 a 2025",
-  "categoria": "politica",
-  "texto": "<p>Os recursos que chegam ao Supremo Tribunal Federal depois de passar pelo filtro dos tribunais de origem têm muito mais chance de sucesso do que aqueles que foram barrados antes e tentam reverter o bloqueio. É o que mostra o levantamento STF Dados, divulgado pelo Poder360.</p>\n<p>Em 2025, a cada 100 decisões finais em recursos extraordinários, os chamados REs, cerca de 26 deram razão, total ou parcialmente, a quem entrou com o pedido. A taxa foi de 25,7%. Já nos agravos, recursos usados para destravar pedidos negados na origem, o sucesso ficou em 2,4%, pouco mais de 2 a cada 100 casos.</p>\n<p>O primeiro percentual é quase 11 vezes maior que o segundo, e a diferença se repete em todos os anos analisados, de 2016 a 2025.</p>\n<p>A explicação está no caminho de cada pedido. O recurso extraordinário leva ao STF uma discussão sobre a Constituição e, antes de subir para Brasília, passa por uma triagem no tribunal onde o caso estava sendo julgado. Se o tribunal entende que o pedido cumpre as regras, libera o envio.</p>\n<p>O recurso extraordinário com agravo, o ARE, acontece no caso contrário: o tribunal de origem barra o pedido, e o advogado recorre para que o próprio Supremo derrube o bloqueio e aceite julgar a causa.</p>\n<p>Ser barrado na origem não significa, necessariamente, que a pessoa não tenha razão. Muitas vezes, o bloqueio ocorre por problemas formais no pedido. Ainda assim, os números mostram que a triagem feita nos tribunais tem peso grande no resultado final das ações que chegam à mais alta Corte do país.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/111244_34.jpg",
-  "credito_foto": "Foto: Reprodução/Poder360",
-  "fonte": "Poder360",
-  "resumos": ""
- },
- {
   "id": "111248_8",
   "data": "2026-11-14T08:17:28-03:00",
   "titulo": "Congresso que toma posse em 2027 terá a menor renovação na Câmara desde 1994, mas novatos prometem barulho",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/231557_108.jpg",
   "credito_foto": "Reprodução/Fato Paulista",
   "fonte": "Fato Paulista",
+  "resumos": ""
+ },
+ {
+  "id": "232026_68",
+  "data": "2026-11-15T20:20:39-03:00",
+  "titulo": "Trump pede ao Congresso dinheiro para modernizar controle aéreo após pane que parou voos nos EUA",
+  "linha_fina": "Falha nas comunicações entre torres e aviões suspendeu os voos no país por mais de quatro horas na sexta; presidente culpa o governo Biden.",
+  "categoria": "mundo",
+  "texto": "<p>O presidente dos Estados Unidos, Donald Trump, pediu neste domingo (15) que o Congresso libere recursos para modernizar o sistema de controle de tráfego aéreo do país. O pedido foi feito dois dias depois de uma falha nas telecomunicações entre torres e aeronaves provocar a suspensão nacional de voos por mais de quatro horas.</p>\n<p>Em publicações na rede social Truth Social, Trump atribuiu o problema à falta de investimentos durante o governo de Joe Biden. Segundo ele, a gestão anterior deixou a Administração Federal de Aviação (FAA) em condições precárias, com um sistema antigo e deficiente. O presidente afirmou que o governo tem um plano para os sistemas de controle de voo e que o Congresso precisa liberar o dinheiro rapidamente. Parlamentares democratas rebateram as críticas.</p>\n<p>A crise começou na tarde de sexta-feira (13), quando a falha levou à paralisação das operações em aeroportos de todo o país. A interrupção afetou cerca de um quarto dos 45 mil voos realizados diariamente nos Estados Unidos, segundo estimativa de consultores do setor. No momento em que a FAA determinou a parada, cerca de 3,5 mil aeronaves estavam no ar.</p>\n<p>De acordo com o secretário de Transportes, Sean Duffy, o problema ocorreu durante um serviço feito por uma empresa contratada para trocar parte da antiga rede de cabos de cobre por fibra óptica. A intervenção teria provocado uma sobrecarga no sistema, com falhas intermitentes de comunicação e interrupções no funcionamento dos radares.</p>\n<p>As autoridades ainda investigam se a instabilidade foi causada pela execução do serviço ou por defeito em um equipamento da rede. Segundo o diretor da FAA, Bryan Bedford, a normalização completa das operações estava prevista até o fim deste domingo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/232026_68.jpg",
+  "credito_foto": "Joyce N. Boghosian/Casa Branca",
+  "fonte": "Portal VV8",
   "resumos": ""
  }
 ]
