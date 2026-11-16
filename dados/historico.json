@@ -44575,5 +44575,33 @@
   "fonte": "JM Online",
   "arte": "artes/2026-11-15/001333_100.jpg",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:22",
+  "id": "002158_83",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Gabriela Duarte critica José de Abreu em programa na internet: 'Não dá para passar pano'",
+  "titulo_orig": "Sem rodeios, Gabriela Duarte massacra José de Abreu: 'Não dá para passar pano'",
+  "link": "https://www.terra.com.br/diversao/gente/sem-rodeios-gabriela-duarte-massacra-jose-de-abreu-nao-da-para-passar-pano,7b1a3def4d87fe1d850610f49b6fe9fd7q5iwodi.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:22",
+  "id": "002204_109",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Hugo Grassi erra pergunta sobre Michael Jackson e cai no Acerte ou Caia; Bia Feres é a campeã",
+  "titulo_orig": "Hugo Grassi erra pergunta sobre o cantor Michael Jackson e é eliminado em rodada especial",
+  "link": "https://record.r7.com/acerte-ou-caia/video/hugo-grassi-erra-pergunta-sobre-o-cantor-michael-jackson-e-e-eliminado-em-rodada-especial-15112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
