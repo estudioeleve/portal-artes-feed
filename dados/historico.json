@@ -45246,5 +45246,19 @@
   "fonte": "Terra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "07:27",
+  "id": "101250_15",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Mulher é presa suspeita de matar o marido a facadas na frente dos filhos na Região Norte de BH",
+  "titulo_orig": "Mulher tem crise de ciúmes e mata o marido na frente dos filhos em BH  | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/mulher-tem-crise-de-ciumes-e-mata-o-marido-na-frente-dos-filhos-em-bh/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-16/101250_15.jpg",
+  "media_id": "17934165579425441"
  }
 ]
