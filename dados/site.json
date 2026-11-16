@@ -1,17 +1,5 @@
 [
  {
-  "id": "201103_6",
-  "data": "2026-11-14T17:13:54-03:00",
-  "titulo": "São José da Lapa divulga vagas de emprego para nove funções, de soldador a auxiliar de produção",
-  "linha_fina": "Prefeitura também permite que empresas da cidade cadastrem vagas de graça no programa Oportunidades de Emprego.",
-  "categoria": "regiao-metropolitana",
-  "texto": "<p>A Prefeitura de São José da Lapa, na Grande BH, está divulgando novas oportunidades de emprego em empresas do município. Há vagas para nove funções: soldador, ajudante geral, conferente, auxiliar de lavanderia, motorista de caminhão, auxiliar de açougue, açougueiro, contadora fiscal e auxiliar de produção.</p>\n<p>A iniciativa tem o objetivo de aproximar os trabalhadores das empresas que estão contratando na cidade, facilitando o acesso ao mercado de trabalho para quem busca recolocação ou o primeiro emprego.</p>\n<p>Além de divulgar as vagas abertas, a administração municipal oferece aos empresários a possibilidade de cadastrar gratuitamente suas oportunidades no programa Oportunidades de Emprego, disponível no site oficial da Prefeitura. Com isso, as empresas ampliam o alcance de seus processos seletivos, e os moradores ficam sabendo das vagas disponíveis na própria cidade.</p>\n<p>Segundo a Prefeitura, a participação de empresas e trabalhadores é importante para fortalecer a economia local e estimular a geração de empregos em São José da Lapa.</p>\n<p>Os interessados devem acompanhar os canais oficiais da Prefeitura e acessar a plataforma Oportunidades de Emprego para conferir os requisitos de cada vaga e saber como se candidatar. A administração também pede que a população compartilhe a divulgação para que a informação chegue a quem procura trabalho.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/201103_6.jpg",
-  "credito_foto": "Divulgação/Prefeitura de São José da Lapa",
-  "fonte": "Jornal Panorama Minas",
-  "resumos": ""
- },
- {
   "id": "201108_33",
   "data": "2026-11-14T17:13:54-03:00",
   "titulo": "Jaboticatubas faz mutirão de exames Duplex Scan para reduzir fila de mais de 900 pacientes",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/152515_44.jpg",
   "credito_foto": "Corbis via Getty Images/BBC",
   "fonte": "g1/BBC",
+  "resumos": ""
+ },
+ {
+  "id": "163300_israel",
+  "data": "2026-11-16T12:32:50-03:00",
+  "titulo": "PM recupera moto furtada e apreende outra em ação contra receptação no São Benedito",
+  "linha_fina": "Equipes da 71ª Companhia abordaram dois suspeitos; também foram apreendidas cinco peças de moto e três celulares.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Polícia Militar recuperou uma motocicleta furtada e apreendeu outra durante uma ocorrência de receptação no bairro São Benedito, em Santa Luzia, na Região Metropolitana de Belo Horizonte, neste domingo (15). A ação é mais uma da PM no combate ao alto número de furtos, principalmente de motocicletas, na cidade.</p><p>Segundo a Polícia Militar, durante o patrulhamento, os militares observaram dois suspeitos caminhando apressadamente em direção às motocicletas ao perceberem a presença da equipe. Na abordagem, foi constatado que uma das motos havia sido furtada no dia anterior.</p><p>Durante as diligências, outra motocicleta, apontada pela polícia como utilizada no crime, também foi apreendida. A ocorrência ainda registrou a apreensão de cinco peças de motocicletas e de três aparelhos celulares.</p><p>Participaram da ação o sargento Gandelmann e os soldados Morais e Barbosa, da equipe de Patrulha de Prevenção (POP) da 71ª Companhia, além do sargento Klaudilson e dos soldados Lima e Vitorino, do Grupo Especializado de Policiamento em Áreas de Risco (GEPAR) da mesma companhia, vinculada ao 35º Batalhão.</p><p>A moto recuperada deve ser devolvida ao dono após os procedimentos legais. A PM orienta que furtos e atitudes suspeitas sejam denunciados pelo telefone 190.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/163300_israel.jpg",
+  "credito_foto": "Polícia Militar de Minas Gerais",
+  "fonte": "Polícia Militar de Minas Gerais",
   "resumos": ""
  }
 ]
