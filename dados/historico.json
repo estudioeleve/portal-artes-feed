@@ -44757,5 +44757,47 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-15/011518_29.jpg",
   "media_id": "18157483084524156"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "22:23",
+  "id": "012209_35",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "José Maria Neves lidera apuração em Cabo Verde com 63,7% e caminha para reeleição sem segundo turno",
+  "titulo_orig": "José Maria Neves lidera contagem em Cabo Verde. Veja o que indicam os resultados provisórios",
+  "link": "https://sapo.pt/artigo/jose-maria-neves-lidera-contagem-em-cabo-verde-veja-o-que-indicam-os-resultados-provisorios-6afa526fdc9ea92269b3a726",
+  "fonte": "SAPO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "22:23",
+  "id": "012214_9",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Alcolumbre usa cargos na Mesa e comissões para atrair votos do PL e se manter na presidência do Senado",
+  "titulo_orig": "As cartas de Alcolumbre para provocar traições no PL",
+  "link": "https://www.gazetadopovo.com.br/republica/alcolumbre-tem-seis-cartas-na-manga-para-provocar-traicoes-na-direita/",
+  "fonte": "Gazeta do Povo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "22:23",
+  "id": "012057_48",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Giovana Cordeiro e Breno Ferreira gabaritam com nota 10 de todos os jurados na Dança dos Famosos",
+  "titulo_orig": "'Dança dos Famosos 2026′: Veja as apresentações nota 10 de Breno e Giovana que encantaram os jurados",
+  "link": "https://www.estadao.com.br/emais/tv/danca-dos-famosos-2026-veja-as-apresentacoes-nota-10-de-breno-e-giovana-que-encantaram-os-jurados/",
+  "fonte": "Estadão",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
