@@ -45638,5 +45638,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-16/122847_42.jpg",
   "media_id": "18648633178001718"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "09:44",
+  "id": "124406_57",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF instala nesta terça escultura do Oxê de Xangô, símbolo de Justiça das religiões afro-brasileiras",
+  "titulo_orig": "STF inaugura Machado de Xangô, símbolo de orixá da Justiça e religiões afro-brasileiras",
+  "link": "https://jurinews.com.br/destaques-ultimas/stf-inaugura-machado-de-xango-simbolo-de-orixa-da-justica-e-religioes-afro-brasileiras",
+  "fonte": "Jurinews",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "09:44",
+  "id": "124410_44",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Caminhonete é destruída pelo fogo às margens da MG-122, em Janaúba; motorista não estava no local",
+  "titulo_orig": "Caminhonete pega fogo às margens da MG-122, e mobiliza bombeiros em Janaúba",
+  "link": "https://webterra.com.br/2026/11/16/caminhonete-pega-fogo-as-margens-da-mg-122-e-mobiliza-bombeiros-em-janauba/",
+  "fonte": "WebTerra",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
