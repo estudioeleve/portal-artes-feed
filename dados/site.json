@@ -1,17 +1,5 @@
 [
  {
-  "id": "011319_104",
-  "data": "2026-11-14T22:17:39-03:00",
-  "titulo": "Fã sai de Viçosa e comemora 50 anos no show da Xuxa em BH: \"Hoje estou realizando um sonho\"",
-  "linha_fina": "Admiradora da apresentadora contou que não conseguiu ir a um show anterior e escolheu a Arena MRV para festejar o aniversário.",
-  "categoria": "entretenimento",
-  "texto": "<p>Entre os milhares de fãs que lotaram a Arena MRV, em Belo Horizonte, neste sábado (14), para o show \"O Último Voo da Nave\", da Xuxa, estava uma mulher que viajou do interior de Minas para comemorar um aniversário especial ao lado da Rainha dos Baixinhos.</p><p>Em entrevista à Rádio Itatiaia, a fã contou que saiu de Viçosa, na Zona da Mata mineira, para festejar os 50 anos no show. Ela disse que, em outra ocasião, não conseguiu assistir a uma apresentação da cantora e que, desta vez, fez questão de estar presente. \"Hoje estou aqui realizando um sonho, enquanto comemoro meu aniversário de 50 anos e posso dizer: Xuxa, eu te amo!\", afirmou.</p><p>Muitos fãs chegaram ao estádio antes mesmo da abertura dos portões. Pais, filhos e avós se misturavam na fila, muitos com roupas, tiaras e acessórios coloridos inspirados na apresentadora.</p><p>Segundo a organizadora do evento, a classificação etária permitia a entrada de crianças de 5 a 15 anos acompanhadas dos pais ou responsáveis, e de adolescentes de 16 e 17 anos desacompanhados.</p><p>A BHTrans montou um esquema especial de trânsito no entorno do estádio, com interdições nos bairros Califórnia, Camargos e João Pinheiro e faixa reversível na Via Expressa nas horas que antecederam o show.</p><p>O espetáculo começou com a famosa nave sobrevoando o público e pousando no palco, uma das cenas mais aguardadas da noite pelos fãs de várias gerações.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/011319_104.jpg",
-  "credito_foto": "Alex Araújo/Itatiaia",
-  "fonte": "Rádio Itatiaia",
-  "resumos": ""
- },
- {
   "id": "011329_225",
   "data": "2026-11-14T22:17:40-03:00",
   "titulo": "Simulado com ônibus, carreta de ácido e mais de 30 \"vítimas\" testa resgate na BR-365, em Uberlândia",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/213904_1.jpg",
   "credito_foto": "DER-MG/Divulgação",
   "fonte": "Agência Minas",
+  "resumos": ""
+ },
+ {
+  "id": "214649_26",
+  "data": "2026-11-16T18:46:58-03:00",
+  "titulo": "Contagem assina contrato com nova empresa para administrar o Aterro Sanitário Perobas",
+  "linha_fina": "Construtora Hura, de Itabira, vai cuidar da operação e do monitoramento do único aterro público da Grande BH, que recebe 14 mil toneladas por mês.",
+  "categoria": "contagem",
+  "texto": "<p>A Prefeitura de Contagem, na Região Metropolitana de Belo Horizonte, assinou nesta segunda-feira (16) contrato com a Construtora Hura para administrar o Aterro Sanitário Perobas. A estrutura fica na Avenida Helena de Vasconcelos Costa, no bairro Perobas.</p>\n<p>O contrato inclui a operação e a manutenção do aterro, além do monitoramento ambiental e patrimonial do local. O empreendimento tem 60 hectares e recebe, em média, 14 mil toneladas de resíduos por mês.</p>\n<p>Licenciado em 1997, o Perobas é hoje o único aterro sanitário pertencente ao poder público na Grande BH.</p>\n<p>Sediada em Itabira, a empresa afirma que pretende usar sua estrutura técnica e operacional para garantir a qualidade do serviço. \"A expectativa é que, com a competência e a capacidade de operação da nossa empresa, possamos fazer uma boa gestão dos resíduos sólidos de Contagem, com a melhor qualidade na prestação de serviço e total segurança\", disse o diretor e sócio da Hura, Lucas Grisolia Barbosa.</p>\n<p>A construtora também foi responsável pela obra do Aterro Sanitário Intermunicipal do Médio Espinhaço, inaugurado em 6 de novembro em Conceição do Mato Dentro, que atende municípios da região.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/214649_26.jpg",
+  "credito_foto": "Divulgação",
+  "fonte": "DeFato Online",
   "resumos": ""
  }
 ]
