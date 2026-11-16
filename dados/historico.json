@@ -47150,5 +47150,33 @@
   "fonte": "Metrópoles",
   "arte": "artes/2026-11-16/211534_66.jpg",
   "media_id": "17994112901862102"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:29",
+  "id": "212841_1",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "\"Bruna Surfistinha 2\" ganha primeiro teaser e marca a volta de Deborah Secco ao papel 15 anos depois",
+  "titulo_orig": "Bruna Surfistinha 2: Teaser marca volta de Deborah Secco ao papel | G1",
+  "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/16/bruna-surfistinha-2-ganha-primeiro-teaser-com-deborah-secco-assista.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:29",
+  "id": "212909_122",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Governo Trump propõe novas restrições a vistos de residência para trabalhadores estrangeiros nos EUA",
+  "titulo_orig": "Governo Trump propõe mais restrições a trabalhadores estrangeiros | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/16/governo-trump-restricoes-trabalhadores-estrangeiros-eua.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
