@@ -46240,5 +46240,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-16/151804_53.jpg",
   "media_id": "18017361761975444"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "12:52",
+  "id": "151855_80",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Juros e tarifaço dos EUA freiam a indústria eletroeletrônica de Minas em 2026",
+  "titulo_orig": "Setor eletroeletrônico de Minas deve fechar 2026 com crescimento moderado, diz sindicato - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/industria-eletroeletronica-minas/",
+  "fonte": "Diário do Comércio",
+  "arte": "artes/2026-11-16/151855_80.jpg",
+  "media_id": "17905355166605413"
  }
 ]
