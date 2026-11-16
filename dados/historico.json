@@ -45876,5 +45876,19 @@
   "fonte": "G1",
   "arte": "artes/2026-11-16/132101_148.jpg",
   "media_id": "18184139383426666"
+ },
+ {
+  "id": "denuncia_6585",
+  "data": "2026-11-16",
+  "hora": "11:17",
+  "media_id": "18101196515474084",
+  "titulo": "Denúncia do leitor 6585",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:6585",
+  "arte": ""
  }
 ]
