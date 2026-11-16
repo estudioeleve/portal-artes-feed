@@ -44645,5 +44645,19 @@
   "fonte": "ge.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:40",
+  "id": "001624_209",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "TJMG confirma vazamento de arquivos após ataque hacker e vai avisar cada pessoa afetada",
+  "titulo_orig": "TJMG: Vazamento de dados após ataque cibernético é investigado | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/tjmg-apura-vazamento-de-arquivos-apos-ataque-cibernetico.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-15/001624_209.jpg",
+  "media_id": "17993474556109518"
  }
 ]
