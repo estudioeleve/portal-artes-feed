@@ -46464,5 +46464,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-16/171616_118.jpg",
   "media_id": "18414764302091740"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "14:50",
+  "id": "171452_132",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Vítima rastreia tablet roubado e ajuda a PM a achar 43 notebooks em casa vazia em Betim",
+  "titulo_orig": "Vítima rastreia aparelho roubado e ajuda polícia a recuperar dezenas de eletrônicos na Grande BH",
+  "link": "https://noticias.r7.com/minas-gerais/vitima-rastreia-aparelho-roubado-e-ajuda-policia-a-recuperar-dezenas-de-eletronicos-na-grande-bh-16112026/",
+  "fonte": "R7",
+  "arte": "artes/2026-11-16/171452_132.jpg",
+  "media_id": "18140448913639648"
  }
 ]
