@@ -1041,16 +1041,15 @@ function po_denuncia_publicar( $id ) {
 	}
 
 	// site: a capa é a própria foto, sem moldura e sem degradê (Israel, 15/11/2026)
+	// NUNCA a arte com moldura no site (Israel, 15/11/2026 21h16). Só vídeo: a capa é um quadro do vídeo, cortado na horizontal.
 	$capa_id = 0;
-	if ( ! $md['foto'] ) {
-		require_once ABSPATH . 'wp-admin/includes/image.php';
-		require_once ABSPATH . 'wp-admin/includes/file.php';
-		require_once ABSPATH . 'wp-admin/includes/media.php';
-		$capa_id = wp_insert_attachment( array( 'post_mime_type' => 'image/png', 'post_title' => 'Denúncia ' . $prot, 'post_status' => 'inherit' ), $artes['site_arq'] );
-		if ( $capa_id ) wp_update_attachment_metadata( $capa_id, wp_generate_attachment_metadata( $capa_id, $artes['site_arq'] ) );
-	} else {
+	if ( $md['foto'] ) {
 		$capa_id = $md['foto'];
+	} elseif ( $md['video'] ) {
+		$capa_id = (int) get_post_meta( $id, 'dc_capa_video', true );
+		if ( ! $capa_id || ! get_post( $capa_id ) ) $capa_id = po_denuncia_quadro_servidor( $id, $md['video'] );
 	}
+	update_post_meta( $id, 'dc_capa_pendente', $capa_id ? 0 : 1 ); // sem quadro ainda: o robô tira o print do vídeo e manda
 
 	$quem = $anon ? 'Denúncia anônima' : 'Enviada por ' . $nome;
 	$html = po_denuncia_html_site( $id );
@@ -1067,6 +1066,7 @@ function po_denuncia_publicar( $id ) {
 	else { $mat = wp_insert_post( $dados ); }
 	if ( ! $mat || is_wp_error( $mat ) ) return new WP_Error( 'materia', 'não consegui publicar a matéria no site.' );
 	if ( $capa_id ) set_post_thumbnail( $mat, $capa_id );
+	else delete_post_thumbnail( $mat ); // nada de arte com moldura enquanto o print do vídeo não chega
 	update_post_meta( $mat, 'po_denuncia_id', $id );
 	update_post_meta( $mat, 'po_linha_fina', 'Denúncia · Protocolo ' . $prot . ' · ' . $quem );
 
@@ -1080,6 +1080,70 @@ function po_denuncia_publicar( $id ) {
 /* ---------- lista para o robô postar no Instagram ----------
  * GET  /wp-json/portalone/v1/denuncias?chave=XXX          -> denúncias aprovadas que ainda não foram pro Instagram
  * POST /wp-json/portalone/v1/denuncias/123/postada?chave=XXX -> marca como postada */
+/* ---------- capa do site quando a denúncia só tem vídeo: print do vídeo cortado na horizontal (16:9), sem moldura ---------- */
+// recorta qualquer imagem no meio para 1280x720 e guarda como capa da denúncia (e da matéria, se já existir)
+function po_denuncia_salvar_capa( $id, $origem ) {
+	$info = @getimagesize( $origem );
+	if ( ! $info ) return 0;
+	$src = 'image/png' === $info['mime'] ? @imagecreatefrompng( $origem ) : ( 'image/webp' === $info['mime'] && function_exists( 'imagecreatefromwebp' ) ? @imagecreatefromwebp( $origem ) : @imagecreatefromjpeg( $origem ) );
+	if ( ! $src ) return 0;
+	$w = imagesx( $src ); $h = imagesy( $src );
+	if ( $w / $h > 16 / 9 ) { $cw = (int) round( $h * 16 / 9 ); $ch = $h; } else { $cw = $w; $ch = (int) round( $w * 9 / 16 ); }
+	$x = (int) ( ( $w - $cw ) / 2 ); $y = (int) ( ( $h - $ch ) / 2 );
+	$dst = imagecreatetruecolor( 1280, 720 );
+	imagecopyresampled( $dst, $src, 0, 0, $x, $y, 1280, 720, $cw, $ch );
+	$up = wp_upload_dir();
+	$dir = trailingslashit( $up['basedir'] ) . 'denuncias';
+	wp_mkdir_p( $dir );
+	$prot = get_post_meta( $id, 'dc_protocolo', true );
+	$arq = $dir . '/' . sanitize_file_name( strtolower( $prot ? $prot : 'denuncia-' . $id ) ) . '-capa-' . time() . '.jpg';
+	$ok = imagejpeg( $dst, $arq, 88 );
+	imagedestroy( $dst ); imagedestroy( $src );
+	if ( ! $ok ) return 0;
+	require_once ABSPATH . 'wp-admin/includes/image.php';
+	$cid = wp_insert_attachment( array( 'post_mime_type' => 'image/jpeg', 'post_title' => 'Denúncia ' . $prot, 'post_status' => 'inherit' ), $arq );
+	if ( ! $cid || is_wp_error( $cid ) ) return 0;
+	wp_update_attachment_metadata( $cid, wp_generate_attachment_metadata( $cid, $arq ) );
+	update_post_meta( $id, 'dc_capa_video', $cid );
+	update_post_meta( $id, 'dc_capa_pendente', 0 );
+	$mat = (int) get_post_meta( $id, 'dc_post_id', true );
+	if ( $mat && get_post( $mat ) ) set_post_thumbnail( $mat, $cid );
+	return $cid;
+}
+// tenta tirar o print direto no servidor (só funciona se a hospedagem tiver ffmpeg); se não der, o robô faz
+function po_denuncia_quadro_servidor( $id, $video_id ) {
+	$video = get_attached_file( $video_id );
+	if ( ! $video || ! file_exists( $video ) || ! function_exists( 'exec' ) ) return 0;
+	$off = array_map( 'trim', explode( ',', (string) ini_get( 'disable_functions' ) ) );
+	if ( in_array( 'exec', $off, true ) ) return 0;
+	$tmp = trailingslashit( get_temp_dir() ) . 'den-' . $id . '-' . time() . '.jpg';
+	foreach ( array( '1', '0' ) as $seg ) {
+		@exec( 'ffmpeg -y -loglevel error -ss ' . $seg . ' -i ' . escapeshellarg( $video ) . ' -frames:v 1 -q:v 2 ' . escapeshellarg( $tmp ) . ' 2>&1', $saida, $cod );
+		if ( 0 === $cod && file_exists( $tmp ) && filesize( $tmp ) > 0 ) break;
+	}
+	if ( ! file_exists( $tmp ) ) return 0;
+	$cid = po_denuncia_salvar_capa( $id, $tmp );
+	@unlink( $tmp );
+	return $cid;
+}
+// uma vez só: tira a arte com moldura da capa das matérias de denúncia já publicadas que só tinham vídeo
+add_action( 'init', function () {
+	if ( get_option( 'po_den_site_v3' ) ) return;
+	update_option( 'po_den_site_v3', 1 );
+	foreach ( get_posts( array( 'post_type' => 'po_denuncia', 'post_status' => 'any', 'posts_per_page' => 200, 'meta_key' => 'dc_post_id' ) ) as $d ) {
+		$mat = (int) get_post_meta( $d->ID, 'dc_post_id', true );
+		if ( ! $mat || ! get_post( $mat ) ) continue;
+		$md = po_denuncia_midias( $d->ID );
+		if ( $md['foto'] ) { set_post_thumbnail( $mat, $md['foto'] ); continue; }
+		if ( ! $md['video'] ) continue;
+		$cid = (int) get_post_meta( $d->ID, 'dc_capa_video', true );
+		if ( $cid && get_post( $cid ) ) { set_post_thumbnail( $mat, $cid ); continue; }
+		delete_post_thumbnail( $mat );
+		update_post_meta( $d->ID, 'dc_capa_pendente', 1 );
+		po_denuncia_quadro_servidor( $d->ID, $md['video'] );
+	}
+}, 100 );
+
 function po_denuncia_chave() {
 	$k = get_option( 'po_denuncia_chave' );
 	if ( ! $k ) { $k = wp_generate_password( 24, false ); update_option( 'po_denuncia_chave', $k ); }
@@ -1160,6 +1224,33 @@ add_action( 'rest_api_init', function () {
 		update_post_meta( $id, 'dc_insta_status', 'postado' );
 		update_post_meta( $id, 'dc_insta_em', current_time( 'mysql' ) );
 		return array( 'ok' => true );
+	} ) );
+	// denúncias publicadas que só têm vídeo e ainda estão sem capa no site: o robô tira o print e manda
+	register_rest_route( 'portalone/v1', '/denuncias/sem-capa', array( 'methods' => 'GET', 'permission_callback' => $ok, 'callback' => function () {
+		$out = array();
+		foreach ( get_posts( array( 'post_type' => 'po_denuncia', 'post_status' => 'any', 'posts_per_page' => 30, 'meta_key' => 'dc_capa_pendente', 'meta_value' => '1' ) ) as $p ) {
+			$md = po_denuncia_midias( $p->ID );
+			if ( ! $md['video'] || $md['foto'] ) { update_post_meta( $p->ID, 'dc_capa_pendente', 0 ); continue; }
+			$mat = (int) get_post_meta( $p->ID, 'dc_post_id', true );
+			$out[] = array( 'id' => $p->ID, 'protocolo' => get_post_meta( $p->ID, 'dc_protocolo', true ), 'video_url' => wp_get_attachment_url( $md['video'] ), 'materia_url' => $mat ? get_permalink( $mat ) : '' );
+		}
+		return $out;
+	} ) );
+	// recebe o print do vídeo (corpo da requisição = a imagem JPG); o site corta em 16:9 e põe de capa na matéria
+	register_rest_route( 'portalone/v1', '/denuncias/(?P<id>\d+)/capa', array( 'methods' => 'POST', 'permission_callback' => $ok, 'callback' => function ( $req ) {
+		$id = (int) $req['id'];
+		if ( 'po_denuncia' !== get_post_type( $id ) ) return new WP_Error( 'nao', 'denúncia não encontrada', array( 'status' => 404 ) );
+		$corpo = $req->get_body();
+		$arqs = $req->get_file_params();
+		require_once ABSPATH . 'wp-admin/includes/file.php';
+		$tmp = wp_tempnam( 'den-capa' );
+		if ( ! empty( $arqs['imagem']['tmp_name'] ) ) copy( $arqs['imagem']['tmp_name'], $tmp );
+		elseif ( $corpo ) file_put_contents( $tmp, $corpo );
+		else return new WP_Error( 'vazio', 'mande a imagem no corpo da requisição', array( 'status' => 400 ) );
+		$cid = po_denuncia_salvar_capa( $id, $tmp );
+		@unlink( $tmp );
+		if ( ! $cid ) return new WP_Error( 'imagem', 'não consegui ler a imagem (mande JPG ou PNG)', array( 'status' => 400 ) );
+		return array( 'ok' => true, 'capa' => wp_get_attachment_url( $cid ) );
 	} ) );
 } );
 function po_denuncia_metabox_detalhes( $post ) {
