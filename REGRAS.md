@@ -237,7 +237,7 @@ Tudo o que o Israel vê é em português.
 - `portal`: `luziense` para notícias de **Santa Luzia** (Portal Luziense); `politica` para **qualquer notícia política**
   (STF, Brasília, Congresso, Minas Gerais, prefeituras, câmaras, de qualquer lugar) (Portal Política);
   `comercio` para notícias de **comércio/empreendedorismo** (Portal Comércio, faixa laranja); `one` para todo o resto.
-- Todas são publicadas no **@portalonenews**. **Collab automática (Israel, 16/11/2026):** moldura `luziense` → @portaluziense; `comercio` → Portal Comércio; `politica` → Portal Política; `one` → sem collab. A lista fica em `robo/collabs.json` e entra sozinha quando se publica pelo `robo/publicar.py` (passe `--portal` com a moldura do item).
+- Todas são publicadas no **@portalonenews**. **Collab automática (Israel, 16/11/2026):** moldura `luziense` → @portaluziense; `comercio` → @portallcomercio; `politica` → @portallpolitica; `one` → sem collab. A lista fica em `robo/collabs.json` e entra sozinha quando se publica pelo `robo/publicar.py` (passe `--portal` com a moldura do item).
 - `ed` (etiqueta em caixa alta): BELO HORIZONTE, REGIÃO METROPOLITANA, SANTA LUZIA, MINAS GERAIS, BRASIL, MUNDO,
   ENTRETENIMENTO, ESPORTE, ATLÉTICO, CRUZEIRO, AMÉRICA, SAÚDE, EDUCAÇÃO, LUTO, URGENTE, VIRALIZOU, POLÍTICA, COMÉRCIO,
   TRANSPORTE, POLÍCIA, VÁRZEA, COPA ITATIAIA,
