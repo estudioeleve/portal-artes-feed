@@ -45302,5 +45302,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-16/101541_142.jpg",
   "media_id": "18180758710447778"
+ },
+ {
+  "id": "denuncia_6478",
+  "data": "2026-11-16",
+  "hora": "08:17",
+  "media_id": "18135759364823135",
+  "titulo": "Denúncia do leitor 6478",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:6478",
+  "arte": ""
  }
 ]
