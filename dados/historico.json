@@ -45778,5 +45778,33 @@
   "fonte": "Estado de Minas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "10:27",
+  "id": "132642_48",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "IFMG sorteia nesta segunda 80 vagas gratuitas em cursos técnicos da EJA em Contagem e João Monlevade",
+  "titulo_orig": "Vagas para cursos técnicos da EJA em Contagem e João Monlevade serão sorteadas nesta 2ª feira",
+  "link": "https://www.ifmg.edu.br/portal/noticias/vagas-para-cursos-tecnicos-da-eja-em-contagem-e-joao-monlevade-serao-sorteadas-nesta-2a-feira",
+  "fonte": "IFMG",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "10:27",
+  "id": "132656_154",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Bombeiros fazem simulado de evacuação em escola estadual de Luminárias nesta terça; alarme vai tocar às 13h",
+  "titulo_orig": "Escola de Luminárias recebe simulado de evacuação nesta terça (17) | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/suldeminas/escola-de-luminarias-recebe-simulado-de-evacuacao-nesta-terca-17/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
