@@ -45456,5 +45456,19 @@
   "fonte": "Globo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "08:33",
+  "id": "111933_48",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Petroleiro atinge navio de cruzeiro atracado em Nova Orleans e 12 passageiros caem no rio",
+  "titulo_orig": "Petroleiro bate em navio de cruzeiro com 180 pessoas a bordo. Muitos acabam na água: \"Um milagre\" - Rádio Miróbriga",
+  "link": "https://www.radiom24.pt/petroleiro-bate-em-navio-de-cruzeiro-com-180-pessoas-a-bordo-muitos-acabam-na-agua-um-milagre/",
+  "fonte": "Rádio Miróbriga",
+  "arte": "artes/2026-11-16/111933_48.jpg",
+  "media_id": "18205744411327807"
  }
 ]
