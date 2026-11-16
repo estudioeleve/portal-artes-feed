@@ -49,6 +49,9 @@ def main():
     p.add_argument('--legenda-arquivo', required=True)
     p.add_argument('--collab', action='append', default=[], help='@ extra (opcional)')
     a = p.parse_args()
+    trava = '/tmp/painel_bloqueado'
+    if os.path.exists(trava) and time.time() - os.path.getmtime(trava) < 3 * 3600:
+        print('ERRO painel bloqueado pelo Instagram nesta sessão (too many actions); use o Windsor'); sys.exit(1)
     chave = os.environ.get('ROBO_CHAVE', '').strip()
     if not chave:
         print('ERRO falta ROBO_CHAVE'); sys.exit(1)
@@ -74,6 +77,8 @@ def main():
             time.sleep(5)
         r = chamar({'etapa': 'publicar', 'conta': 'portalonenews', 'criacao': criacao}, chave)
     except Exception as e:
+        if 'too many actions' in str(e).lower():
+            open(trava, 'w').write(str(e))
         print('ERRO', e); sys.exit(1)
     print('collab:', ', '.join('@' + c for c in collab) or 'nenhuma')
     print('OK', r.get('id'), r.get('link', ''))
