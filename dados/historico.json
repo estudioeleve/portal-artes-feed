@@ -44519,5 +44519,61 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-15/001353_9.jpg",
   "media_id": "18130020922667608"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:21",
+  "id": "001500_12",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Cooperativas de crédito liberam R$ 4,46 bilhões para produtores de café até outubro",
+  "titulo_orig": "Cooperativas liberam R$ 4,46 bilhões para produtores de café até outubro",
+  "link": "https://boca.com.br/agronegocio/cooperativas-liberam-r4-46-bilhoes-para-produtores-de-cafe",
+  "fonte": "boca.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:21",
+  "id": "001508_134",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula volta da Espanha e deve definir o ministério do quarto mandato nesta semana, diz Alckmin",
+  "titulo_orig": "Lula volta da Espanha e decide ministério do 4º mandato",
+  "link": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/lula-decide-ministerio-4o-mandato-seguranca-publica",
+  "fonte": "TV Sim Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:21",
+  "id": "001526_72",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Moraes segue relator de quase todas as ações penais no STF mesmo após fim do inquérito das fake news",
+  "titulo_orig": "Moraes concentra maioria dos inquéritos no STF",
+  "link": "https://www.gazetadopovo.com.br/republica/moraes-concentra-inqueritos-stf-apos-fim-inquerito-fake-news/",
+  "fonte": "Gazeta do Povo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:21",
+  "id": "001333_100",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Supermercados de Minas esperam vender 6,2% mais no fim de ano, puxados por frutas e vinhos",
+  "titulo_orig": "Frutas, vinhos e carnes devem puxar vendas de fim de ano nos supermercados ",
+  "link": "https://jmonline.com.br/cidade/frutas-vinhos-e-carnes-devem-puxar-vendas-de-fim-de-ano-nos-supermercados-1.684614?amp=1",
+  "fonte": "JM Online",
+  "arte": "artes/2026-11-15/001333_100.jpg",
+  "media_id": "SITE"
  }
 ]
