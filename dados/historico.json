@@ -45120,5 +45120,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-16/091416_19.jpg",
   "media_id": "18335170390263513"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "06:44",
+  "id": "091421_11",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista de shopping gasta R$ 13,30 de cada R$ 100 vendidos com aluguel e condomínio",
+  "titulo_orig": "Lojas de shopping comprometem 13,3% do faturamento com aluguel, condomínio e promoção",
+  "link": "https://dcomercio.com.br/publicacao/s/lojas-de-shopping-comprometem-13-3-do-faturamento-com-aluguel-condominio-e-promocao",
+  "fonte": "DComercio",
+  "arte": "artes/2026-11-16/091421_11.jpg",
+  "media_id": "17993673867070440"
  }
 ]
