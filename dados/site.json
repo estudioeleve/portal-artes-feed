@@ -1,17 +1,5 @@
 [
  {
-  "id": "021350_103",
-  "data": "2026-11-14T23:19:46-03:00",
-  "titulo": "Ivete Sangalo leva o \"Ivete Clareou\" a Salvador com Léo Santana no palco e plateia cheia de famosos",
-  "linha_fina": "Show em formato 360º une sucessos da cantora a homenagens a Clara Nunes, Demônios da Garoa e Alcione.",
-  "categoria": "entretenimento",
-  "texto": "<p>Ivete Sangalo levou a Salvador, neste fim de semana, o show do projeto \"Ivete Clareou\", que já passou por outras capitais do país. A apresentação teve a participação de Léo Santana, que cantou com a artista, e uma plateia cheia de rostos conhecidos.</p><p>Entre os famosos que foram ao show estavam Lore Improta, a apresentadora Rita Batista, a jornalista e humorista Tia Má e o influenciador Alvaro. O grupo É o Tchan também esteve com a cantora no evento.</p><p>Na plateia, também foi visto o empresário Tiago Maia, apontado como suposto novo namorado da cantora. Os dois não assumiram publicamente um relacionamento e mantêm uma presença discreta nas redes sociais e em eventos.</p><p>Em formato 360º, o \"Ivete Clareou\" junta sucessos da baiana a referências do samba, com homenagens visuais a nomes como Clara Nunes, Demônios da Garoa e Alcione.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/021350_103.jpg",
-  "credito_foto": "Vitor Santos/AgNews",
-  "fonte": "Gshow",
-  "resumos": ""
- },
- {
   "id": "021336_216",
   "data": "2026-11-14T23:19:50-03:00",
   "titulo": "Contagem está entre as 15 cidades de Minas com índice máximo no Radar da Transparência em 2026",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/221603_83.jpg",
   "credito_foto": "Reprodução/SouBH",
   "fonte": "SouBH",
+  "resumos": ""
+ },
+ {
+  "id": "222047_22",
+  "data": "2026-11-16T19:23:44-03:00",
+  "titulo": "Motorista de 27 anos fica ferido após aquaplanar e capotar carro na MG-050, em Pedra do Indaiá",
+  "linha_fina": "Segundo a Polícia Militar Rodoviária, chovia e a pista estava molhada; condutor teve ferimentos aparentemente leves.",
+  "categoria": "minas-gerais",
+  "texto": "<p>Um motorista de 27 anos ficou ferido depois de capotar um Fiat Mobi na tarde desta segunda-feira (16), na MG-050, em Pedra do Indaiá, no Centro-Oeste de Minas Gerais. O acidente aconteceu por volta das 15h45, na altura do km 181 da rodovia.</p>\n<p>De acordo com a Polícia Militar Rodoviária (PMRv), o condutor seguia no sentido Formiga–Pedra do Indaiá quando o carro aquaplanou e ele perdeu o controle da direção. No momento do acidente, chovia na região e a pista estava molhada.</p>\n<p>Uma equipe do Serviço de Atendimento Móvel de Urgência (Samu) foi ao local e prestou os primeiros atendimentos. Segundo a PMRv, o motorista tinha ferimentos aparentemente leves. Ele foi levado para o pronto atendimento de Formiga.</p>\n<p>A concessionária responsável pela rodovia fez a remoção do veículo, e o trânsito no trecho foi normalizado em seguida.</p>\n<p>Com o período chuvoso, a orientação da polícia é reduzir a velocidade, aumentar a distância do veículo da frente e manter os pneus em bom estado, já que a lâmina d'água na pista é uma das principais causas de aquaplanagem. Ao perceber que o carro perdeu aderência, o motorista não deve frear de forma brusca nem fazer movimentos fortes no volante: o certo é tirar o pé do acelerador e segurar firme a direção até o veículo voltar a responder.</p>\n<p>Em caso de acidente, os telefones de emergência são 193 (Bombeiros), 192 (Samu) e 190 (Polícia Militar).</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/222047_22.jpg",
+  "credito_foto": "PMRv/Divulgação",
+  "fonte": "Polícia Militar Rodoviária e Portal Gerais",
   "resumos": ""
  }
 ]
