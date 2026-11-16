@@ -46044,5 +46044,19 @@
   "fonte": "Portal Gerais",
   "arte": "artes/2026-11-16/141925_51.jpg",
   "media_id": "18080947628427523"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "12:13",
+  "id": "denuncia_6558",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "titulo": "Moradora relata ter recebido medicamento errado na farmácia do São Benedito",
+  "titulo_orig": "",
+  "link": "denuncia:6558",
+  "fonte": "Faça sua denúncia",
+  "arte": "dados/reels/den-6558.mp4",
+  "media_id": "18366088804216120"
  }
 ]
