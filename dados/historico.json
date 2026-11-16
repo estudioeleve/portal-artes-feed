@@ -47024,5 +47024,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-16/201103_181.jpg",
   "media_id": "18100384091113208"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "17:38",
+  "id": "201415_198",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Pequenos negócios mineiros projetam R$ 8,6 milhões em vendas a supermercados após feira",
+  "titulo_orig": "Pequenos negócios apoiados pelo Governo de Minas projetam mais de R$ 8,6 milhões em negócios após a Superminas",
+  "link": "https://desenvolvimento.mg.gov.br/noticias/vemdeminas-negocios-empreendedores-superminas",
+  "fonte": "Secretaria de Estado de Desenvolvimento Econômico",
+  "arte": "artes/2026-11-16/201415_198.jpg",
+  "media_id": "18019816019747416"
  }
 ]
