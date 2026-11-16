@@ -2,14 +2,14 @@
 """Emenda o encerramento do Portal no fim de um Reels (Israel, 16/11/2026: todo Reels, notícia ou denúncia).
 
 Uso: python3 robo/encerramento.py <entrada.mp4> <saida.mp4> --portal <one|luziense|politica|comercio>
-- one e luziense: encerramento do Portal ONE News (robo/encerramentos/fim-one.mp4)
+- one: encerramento do Portal ONE News; luziense: o do Luziense (aprovado 16/11)
 - politica e comercio: só o encerramento próprio (fim-politica.mp4 / fim-comercio.mp4); se ainda não existir, o vídeo sai sem encerramento.
 O som do Reels termina junto com ele; o encerramento passa em silêncio.
 """
 import argparse, os, shutil, subprocess, sys
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-ARQ = {'one': 'fim-one.mp4', 'luziense': 'fim-one.mp4', 'luz': 'fim-one.mp4',
+ARQ = {'one': 'fim-one.mp4', 'luziense': 'fim-luziense.mp4', 'luz': 'fim-luziense.mp4',
        'politica': 'fim-politica.mp4', 'comercio': 'fim-comercio.mp4'}
 
 

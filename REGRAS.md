@@ -210,7 +210,7 @@ A redução provisória de 01/11 acabou. "Nós estamos falhando em Santa Luzia."
 Este arquivo é a instrução de cada rodada automática. Quem roda é o Claude, numa sessão agendada.
 Tudo o que o Israel vê é em português.
 
-- **ENCERRAMENTO EM TODO REELS (Israel, 16/11/2026 13h28):** todo Reels que sair (notícia, denúncia ou pedido do Israel) leva o encerramento do Portal no fim. Depois de montar o vídeo final (moldura por cima), rode `python3 robo/encerramento.py <video.mp4> <video_final.mp4> --portal <one|luziense|politica|comercio>` e publique o `video_final`. ONE News e Luziense usam o encerramento do ONE News; **Política e Comércio usam só o encerramento próprio** (se o arquivo dele ainda não existir em `robo/encerramentos/`, o script deixa o vídeo sem encerramento). O som do Reels acaba junto com ele; o encerramento passa sem som.
+- **ENCERRAMENTO EM TODO REELS (Israel, 16/11/2026 13h28):** todo Reels que sair (notícia, denúncia ou pedido do Israel) leva o encerramento do Portal no fim. Depois de montar o vídeo final (moldura por cima), rode `python3 robo/encerramento.py <video.mp4> <video_final.mp4> --portal <one|luziense|politica|comercio>` e publique o `video_final`. Cada portal tem o seu encerramento, aprovado pelo Israel em 16/11/2026 (ONE News, Luziense, Política e Comércio, em `robo/encerramentos/`); o script escolhe pelo `--portal`. O som do Reels acaba junto com ele; o encerramento passa sem som.
 
 ## Autorização
 - O Israel autorizou em 31/10/2026 a publicação **automática** de até **100 posts por dia, todos os dias**, no Instagram
