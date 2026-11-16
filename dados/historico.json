@@ -44939,5 +44939,33 @@
   "fonte": "Diario de Pernambuco",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "23:20",
+  "id": "021800_24",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "COPA ITATIAIA",
+  "titulo": "Santa Cruz e Grêmio Maravilha conquistam as últimas vagas, e Copa Itatiaia fecha seus 36 participantes",
+  "titulo_orig": "",
+  "link": "https://varzeabh.com.br/copa-itatiaia-2026-2027-conhece-todos-os-seus-participantes",
+  "fonte": "Várzea BH",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "23:20",
+  "id": "021959_15",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Batida de frente entre Argo e Civic deixa três feridos em estado grave na MG-369, no Sul de Minas",
+  "titulo_orig": "Acidente entre Fiat Argo e Honda Civic mobiliza Bombeiros e SAMU no Sul de Minas",
+  "link": "https://www.gazetadevarginha.com.br/post/acidente-entre-fiat-argo-e-honda-civic-mobiliza-bombeiros-e-samu-no-sul-de-minas",
+  "fonte": "Gazeta De Varginha",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

@@ -1,17 +1,5 @@
 [
  {
-  "id": "131531_3",
-  "data": "2026-11-14T10:25:04-03:00",
-  "titulo": "PT apoia ajuste fiscal de Lula e chama juros altos do Banco Central de entrave ao crescimento",
-  "linha_fina": "Resolução aprovada pelo Diretório Nacional do partido defende o pacote enviado ao Congresso e a redução da taxa básica de juros.",
-  "categoria": "politica",
-  "texto": "<p>O Diretório Nacional do PT decidiu apoiar o pacote de ajuste fiscal apresentado pelo governo do presidente Luiz Inácio Lula da Silva. Em resolução aprovada na sexta-feira (13), o partido também criticou o que chamou de \"excessivo conservadorismo\" do Banco Central, que manteve a taxa básica de juros em 13,75% ao ano, e classificou os juros altos como um \"entrave ao crescimento\".</p><p>O documento defende a redução da Selic e a ampliação dos investimentos públicos. Segundo o texto, as medidas do projeto de lei complementar enviado pela equipe econômica ao Congresso dão maior flexibilidade ao orçamento, abrem espaço para investimentos e contribuem para melhorar as expectativas sobre a trajetória da dívida pública e da inflação.</p><p>A resolução sustenta ainda que o conjunto de propostas favorece a queda dos juros. Em resposta às críticas da oposição sobre o pacote, o partido afirmou que \"quem fala em estelionato eleitoral age de má-fé\".</p><p>O apoio do PT ocorre em um momento em que o mercado financeiro cobra sinais mais fortes de controle das contas públicas no início do novo mandato de Lula, enquanto parte dos aliados do governo resiste a cortes de gastos.</p><p>O pacote fiscal ainda precisa ser analisado pela Câmara dos Deputados e pelo Senado. A tramitação deve ser um dos principais testes da relação do governo com o Congresso nas próximas semanas.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/131531_3.jpg",
-  "credito_foto": "Foto: Reprodução/Times Brasil",
-  "fonte": "Times Brasil",
-  "resumos": ""
- },
- {
   "id": "131534_25",
   "data": "2026-11-14T10:25:04-03:00",
   "titulo": "Aos 50 anos, Léo Chaves troca a rotina de shows pela vida no campo em fazenda às margens de represa em Uberlândia",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/021805_50.jpg",
   "credito_foto": "Newman Homrich/Diario de Pernambuco",
   "fonte": "Diario de Pernambuco",
+  "resumos": ""
+ },
+ {
+  "id": "021800_24",
+  "data": "2026-11-15T23:19:34-03:00",
+  "titulo": "Santa Cruz e Grêmio Maravilha conquistam as últimas vagas, e Copa Itatiaia fecha seus 36 participantes",
+  "linha_fina": "Santa Cruz e Grêmio Maravilha garantiram as últimas vagas neste domingo; sorteio dos grupos é na quinta (19) e a bola rola em 5 de dezembro.",
+  "categoria": "esporte",
+  "texto": "<p>A 65ª Copa Itatiaia de futebol amador já tem todos os seus 36 participantes. As duas últimas vagas foram decididas neste domingo (15) e ficaram com times do Vetor Norte: o Santa Cruz, de Pedro Leopoldo, e o Grêmio Maravilha, de São José da Lapa, que completaram os 20 clubes da Chave Minas.</p><p>Em Pedro Leopoldo, o Santa Cruz venceu o Luano por 2 a 1 em casa, empatou o placar agregado em 3 a 3 depois da derrota por 2 a 1 na ida e levou o título municipal nos pênaltis, por 5 a 4. Em São José da Lapa, o Grêmio Maravilha ficou com a taça local ao bater o Águia de Ouro por 3 a 1.</p><p>A região estará bem representada. Santa Luzia terá o Vasquinho na Chave Minas, que também conta com Grêmio Morro Alto (Vespasiano), Santa Fé (Ribeirão das Neves), Fluminense (Lagoa Santa), Bombeiros (Caeté), Vila Rica (Sabará) e o atual campeão, Cruzeirinho, de Itatiaiuçu, entre outros. A Chave BH reúne 16 clubes da capital, como Nacional Felicidade (Jardim Felicidade), Novo Aarão Reis, Comunidade (Paulo VI) e Princesa Isabel (Barreiro).</p><p>O Conselho Técnico, com o sorteio dos grupos e a entrega do regulamento, será na quinta-feira (19), na sede da Federação Mineira de Futebol: às 18h30 para a Chave Minas e às 19h30 para a Chave BH.</p><p>Na Chave BH, os 16 times serão divididos em quatro grupos de quatro, e os dois melhores de cada grupo vão às quartas de final. Na Chave Minas, serão cinco grupos de quatro: avançam os líderes e os três melhores segundos colocados. A competição começa em 5 de dezembro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/021800_24.jpg",
+  "credito_foto": "Várzea BH",
+  "fonte": "Várzea BH",
   "resumos": ""
  }
 ]
