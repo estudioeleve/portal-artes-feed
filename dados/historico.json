@@ -44617,5 +44617,33 @@
   "fonte": "www.brasileirao.com.br",
   "arte": "artes/2026-11-15/001357_17.jpg",
   "media_id": "18135473389788085"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:31",
+  "id": "003042_181",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Caos aéreo nos EUA pode durar até segunda; mais 1.500 voos foram cancelados neste domingo",
+  "titulo_orig": "Caos aéreo nos EUA: problemas podem durar até segunda-feira | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/15/governo-trump-diz-que-problemas-nos-voos-dos-eua-podem-seguir-ate-segunda-feira.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:31",
+  "id": "003100_164",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ESPORTE",
+  "titulo": "Neymar paga R$ 75 mil em inscrições de torneios de pôquer durante folga do Santos",
+  "titulo_orig": "Neymar gasta R$ 75 mil em pôquer durante folga no Santos | Ge",
+  "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/15/veja-quanto-neymar-investiu-em-fim-de-semana-de-poquer-durante-folga-do-santos.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

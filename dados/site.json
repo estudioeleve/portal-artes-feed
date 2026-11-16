@@ -1,29 +1,5 @@
 [
  {
-  "id": "122328_oas",
-  "data": "2026-11-14T09:25:26-03:00",
-  "titulo": "É hoje! Xuxa faz show na Arena MRV às 20h; portões abrem às 16h, e ruas do Califórnia terão bloqueio",
-  "linha_fina": "Turnê O Último Voo da Nave deve reunir cerca de 35 mil pessoas; veja horários, bloqueios no trânsito e o ônibus especial da volta",
-  "categoria": "entretenimento",
-  "texto": "<p>Xuxa Meneghel sobe ao palco da Arena MRV, em Belo Horizonte, neste sábado (14), para o show da turnê \"O Último Voo da Nave\". A apresentação está marcada para as 20h, e a expectativa é reunir cerca de 35 mil pessoas no estádio do Atlético, no bairro Califórnia.</p><p>Os portões abrem às 16h. Quem comprou pacotes VIP pode entrar a partir das 15h30. O espetáculo revisita fases marcantes da carreira da apresentadora, com músicas, personagens e cenários inspirados no Xou da Xuxa, no Xuxa Park, no Planeta Xuxa e no Xuxa Só Para Baixinhos, além de referências aos filmes. A estrutura tem grandes painéis de LED, efeitos visuais e a participação de ex-Paquitas, personagens e bailarinos.</p><p>A Prefeitura de Belo Horizonte montou uma operação especial de trânsito, que começa às 16h. Haverá intervenções nas ruas Zilka Monteiro Pena, Visconde de Mauá, Nevada, Evangelina Prates e Sebastião Fernandes Brandão, no Califórnia; José Mota Costa e Gentil Portugal do Brasil, no Camargos; e Prateada e Lilás, no João Pinheiro. As vias perto do estádio terão acesso restrito, com entrada de moradores mediante controle. A Via Expressa terá uma faixa reversível no sentido Contagem, entre as avenidas Coração Eucarístico de Jesus e Teleférico.</p><p>Para a saída do público, a linha especial 4040 vai ligar a Arena MRV ao Centro e à Savassi. Os ônibus começam a circular às 22h45, com partidas a cada 15 minutos, conforme a demanda. O embarque fica na Avenida Presidente Juscelino Kubitschek (Via Expressa), em frente ao estádio, no sentido Contagem, com desembarque na Estação Gameleira do metrô, na Praça Sete e na Savassi. O pagamento pode ser feito em dinheiro, cartão BHBUS ou QR Code do aplicativo BHBUS+.</p><p>Quem preferir o metrô pode usar as estações Eldorado, Cidade Industrial e Vila Oeste. A Prefeitura recomenda a Estação Eldorado, que tem estrutura maior para receber o público. Agentes da BHTrans, da Guarda Civil Municipal e da Polícia Militar vão orientar motoristas e pedestres.</p><p>Na quinta-feira (12), a organização informou que ainda restavam ingressos para o setor de cadeira inferior sul, exceto na modalidade social.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/122328_oas.jpg",
-  "credito_foto": "Foto: Reprodução/NC News",
-  "fonte": "NC News e Prefeitura de Belo Horizonte",
-  "resumos": ""
- },
- {
-  "id": "122548_33",
-  "data": "2026-11-14T09:27:12-03:00",
-  "titulo": "Papa Leão XIV volta a Chiclayo, no Peru, onde foi bispo, e reúne 500 mil pessoas em missa campal",
-  "linha_fina": "Em recuperação de cirurgia no pulmão, pontífice agradeceu as orações dos fiéis; neste sábado ele visita a cidade de Zaña",
-  "categoria": "mundo",
-  "texto": "<p>O papa Leão XIV voltou nesta sexta-feira (13) a Chiclayo, no norte do Peru, cidade onde viveu por quase dez anos e foi bispo entre 2015 e 2023, antes de seguir para o Vaticano. Segundo a Santa Sé, cerca de 500 mil pessoas acompanharam a missa campal celebrada por ele nos pampas de Pimentel.</p><p>O pontífice desembarcou por volta das 9h, no horário local, e foi recebido com festa. Milhares de fiéis se espalharam pelos cerca de 17 quilômetros do trajeto entre o aeroporto e o local da celebração, uma grande área desértica que já estava tomada por peregrinos de várias regiões do país quando o comboio papal chegou.</p><p>Na missa, Leão XIV falou do vínculo com a cidade e agradeceu o apoio recebido depois da cirurgia para tratar um câncer no pulmão, feita há pouco mais de um mês. \"Que alegria voltar a Chiclayo. É uma bênção para mim estar novamente com vocês. Obrigado pelo carinho, pelo apoio e pelas orações, especialmente pela minha saúde neste momento de provação que, com a ajuda de Deus, estou superando\", disse.</p><p>A passagem por Chiclayo é vista como um dos momentos mais simbólicos da viagem de 12 dias que o papa faz pela América do Sul desde 6 de novembro. Foi na cidade que ele consolidou boa parte do trabalho pastoral que o tornou uma das figuras mais conhecidas da Igreja Católica no Peru.</p><p>Neste sábado (14), a programação prevê uma visita à antiga cidade de Zaña, também no norte peruano, conhecida pela história de ter sido abandonada e chamada de \"amaldiçoada\".</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/122548_33.jpg",
-  "credito_foto": "Foto: Pilar Olivares/Reuters",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "122553_64",
   "data": "2026-11-14T09:27:12-03:00",
   "titulo": "EUA retomam voos depois de pane no controle aéreo, mas mais de 2,5 mil viagens são canceladas neste sábado",
@@ -4797,6 +4773,30 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/002204_109.jpg",
   "credito_foto": "Reprodução/Record",
   "fonte": "R7",
+  "resumos": ""
+ },
+ {
+  "id": "003042_181",
+  "data": "2026-11-15T21:31:19-03:00",
+  "titulo": "Caos aéreo nos EUA pode durar até segunda; mais 1.500 voos foram cancelados neste domingo",
+  "linha_fina": "Secretário de Transportes diz que a normalização total deve ficar para segunda-feira; desde sexta, mais de 18 mil voos foram cancelados.",
+  "categoria": "mundo",
+  "texto": "<p>O governo de Donald Trump afirmou neste domingo (15) que os problemas no transporte aéreo dos Estados Unidos podem continuar até esta segunda-feira (16). A crise começou na sexta-feira (13), quando uma falha técnica obrigou a suspensão das decolagens em todos os aeroportos do país por mais de quatro horas.</p>\n<p>Entre sexta e sábado, mais de 18 mil voos foram cancelados e milhares atrasaram. Até a manhã de domingo, mais 1.500 voos tinham sido cancelados e quase 3 mil registravam atraso, segundo o site de monitoramento FlightAware.</p>\n<p>No sábado, o diretor da Administração Federal de Aviação (FAA), Bryan Bedford, chegou a dizer que tudo voltaria ao normal até o fim do domingo. Mas o secretário de Transportes, Sean Duffy, afirmou à rede ABC que será preciso mais tempo para que aviões, tripulações e passageiros estejam nos lugares certos. \"Provavelmente a situação não estará totalmente normalizada antes de amanhã\", disse.</p>\n<p>Segundo o governo, a pane foi provocada por trabalhos de rotina na troca de um antigo cabo de cobre por fibra óptica, que causaram problemas na comunicação com os aviões e nos sinais de radar. Trump culpou a gestão do ex-presidente Joe Biden pela situação do sistema de controle aéreo.</p>\n<p>Duffy voltou a defender investimentos na modernização do sistema. Segundo ele, são necessários US$ 50 bilhões, mais do que os US$ 30 bilhões já pedidos ao Congresso, para evitar que a paralisação se repita.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/003042_181.jpg",
+  "credito_foto": "Jonathan Ernst/Reuters",
+  "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "003100_164",
+  "data": "2026-11-15T21:31:19-03:00",
+  "titulo": "Neymar paga R$ 75 mil em inscrições de torneios de pôquer durante folga do Santos",
+  "linha_fina": "Camisa 10 disputa em São Paulo mesa só para convidados que pode render R$ 1,6 milhão ao campeão; ele volta aos treinos nesta segunda.",
+  "categoria": "esporte",
+  "texto": "<p>Neymar aproveitou a folga dos treinos do Santos para se dedicar a outra paixão: o pôquer. Segundo o ge, o camisa 10 pagou R$ 25 mil de inscrição em uma mesa na sexta-feira (13) e, neste domingo (15), disputa outro torneio, com entrada de R$ 50 mil. Ao todo, foram R$ 75 mil em inscrições no fim de semana.</p>\n<p>A disputa deste domingo é o 50K Super High Roller Invitational, que só aceita participantes convidados. O torneio acontece no WTC Sheraton, hotel de luxo na capital paulista, começou no sábado e não tem hora certa para terminar, podendo seguir pela madrugada.</p>\n<p>O campeão da mesa pode levar para casa R$ 1,6 milhão. No formato da disputa, os jogadores são divididos em mesas e se enfrentam de forma aleatória. A competição vai afunilando até sobrar apenas quem conseguir ficar com todas as fichas.</p>\n<p>O pôquer é um hobby antigo do jogador, que já participou de vários torneios no Brasil e no exterior e costuma mostrar as partidas nas redes sociais.</p>\n<p>Em campo, Neymar volta a treinar com o Santos nesta segunda-feira (16). O próximo compromisso do time é na quarta-feira (18), contra o Coritiba, no Couto Pereira, pela 35ª rodada do Campeonato Brasileiro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/003100_164.jpg",
+  "credito_foto": "Luis Bertazini/BSOP",
+  "fonte": "ge",
   "resumos": ""
  }
 ]
