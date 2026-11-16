@@ -45470,5 +45470,19 @@
   "fonte": "Rádio Miróbriga",
   "arte": "artes/2026-11-16/111933_48.jpg",
   "media_id": "18205744411327807"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "08:41",
+  "id": "112011_52",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRÂNSITO",
+  "titulo": "Homem morre atropelado por caminhão na Fernão Dias, em Betim, e trânsito fica lento",
+  "titulo_orig": "Homem morre atropelado por caminhão na Rodovia Fernão Dias, em Betim | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/homem-morre-atropelado-por-caminhao-na-rodovia-fernao-dias-em-betim/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-16/112011_52.jpg",
+  "media_id": "17958592809267820"
  }
 ]
