@@ -45414,5 +45414,47 @@
   "fonte": "Sputnik Voz do Povo",
   "arte": "artes/2026-11-16/111929_59.jpg",
   "media_id": "18183768478447857"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "08:25",
+  "id": "112444_11",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Estrangeiros pagavam R$ 200 mil por documentos brasileiros falsos em esquema com cartório de Brasília",
+  "titulo_orig": "Como funcionava esquema de documentos falsos para estrangeiros  | G1",
+  "link": "https://g1.globo.com/fantastico/noticia/2026/11/16/cartorios-e-despachantes-estao-por-tras-de-esquema-de-fraude-na-emissao-de-documentos-brasileiros-para-estrangeiros-diz-policia.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "08:25",
+  "id": "112448_12",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Número de estudantes estrangeiros nas universidades dos EUA cai 9% com o endurecimento das regras de Trump",
+  "titulo_orig": "Universidades dos EUA têm queda de 9% em alunos estrangeiros | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/16/numero-de-estudantes-estrangeiros-em-universidades-dos-eua-cai-9percent-em-meio-a-politicas-migratorias-de-trump.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "08:25",
+  "id": "112456_70",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Depois de oito indicações sem vitória, Glenn Close chora ao receber Oscar honorário: \"A maior honra de todas\"",
+  "titulo_orig": "Glenn Close vai às lágrimas ao receber Oscar honorário após oito derrotas",
+  "link": "https://revistamonet.globo.com/filmes/noticia/2026/11/glenn-close-vai-as-lagrimas-ao-receber-oscar-honorario-apos-oito-derrotas.ghtml",
+  "fonte": "Globo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
