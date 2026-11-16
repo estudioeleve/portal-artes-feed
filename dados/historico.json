@@ -46058,5 +46058,19 @@
   "fonte": "Faça sua denúncia",
   "arte": "dados/reels/den-6558.mp4",
   "media_id": "18366088804216120"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "12:21",
+  "id": "142000_46",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Ucrânia lança o maior ataque de drones da guerra contra a Rússia e mira ponte da Crimeia",
+  "titulo_orig": "Ucrânia faz maior ataque com drones contra Rússia e atinge Crimeia | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/16/ucrania-faz-maior-ataque-com-drones-contra-russia-desde-inicio-da-guerra-diz-moscou.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-16/142000_46.jpg",
+  "media_id": "17995091829061256"
  }
 ]
