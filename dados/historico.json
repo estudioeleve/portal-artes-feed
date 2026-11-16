@@ -46184,5 +46184,33 @@
   "fonte": "Faça sua denúncia",
   "arte": "dados/reels/den-6558.mp4",
   "media_id": "18348039277257004"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "12:25",
+  "id": "152444_32",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH recebe encontro nacional de municípios mineradores para debater terras raras e minerais críticos",
+  "titulo_orig": "Municípios mineradores debatem em BH como terras raras podem trazer benefícios e riscos",
+  "link": "https://www.bra1.com.br/economia/id-726972/municipios_mineradores_debatem_em_bh_como_terras_raras_podem_trazer_beneficios_e_riscos",
+  "fonte": "www.bra1.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "12:25",
+  "id": "152515_44",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Scott Colom se torna o primeiro senador negro eleito pelo voto popular no Mississippi",
+  "titulo_orig": "Scott Colom: 1º senador negro do Mississippi em 140 anos | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/16/quem-e-o-1o-senador-negro-do-mississippi-em-140-anos-e-por-que-tao-poucos-foram-eleitos-nos-eua.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
