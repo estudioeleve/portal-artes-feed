@@ -47402,5 +47402,19 @@
   "fonte": "Portal Gerais",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "19:31",
+  "id": "221156_2",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Papa Leão XIV é atingido no rosto por terço jogado por fiel antes da última missa no Peru",
+  "titulo_orig": "Papa Leão XIV é atingido por objeto no rosto a caminho de missa | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/16/papa-leao-xiv-e-atingido-por-objeto-no-rosto-a-caminho-de-sua-ultima-missa-no-peru-veja-video.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-16/221156_2.jpg",
+  "media_id": "18037649723853638"
  }
 ]
