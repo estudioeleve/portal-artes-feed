@@ -47192,5 +47192,19 @@
   "fonte": "Gazeta do Povo",
   "arte": "artes/2026-11-16/211544_56.jpg",
   "media_id": "18178945156456691"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:39",
+  "id": "213904_1",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Aterro rompe e interrompe trânsito na MG-114, no acesso a Coronel Murta; DER-MG indica rota alternativa",
+  "titulo_orig": "DER-MG já iniciou a recuperação de aterro que interrompeu tráfego na MG-114, próximo a Coronel Murta",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/der-mg-ja-iniciou-a-recuperacao-de-aterro-que-interrompeu-trafego-na-mg-114-proximo-a-coronel-murta",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
