@@ -1,17 +1,5 @@
 [
  {
-  "id": "091233_67",
-  "data": "2026-11-15T06:17:36-03:00",
-  "titulo": "Arrascaeta vira o primeiro estrangeiro a ganhar um busto no Flamengo, na festa de 131 anos do clube",
-  "linha_fina": "Uruguaio, que divide com Bruno Henrique o posto de maior campeão da história rubro-negra, será homenageado neste domingo.",
-  "categoria": "esporte",
-  "texto": "<p>Giorgian de Arrascaeta será eternizado na Gávea. O meia uruguaio se torna, neste domingo (15), o primeiro jogador estrangeiro a ganhar um busto no Flamengo. A homenagem faz parte da festa de 131 anos do clube, e ele será celebrado ao lado do atacante Bruno Henrique.</p>\n<p>Arrascaeta é esperado na Gávea na tarde deste domingo depois de pedir para voltar mais cedo da Data Fifa. Pela seleção do Uruguai, ele participou dos dois gols da vitória por 2 a 1 sobre a Argentina, na Bombonera.</p>\n<p>Há oito temporadas no clube, o camisa 10 divide com Bruno Henrique o posto de maior campeão da história rubro-negra, com 18 títulos: três Libertadores (2019, 2022 e 2025), três Brasileiros (2019, 2020 e 2025), duas Copas do Brasil (2022 e 2024), três Supercopas do Brasil, seis Cariocas e uma Recopa Sul-Americana.</p>\n<p>O uruguaio também é o maior artilheiro estrangeiro da história do Flamengo, com 108 gols, e o gringo que mais vezes vestiu a camisa do clube. Para muitos torcedores, já é o maior estrangeiro a passar pelo Rubro-Negro, à frente de nomes como o sérvio Petkovic, os paraguaios Bría e Benítez e os argentinos Valido e Doval.</p>\n<p>O busto foi produzido pelo escultor Edu Santos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/091233_67.jpg",
-  "credito_foto": "Divulgação/Flamengo",
-  "fonte": "ge",
-  "resumos": ""
- },
- {
   "id": "091255_12",
   "data": "2026-11-15T06:17:36-03:00",
   "titulo": "Primeiro diplomata indígena aprovado por cotas no Itamaraty diz que vai trabalhar com qualquer governo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/231638_190.jpg",
   "credito_foto": "Imagens cedidas/Portal da Cidade de Barbacena",
   "fonte": "bhaz.com.br",
+  "resumos": ""
+ },
+ {
+  "id": "232054_41",
+  "data": "2026-11-16T20:21:06-03:00",
+  "titulo": "Sabará tem mais de 30 pedidos de vistoria e moradores desalojados após temporal em 15 bairros",
+  "linha_fina": "Defesa Civil prioriza casos com risco à vida; Bombeiros socorreram pessoa ilhada no Borba Gato.",
+  "categoria": "sabara",
+  "texto": "<p>A forte chuva que caiu em Sabará, na Grande BH, na tarde desta segunda-feira (16) deixou moradores desalojados e levou a Defesa Civil a receber mais de 30 pedidos de vistoria. As equipes seguem nas ruas e avaliam os casos pela gravidade, com prioridade para os que oferecem risco à vida.</p><p>Houve pedidos de moradores de 15 bairros: Fátima, Rosário I, Rosário II, Rosário III, Itacolomi, Nações Unidas, Alto do Cabral, Centro, Caieiras, Vila Nova Vista, Sobradinho, Galego, Borba Gato, Borges e Ana Lúcia.</p><p>A Defesa Civil confirmou que há pessoas desalojadas, mas não informou quantas. Até a última atualização, não havia registro de feridos. Uma escola no bairro Fátima, que aparece em imagens enviadas por moradores, já tinha passado por vistoria, segundo o órgão. Um campo de futebol no bairro Borges ainda aguarda atendimento.</p><p>Por volta das 16h, o Corpo de Bombeiros foi chamado para socorrer uma pessoa ilhada na estrada Dona Britanita, no bairro Borba Gato, perto da BR-381. Duas equipes foram enviadas ao local.</p><p>A orientação é não permanecer em imóveis com sinais de instabilidade ou em áreas sujeitas a alagamentos e deslizamentos, procurar a casa de parentes ou amigos em caso de risco e manter distância de encostas, rios e córregos. Emergências: Defesa Civil (199) e Bombeiros (193).</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/232054_41.jpg",
+  "credito_foto": "Imagens cedidas/BHAZ",
+  "fonte": "BHAZ",
   "resumos": ""
  }
 ]
