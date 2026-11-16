@@ -145,7 +145,7 @@
 - O Reels do Circuito de Presépios (12h29) saiu com o convite cru, sem moldura. **Não pode.** No **site** a foto vai sem moldura; no **Instagram, feed e Reels, sempre com a moldura**.
 - Moldura de Reels do Portal Luziense: Canva "REELS LUZIENSE" (canva.link/os103tnzgm6mzyt), recriada em `robo/modelo/reels.html` (1080x1920, fundo transparente: faixa azul com "Portal luziense" no alto à esquerda, degradê preto embaixo, etiqueta, título em 3 linhas e "acesse o nosso site www.portalonenews.com.br").
 - Molduras de Reels no `reels.html`: padrão = Luziense; `?portal=one` = Canva "REELS ONE NEWS" (canva.link/4k8klc77od955qf); `?portal=comercio` = Canva "REELS COMERCIO" (canva.link/a1l5w0h25oqqb66). Reels de foto: trilha própria `animada` (institucional) do `est-dio-eleve/chip/chip-de-edicao/scripts/trilha.py`.
-- Como fazer: gere o PNG da moldura com o `reels.html` (Playwright, `omitBackground`), ponha por cima da foto/vídeo com ffmpeg (`overlay`) e publique com `create_video_post`. Olhe um quadro do vídeo (Read) antes de publicar. **Vídeo: use o link raw.githubusercontent** (pelo jsDelivr o Instagram deu "container status: ERROR" 2 vezes em 10/11) e gere com `-loop 1 -framerate 30` + `-r 30` para não sair com quadros a mais. Ex.: `videos/2026-11-10/122000_presepios_moldura.mp4`.
+- Como fazer: gere o PNG da moldura com o `reels.html` (Playwright, `omitBackground`), ponha por cima da foto/vídeo com ffmpeg (`overlay`) e publique com `ROBO_CHAVE=<chave do prompt> python3 robo/publicar.py --portal <portal> --legenda-arquivo /tmp/leg.txt --video <link>` (collab automática; se der ERRO, use o `create_video_post` do Windsor). Olhe um quadro do vídeo (Read) antes de publicar. **Vídeo: use o link raw.githubusercontent** (pelo jsDelivr o Instagram deu "container status: ERROR" 2 vezes em 10/11) e gere com `-loop 1 -framerate 30` + `-r 30` para não sair com quadros a mais. Ex.: `videos/2026-11-10/122000_presepios_moldura.mp4`.
 
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
 - **"Portal Luziense" (ou Política, Comércio) quer dizer a moldura, não outra conta** (Israel, 10/11/2026): tudo é postado no **@portalonenews**, inclusive vídeo para Reels (`create_video_post`).
@@ -237,7 +237,7 @@ Tudo o que o Israel vê é em português.
 - `portal`: `luziense` para notícias de **Santa Luzia** (Portal Luziense); `politica` para **qualquer notícia política**
   (STF, Brasília, Congresso, Minas Gerais, prefeituras, câmaras, de qualquer lugar) (Portal Política);
   `comercio` para notícias de **comércio/empreendedorismo** (Portal Comércio, faixa laranja); `one` para todo o resto.
-- Todas são publicadas no **@portalonenews** (a collab com os outros perfis o Israel coloca depois, à mão).
+- Todas são publicadas no **@portalonenews**. **Collab automática (Israel, 16/11/2026):** moldura `luziense` → @portaluziense; `comercio` → Portal Comércio; `politica` → Portal Política; `one` → sem collab. A lista fica em `robo/collabs.json` e entra sozinha quando se publica pelo `robo/publicar.py` (passe `--portal` com a moldura do item).
 - `ed` (etiqueta em caixa alta): BELO HORIZONTE, REGIÃO METROPOLITANA, SANTA LUZIA, MINAS GERAIS, BRASIL, MUNDO,
   ENTRETENIMENTO, ESPORTE, ATLÉTICO, CRUZEIRO, AMÉRICA, SAÚDE, EDUCAÇÃO, LUTO, URGENTE, VIRALIZOU, POLÍTICA, COMÉRCIO,
   TRANSPORTE, POLÍCIA, VÁRZEA, COPA ITATIAIA,
@@ -368,8 +368,10 @@ Tudo o que o Israel vê é em português.
    cortando rosto de forma estranha, nem ter marca d'água de outro veículo grande no meio.
 7. `python3 robo/site.py <ids>` (ver seção Site) e depois `git add -A && git commit && git push`
    (as imagens precisam estar no GitHub antes de publicar).
-8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push; se sair REPETIDO, não publique) e publique com `create_image_post` (só a arte, **sem convite**: o convite agora vai só nas denúncias em imagem)
-   (`image_url` = **primeiro link** que ele imprimir, o do jsDelivr; `caption` = `legenda`),
+8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push; se sair REPETIDO, não publique) e publique (só a arte, **sem convite**: o convite agora vai só nas denúncias em imagem) **pelo painel da Eleve, que coloca a collab sozinho** (Israel, 16/11/2026):
+   grave a `legenda` em /tmp/leg.txt e rode `ROBO_CHAVE=<chave do prompt> python3 robo/publicar.py --portal <portal do item> --legenda-arquivo /tmp/leg.txt --imagem <primeiro link do links.py>`.
+   A última linha diz `OK <media_id> <link>`. Se disser `ERRO`, tente uma vez com o **segundo link**; se der ERRO de novo, publique pelo Windsor como antes
+   (`create_image_post`, `image_url` = primeiro link, `caption` = `legenda`; sai sem collab) e anote o erro em `dados/erros.txt`.
    depois `python3 robo/historico.py <id> <media_id>`, e esperar 8 a 12 minutos antes do próximo
    (comando em segundo plano `sleep 540`).
    **Se der "Media ID is not available"** (é o Instagram que não terminou de processar a imagem; o post NÃO sai,
