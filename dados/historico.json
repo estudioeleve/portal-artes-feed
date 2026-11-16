@@ -47458,5 +47458,33 @@
   "fonte": "www.n3news.com.br",
   "arte": "artes/2026-11-16/221303_23.jpg",
   "media_id": "18239862928320788"
+ },
+ {
+  "id": "denuncia_6844",
+  "data": "2026-11-16",
+  "hora": "20:06",
+  "media_id": "18112521071216579",
+  "titulo": "Denúncia do leitor 6844",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:6844",
+  "arte": ""
+ },
+ {
+  "id": "denuncia_6813",
+  "data": "2026-11-16",
+  "hora": "20:07",
+  "media_id": "18434944273151415",
+  "titulo": "Denúncia do leitor 6813",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:6813",
+  "arte": ""
  }
 ]
