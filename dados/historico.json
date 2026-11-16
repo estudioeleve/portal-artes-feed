@@ -47206,5 +47206,19 @@
   "fonte": "www.agenciaminas.mg.gov.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:46",
+  "id": "211642_22",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Falha no JPMorgan Chase trava transações de milhares de clientes de bancos nos EUA",
+  "titulo_orig": "Falha técnica afeta serviços de grandes bancos dos Estados Unidos | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-16/211642_22.jpg",
+  "media_id": "18067143968716644"
  }
 ]
