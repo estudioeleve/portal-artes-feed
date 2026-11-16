@@ -1127,6 +1127,7 @@ function po_denuncia_quadro_servidor( $id, $video_id ) {
 	@unlink( $tmp );
 	return $cid;
 }
+add_action( 'init', function () { if ( get_option( 'po_den_reserva_v2' ) ) return; update_option( 'po_den_reserva_v2', 1 ); foreach ( get_posts( array( 'post_type' => 'po_denuncia', 'post_status' => 'any', 'posts_per_page' => 200, 'fields' => 'ids', 'meta_key' => 'dc_insta_reserva' ) ) as $did ) delete_post_meta( $did, 'dc_insta_reserva' ); }, 102 );
 add_action( 'init', function () { if ( get_option( 'po_den_cache_v1' ) ) return; update_option( 'po_den_cache_v1', 1 ); do_action( 'litespeed_purge_all' ); }, 101 );
 // uma vez só: tira a arte com moldura da capa das matérias de denúncia já publicadas que só tinham vídeo
 add_action( 'init', function () {
@@ -1173,10 +1174,16 @@ add_action( 'rest_api_init', function () {
 			$st = get_post_meta( $p->ID, 'dc_insta_status', true );
 			if ( ! $todas && 'postado' === $st ) continue;
 			// trava: quem pegou a denúncia tem 30 min pra postar; outro robô não recebe a mesma (evita post repetido)
-			if ( ! $todas ) {
-				$res = (int) get_post_meta( $p->ID, 'dc_insta_reserva', true );
-				if ( $res && $res > time() - 1800 ) continue;
+			// a trava é por robô (&robo=<código da sessão>): o MESMO robô pode abrir a lista quantas vezes quiser;
+			// outro robô não recebe a denúncia por 30 min. Sem &robo= a lista só mostra, não reserva (15/11 22h30:
+			// o robô se travava sozinho ao abrir a lista 2 vezes e as denúncias 6354/6356 sumiam).
+			$robo = substr( sanitize_key( (string) $req->get_param( 'robo' ) ), 0, 40 );
+			if ( ! $todas && $robo ) {
+				$res  = (int) get_post_meta( $p->ID, 'dc_insta_reserva', true );
+				$dono = (string) get_post_meta( $p->ID, 'dc_insta_reserva_robo', true );
+				if ( $res && $res > time() - 1800 && $dono && $dono !== $robo ) continue;
 				update_post_meta( $p->ID, 'dc_insta_reserva', time() );
+				update_post_meta( $p->ID, 'dc_insta_reserva_robo', $robo );
 			}
 			$md = po_denuncia_midias( $p->ID );
 			$anon = 'credito' !== get_post_meta( $p->ID, 'dc_identidade', true ) || ! get_post_meta( $p->ID, 'dc_nome', true );
