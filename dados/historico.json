@@ -44855,5 +44855,19 @@
   "fonte": "ge.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_6354",
+  "data": "2026-11-15",
+  "hora": "22:50",
+  "media_id": "18039258512852241",
+  "titulo": "Denúncia do leitor 6354",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:6354",
+  "arte": ""
  }
 ]
