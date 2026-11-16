@@ -46170,5 +46170,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "12:25",
+  "id": "denuncia_6558_audio",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "titulo": "Denúncia do leitor OC-2026-6558 (repostagem com o áudio original)",
+  "titulo_orig": "",
+  "link": "denuncia:6558",
+  "fonte": "Faça sua denúncia",
+  "arte": "dados/reels/den-6558.mp4",
+  "media_id": "18348039277257004"
  }
 ]
