@@ -44799,5 +44799,19 @@
   "fonte": "Estadão",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "22:30",
+  "id": "012205_31",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Senado conclui votação do ajuste fiscal de Lula nesta terça, com quatro pontos ainda em aberto",
+  "titulo_orig": "Senado retoma votações com ajuste fiscal de Lula e ações contra violência na pauta",
+  "link": "https://transmissaopolitica.com.br/politica-nacional/2026/11/15/senado-votacao-ajuste-fiscal-lula-violencia/",
+  "fonte": "Transmissão Política",
+  "arte": "artes/2026-11-15/012205_31.jpg",
+  "media_id": "18187642141423565"
  }
 ]
