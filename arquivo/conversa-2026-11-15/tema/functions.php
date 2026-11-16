@@ -899,6 +899,7 @@ add_action( 'save_post_po_denuncia', function ( $post_id ) {
 		$mat = (int) get_post_meta( $post_id, 'dc_post_id', true );
 		if ( $mat && get_post( $mat ) && empty( $_POST['dc_aprovar'] ) && ( $antes !== $depois || ! empty( $GLOBALS['po_den_relato_mudou'] ) ) ) {
 			wp_update_post( array( 'ID' => $mat, 'post_content' => po_denuncia_html_site( $post_id ) ) );
+			po_limpar_cache_post( $mat );
 			$anon = 'credito' !== get_post_meta( $post_id, 'dc_identidade', true ) || ! get_post_meta( $post_id, 'dc_nome', true );
 			update_post_meta( $mat, 'po_linha_fina', 'Denúncia · Protocolo ' . get_post_meta( $post_id, 'dc_protocolo', true ) . ' · ' . ( $anon ? 'Denúncia anônima' : 'Enviada por ' . get_post_meta( $post_id, 'dc_nome', true ) ) );
 		}
@@ -1126,6 +1127,7 @@ function po_denuncia_quadro_servidor( $id, $video_id ) {
 	@unlink( $tmp );
 	return $cid;
 }
+add_action( 'init', function () { if ( get_option( 'po_den_cache_v1' ) ) return; update_option( 'po_den_cache_v1', 1 ); do_action( 'litespeed_purge_all' ); }, 101 );
 // uma vez só: tira a arte com moldura da capa das matérias de denúncia já publicadas que só tinham vídeo
 add_action( 'init', function () {
 	if ( get_option( 'po_den_site_v3' ) ) return;
@@ -1143,6 +1145,18 @@ add_action( 'init', function () {
 		po_denuncia_quadro_servidor( $d->ID, $md['video'] );
 	}
 }, 100 );
+
+/* capa trocada (ou matéria de denúncia atualizada): limpa o cache do LiteSpeed na hora, senão o leitor continua vendo a imagem antiga */
+function po_limpar_cache_post( $post_id ) {
+	do_action( 'litespeed_purge_post', $post_id );
+	do_action( 'litespeed_purge_url', get_permalink( $post_id ) );
+	do_action( 'litespeed_purge_all' ); // a capa também aparece na home e nas listas
+}
+foreach ( array( 'added_post_meta', 'updated_post_meta', 'deleted_post_meta' ) as $gancho ) {
+	add_action( $gancho, function ( $mid, $post_id, $chave ) {
+		if ( '_thumbnail_id' === $chave && get_post_meta( $post_id, 'po_denuncia_id', true ) ) po_limpar_cache_post( $post_id );
+	}, 10, 3 );
+}
 
 function po_denuncia_chave() {
 	$k = get_option( 'po_denuncia_chave' );
