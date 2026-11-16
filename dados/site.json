@@ -1,17 +1,5 @@
 [
  {
-  "id": "171257_19",
-  "data": "2026-11-14T14:16:55-03:00",
-  "titulo": "Fabrício Bruno volta a treinar com o grupo e vira boa notícia para o Cruzeiro antes do Palmeiras",
-  "linha_fina": "Zagueiro, que tratava lesão abaixo da costela, treinou normalmente neste sábado; Gabriel Pec fez trabalho individual na Toca",
-  "categoria": "cruzeiro",
-  "texto": "<p>O Cruzeiro teve uma boa notícia no treino deste sábado (14), na Toca da Raposa: o zagueiro Fabrício Bruno trabalhou normalmente com o restante do grupo. Ele vinha tratando um problema na região lombar e uma lesão em um músculo abaixo da costela, sofrida no jogo contra o Bahia, e era considerado dúvida para o próximo compromisso.</p>\n<p>A atividade, acompanhada pela imprensa nos primeiros 20 minutos, começou com o tradicional bobinho e seguiu com exercícios em campo reduzido, com situações de superioridade e inferioridade numérica. O treino faz parte da preparação para o duelo contra o Palmeiras, marcado para quarta-feira (18), pelo Campeonato Brasileiro.</p>\n<p>O atacante Gabriel Pec também foi a campo, mas fez atividade individualizada, separado do grupo. Ele se recupera de uma fratura na tíbia da perna esquerda, sofrida na partida contra o Internacional, em 22 de julho. Não foi divulgado prazo para o retorno do jogador às atividades completas.</p>\n<p>Apesar da evolução, a volta de Fabrício Bruno aos treinos não significa, por enquanto, que ele está confirmado para enfrentar o Palmeiras. A decisão deve ser tomada ao longo da semana, de acordo com a resposta física do zagueiro.</p>\n<p>Antes do treino, o volante Lucas Romero concedeu entrevista e falou sobre o momento do time, que vem de uma sequência positiva na competição. O Cruzeiro já vendeu cerca de 20 mil ingressos para a partida contra o Palmeiras.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/171257_19.jpg",
-  "credito_foto": "Paulo Filgueiras/EM/D.A.Press",
-  "fonte": "Brasileirão.com.br e ge",
-  "resumos": ""
- },
- {
   "id": "171242_12",
   "data": "2026-11-14T14:16:55-03:00",
   "titulo": "Retidos em Ohio após caos aéreo nos EUA, engenheiros brasileiros conseguem voo de volta",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/123540_20.jpg",
   "credito_foto": "Foto: Gil Leonardi/Imprensa MG",
   "fonte": "Rede 98 e Fiemg",
+  "resumos": ""
+ },
+ {
+  "id": "123638_idio",
+  "data": "2026-11-16T09:36:51-03:00",
+  "titulo": "Fim do adicional de R$ 1,40 ainda não chegou às bombas: diesel S10 segue a R$ 6,95 em média em Minas",
+  "linha_fina": "Em BH, o litro continua em R$ 6,91; subvenção principal de R$ 2,12 vence em 26 de novembro e governo ainda não disse se vai renovar.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O fim do adicional de R$ 1,40 por litro pago pelo governo federal aos importadores de diesel ainda não chegou às bombas de Minas Gerais. Levantamento do jornal O Tempo com notas fiscais eletrônicas mostra que a média do diesel S10 em 904 postos de 42 cidades do estado está em R$ 6,95 nesta segunda-feira (16), contra R$ 6,96 em 10 de novembro.</p>\n<p>Em Belo Horizonte, o litro continua custando, em média, R$ 6,91. Entre os 863 postos que tinham nota de diesel S10 nas duas datas, 717 mantiveram o preço, 99 baixaram e 47 subiram. O maior preço encontrado no estado foi de R$ 8,49, em Confins, na Grande BH.</p>\n<p>Entre as maiores cidades mineiras, Divinópolis tem a média mais alta (R$ 7,21), seguida de Uberaba (R$ 7,11) e Governador Valadares (R$ 7,10). Na Grande BH, Betim aparece com R$ 6,85 e Contagem com R$ 6,80.</p>\n<p>O adicional de R$ 1,40 foi criado em outubro, por 30 dias, só para o diesel importado, e venceu no dia 12. Na sexta-feira (13), o Ministério da Fazenda informou que não vai renová-lo, mas disse que a decisão pode ser revista de acordo com o preço do petróleo.</p>\n<p>Continua valendo a subvenção principal, de R$ 2,12 por litro de diesel rodoviário, paga a produtores e importadores. Ela foi prorrogada em 27 de outubro e vence em 26 de novembro. O governo ainda não anunciou se vai renová-la. Como o valor é pago a produtores e importadores, não há garantia de que chegue inteiro ao preço cobrado nos postos.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/123638_idio.jpg",
+  "credito_foto": "Arte: O Tempo (dados da Nota Fiscal Mineira/SEF-MG)",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
