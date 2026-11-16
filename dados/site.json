@@ -1,17 +1,5 @@
 [
  {
-  "id": "151052_29",
-  "data": "2026-11-14T12:16:16-03:00",
-  "titulo": "Wi-Fi BH Gratuito chega às 220 vilas, favelas e ocupações da capital; veja como se conectar",
-  "linha_fina": "Prefeitura instalou 59 novos pontos em outubro e a rede pública passou de 5 mil locais atendidos em Belo Horizonte.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>A rede pública de internet gratuita da Prefeitura de Belo Horizonte chegou a todas as 220 vilas, favelas e ocupações da capital. Ao longo de outubro, a PBH instalou 59 novos pontos do programa Wi-Fi BH Gratuito, distribuídos por sete regionais, e a rede passou a contar com mais de cinco mil locais atendidos.</p><p>Dos novos acessos, 44 foram instalados em áreas de ocupação urbana, 10 em praças e espaços de lazer e cinco em vilas. A regional Nordeste foi a que recebeu a maior parte das novas instalações em comunidades.</p><p>Com a expansão, regiões que antes tinham pouca oferta de conexão passaram a contar com uma alternativa gratuita de acesso à internet, tanto nas comunidades quanto em espaços públicos de convivência usados por moradores e frequentadores.</p><p>O acesso pode ser feito pelo celular, tablet ou notebook. Basta ligar o Wi-Fi do aparelho, procurar a rede \"Wi-Fi BH Gratuito\" na lista de redes disponíveis e selecioná-la. Em seguida, aparece uma tela de cadastro em que é preciso informar nome, CPF, telefone e endereço para liberar a navegação.</p><p>A lista de pontos da rede pode ser consultada no site da Prefeitura de Belo Horizonte.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/151052_29.jpg",
-  "credito_foto": "Divulgação/PBH",
-  "fonte": "Prefeitura de Belo Horizonte",
-  "resumos": ""
- },
- {
   "id": "151119_1",
   "data": "2026-11-14T12:16:16-03:00",
   "titulo": "Ajuste fiscal, LDO, CBS e marco da IA: veja o que o Congresso deve votar até dezembro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/101620_135.jpg",
   "credito_foto": "Reprodução/TV Globo",
   "fonte": "Terra",
+  "resumos": ""
+ },
+ {
+  "id": "102720_117",
+  "data": "2026-11-16T07:27:35-03:00",
+  "titulo": "Atriz de \"Assalto à Brasileira\" descobre que o pai trabalhava no banco assaltado em Londrina em 1987",
+  "linha_fina": "Yohama Eshima interpreta uma das bancárias feitas reféns e só soube da ligação da família com o crime durante a preparação para o papel.",
+  "categoria": "entretenimento",
+  "texto": "<p>A atriz Yohama Eshima descobriu uma ligação pessoal com a história do filme \"Assalto à Brasileira\". O longa reconstitui o assalto a uma agência do Banestado em Londrina, no Paraná, em 10 de dezembro de 1987, um dos crimes mais marcantes da história da cidade. No filme, ela interpreta uma das bancárias feitas reféns.</p><p>Durante a preparação para o papel, Yohama soube que o pai tinha trabalhado justamente no banco onde o crime aconteceu. Em entrevista ao Metrópoles, ela contou que não conhecia a história do assalto até receber o roteiro. Nascida em 1988, a atriz guardava lembranças de infância do banco, já que acompanhou o pai algumas vezes durante o expediente.</p><p>\"Quando eu era pequena, eu cheguei a ir algumas vezes para o trabalho com o meu pai. E aí, de repente, eu me vi no ambiente de trabalho do meu pai, que era o meu ambiente de trabalho\", relatou. Segundo ela, o pai nunca falou sobre o assalto, mas as gravações trouxeram de volta recordações afetivas: \"Eu vi a minha criança ali, em algum lugar, brincando com as notas, com as canetas\".</p><p>A personagem de Yohama foi inspirada em Ana, uma das funcionárias que estavam na agência no dia do crime. As duas conversaram antes das filmagens sobre o que a bancária viveu durante o assalto.</p><p>A atriz contou que a postura firme da bancária real foi uma das características que mais a ajudaram a construir a personagem, desde o teste para o papel.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/102720_117.jpg",
+  "credito_foto": "Divulgação",
+  "fonte": "Metrópoles",
   "resumos": ""
  }
 ]
