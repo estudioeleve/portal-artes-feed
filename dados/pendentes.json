@@ -1,18 +1,5 @@
 [
  {
-  "id": "denuncia_6354_nome",
-  "tipo": "video",
-  "acao": "create_video_post",
-  "video_url": "https://cdn.jsdelivr.net/gh/estudioeleve/portal-artes-feed@main/dados/reels/den-6354-nome.mp4",
-  "share_to_feed": true,
-  "thumb_offset": 3000,
-  "legenda": "📢 DENÚNCIA DO LEITOR | Santa Rita\n\nSegundo a denúncia enviada ao Portal, moradores do bairro Santa Rita, em Santa Luzia, reclamam da falta de iluminação pública em um trecho da Avenida Capitão Eduardo e relatam medo de assaltos e quedas durante a noite.\n\nRelato do leitor:\n\"Moradores do bairro Santa Rita, em Santa Luzia, voltaram a denunciar a falta de iluminação pública na Avenida Capitão Eduardo. Fabrício Bom Pastor, conhecido como Fiscal do Povo, esteve novamente no local após receber reclamações da população sobre a escuridão em um trecho da via.\n\nSegundo Fabrício, o problema não é recente. Ele afirma que já havia registrado a situação em 2023 e 2024 e que retornou após ser procurado mais uma vez pelos moradores.\n\nA principal preocupação é com a segurança de quem precisa passar pela avenida durante a noite, especialmente trabalhadores que retornam para casa.\nDurante a gravação, Fabrício Bom Pastor mostra a falta de iluminação e conversa com pessoas que utilizam a avenida.\n\nEm determinado momento, ele chama a atenção para uma mulher que passa pelo trecho escuro após um dia de trabalho.\n\nO Fiscal do Povo também questiona os moradores sobre o tempo em que a região enfrenta o problema.\n\nUma das pessoas abordadas relata que a situação já se prolonga há mais de um ano.\nUm morador ouvido durante a gravação afirma que a falta de iluminação preocupa quem precisa circular pela região.\n\nEle destaca que existe uma academia nas proximidades e que várias pessoas utilizam a avenida, principalmente no retorno do trabalho.\n\nAlém do receio de assaltos, o morador menciona o risco de quedas e tropeços, especialmente para pessoas idosas que precisam passar pelo local. (...)\"\n\nLeia o relato completo no site: https://portalonenews.com.br/santa-luzia/moradores-reclamam-de-falta-de-iluminacao-na-avenida-capitao-eduardo-no-santa-rita/\n\nDenúncia feita por Fabrício Bom Pastor\nProtocolo OC-2026-6354\n\nO espaço está aberto para os citados se manifestarem.\n\nViu algo errado no seu bairro? Faça sua denúncia pelo link na bio ou em portalonenews.com.br/denuncia\n\n#PortalONENews #PortalLuziense #SantaLuzia #SantaRita #Denúncia",
-  "portal": "luziense",
-  "ed": "DENÚNCIA",
-  "titulo": "Denúncia OC-2026-6354 (repostagem com o nome de Fabrício Bom Pastor, pedido do Israel 15/11 22h56)",
-  "obs": "PRIMEIRO da fila. Israel apagou o Reels anônimo e pediu repostar com 'Denúncia feita por Fabrício Bom Pastor'. Antes de postar, confira no historico.json se o id denuncia_6354_nome já saiu; se já, só tire daqui. NÃO chame /postada (a denúncia já está marcada como postada no site)."
- },
- {
   "id": "231700_israel",
   "titulo": "Morre aos 80 anos Félix Gallardo, o \"Chefe dos Chefes\" e fundador do cartel de Guadalajara",
   "link": "https://www.metropoles.com/mundo/morre-o-narcotraficante-mexicano-miguel-angel-felix-gallardo-aos-80-anos",

@@ -44953,5 +44953,18 @@
   "fonte": "Várzea BH",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_6354_nome",
+  "data": "2026-11-15",
+  "hora": "23:32",
+  "media_id": "18101205524400517",
+  "titulo": "Denúncia do leitor OC-2026-6354 (repostagem com o nome de Fabrício Bom Pastor)",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:6354",
+  "arte": "dados/reels/den-6354-nome.mp4"
  }
 ]
