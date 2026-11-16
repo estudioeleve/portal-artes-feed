@@ -45498,5 +45498,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-16/112039_83.jpg",
   "media_id": "18097364165161519"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "09:24",
+  "id": "092000_israel",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Diogo Nogueira provoca Patrícia Abravanel no SBT e ouve: “Eu sou o banquete, meu amor!”",
+  "titulo_orig": "",
+  "link": "israel:092000_israel",
+  "fonte": "SBT",
+  "arte": "videos/2026-11-16/0920_diogo_patricia_sbt.mp4",
+  "media_id": "18116697074618685"
  }
 ]
