@@ -45806,5 +45806,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "10:35",
+  "id": "131946_88",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Dívida do INSS do MEI será perdoada sozinha em 2027, mas DAS precisa estar em dia",
+  "titulo_orig": "Perdão de dívidas do MEI será aplicado automaticamente em 2027",
+  "link": "https://www.atribunarj.com.br/materia/perdao-de-dividas-do-mei-sera-aplicado-automaticamente-em-2027",
+  "fonte": "A Tribuna RJ",
+  "arte": "artes/2026-11-16/131946_88.jpg",
+  "media_id": "17900931762614655"
  }
 ]
