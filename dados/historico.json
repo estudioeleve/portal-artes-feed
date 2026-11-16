@@ -44505,5 +44505,19 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-15/231441_14.jpg",
   "media_id": "17954392584051151"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "21:20",
+  "id": "001353_9",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Rede de Postos Machado anuncia centro com padaria, lavanderia e conveniência em Pedro Leopoldo",
+  "titulo_orig": "Rede de Postos Machado anuncia novo centro de serviços na região da Via Norte, em Pedro Leopoldo",
+  "link": "https://pordentrodetudo.com.br/rede-de-postos-machado-anuncia-novo-centro-de-servicos-na-regiao-da-via-norte-em-pedro-leopoldo/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-15/001353_9.jpg",
+  "media_id": "18130020922667608"
  }
 ]
