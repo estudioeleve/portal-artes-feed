@@ -1,17 +1,5 @@
 [
  {
-  "id": "131129_16",
-  "data": "2026-11-14T10:17:41-03:00",
-  "titulo": "PBH vai gastar R$ 379 mil com manejo e monitoramento das capivaras da Lagoa da Pampulha",
-  "linha_fina": "Contratação sem licitação do Instituto Patas Brasil foi publicada no Diário Oficial; controle da população ajuda a prevenir a febre maculosa.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>A Prefeitura de Belo Horizonte (PBH) autorizou a contratação de uma entidade especializada para fazer o manejo reprodutivo e o monitoramento das capivaras que vivem na região da Lagoa da Pampulha e do ribeirão Pampulha. O valor estimado do serviço é de R$ 379.858,35.</p><p>A autorização foi publicada no Diário Oficial do Município (DOM) e prevê a contratação direta, por inexigibilidade de licitação, do Instituto Patas Brasil, associação civil sem fins lucrativos.</p><p>O controle populacional das capivaras é uma das estratégias da prefeitura para reduzir os riscos ligados à febre maculosa. Os animais são hospedeiros do carrapato-estrela, que pode transmitir a bactéria causadora da doença. A febre maculosa é grave e pode levar à morte se não for tratada logo no início.</p><p>O trabalho de controle começou em 2017, com esterilização e colocação de microchips nos animais, depois da morte de um menino de dez anos, em 2016, que havia passeado pela orla da lagoa. Desde então, o município mantém o monitoramento, tentando conciliar a preservação da fauna com a proteção da saúde de quem frequenta a região.</p><p>Belo Horizonte não registra casos de febre maculosa há anos, mas a recomendação de cuidado continua, principalmente em áreas de vegetação próximas a rios, córregos, lagos, parques e matas. Quem passar por esses locais deve usar roupas claras, calças compridas e calçados fechados, e conferir o corpo em busca de carrapatos depois do passeio.</p><p>Em caso de febre, dor no corpo e manchas na pele após contato com áreas de mata ou com carrapatos, a orientação é procurar um serviço de saúde e informar a exposição ao médico.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-14/131129_16.jpg",
-  "credito_foto": "Foto: Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "131144_7",
   "data": "2026-11-14T10:17:41-03:00",
   "titulo": "Dia Nacional da Alfabetização: 812 cidades mineiras já têm política municipal para ensinar a ler na idade certa",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/012057_48.jpg",
   "credito_foto": "Reprodução/TV Globo",
   "fonte": "Estadão",
+  "resumos": ""
+ },
+ {
+  "id": "014035_1",
+  "data": "2026-11-15T22:40:52-03:00",
+  "titulo": "Fórum de Buenos Aires, o \"Gilmarpalooza\", reúne ministros do STF e do STJ, deputados e empresários nesta semana",
+  "linha_fina": "Encontro de quarta (18) a sexta (20) terá Gilmar Mendes, Flávio Dino, Hugo Motta e debates sobre IA e crime organizado.",
+  "categoria": "politica",
+  "texto": "<p>Ministros do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ), parlamentares e empresários brasileiros vão participar, de quarta-feira (18) a sexta-feira (20), da segunda edição do Fórum de Buenos Aires, na Argentina. O evento, apelidado de \"Gilmarpalooza\", é organizado pela FGV Justiça, pelo Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP) e pela Universidade de Buenos Aires (UBA).</p><p>Entre os confirmados estão os ministros do STF Gilmar Mendes, anfitrião do encontro, e Flávio Dino, além dos ministros do STJ Luis Felipe Salomão, presidente da Corte, Rogerio Schietti Cruz, Paulo Sérgio Domingues e Ricardo Villas Bôas Cueva. O presidente da Câmara, Hugo Motta (Republicanos-PB), participa da abertura.</p><p>A programação inclui debates sobre democracia na América Latina, polarização, judicialização da política, limites da atuação dos tribunais, reformas econômicas, sistemas tributários, crime organizado e inteligência artificial. O empresário André Esteves, do BTG Pactual, fará palestra sobre desenvolvimento econômico, com mediação de Gilmar Mendes.</p><p>A regulamentação da inteligência artificial terá destaque, com o senador Eduardo Gomes (PL-TO), relator do marco legal da IA no Senado, e o deputado Aguinaldo Ribeiro (PP-PB), relator da proposta na Câmara. No último dia, Flávio Dino debate crime organizado e fronteiras com o jurista argentino Eugenio Raúl Zaffaroni.</p><p>Também estão confirmados os deputados Arlindo Chinaglia (PT-SP) e Doutor Luizinho (PP-RJ) e representantes dos setores financeiro, de saúde, energia, seguros e saneamento. As palestras acontecem na Faculdade de Direito da UBA.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/014035_1.jpg",
+  "credito_foto": "Reprodução/Gazeta do Povo",
+  "fonte": "Gazeta do Povo",
   "resumos": ""
  }
 ]
