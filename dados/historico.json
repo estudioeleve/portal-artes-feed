@@ -47080,5 +47080,61 @@
   "fonte": "n3news.com.br",
   "arte": "artes/2026-11-16/211508_29.jpg",
   "media_id": "18082847933402863"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:20",
+  "id": "211115_69",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Viatura da PRF capota na BR-381 durante chuva em São Gonçalo do Rio Abaixo; ninguém se feriu",
+  "titulo_orig": "Vídeo: viatura da PRF capota após acidente na BR-381 no interior de MG | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/video-viatura-da-prf-capota-apos-acidente-na-br-381-no-interior-de-mg/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:20",
+  "id": "211538_140",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Bailarina de Leonardo escorrega e cai no palco durante show, e reação do cantor viraliza",
+  "titulo_orig": "Bailarina de Leonardo cai no palco e reação do cantor viraliza: 'Meu Deus'",
+  "link": "https://www.terra.com.br/diversao/gente/bailarina-de-leonardo-cai-no-palco-e-reacao-do-cantor-viraliza-meu-deus,76dce101f142186cfcaed8a5c94942f1sn237r2n.html",
+  "fonte": "Terra",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:20",
+  "id": "211548_15",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Motorista fica preso às ferragens após batida de frente entre carro e furgão na MG-238, perto de Fortuna de Minas",
+  "titulo_orig": "Motorista fica preso às ferragens após colisão frontal na MG-238, perto de Fortuna de Minas",
+  "link": "https://www.megacidade.com/noticia/70509/motorista-fica-preso-as-ferragens-apos-colisao-frontal-na-mg-238-perto-de-fortuna-de-minas",
+  "fonte": "Mega Cidade",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:20",
+  "id": "211650_40",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "TRE-MG cassa mandato do vereador Ronaldo Tannús, de Uberlândia, por infidelidade partidária",
+  "titulo_orig": "TRE-MG cassa mandato do vereador Ronaldo Tannús, de Uberlândia, por infidelidade partidária",
+  "link": "https://paranaibamais.com.br/politica/tre-mg-cassa-mandato-de-ronaldo-tannus-em-uberlandia-por-infidelidade-partidaria/",
+  "fonte": "Paranaíba Mais",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
