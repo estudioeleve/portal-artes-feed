@@ -5,11 +5,12 @@
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
 - Rodada sem demora: pautas, artes e primeiro post nos primeiros minutos da rodada.
 
-## 🧩 TODO POST ESTÁTICO DE IMAGEM NO FEED VIRA CARROSSEL DE 2 IMAGENS (Israel, 15/11/2026 ~16h45, repetido ~17h) — vale para notícias e denúncias
-- **Post de imagem no feed**: publicar com `create_carousel_post` (não mais `create_image_post`): `image_urls` = [arte da publicação (link do `links.py`), convite].
-- **2ª imagem, sempre a mesma, sem nenhuma alteração**: o convite do site (`https://portalonenews.com.br/wp-content/themes/portal-one/assets/denuncia/convite-denuncia.png`). Como o Instagram só aceita JPEG, a cópia em JPEG (mesma imagem, 1080x1350, só convertida) está em `artes/convite/convite-denuncia.jpg`: use o link jsDelivr/raw dela no mesmo commit da arte.
-- **Reels não levam o convite** (`create_video_post` normal). Carrossel de várias artes (ex.: pedido do Israel): o convite entra como última imagem.
-- Denúncia de feed: carrossel [arte_feed, convite]. Fecho da legenda das denúncias passa a ser: "Viu algo errado no seu bairro? Faça sua denúncia pelo link na bio ou em portalonenews.com.br/denuncia".
+## 🧩 CONVITE "FAÇA SUA DENÚNCIA" SÓ NO POST DE DENÚNCIA EM IMAGEM (Israel, 15/11/2026 21h13 — substitui a regra de 16h45)
+- **Notícias NÃO levam mais o convite.** Post de notícia em imagem no feed volta a ser **uma imagem só**, com `create_image_post` (só a arte da notícia). Carrossel de várias artes pedido pelo Israel: só as artes dele, sem convite.
+- **O convite vai SOMENTE na denúncia do leitor que sai como post estático de imagem no feed** (`instagram_formato` = "feed"): `create_carousel_post` com `image_urls` = [arte_feed, convite].
+- **Convite, sempre a mesma imagem, sem nenhuma alteração**: `https://portalonenews.com.br/wp-content/themes/portal-one/assets/denuncia/convite-denuncia.jpg` (cópia em JPEG também em `artes/convite/convite-denuncia.jpg`).
+- **Reels nunca levam o convite** (nem de notícia, nem de denúncia): `create_video_post` normal.
+- Fecho da legenda das denúncias: "Viu algo errado no seu bairro? Faça sua denúncia pelo link na bio ou em portalonenews.com.br/denuncia".
 
 ## 📢 DENÚNCIAS DO LEITOR ("Faça sua denúncia") (Israel, 15/11/2026, atualizada ~17h) — tarefa fixa de toda rodada
 - **A chave fica só no prompt da tarefa agendada, nunca neste repositório** (ele é público). Não copie a chave para nenhum arquivo, commit, legenda ou erros.txt. Sem a chave, anote em `dados/erros.txt` "denúncias sem chave" e siga a rodada.
@@ -187,7 +188,7 @@ A redução provisória de 01/11 acabou. "Nós estamos falhando em Santa Luzia."
 ## ⚠️ NUNCA POST SEM FOTO (01/11/2026: o pendente das Cabulosas saiu com a moldura vazia)
 - A foto de item pendente pode não estar no repositório (fotos/ não vai para o GitHub). **Nunca rode o artes.js de novo
   num pendente**: use a arte que já está no GitHub. O `artes.js` agora pula item sem foto e não refaz arte de pendente.
-- **Antes de cada post de imagem (carrossel com o convite), abra a arte (Read) e confira que tem foto.** Moldura vazia/cinza = não publique.
+- **Antes de cada post de imagem, abra a arte (Read) e confira que tem foto.** Moldura vazia/cinza = não publique.
 
 
 Este arquivo é a instrução de cada rodada automática. Quem roda é o Claude, numa sessão agendada.
@@ -352,7 +353,7 @@ Tudo o que o Israel vê é em português.
    cortando rosto de forma estranha, nem ter marca d'água de outro veículo grande no meio.
 7. `python3 robo/site.py <ids>` (ver seção Site) e depois `git add -A && git commit && git push`
    (as imagens precisam estar no GitHub antes de publicar).
-8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push; se sair REPETIDO, não publique) e publique com `create_carousel_post` [arte, convite] (regra do carrossel no topo; Reels sem convite)
+8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push; se sair REPETIDO, não publique) e publique com `create_image_post` (só a arte, **sem convite**: o convite agora vai só nas denúncias em imagem)
    (`image_url` = **primeiro link** que ele imprimir, o do jsDelivr; `caption` = `legenda`),
    depois `python3 robo/historico.py <id> <media_id>`, e esperar 8 a 12 minutos antes do próximo
    (comando em segundo plano `sleep 540`).
