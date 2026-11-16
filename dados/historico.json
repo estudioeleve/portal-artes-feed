@@ -47178,5 +47178,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "18:38",
+  "id": "211544_56",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Ajuste fiscal aprovado no Senado limita uso de créditos de impostos por empresas",
+  "titulo_orig": "Senado trava compensação tributária e pesa no caixa de empresas",
+  "link": "https://www.gazetadopovo.com.br/economia/senado-trava-compensacao-tributaria-e-joga-ajuste-fiscal-no-caixa-das-empresas/",
+  "fonte": "Gazeta do Povo",
+  "arte": "artes/2026-11-16/211544_56.jpg",
+  "media_id": "18178945156456691"
  }
 ]
