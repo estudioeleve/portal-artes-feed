@@ -47374,5 +47374,19 @@
   "fonte": "SouBH",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_6811",
+  "data": "2026-11-16",
+  "hora": "19:23",
+  "media_id": "18099749093442245",
+  "titulo": "Denúncia do leitor 6811",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:6811",
+  "arte": ""
  }
 ]
