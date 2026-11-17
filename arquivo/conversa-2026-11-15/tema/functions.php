@@ -970,6 +970,7 @@ add_action( 'admin_notices', function () {
 } );
 
 require_once get_template_directory() . '/inc/denuncia-arte.php';
+require_once get_template_directory() . '/inc/denuncia-posicionamento.php';
 // as rotas do robô nunca podem ficar em cache (senão ele vê lista velha e posta repetido)
 add_filter( 'rest_post_dispatch', function ( $res, $server, $req ) {
 	if ( 0 === strpos( $req->get_route(), '/portalone/v1/' ) ) {
@@ -1042,8 +1043,10 @@ function po_denuncia_html_site( $id ) {
 	if ( $local ) $html .= '<p><strong>Onde:</strong> ' . esc_html( $local ) . '</p>';
 	$html .= '<p>' . ( 'denuncia' === $tipo ? 'Relato enviado' : 'Texto enviado' ) . ' ao Portal pelo canal <a href="' . esc_url( po_denuncia_link() ) . '">Faça sua denúncia</a>:</p>';
 	$html .= '<blockquote><p>' . nl2br( esc_html( get_post_field( 'post_content', $id ) ) ) . '</p></blockquote>';
+	$posic = function_exists( 'po_posic_texto' ) ? po_posic_texto( $id ) : '';
+	if ( $posic ) $html .= '<p>' . esc_html( $posic ) . '</p>';
 	if ( 'denuncia' === $tipo ) {
-		$html .= '<p>O espaço está aberto para os citados se manifestarem.</p>';
+		if ( ! $posic ) $html .= '<p>O espaço está aberto para os citados se manifestarem.</p>';
 		$html .= '<p>Viu algo errado no seu bairro? <a href="' . esc_url( po_denuncia_link() ) . '">Faça sua denúncia aqui</a>.</p>';
 	} else {
 		$html .= '<p>Tem uma pauta, uma história ou uma notícia do seu bairro? <a href="' . esc_url( po_denuncia_link() ) . '">Envie para o Portal aqui</a>.</p>';
@@ -1269,6 +1272,7 @@ add_action( 'rest_api_init', function () {
 				'tipo' => po_den_tipo( $p->ID ), 'tipo_nome' => po_den_rot( $p->ID )['nome'], 'cabecalho' => po_den_rot( $p->ID )['cabecalho'],
 				'assinatura' => $anon ? '' : sprintf( po_den_rot( $p->ID )['por'], get_post_meta( $p->ID, 'dc_nome', true ) ),
 				'local' => get_post_meta( $p->ID, 'dc_local', true ), 'relato' => $p->post_content,
+				'posicionamento' => function_exists( 'po_posic_texto' ) ? po_posic_texto( $p->ID ) : '',
 				'instagram_formato' => $md['video'] ? 'reels' : 'feed',
 				'midia_tipo' => $md['video'] ? 'video' : 'foto',
 				'midia_url' => $md['video'] ? wp_get_attachment_url( $md['video'] ) : ( $md['foto'] ? wp_get_attachment_url( $md['foto'] ) : '' ),

@@ -61,7 +61,8 @@
   <assinatura>          (vem pronta, ex.: "Denúncia feita por Fulano" ou "Sugestão de Fulano"; só se "anonima" for false; se for true, nunca coloque nome)
   Protocolo <protocolo>
 
-  O espaço está aberto para os citados se manifestarem.          (só em tipo "denuncia")
+  <posicionamento>          (Israel, 17/11/2026: se o campo "posicionamento" da lista vier preenchido — "O Portal ONE News procurou X, que informou: ..." ou "...que não se manifestou até a publicação..." —, ponha ele aqui, na íntegra, NO LUGAR da linha de baixo)
+  O espaço está aberto para os citados se manifestarem.          (só em tipo "denuncia" e só se não houver posicionamento)
 
   Viu algo errado no seu bairro? Faça sua denúncia pelo link na bio ou em portalonenews.com.br/denuncia
   (em "pauta" e "materia" troque por: Tem uma pauta ou uma notícia do seu bairro? Envie pelo link na bio ou em portalonenews.com.br/denuncia)
