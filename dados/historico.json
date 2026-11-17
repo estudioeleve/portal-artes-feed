@@ -49922,5 +49922,33 @@
   "fonte": "BH 24 Horas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "15:18",
+  "id": "181612_13",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Cemig investe R$ 500 milhões em manutenção preventiva para enfrentar as chuvas em Minas",
+  "titulo_orig": "Cemig reforça manutenção preventiva para enfrentar período chuvoso com R$ 500 milhões em investimentos ",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/cemig-reforca-manutencao-preventiva-para-enfrentar-periodo-chuvoso-com-r-500-milhoes-em-investimentos",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "15:18",
+  "id": "181709_75",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Kaio Jorge, do Cruzeiro, é o 7º centroavante mais valioso fora das grandes ligas da Europa, aponta CIES",
+  "titulo_orig": "Kaio Jorge é o 7º atacante mais valioso fora das cinco principais ligas da Europa, aponta estudo",
+  "link": "https://rede98.com.br/esportes/cruzeiro/kaio-jorge-top-10-centroavantes-mais-valiosos-cies/",
+  "fonte": "Rede 98",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
