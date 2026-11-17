@@ -49628,5 +49628,19 @@
   "fonte": "Prefeitura de Belo Horizonte",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "13:20",
+  "id": "161156_45",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Governo de Minas confirma que a fábrica do Boticário em Pouso Alegre está suspensa sem prazo",
+  "titulo_orig": "Governo de Minas confirma suspensão de fábrica do Boticário em Pouso Alegre | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/suldeminas/governo-de-minas-confirma-suspensao-de-fabrica-do-boticario-em-pouso-alegre/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-17/161156_45.jpg",
+  "media_id": "18352505713267552"
  }
 ]
