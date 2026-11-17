@@ -50538,5 +50538,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-17/211921_14.jpg",
   "media_id": "18156554158534098"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "18:40",
+  "id": "211917_13",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Trem atinge carro e o arrasta por 50 metros em Perdões, no Sul de Minas; motorista se fere",
+  "titulo_orig": "VÍDEO: Carro é arrastado por 50 metros após ser atingido por trem em Minas Gerais",
+  "link": "https://bhaz.com.br/noticias/carro-arrastado-metros-atingido-trem-minas-gerais/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-17/211917_13.jpg",
+  "media_id": "18146671009591448"
  }
 ]
