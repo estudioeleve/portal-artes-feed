@@ -338,3 +338,4 @@
 17/11/2026 11:38 - Reels 114000_israel (Nandinho: médicos da atenção primária, pedido do Israel, moldura Luziense) saiu pelo Windsor SEM COLLAB: falta @portaluziense (painel: 'Connection reset by peer').
 17/11/2026 11:53 - 113600_israel (nota da Secretaria de Saúde de Santa Luzia negando demissão de médicos, pedido do Israel, sai DEPOIS do Reels do Nandinho 114000_israel) já está no site; Instagram recusou (limite de 100/24h) às 11:40, 11:48, 11:50 e 11:53. Está em dados/pendentes.json; a sessão das 10h segue tentando.
 17/11/2026 12:08 - Pedidos do Israel (CPI da Saúde 115000_israel, sarna 115500_israel, Natal Iluminado 160800_israel): limite de 100 posts/24h do Instagram entre 11:48 e 12:07; CPI saiu às 12:07 pelo Windsor SEM COLLAB (falta @portaluziense; painel: 'Connection reset by peer').
+17/11/2026 12:08 - 113600_israel (nota da Secretaria de Saúde) publicada no Instagram pelo Windsor às 12:07, SEM COLLAB: falta @portaluziense. Tirada dos pendentes.
