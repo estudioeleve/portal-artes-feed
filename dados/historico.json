@@ -48508,5 +48508,19 @@
   "fonte": "Conexão 424",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "07:38",
+  "id": "101311_13",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo Lula avalia trocar comando do Banco do Brasil após piora em empréstimos ao agro",
+  "titulo_orig": "Governo avalia mudança no comando do Banco do Brasil, segundo fontes",
+  "link": "https://www.bloomberglinea.com.br/brasil/governo-avalia-mudanca-no-comando-do-banco-do-brasil-segundo-fontes/",
+  "fonte": "Bloomberg Línea Brasil",
+  "arte": "artes/2026-11-17/101311_13.jpg",
+  "media_id": "18121226599966019"
  }
 ]
