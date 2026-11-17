@@ -50888,5 +50888,33 @@
   "fonte": "RibeiraoDasNeves.net",
   "arte": "artes/2026-11-17/231553_21.jpg",
   "media_id": "18079400180780739"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "20:22",
+  "id": "232136_215",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Polícia Civil prende 30 suspeitos de tráfico interestadual e lavagem de dinheiro em quatro cidades de Minas",
+  "titulo_orig": "Polícia Civil prende 30 suspeitos de tráfico de drogas e lavagem de dinheiro em quatro cidades de Minas Gerais - Últimas Notícias",
+  "link": "https://ultimasnoticias.inf.br/noticia/policia-civil-prende-30-suspeitos-de-trafico-de-drogas-e-lavagem-de-dinheiro-em-quatro-cidades-de-minas-gerais/",
+  "fonte": "Últimas Notícias",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "20:22",
+  "id": "232207_97",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SÃO JOSÉ DA LAPA",
+  "titulo": "Jovem suspeito de espancar o pai idoso no Sul de Minas é preso em comunidade terapêutica de São José da Lapa",
+  "titulo_orig": "Polícia Civil prende jovem de 21 anos que tentou matar o próprio pai na região – ONDA POÇOS",
+  "link": "https://ondapocos.com.br/policia-civil-prende-jovem-de-21-anos-que-tentou-matar-o-proprio-pai-na-regiao/",
+  "fonte": "onda poços",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
