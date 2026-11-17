@@ -12,12 +12,18 @@
 - **Reels nunca levam o convite** (nem de notícia, nem de denúncia): `create_video_post` normal.
 - Fecho da legenda das denúncias: "Viu algo errado no seu bairro? Faça sua denúncia pelo link na bio ou em portalonenews.com.br/denuncia".
 
+## 🖼️ FOTO DO SITE SEMPRE NA HORIZONTAL, CORTADA NO ASSUNTO (Israel, 17/11/2026 10h27)
+- No **site**, toda foto de capa é **horizontal 16:9 (1280x720)**: notícias do robô, pedidos do Israel e denúncias. Nada de print/foto em pé "grandão".
+- Corte no **assunto principal**: pessoa com a **cabeça inteira e um pouco do tronco**; lixão, buraco, alagamento, carro, prédio: a melhor parte do problema no meio. Nunca cortar cabeça nem o assunto.
+- Como: `python3 robo/capa16x9.py entrada.jpg saida.jpg --foco X,Y` (X,Y de 0 a 1 = onde está o assunto; ex.: rosto no alto da foto em pé = `--foco 0.5,0.25`). No `site.py`, ponha no item `"foco": [X, Y]` (sem ele, o corte padrão é 22% do topo em foto em pé). **Sempre olhe a imagem cortada (Read) antes de mandar.**
+- **Reels e Instagram não mudam**: vídeo vai inteiro, sem cortar nada.
+
 ## 🖼️ CAPA DA DENÚNCIA NO SITE: NUNCA MOLDURA; SÓ VÍDEO = PRINT DO VÍDEO NA HORIZONTAL (Israel, 15/11/2026 21h16)
 - No **site** a denúncia nunca usa a arte com moldura. Com foto: a capa é a foto original. **Só com vídeo: a capa é um print do vídeo, cortado na horizontal (16:9).** O vídeo vai para o Reels do Instagram, nunca para o site.
 - **Toda rodada**, depois das Partes A e B: GET `https://portalonenews.com.br/wp-json/portalone/v1/denuncias/sem-capa?chave=<CHAVE>&x=<aleatório>`. Para cada item:
   1. baixe o `video_url`;
-  2. `ffmpeg -y -ss 1 -i video.mp4 -frames:v 1 -vf "crop='min(iw,ih*16/9)':'min(ih,iw*9/16)',scale=1280:720" -q:v 2 capa.jpg` (se o vídeo tiver menos de 1 s, use `-ss 0`);
-  3. abra a `capa.jpg` (Read): não pode estar preta nem borrada; se estiver, tente `-ss 2` ou `-ss 3`;
+  2. `ffmpeg -y -ss 1 -i video.mp4 -frames:v 1 -q:v 2 quadro.jpg` (se o vídeo tiver menos de 1 s, use `-ss 0`) e abra o `quadro.jpg` (Read): não pode estar preto nem borrado (se estiver, tente `-ss 2` ou `-ss 3`);
+  3. veja onde está o assunto principal e corte: `python3 robo/capa16x9.py quadro.jpg capa.jpg --foco X,Y` (ver regra acima); abra a `capa.jpg` (Read): cabeça e assunto inteiros;
   4. POST da imagem: `curl -s -X POST -H "Content-Type: image/jpeg" --data-binary @capa.jpg "https://portalonenews.com.br/wp-json/portalone/v1/denuncias/<id>/capa?chave=<CHAVE>"`. O site põe de capa na matéria sozinho. Erro: anote em `dados/erros.txt`.
 - Não grave o print nem a chave no repositório.
 

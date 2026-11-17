@@ -1151,7 +1151,9 @@ function po_denuncia_salvar_capa( $id, $origem ) {
 	if ( ! $src ) return 0;
 	$w = imagesx( $src ); $h = imagesy( $src );
 	if ( $w / $h > 16 / 9 ) { $cw = (int) round( $h * 16 / 9 ); $ch = $h; } else { $cw = $w; $ch = (int) round( $w * 9 / 16 ); }
-	$x = (int) ( ( $w - $cw ) / 2 ); $y = (int) ( ( $h - $ch ) / 2 );
+	// foto/print em pé: corta mais perto do topo, para não cortar a cabeça (Israel, 17/11/2026)
+	$fy = $h > $w ? 0.22 : 0.5;
+	$x = (int) ( ( $w - $cw ) / 2 ); $y = (int) max( 0, min( $h - $ch, round( $fy * $h - $ch / 2 ) ) );
 	$dst = imagecreatetruecolor( 1280, 720 );
 	imagecopyresampled( $dst, $src, 0, 0, $x, $y, 1280, 720, $cw, $ch );
 	$up = wp_upload_dir();

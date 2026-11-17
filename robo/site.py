@@ -1,6 +1,7 @@
 """Prepara a notícia para o site (WordPress), que busca dados/site.json de 15 em 15 minutos.
 uso: python3 robo/site.py <id> [<id> ...]   (itens do dados/lote.json já com titulo, linha_fina, categoria, texto_site)
-- copia a foto (sem moldura) para site/AAAA-MM-DD/<id>.jpg
+- copia a foto (sem moldura) para site/AAAA-MM-DD/<id>.jpg, SEMPRE na horizontal 16:9 (1280x720)
+  cortada no assunto principal: campo opcional "foco": [x, y] no item (0 a 1); sem ele, ver robo/capa16x9.py
 - acrescenta a notícia em dados/site.json (guarda as últimas 400)"""
 import json,sys,os,time
 from PIL import Image
@@ -23,7 +24,9 @@ for i in sys.argv[1:]:
   foto=''
   if o.get('foto') and os.path.exists(f"{R}/{o['foto']}"):
     os.makedirs(f'{R}/site/{dia}',exist_ok=True)
-    im=Image.open(f"{R}/{o['foto']}").convert('RGB');im.thumbnail((1280,1280))
+    sys.path.insert(0,B);from capa16x9 import cortar
+    fx,fy=(o.get('foco') or [None,None])[:2]
+    im=cortar(Image.open(f"{R}/{o['foto']}"),fx,fy)
     fn=f'site/{dia}/{i}.jpg';im.save(f'{R}/{fn}',quality=84);foto='https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/'+fn
   cred=o.get('credito_site') or ''
   S.append(dict(id=i,data=time.strftime('%Y-%m-%dT%H:%M:%S-03:00',time.gmtime(time.time()-3*3600)),titulo=o['titulo'],linha_fina=o['linha_fina'],
