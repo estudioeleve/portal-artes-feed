@@ -1,17 +1,5 @@
 [
  {
-  "id": "001333_100",
-  "data": "2026-11-15T21:21:33-03:00",
-  "titulo": "Supermercados de Minas esperam vender 6,2% mais no fim de ano, puxados por frutas e vinhos",
-  "linha_fina": "Projeção da AMIS aponta frutas in natura, vinhos, carne suína, cerveja e panetone entre os itens com maior procura no Natal.",
-  "categoria": "comercio",
-  "texto": "<p>Os supermercados de Minas Gerais esperam vender 6,2% mais no Natal e no fim de ano de 2026, na comparação com o mesmo período de 2025. A projeção é da Associação Mineira de Supermercados (AMIS) e foi destacada pela presidente da Associação dos Supermercadistas de Uberaba (Assuper), Juliane Foscarini, em entrevista à Rádio JM.</p>\n<p>O índice é quase o dobro do crescimento esperado para os outros meses do ano, que costuma ficar entre 3,5% e 3,7%. O fim de ano é considerado o período mais importante para o faturamento do setor.</p>\n<p>Segundo a pesquisa da AMIS, as frutas in natura lideram a lista de produtos com maior alta prevista na procura, com 8,2%. Em seguida aparecem os vinhos, com 8%, a carne suína, com 6,72%, e as cervejas, com 6,7%. Para os panetones, a expectativa é de aumento de 6,3%.</p>\n<p>De acordo com a Assuper, a movimentação começa ainda em novembro, com clientes antecipando encomendas de carnes especiais, sobremesas e produtos típicos das festas. Nesse período, a concorrência entre os estabelecimentos também aumenta, com mais ofertas e ações para atrair e fidelizar consumidores.</p>\n<p>Para o pequeno comerciante, mercearias e sacolões, os números servem de guia: reforçar o estoque dos itens mais procurados, organizar as encomendas com antecedência e planejar promoções desde já são formas de aproveitar o melhor período de vendas do ano.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/001333_100.jpg",
-  "credito_foto": "Reprodução/JM Online",
-  "fonte": "JM Online",
-  "resumos": ""
- },
- {
   "id": "002158_83",
   "data": "2026-11-15T21:22:43-03:00",
   "titulo": "Gabriela Duarte critica José de Abreu em programa na internet: 'Não dá para passar pano'",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/201618_26.jpg",
   "credito_foto": "Divulgação/Brasil de Fato",
   "fonte": "Brasil de Fato",
+  "resumos": ""
+ },
+ {
+  "id": "201614_291",
+  "data": "2026-11-17T17:19:30-03:00",
+  "titulo": "Atleta de Sete Lagoas conquista prata e bronze no Brasileiro de Atletismo Paralímpico",
+  "linha_fina": "Jeane Carla Machado, da equipe Huracan/Kairós, subiu ao pódio no arremesso de peso e no lançamento de dardo, em São Paulo",
+  "categoria": "esporte",
+  "texto": "<p>A atleta Jeane Carla Machado, da equipe Huracan/Kairós, de Sete Lagoas, conquistou duas medalhas no Campeonato Brasileiro Loterias Caixa de Atletismo Paralímpico 2026, disputado de 12 a 14 de novembro no Estádio Olímpico do Ibirapuera, em São Paulo.</p><p>A sete-lagoana ficou com a medalha de prata no arremesso de peso e com o bronze no lançamento de dardo, subindo ao pódio em duas provas da competição.</p><p>Organizado pelo Comitê Paralímpico Brasileiro (CPB), o campeonato encerrou o calendário nacional da modalidade nesta temporada e reuniu 841 atletas de todas as regiões do país, em provas de pista e de campo.</p><p>Segundo a equipe técnica, os resultados mostram a evolução de Jeane nos treinos ao longo do ano e reforçam o trabalho da Associação Paradesportiva Kairós na formação de atletas e no incentivo ao esporte adaptado em Sete Lagoas.</p><p>As medalhas fecham bem a temporada da atleta, que agora se prepara para o calendário de 2027 do atletismo paralímpico.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/201614_291.jpg",
+  "credito_foto": "Divulgação/Mega Cidade",
+  "fonte": "Mega Cidade",
   "resumos": ""
  }
 ]
