@@ -50342,5 +50342,19 @@
   "fonte": "Mega Cidade",
   "arte": "artes/2026-11-17/201318_94.jpg",
   "media_id": "17986255202905749"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "17:29",
+  "id": "201351_354",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Justiça suspende licença de mineradora na Serra do Curral por falta de consulta a quilombo de BH",
+  "titulo_orig": "Mineração na Serra do Curral é suspensa por falta de consulta à comunidade do quilombo Manzo, em BH",
+  "link": "https://bhaz.com.br/noticias/minas-gerais/mpf-suspende-mineracao-serra-do-curral-bh/",
+  "fonte": "bhaz.com.br",
+  "arte": "artes/2026-11-17/201351_354.jpg",
+  "media_id": "17880711057567122"
  }
 ]
