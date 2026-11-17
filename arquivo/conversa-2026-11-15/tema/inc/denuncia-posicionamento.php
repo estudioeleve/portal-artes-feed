@@ -187,6 +187,8 @@ function po_posic_metabox( $post ) {
 	<p><button type="button" class="button" id="pp-abrenovo">+ Novo contato</button> <a class="button button-primary" id="pp-todos" href="#" hidden>Enviar e-mail para todos da lista</a></p>
 	<p style="color:#646970;font-size:12px">O WhatsApp abre numa aba nova, no seu WhatsApp, com a mensagem pronta (saudação com o nome, resumo, link da imagem, prazo e link para responder): é só conferir e apertar enviar. O e-mail sai pelo site, com a imagem anexada.</p>
 	<?php if ( $log ) : ?>
+		<p style="margin-bottom:2px"><b>Link de resposta</b> (o mesmo que foi enviado; pode copiar e mandar de novo):</p>
+		<p style="margin-top:0"><input type="text" readonly value="<?php echo esc_attr( po_posic_link( $post->ID ) ); ?>" style="width:100%" onclick="this.select()"></p>
 		<hr><p style="margin-bottom:4px"><b>Histórico</b></p><ul style="margin-top:0">
 		<?php foreach ( $log as $l ) echo '<li>' . esc_html( wp_date( 'd/m H\hi', $l['t'] ) . ' · ' . ( 'email' === $l['canal'] ? 'e-mail' : 'WhatsApp' ) . ' para ' . ( ! empty( $l['quem'] ) ? $l['quem'] . ' (' . $l['para'] . ')' : $l['para'] ) ) . '</li>'; ?>
 		</ul>
@@ -321,9 +323,15 @@ add_action( 'admin_post_po_posic_whats', function () {
 add_action( 'template_redirect', function () {
 	if ( empty( $_GET['po_posic'] ) ) return;
 	$tok = preg_replace( '/[^A-Za-z0-9]/', '', (string) $_GET['po_posic'] );
-	$q = get_posts( array( 'post_type' => 'po_denuncia', 'post_status' => 'any', 'meta_key' => 'dc_posic_token', 'meta_value' => $tok, 'fields' => 'ids', 'posts_per_page' => 1 ) );
-	status_header( $q ? 200 : 404 ); nocache_headers();
-	$id = $q ? $q[0] : 0; $msg = '';
+	// busca direta no banco (sem WP_Query, que plugins podem alterar) e nunca guarda em cache
+	global $wpdb;
+	if ( ! defined( 'DONOTCACHEPAGE' ) ) define( 'DONOTCACHEPAGE', true );
+	do_action( 'litespeed_control_set_nocache', 'pedido de posicionamento' );
+	@header( 'X-LiteSpeed-Cache-Control: no-cache' );
+	$id = strlen( $tok ) >= 10 ? (int) $wpdb->get_var( $wpdb->prepare( "SELECT post_id FROM {$wpdb->postmeta} WHERE meta_key = 'dc_posic_token' AND meta_value = %s ORDER BY meta_id DESC LIMIT 1", $tok ) ) : 0;
+	if ( $id && 'po_denuncia' !== get_post_type( $id ) ) $id = 0;
+	status_header( $id ? 200 : 404 ); nocache_headers();
+	$msg = '';
 	if ( $id && 'POST' === $_SERVER['REQUEST_METHOD'] && empty( $_POST['site'] ) ) {
 		$txt = sanitize_textarea_field( wp_unslash( $_POST['resposta'] ?? '' ) );
 		if ( mb_strlen( $txt ) >= 10 ) {
