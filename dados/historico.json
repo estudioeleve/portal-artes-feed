@@ -50916,5 +50916,19 @@
   "fonte": "onda poços",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "20:30",
+  "id": "231542_6",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Mais da metade dos lojistas de shoppings de BH vendeu menos em 2026, aponta pesquisa",
+  "titulo_orig": "Mais da metade dos lojistas de shoppings de BH teve queda nas vendas em 2026",
+  "link": "https://ncnews.com.br/2026/11/17/lojistas-shoppings-bh-queda-vendas-2026/",
+  "fonte": "ncnews.com.br",
+  "arte": "artes/2026-11-17/231542_6.jpg",
+  "media_id": "18134315710811178"
  }
 ]
