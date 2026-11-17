@@ -50944,5 +50944,19 @@
   "fonte": "Agência Brasil",
   "arte": "artes/2026-11-17/231629_5.jpg",
   "media_id": "18004109570813472"
+ },
+ {
+  "id": "denuncia_7341",
+  "data": "2026-11-17",
+  "hora": "20:43",
+  "media_id": "18143400865618660",
+  "titulo": "Denúncia do leitor 7341",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7341",
+  "arte": ""
  }
 ]
