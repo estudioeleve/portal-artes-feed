@@ -50566,5 +50566,19 @@
   "fonte": "O Fator",
   "arte": "artes/2026-11-17/211933_47.jpg",
   "media_id": "17917346187498428"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "18:57",
+  "id": "211923_101",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Preço do tomate dispara em várias capitais com quebra na safra; alta deve seguir no verão",
+  "titulo_orig": "Clima afeta produção e eleva preço do tomate em diversas capitais",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/clima-afeta-producao-e-eleva-preco-do-tomate-em-diversas-capitais",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-17/211923_101.jpg",
+  "media_id": "18122162159096752"
  }
 ]
