@@ -49950,5 +49950,19 @@
   "fonte": "Rede 98",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "15:22",
+  "id": "171225_2",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Cleitinho anuncia os coronéis que vão comandar a Polícia Militar de Minas a partir de janeiro",
+  "titulo_orig": "Cleitinho anuncia novos comandantes da PMMG em vídeo gravado em BH | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/cleitinho-apresenta-novos-comandantes-da-pm-em-video-na-cabana-do-pai-tomas-em-bh.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-17/171225_2.jpg",
+  "media_id": "18148203196589122"
  }
 ]
