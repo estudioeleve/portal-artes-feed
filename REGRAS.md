@@ -376,7 +376,8 @@ Tudo o que o Israel vê é em português.
    cortando rosto de forma estranha, nem ter marca d'água de outro veículo grande no meio.
 7. `python3 robo/site.py <ids>` (ver seção Site) e depois `git add -A && git commit && git push`
    (as imagens precisam estar no GitHub antes de publicar).
-8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push; se sair REPETIDO, não publique) e publique (só a arte, **sem convite**: o convite agora vai só nas denúncias em imagem) **pelo painel da Eleve, que coloca a collab sozinho** (Israel, 16/11/2026):
+8. Para cada item, um de cada vez: rode `python3 robo/links.py <id>` (depois do push; se sair REPETIDO, não publique) e publique (só a arte, **sem convite**: o convite agora vai só nas denúncias em imagem) **pelo painel da Eleve, que coloca a collab sozinho** (Israel, 16/11/2026).
+   **Painel só para quem tem collab (Israel, 17/11/2026: "foco agora nas colab")**: moldura `luziense`, `comercio` ou `politica` → painel; moldura `one` (sem collab) → direto pelo Windsor (`create_image_post`), para poupar o painel e o Instagram não bloquear de novo por "too many actions". Se o painel der "too many actions", anote o id em `dados/erros.txt` com a palavra **SEM COLLAB** e o @ que faltou, para o Israel colocar à mão:
    grave a `legenda` em /tmp/leg.txt e rode `ROBO_CHAVE=<chave do prompt> python3 robo/publicar.py --portal <portal do item> --legenda-arquivo /tmp/leg.txt --imagem <primeiro link do links.py>`.
    A última linha diz `OK <media_id> <link>`. Se disser `ERRO`, tente uma vez com o **segundo link**; se der ERRO de novo, publique pelo Windsor como antes
    (`create_image_post`, `image_url` = primeiro link, `caption` = `legenda`; sai sem collab) e anote o erro em `dados/erros.txt`.
