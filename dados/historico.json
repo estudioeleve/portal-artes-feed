@@ -47948,5 +47948,19 @@
   "fonte": "Globo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "22:23",
+  "id": "001558_37",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PSOL, da base de Lula, convoca protestos nesta terça em dez cidades contra o ajuste fiscal",
+  "titulo_orig": "Partido da base de Lula convoca protestos contra o governo em dez cidades",
+  "link": "https://veja.abril.com.br/politica/partido-da-base-de-lula-convoca-protestos-contra-o-governo-em-dez-cidades/",
+  "fonte": "VEJA",
+  "arte": "artes/2026-11-16/001558_37.jpg",
+  "media_id": "18245291788315887"
  }
 ]
