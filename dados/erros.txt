@@ -322,3 +322,4 @@
 2026-11-17 07:19 painel da Eleve: 'User is performing too many actions' (media_publish) no post 101228_eira; segunda tentativa: 'painel bloqueado nesta sessão'. Publicado pelo Windsor (sem collab).
 2026-11-17 07:58 075800_israel (menina encontrada em Santa Luzia, moldura Luziense) saiu pelo Windsor SEM a collab @portaluziense: painel da Eleve bloqueado nesta sessão (too many actions). Collab precisa ser colocada à mão.
 2026-11-17 08:07 Reels 080500_israel (Av. Rodrigues Alves) e 081000_israel (carro no córrego da UPA), moldura Luziense, saíram pelo Windsor SEM a collab @portaluziense (painel bloqueado nesta sessão por too many actions).
+2026-11-17 08:19 painel da Eleve: 'User is performing too many actions' (jsDelivr) / 'painel bloqueado nesta sessão' (raw); post 111045_20 (Cleitinho/comando da PM) saiu pelo Windsor, sem collab. Demais posts da rodada 8h pelo Windsor.
