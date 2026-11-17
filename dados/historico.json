@@ -49460,5 +49460,19 @@
   "fonte": "Diário Oficial de Santa Luzia",
   "arte": "artes/2026-11-15/160800_israel.jpg",
   "media_id": "18042484460845513"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "12:32",
+  "id": "152026_132",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Amazon prevê Black Friday recorde no Brasil e diz que lojistas parceiros dobraram as vendas",
+  "titulo_orig": "Amazon espera Black Friday recorde no Brasil com 350 centros logísticos e IA",
+  "link": "https://www.infomoney.com.br/business/amazon-espera-black-friday-recorde-no-brasil-com-350-centros-logisticos-e-ia/",
+  "fonte": "InfoMoney",
+  "arte": "artes/2026-11-17/152026_132.jpg",
+  "media_id": "17926163961444278"
  }
 ]
