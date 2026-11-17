@@ -50958,8 +50958,8 @@
   "fonte": "Faça sua denúncia",
   "link": "denuncia:7341",
   "arte": ""
-  },
-  {
+ },
+ {
   "data": "2026-11-17",
   "hora": "20:48",
   "id": "231603_125",
@@ -50972,5 +50972,19 @@
   "fonte": "Hoje em Dia",
   "arte": "artes/2026-11-17/231603_125.jpg",
   "media_id": "17948584101372166"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "20:52",
+  "id": "222333_379_b",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "LAGOA SANTA",
+  "titulo": "De Lagoa Santa para a Seleção: jovem que começou na canoagem há três anos já é convocada",
+  "titulo_orig": "Correção a pedido da atleta (era Santa Luzia)",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/balanco-2023-2026-esporte-mineiro-alcanca-investimento-recorde-de-mais-de-r-540-milhoes-com-acoes-nos-853-municipios",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "artes/2026-11-17/222333_379_b.jpg",
+  "media_id": "18101476355103595"
  }
 ]
