@@ -49978,5 +49978,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-17/171835_1.jpg",
   "media_id": "17926435245446943"
+ },
+ {
+  "id": "denuncia_7149",
+  "data": "2026-11-17",
+  "hora": "15:34",
+  "media_id": "18357379669267084",
+  "titulo": "Denúncia do leitor 7149",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7149",
+  "arte": ""
  }
 ]
