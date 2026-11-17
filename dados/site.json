@@ -1,17 +1,5 @@
 [
  {
-  "id": "231452_161",
-  "data": "2026-11-15T20:19:00-03:00",
-  "titulo": "Congresso dos EUA acelera projetos para restringir venda de chips de IA à China após caso na Nvidia",
-  "linha_fina": "Mobilização ganhou força após a renúncia do fundador da Nvidia, Jensen Huang; propostas permitem ao Congresso revisar exportações aprovadas pelo governo Trump.",
-  "categoria": "mundo",
-  "texto": "<p>O Congresso dos Estados Unidos acelerou a tramitação de projetos de lei para restringir o acesso de empresas chinesas a processadores avançados de inteligência artificial. A mobilização ganhou força depois que o fundador da fabricante norte-americana Nvidia, Jensen Huang, renunciou aos cargos de presidente e diretor-executivo na quinta-feira (12).</p>\n<p>A saída de Huang foi motivada por relacionamentos extraconjugais, entre eles com Alice Huang, ex-executiva da empresa de computação em nuvem Megaspeed, sediada em Singapura e cliente da Nvidia. Segundo o jornal The New York Times, autoridades norte-americanas concluíram que ela trabalhou como agente de inteligência de Pequim. O governo chinês negou. Apesar do mesmo sobrenome, os dois não são parentes.</p>\n<p>Há mais de um ano, órgãos dos EUA investigam se a Megaspeed desviou chips avançados da Nvidia para clientes chineses, o que violaria os controles de exportação do país. Em comunicado, a empresa negou ter enviado processadores ilegalmente à China e disse que coopera com o Departamento de Comércio.</p>\n<p>Democratas e republicanos apoiam propostas para limitar a venda de semicondutores sensíveis ao exterior. Os textos autorizam o Congresso a revisar ou até bloquear exportações aprovadas pelo governo de Donald Trump. A atual maioria republicana pretende votar as medidas antes de janeiro de 2027, quando tomam posse os congressistas eleitos neste mês.</p>\n<p>Enquanto isso, grandes provedores chineses tentam se antecipar e já reservam servidores equipados com chips da Nvidia em países do Sudeste Asiático antes que as novas restrições entrem em vigor.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/231452_161.jpg",
-  "credito_foto": "Reprodução/Poder360",
-  "fonte": "Poder360",
-  "resumos": ""
- },
- {
   "id": "231529_99",
   "data": "2026-11-15T20:19:00-03:00",
   "titulo": "Mau Mau de \"Quem Ama Cuida\", João Victor Gonçalves estreia como rei da Parada LGBT+ de Madureira",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/191252_026.jpg",
   "credito_foto": "Reprodução/Record TV Minas",
   "fonte": "R7",
+  "resumos": ""
+ },
+ {
+  "id": "192007_81",
+  "data": "2026-11-17T16:20:34-03:00",
+  "titulo": "Bombeiros usam rapel para resgatar homem de grota de 20 metros no Barreiro, em BH; Polícia Civil investiga",
+  "linha_fina": "Homem de 59 anos tinha suspeita de fraturas nas pernas e trauma na cabeça; circunstâncias ainda não foram esclarecidas.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Um homem de 59 anos foi resgatado pelo Corpo de Bombeiros de uma grota de cerca de 20 metros de altura no bairro Vila Ecológica, na região do Barreiro, em Belo Horizonte, na noite de segunda-feira (16). Imagens gravadas no local mostram o trabalho dos militares para retirar a vítima de um ponto de difícil acesso.</p><p>O resgate aconteceu perto da Igreja Pentecostal Unidos em Cristo, enquanto chovia forte na região. Segundo os bombeiros, foram usadas técnicas de rapel e içamento para tirar o homem da grota com segurança.</p><p>A vítima apresentava suspeita de fraturas nas pernas e trauma na cabeça. Depois do resgate, recebeu os primeiros atendimentos do Samu e foi levada para o Hospital João XXIII.</p><p>A Polícia Civil de Minas Gerais (PCMG) informou que apura o caso. Uma equipe da perícia esteve no local para coletar vestígios e informações. Até o momento, ninguém foi levado à delegacia, e as circunstâncias em que o homem foi parar na grota ainda não foram esclarecidas.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/192007_81.jpg",
+  "credito_foto": "Imagens cedidas/BHAZ",
+  "fonte": "BHAZ",
   "resumos": ""
  }
 ]
