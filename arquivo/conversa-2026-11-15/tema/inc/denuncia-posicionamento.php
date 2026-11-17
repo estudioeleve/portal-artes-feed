@@ -1,48 +1,93 @@
 <?php
 /**
- * Pedido de posicionamento (Israel, 17/11/2026): antes de publicar a denúncia, o Portal manda
- * para quem responde pela instituição (diretor, assessoria, secretário...), por e-mail e/ou
- * WhatsApp, o resumo e a foto (ou o print do vídeo), com o prazo de publicação e um link exclusivo
- * para responder. A resposta aparece no painel e entra na matéria quando o editor marca "Incluir".
+ * Pedido de posicionamento (Israel, 17/11/2026): antes de publicar a denúncia, o Portal manda para
+ * quem responde (diretor, secretário, prefeito, assessoria...), por e-mail e/ou WhatsApp, o resumo e a
+ * foto (ou o print do vídeo), com o prazo e um link exclusivo para responder.
+ * Os contatos ficam numa AGENDA (salva uma vez só); na denúncia é só buscar o nome e clicar.
  */
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-/* ---------- lista (Denúncias → Órgãos responsáveis): uma pessoa por linha ---------- */
-function po_posic_orgaos() {
-	$out = array();
-	foreach ( preg_split( '/\r\n|\r|\n/', (string) get_option( 'po_orgaos', '' ) ) as $l ) {
-		$p = array_map( 'trim', explode( '|', $l ) );
-		if ( '' === $p[0] ) continue;
-		$c = array( 'nome' => $p[1] ?? '', 'email' => sanitize_email( $p[2] ?? '' ), 'whats' => preg_replace( '/\D/', '', $p[3] ?? '' ) );
-		if ( ! isset( $out[ $p[0] ] ) ) $out[ $p[0] ] = array();
-		if ( $c['nome'] || $c['email'] || $c['whats'] ) $out[ $p[0] ][] = $c;
+/* ---------- agenda de contatos ---------- */
+function po_agenda() {
+	$a = get_option( 'po_agenda', null );
+	if ( ! is_array( $a ) ) { // primeira vez: aproveita a lista antiga em texto, se houver
+		$a = array();
+		foreach ( preg_split( '/\r\n|\r|\n/', (string) get_option( 'po_orgaos', '' ) ) as $l ) {
+			$p = array_map( 'trim', explode( '|', $l ) );
+			if ( '' === $p[0] ) continue;
+			$c = po_agenda_limpar( array( 'inst' => $p[0], 'nome' => count( $p ) > 3 ? $p[1] : '', 'email' => count( $p ) > 3 ? $p[2] : ( $p[1] ?? '' ), 'whats' => count( $p ) > 3 ? $p[3] : ( $p[2] ?? '' ) ) );
+			$a[ $c['id'] ] = $c;
+		}
+		update_option( 'po_agenda', $a, false );
 	}
-	return $out; // [ 'Instituição' => [ [nome, email, whats], ... ] ]
+	uasort( $a, function ( $x, $y ) { return strcasecmp( $x['nome'] . $x['inst'], $y['nome'] . $y['inst'] ); } );
+	return $a;
 }
+function po_agenda_limpar( $c ) {
+	return array(
+		'id'    => ! empty( $c['id'] ) ? preg_replace( '/[^a-z0-9]/', '', (string) $c['id'] ) : strtolower( wp_generate_password( 10, false ) ),
+		'nome'  => sanitize_text_field( $c['nome'] ?? '' ),
+		'cargo' => sanitize_text_field( $c['cargo'] ?? '' ),
+		'inst'  => sanitize_text_field( $c['inst'] ?? '' ),
+		'email' => sanitize_email( $c['email'] ?? '' ),
+		'whats' => preg_replace( '/\D/', '', (string) ( $c['whats'] ?? '' ) ),
+	);
+}
+function po_agenda_salvar_contato( $c ) {
+	$a = po_agenda(); $c = po_agenda_limpar( $c );
+	if ( ! $c['nome'] && ! $c['inst'] ) return null;
+	$a[ $c['id'] ] = $c; update_option( 'po_agenda', $a, false );
+	return $c;
+}
+function po_agenda_rotulo( $c ) { return trim( $c['nome'] . ( $c['cargo'] ? ', ' . $c['cargo'] : '' ) . ( $c['inst'] ? ' · ' . $c['inst'] : '' ), ' ,·' ); }
+
 add_action( 'admin_menu', function () {
-	add_submenu_page( 'edit.php?post_type=po_denuncia', 'Órgãos responsáveis', 'Órgãos responsáveis', 'edit_posts', 'po-orgaos', 'po_posic_pagina_orgaos' );
+	add_submenu_page( 'edit.php?post_type=po_denuncia', 'Agenda de contatos', 'Agenda de contatos', 'edit_posts', 'po-orgaos', 'po_agenda_pagina' );
 } );
-function po_posic_pagina_orgaos() {
-	if ( isset( $_POST['po_orgaos_nonce'] ) && wp_verify_nonce( $_POST['po_orgaos_nonce'], 'po_orgaos' ) ) {
-		update_option( 'po_orgaos', sanitize_textarea_field( wp_unslash( $_POST['po_orgaos'] ) ) );
-		echo '<div class="updated"><p>Lista salva.</p></div>';
+function po_agenda_pagina() {
+	if ( isset( $_POST['po_agenda_nonce'] ) && wp_verify_nonce( $_POST['po_agenda_nonce'], 'po_agenda' ) ) {
+		po_agenda_salvar_contato( wp_unslash( $_POST['c'] ?? array() ) );
+		echo '<div class="updated"><p>Contato salvo.</p></div>';
 	}
+	if ( isset( $_GET['excluir'], $_GET['_wpnonce'] ) && wp_verify_nonce( $_GET['_wpnonce'], 'po_agenda_del' ) ) {
+		$a = po_agenda(); unset( $a[ preg_replace( '/[^a-z0-9]/', '', $_GET['excluir'] ) ] ); update_option( 'po_agenda', $a, false );
+		echo '<div class="updated"><p>Contato excluído.</p></div>';
+	}
+	$a = po_agenda(); $url = admin_url( 'edit.php?post_type=po_denuncia&page=po-orgaos' );
 	?>
 	<div class="wrap">
-		<h1>Órgãos responsáveis</h1>
-		<p><b>Uma pessoa por linha</b>, assim: <code>Instituição | Nome e cargo | e-mail | WhatsApp com DDD</code>. Pode deixar o e-mail ou o WhatsApp em branco. A mesma instituição pode ter várias linhas (diretor, assessoria, secretário...).</p>
-		<p>Exemplo:<br>
-		<code>Hospital Municipal (HMPC) | Dr. Fulano de Tal, diretor | diretoria@hospital.mg.gov.br | 31 99999-0000</code><br>
-		<code>Hospital Municipal (HMPC) | Assessoria de imprensa | imprensa@hospital.mg.gov.br |</code><br>
-		<code>Prefeitura de Santa Luzia | Assessoria de Comunicação | imprensa@santaluzia.mg.gov.br | 31 98888-0000</code></p>
-		<form method="post">
-			<?php wp_nonce_field( 'po_orgaos', 'po_orgaos_nonce' ); ?>
-			<textarea name="po_orgaos" rows="18" style="width:100%;font-family:monospace"><?php echo esc_textarea( get_option( 'po_orgaos', '' ) ); ?></textarea>
-			<?php submit_button( 'Salvar lista' ); ?>
+		<h1>Agenda de contatos <span style="font-size:14px;color:#646970">(<?php echo count( $a ); ?>)</span></h1>
+		<p>Salve aqui uma vez só: diretor, secretário, prefeito, assessoria... Na denúncia, é só digitar o nome e escolher. Também dá para cadastrar direto na denúncia.</p>
+		<form method="post" id="po-ag-form" style="background:#fff;border:1px solid #dcdcde;padding:12px 16px;border-radius:6px;max-width:900px">
+			<?php wp_nonce_field( 'po_agenda', 'po_agenda_nonce' ); ?>
+			<input type="hidden" name="c[id]" id="ag-id">
+			<h2 id="ag-tit" style="margin-top:4px">Novo contato</h2>
+			<p><input name="c[nome]" id="ag-nome" placeholder="Nome (ex.: Antônio)" style="width:32%"> <input name="c[cargo]" id="ag-cargo" placeholder="Cargo (ex.: diretor)" style="width:30%"> <input name="c[inst]" id="ag-inst" placeholder="Instituição (ex.: Hospital Madalena Parrillo Calixto)" style="width:36%"></p>
+			<p><input name="c[email]" id="ag-email" type="email" placeholder="E-mail" style="width:49%"> <input name="c[whats]" id="ag-whats" placeholder="WhatsApp com DDD" style="width:49%"></p>
+			<?php submit_button( 'Salvar contato', 'primary', 'submit', false ); ?>
 		</form>
+		<p style="margin-top:16px"><input type="search" id="ag-busca" placeholder="Buscar na agenda..." style="width:320px"></p>
+		<table class="widefat striped" style="max-width:1100px"><thead><tr><th>Nome</th><th>Cargo</th><th>Instituição</th><th>E-mail</th><th>WhatsApp</th><th></th></tr></thead><tbody>
+		<?php foreach ( $a as $c ) : ?>
+			<tr data-c="<?php echo esc_attr( wp_json_encode( $c ) ); ?>"><td><b><?php echo esc_html( $c['nome'] ); ?></b></td><td><?php echo esc_html( $c['cargo'] ); ?></td><td><?php echo esc_html( $c['inst'] ); ?></td><td><?php echo esc_html( $c['email'] ); ?></td><td><?php echo esc_html( $c['whats'] ); ?></td>
+			<td><a href="#" class="ag-ed">Editar</a> · <a href="<?php echo esc_url( add_query_arg( array( 'excluir' => $c['id'], '_wpnonce' => wp_create_nonce( 'po_agenda_del' ) ), $url ) ); ?>" onclick="return confirm('Excluir este contato?')" style="color:#b32d2e">Excluir</a></td></tr>
+		<?php endforeach; ?>
+		</tbody></table>
 	</div>
+	<script>
+	document.querySelectorAll('.ag-ed').forEach(function(l){l.addEventListener('click',function(e){e.preventDefault();var c=JSON.parse(l.closest('tr').dataset.c);
+	['id','nome','cargo','inst','email','whats'].forEach(function(k){document.getElementById('ag-'+k).value=c[k]||'';});document.getElementById('ag-tit').textContent='Editar contato';window.scrollTo(0,0);});});
+	document.getElementById('ag-busca').addEventListener('input',function(){var q=this.value.toLowerCase();document.querySelectorAll('tbody tr').forEach(function(r){r.style.display=r.textContent.toLowerCase().indexOf(q)>-1?'':'none';});});
+	</script>
 	<?php
 }
+/* cadastrar contato direto da denúncia */
+add_action( 'wp_ajax_po_agenda_add', function () {
+	check_ajax_referer( 'po_agenda', 'n' );
+	if ( ! current_user_can( 'edit_posts' ) ) wp_send_json_error();
+	$c = po_agenda_salvar_contato( wp_unslash( $_POST['c'] ?? array() ) );
+	$c ? wp_send_json_success( $c + array( 'rotulo' => po_agenda_rotulo( $c ) ) ) : wp_send_json_error();
+} );
 
 /* ---------- dados do pedido ---------- */
 function po_posic_token( $id ) {
@@ -52,14 +97,6 @@ function po_posic_token( $id ) {
 }
 function po_posic_link( $id ) { return add_query_arg( 'po_posic', po_posic_token( $id ), home_url( '/' ) ); }
 function po_posic_orgao( $id ) { return array( 'nome' => (string) get_post_meta( $id, 'dc_posic_orgao', true ) ); }
-/* destinatários escolhidos nesta denúncia: [nome, email, whats, marcado] */
-function po_posic_dest( $id ) {
-	$d = get_post_meta( $id, 'dc_posic_dest', true );
-	if ( ! is_array( $d ) ) $d = array();
-	if ( ! $d && ( get_post_meta( $id, 'dc_posic_email', true ) || get_post_meta( $id, 'dc_posic_whats', true ) ) ) // versão anterior
-		$d[] = array( 'nome' => '', 'email' => (string) get_post_meta( $id, 'dc_posic_email', true ), 'whats' => (string) get_post_meta( $id, 'dc_posic_whats', true ), 'on' => 1 );
-	return $d;
-}
 function po_posic_imagem( $id ) {
 	$md  = po_denuncia_midias( $id );
 	$aid = $md['foto'] ? $md['foto'] : (int) get_post_meta( $id, 'dc_capa_video', true );
@@ -76,27 +113,34 @@ function po_posic_quando( $id ) {
 	$p = (int) get_post_meta( $id, 'dc_posic_prazo', true );
 	return $p ? wp_date( 'd/m \à\s H\hi', $p ) : '';
 }
-function po_posic_iniciar_prazo( $id ) {
-	if ( get_post_meta( $id, 'dc_posic_prazo', true ) ) return;
-	$h = (int) get_post_meta( $id, 'dc_posic_horas', true ); if ( ! $h ) $h = 24;
-	update_post_meta( $id, 'dc_posic_prazo', time() + $h * HOUR_IN_SECONDS );
+function po_posic_iniciar( $id, $c, $horas ) {
+	if ( in_array( (int) $horas, array( 2, 24, 48 ), true ) ) update_post_meta( $id, 'dc_posic_horas', (int) $horas );
+	if ( ! get_post_meta( $id, 'dc_posic_prazo', true ) ) {
+		$h = (int) get_post_meta( $id, 'dc_posic_horas', true ); if ( ! $h ) $h = 24;
+		update_post_meta( $id, 'dc_posic_prazo', time() + $h * HOUR_IN_SECONDS );
+	}
+	if ( ! get_post_meta( $id, 'dc_posic_orgao', true ) ) update_post_meta( $id, 'dc_posic_orgao', $c['inst'] ? $c['inst'] : trim( $c['nome'] . ( $c['cargo'] ? ', ' . $c['cargo'] : '' ) ) );
+	$ids = array_filter( (array) get_post_meta( $id, 'dc_posic_ids', true ) );
+	if ( ! in_array( $c['id'], $ids, true ) ) { $ids[] = $c['id']; update_post_meta( $id, 'dc_posic_ids', array_values( $ids ) ); }
 }
 function po_posic_marcar_envio( $id, $canal, $c ) {
 	$log = array_filter( (array) get_post_meta( $id, 'dc_posic_log', true ) );
-	$log[] = array( 't' => time(), 'canal' => $canal, 'para' => 'email' === $canal ? $c['email'] : $c['whats'], 'quem' => $c['nome'], 'orgao' => po_posic_orgao( $id )['nome'] );
+	$log[] = array( 't' => time(), 'canal' => $canal, 'para' => 'email' === $canal ? $c['email'] : $c['whats'], 'quem' => po_agenda_rotulo( $c ), 'orgao' => '' );
 	update_post_meta( $id, 'dc_posic_log', array_values( $log ) );
 }
-function po_posic_saudacao( $nome ) { return $nome ? preg_replace( '/,.*$/', '', $nome ) : ''; }
+function po_posic_saudacao( $c ) { return $c['nome'] ? preg_replace( '/,.*$/', '', $c['nome'] ) : ''; }
+function po_posic_url_envio( $post_id, $canal, $ids ) {
+	return add_query_arg( array( 'action' => 'po_posic_' . $canal, 'post' => $post_id, 'ids' => implode( ',', (array) $ids ), '_wpnonce' => wp_create_nonce( 'po_posic_' . $post_id ) ), admin_url( 'admin-post.php' ) );
+}
 
 /* ---------- texto do WhatsApp ---------- */
 function po_posic_texto_whats( $id, $c ) {
 	list( $tit, $rel ) = po_posic_resumo( $id );
 	list( $img ) = po_posic_imagem( $id );
-	$org = po_posic_orgao( $id )['nome'];
 	$prot = get_post_meta( $id, 'dc_protocolo', true );
 	$local = get_post_meta( $id, 'dc_local', true );
-	$s  = ( po_posic_saudacao( $c['nome'] ) ? 'Olá, ' . po_posic_saudacao( $c['nome'] ) . '! ' : 'Olá! ' ) . "Aqui é da redação do *Portal ONE News*.\n\n";
-	$s .= 'Recebemos de um leitor o relato abaixo' . ( $org ? ', envolvendo ' . $org : '' ) . ( $local ? " ({$local})" : '' ) . ', protocolo ' . $prot . ".\n\n";
+	$s  = ( po_posic_saudacao( $c ) ? 'Olá, ' . po_posic_saudacao( $c ) . '! ' : 'Olá! ' ) . "Aqui é da redação do *Portal ONE News*.\n\n";
+	$s .= 'Recebemos de um leitor o relato abaixo' . ( $c['inst'] ? ', envolvendo ' . $c['inst'] : '' ) . ( $local ? " ({$local})" : '' ) . ', protocolo ' . $prot . ".\n\n";
 	if ( $tit ) $s .= '*' . $tit . "*\n";
 	$s .= '"' . $rel . "\"\n\n";
 	if ( $img ) $s .= "Imagem enviada pelo leitor: {$img}\n\n";
@@ -106,63 +150,98 @@ function po_posic_texto_whats( $id, $c ) {
 
 /* ---------- caixa no painel da denúncia ---------- */
 add_action( 'add_meta_boxes', function () {
-	add_meta_box( 'dc_posic', 'Pedir posicionamento do órgão responsável', 'po_posic_metabox', 'po_denuncia', 'normal', 'default' );
+	add_meta_box( 'dc_posic', 'Pedir posicionamento', 'po_posic_metabox', 'po_denuncia', 'normal', 'default' );
 } );
 function po_posic_metabox( $post ) {
 	wp_nonce_field( 'dc_posic', 'dc_posic_nonce' );
-	$org = po_posic_orgao( $post->ID )['nome']; $lista = po_posic_orgaos(); $dest = po_posic_dest( $post->ID );
-	while ( count( $dest ) < 4 ) $dest[] = array( 'nome' => '', 'email' => '', 'whats' => '', 'on' => 0 );
+	$ag = po_agenda();
 	$h = (int) get_post_meta( $post->ID, 'dc_posic_horas', true ); if ( ! $h ) $h = 24;
 	$prazo = (int) get_post_meta( $post->ID, 'dc_posic_prazo', true );
 	$log = array_filter( (array) get_post_meta( $post->ID, 'dc_posic_log', true ) );
 	$resp = get_post_meta( $post->ID, 'dc_posic_resposta', true );
+	$ids = array_values( array_filter( (array) get_post_meta( $post->ID, 'dc_posic_ids', true ), function ( $i ) use ( $ag ) { return isset( $ag[ $i ] ); } ) );
+	$lista = array();
+	foreach ( $ag as $c ) $lista[] = $c + array( 'rotulo' => po_agenda_rotulo( $c ) );
+	$base = array( 'email' => po_posic_url_envio( $post->ID, 'email', array( 'IDS' ) ), 'whats' => po_posic_url_envio( $post->ID, 'whats', array( 'IDS' ) ) );
 	if ( isset( $_GET['po_posic_ok'] ) ) echo '<div class="notice notice-success inline"><p>' . esc_html( wp_unslash( $_GET['po_posic_ok'] ) ) . '</p></div>';
 	?>
-	<style>#dc_posic table{width:100%;border-collapse:collapse}#dc_posic td{padding:3px 2px;vertical-align:middle}#dc_posic td input[type=text],#dc_posic td input[type=email]{width:100%}#dc_posic .bt{white-space:nowrap}</style>
+	<style>
+	#dc_posic .pp-busca{position:relative}#dc_posic .pp-sug{position:absolute;left:0;right:0;top:100%;background:#fff;border:1px solid #c3c4c7;border-radius:6px;max-height:260px;overflow:auto;z-index:20;box-shadow:0 6px 18px rgba(0,0,0,.12)}
+	#dc_posic .pp-sug div{padding:8px 10px;cursor:pointer;border-bottom:1px solid #f0f0f1}#dc_posic .pp-sug div:hover{background:#f0f6fc}
+	#dc_posic .pp-dest{border:1px solid #dcdcde;border-radius:6px;padding:8px 10px;margin:6px 0;display:flex;gap:8px;align-items:center;flex-wrap:wrap}#dc_posic .pp-dest b{flex:1;min-width:200px}
+	#dc_posic .pp-novo{background:#f6f7f7;border-radius:6px;padding:10px;margin-top:8px}#dc_posic .pp-novo input{margin:2px 0}
+	</style>
 	<p style="margin-top:0">Manda o resumo e a foto (ou o print do vídeo), com o prazo e um link para a pessoa responder. O nome e o telefone do leitor <b>não</b> vão.</p>
-	<p><b>Instituição</b> <a href="<?php echo esc_url( admin_url( 'edit.php?post_type=po_denuncia&page=po-orgaos' ) ); ?>" style="font-size:12px">(editar a lista)</a><br>
-	<select id="dc_posic_lista" style="width:100%"><option value="">— escolher da lista (preenche as pessoas abaixo) —</option>
-	<?php foreach ( $lista as $inst => $cs ) : ?><option value="<?php echo esc_attr( $inst ); ?>" data-c="<?php echo esc_attr( wp_json_encode( $cs ) ); ?>"><?php echo esc_html( $inst ); ?></option><?php endforeach; ?>
-	</select></p>
-	<p><input type="text" name="dc_posic_orgao" id="dc_posic_orgao" value="<?php echo esc_attr( $org ); ?>" placeholder="Nome da instituição (ex.: Hospital Municipal, Prefeitura de Santa Luzia)" style="width:100%"></p>
-	<p style="margin-bottom:4px"><b>Para quem enviar</b> <span style="color:#646970">(marque quem recebe; pode digitar outra pessoa)</span></p>
-	<table><tr style="color:#646970;font-size:12px"><td style="width:26px"></td><td>Nome e cargo</td><td>E-mail</td><td style="width:21%">WhatsApp com DDD</td><td></td></tr>
-	<?php foreach ( $dest as $i => $c ) : ?>
-		<tr>
-			<td><input type="checkbox" name="dc_posic_dest[<?php echo (int) $i; ?>][on]" value="1" <?php checked( ! empty( $c['on'] ) ); ?>></td>
-			<td><input type="text" name="dc_posic_dest[<?php echo (int) $i; ?>][nome]" value="<?php echo esc_attr( $c['nome'] ); ?>" placeholder="Ex.: Dr. Fulano, diretor"></td>
-			<td><input type="email" name="dc_posic_dest[<?php echo (int) $i; ?>][email]" value="<?php echo esc_attr( $c['email'] ); ?>" placeholder="e-mail"></td>
-			<td><input type="text" name="dc_posic_dest[<?php echo (int) $i; ?>][whats]" value="<?php echo esc_attr( $c['whats'] ); ?>" placeholder="31 9...."></td>
-			<td class="bt">
-				<button type="submit" class="button" name="dc_posic_acao" value="email:<?php echo (int) $i; ?>" title="Salva e manda o e-mail para esta pessoa">E-mail</button>
-				<button type="submit" class="button" style="background:#25d366;border-color:#1da851;color:#fff" name="dc_posic_acao" value="whats:<?php echo (int) $i; ?>" formtarget="_blank" title="Salva e abre o WhatsApp desta pessoa com a mensagem pronta">WhatsApp</button>
-			</td>
-		</tr>
-	<?php endforeach; ?>
-	</table>
-	<p><b>Prazo para responder</b><br><select name="dc_posic_horas">
+	<p style="margin-bottom:4px"><b>Prazo para responder:</b> <select id="pp-horas" name="dc_posic_horas">
 		<?php foreach ( array( 2 => '2 horas (urgente)', 24 => '24 horas', 48 => '48 horas' ) as $k => $v ) : ?><option value="<?php echo (int) $k; ?>" <?php selected( $h, $k ); ?>><?php echo esc_html( $v ); ?></option><?php endforeach; ?>
-	</select> <span style="color:#646970">conta a partir do primeiro envio</span></p>
-	<p><button type="submit" class="button button-primary" name="dc_posic_acao" value="email:todos">Enviar e-mail para todos os marcados</button></p>
-	<p style="color:#646970;font-size:12px">Os botões já salvam a denúncia antes de enviar. O WhatsApp abre numa aba nova, no seu WhatsApp, com a mensagem pronta (saudação com o nome, resumo, link da imagem, prazo e link para responder): é só conferir e apertar enviar. O e-mail sai pelo site, com a imagem anexada.</p>
+	</select> <span style="color:#646970">conta a partir do primeiro envio<?php echo $prazo ? ' · já definido: ' . esc_html( po_posic_quando( $post->ID ) ) : ''; ?></span></p>
+	<p style="margin:12px 0 4px"><b>Para quem enviar</b> <a href="<?php echo esc_url( admin_url( 'edit.php?post_type=po_denuncia&page=po-orgaos' ) ); ?>" style="font-size:12px" target="_blank">(abrir a agenda)</a></p>
+	<div class="pp-busca"><input type="search" id="pp-q" placeholder="Digite o nome, o cargo ou a instituição (ex.: Antônio, diretor, hospital)" style="width:100%;padding:6px 10px" autocomplete="off"><div class="pp-sug" id="pp-sug" hidden></div></div>
+	<div id="pp-lista"></div>
+	<div class="pp-novo" id="pp-novo" hidden>
+		<b>Novo contato</b> (fica salvo na agenda)<br>
+		<input id="pn-nome" placeholder="Nome" style="width:32%"> <input id="pn-cargo" placeholder="Cargo" style="width:30%"> <input id="pn-inst" placeholder="Instituição" style="width:36%"><br>
+		<input id="pn-email" type="email" placeholder="E-mail" style="width:49%"> <input id="pn-whats" placeholder="WhatsApp com DDD" style="width:49%"><br>
+		<button type="button" class="button button-primary" id="pn-ok">Salvar na agenda e adicionar</button> <button type="button" class="button" id="pn-cancela">Cancelar</button>
+	</div>
+	<p><button type="button" class="button" id="pp-abrenovo">+ Novo contato</button> <a class="button button-primary" id="pp-todos" href="#" hidden>Enviar e-mail para todos da lista</a></p>
+	<p style="color:#646970;font-size:12px">O WhatsApp abre numa aba nova, no seu WhatsApp, com a mensagem pronta (saudação com o nome, resumo, link da imagem, prazo e link para responder): é só conferir e apertar enviar. O e-mail sai pelo site, com a imagem anexada.</p>
 	<?php if ( $log ) : ?>
 		<hr><p style="margin-bottom:4px"><b>Histórico</b></p><ul style="margin-top:0">
-		<?php foreach ( $log as $l ) echo '<li>' . esc_html( wp_date( 'd/m H\hi', $l['t'] ) . ' · ' . ( 'email' === $l['canal'] ? 'e-mail' : 'WhatsApp' ) . ' para ' . ( ! empty( $l['quem'] ) ? $l['quem'] . ' (' . $l['para'] . ')' : $l['para'] ) . ( ! empty( $l['orgao'] ) ? ' · ' . $l['orgao'] : '' ) ) . '</li>'; ?>
+		<?php foreach ( $log as $l ) echo '<li>' . esc_html( wp_date( 'd/m H\hi', $l['t'] ) . ' · ' . ( 'email' === $l['canal'] ? 'e-mail' : 'WhatsApp' ) . ' para ' . ( ! empty( $l['quem'] ) ? $l['quem'] . ' (' . $l['para'] . ')' : $l['para'] ) ) . '</li>'; ?>
 		</ul>
 		<p><b>Prazo:</b> <?php echo esc_html( po_posic_quando( $post->ID ) ); echo $prazo && time() > $prazo ? ' <span style="color:#b32d2e">(vencido)</span>' : ' <span style="color:#646970">(se publicar antes, a matéria sai sem a resposta)</span>'; ?></p>
 	<?php endif; ?>
 	<?php if ( $resp ) : ?>
 		<hr><p style="margin-bottom:4px"><b>Resposta recebida</b> em <?php echo esc_html( wp_date( 'd/m H\hi', (int) get_post_meta( $post->ID, 'dc_posic_resp_em', true ) ) ); ?> · <?php echo esc_html( trim( get_post_meta( $post->ID, 'dc_posic_resp_nome', true ) . ', ' . get_post_meta( $post->ID, 'dc_posic_resp_cargo', true ), ', ' ) ); ?></p>
 		<blockquote style="background:#f6f7f7;padding:8px 12px;margin:0"><?php echo nl2br( esc_html( $resp ) ); ?></blockquote>
+		<p><label>Instituição que vai na matéria: <input type="text" name="dc_posic_orgao" value="<?php echo esc_attr( get_post_meta( $post->ID, 'dc_posic_orgao', true ) ); ?>" style="width:60%"></label></p>
 		<p><label><input type="checkbox" name="dc_posic_usar" value="1" <?php checked( get_post_meta( $post->ID, 'dc_posic_usar', true ) ); ?>> <b>Incluir a resposta na matéria</b> (e na legenda do Instagram)</label></p>
 		<p><textarea name="dc_posic_resposta_ed" rows="4" style="width:100%" placeholder="Pode editar o texto que vai na matéria"><?php echo esc_textarea( get_post_meta( $post->ID, 'dc_posic_resposta_ed', true ) ?: $resp ); ?></textarea></p>
 	<?php endif; ?>
 	<script>
-	(function(){var s=document.getElementById('dc_posic_lista');if(!s)return;s.addEventListener('change',function(){var o=s.options[s.selectedIndex];if(!o.value)return;
-	document.getElementById('dc_posic_orgao').value=o.value;var cs=JSON.parse(o.dataset.c||'[]');
-	for(var i=0;i<4;i++){var c=cs[i]||{nome:'',email:'',whats:''};
-	document.querySelector('[name="dc_posic_dest['+i+'][nome]"]').value=c.nome;document.querySelector('[name="dc_posic_dest['+i+'][email]"]').value=c.email;
-	document.querySelector('[name="dc_posic_dest['+i+'][whats]"]').value=c.whats;document.querySelector('[name="dc_posic_dest['+i+'][on]"]').checked=!!cs[i];}});})();
+	(function(){
+	var AG=<?php echo wp_json_encode( $lista ); ?>, SEL=<?php echo wp_json_encode( $ids ); ?>, URL=<?php echo wp_json_encode( $base ); ?>, NONCE=<?php echo wp_json_encode( wp_create_nonce( 'po_agenda' ) ); ?>;
+	var q=document.getElementById('pp-q'), sug=document.getElementById('pp-sug'), lista=document.getElementById('pp-lista'), horas=document.getElementById('pp-horas');
+	function norm(s){return (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();}
+	function achar(id){for(var i=0;i<AG.length;i++)if(AG[i].id===id)return AG[i];return null;}
+	function url(tipo,ids){return URL[tipo].replace('IDS',encodeURIComponent(ids.join(',')))+'&horas='+horas.value;}
+	function esc(s){var d=document.createElement('div');d.textContent=s||'';return d.innerHTML;}
+	function desenhar(){
+		lista.innerHTML='';
+		SEL.forEach(function(id){var c=achar(id);if(!c)return;var d=document.createElement('div');d.className='pp-dest';
+			d.innerHTML='<input type="hidden" name="dc_posic_ids[]" value="'+c.id+'"><b>'+esc(c.rotulo)+'</b>'+
+			(c.email?'<a class="button" href="'+url('email',[c.id])+'">E-mail</a>':'<span style="color:#a7aaad">sem e-mail</span>')+
+			(c.whats?' <a class="button" target="_blank" rel="noopener" style="background:#25d366;border-color:#1da851;color:#fff" href="'+url('whats',[c.id])+'">WhatsApp</a>':' <span style="color:#a7aaad">sem WhatsApp</span>')+
+			' <a href="#" data-x="'+c.id+'" style="color:#b32d2e;text-decoration:none" title="Tirar da lista">✕</a>';
+			lista.appendChild(d);});
+		var em=SEL.filter(function(id){var c=achar(id);return c&&c.email;});var t=document.getElementById('pp-todos');
+		t.hidden=em.length<2;t.href=url('email',em);
+	}
+	lista.addEventListener('click',function(e){var x=e.target.getAttribute('data-x');if(x){e.preventDefault();SEL=SEL.filter(function(i){return i!==x;});desenhar();}});
+	horas.addEventListener('change',desenhar);
+	q.addEventListener('input',function(){var t=norm(q.value).trim();sug.innerHTML='';
+		if(!t){sug.hidden=true;return;}
+		var r=AG.filter(function(c){return norm(c.rotulo).indexOf(t)>-1;}).slice(0,12);
+		r.forEach(function(c){var d=document.createElement('div');d.innerHTML='<b>'+esc(c.nome||c.inst)+'</b> <span style="color:#646970">'+esc((c.cargo?c.cargo:'')+(c.inst&&c.nome?' · '+c.inst:''))+'</span>';
+			d.addEventListener('mousedown',function(e){e.preventDefault();if(SEL.indexOf(c.id)<0)SEL.push(c.id);q.value='';sug.hidden=true;desenhar();});sug.appendChild(d);});
+		var n=document.createElement('div');n.innerHTML='<b>+ Cadastrar "'+esc(q.value)+'" na agenda</b>';n.addEventListener('mousedown',function(e){e.preventDefault();abrirNovo(q.value);});sug.appendChild(n);
+		sug.hidden=false;});
+	q.addEventListener('blur',function(){setTimeout(function(){sug.hidden=true;},150);});
+	q.addEventListener('keydown',function(e){if(e.key==='Enter')e.preventDefault();});
+	function abrirNovo(nome){document.getElementById('pp-novo').hidden=false;document.getElementById('pn-nome').value=nome||'';sug.hidden=true;q.value='';document.getElementById('pn-cargo').focus();}
+	document.getElementById('pp-abrenovo').addEventListener('click',function(){abrirNovo('');document.getElementById('pn-nome').focus();});
+	document.getElementById('pn-cancela').addEventListener('click',function(){document.getElementById('pp-novo').hidden=true;});
+	document.getElementById('pn-ok').addEventListener('click',function(){
+		var f=new FormData();f.append('action','po_agenda_add');f.append('n',NONCE);
+		['nome','cargo','inst','email','whats'].forEach(function(k){f.append('c['+k+']',document.getElementById('pn-'+k).value);});
+		fetch(ajaxurl,{method:'POST',credentials:'same-origin',body:f}).then(function(r){return r.json();}).then(function(j){
+			if(!j.success){alert('Preencha pelo menos o nome ou a instituição.');return;}
+			AG.push(j.data);SEL.push(j.data.id);document.getElementById('pp-novo').hidden=true;
+			['nome','cargo','inst','email','whats'].forEach(function(k){document.getElementById('pn-'+k).value='';});desenhar();}).catch(function(){alert('Não consegui salvar. Tente de novo.');});
+	});
+	desenhar();
+	})();
 	</script>
 	<?php
 }
@@ -171,58 +250,38 @@ add_action( 'save_post_po_denuncia', function ( $post_id ) {
 	if ( wp_is_post_revision( $post_id ) || ( defined( 'DOING_AUTOSAVE' ) && DOING_AUTOSAVE ) ) return;
 	if ( ! isset( $_POST['dc_posic_nonce'] ) || ! wp_verify_nonce( $_POST['dc_posic_nonce'], 'dc_posic' ) ) return;
 	if ( ! current_user_can( 'edit_post', $post_id ) ) return;
-	update_post_meta( $post_id, 'dc_posic_orgao', sanitize_text_field( wp_unslash( $_POST['dc_posic_orgao'] ?? '' ) ) );
-	$dest = array();
-	foreach ( (array) ( $_POST['dc_posic_dest'] ?? array() ) as $c ) {
-		$c = array( 'nome' => sanitize_text_field( wp_unslash( $c['nome'] ?? '' ) ), 'email' => sanitize_email( wp_unslash( $c['email'] ?? '' ) ), 'whats' => preg_replace( '/\D/', '', (string) ( $c['whats'] ?? '' ) ), 'on' => empty( $c['on'] ) ? 0 : 1 );
-		if ( $c['nome'] || $c['email'] || $c['whats'] ) $dest[] = $c;
-	}
-	update_post_meta( $post_id, 'dc_posic_dest', $dest );
+	$ids = array_values( array_unique( array_map( function ( $i ) { return preg_replace( '/[^a-z0-9]/', '', (string) $i ); }, (array) ( $_POST['dc_posic_ids'] ?? array() ) ) ) );
+	update_post_meta( $post_id, 'dc_posic_ids', $ids );
 	$h = absint( $_POST['dc_posic_horas'] ?? 24 ); if ( ! in_array( $h, array( 2, 24, 48 ), true ) ) $h = 24;
 	update_post_meta( $post_id, 'dc_posic_horas', $h );
-	if ( ! empty( $_POST['dc_posic_acao'] ) ) {
-		// o envio acontece depois de salvar: guarda qual botão foi clicado (com o número da linha já sem as vazias)
-		$acao = sanitize_text_field( wp_unslash( $_POST['dc_posic_acao'] ) );
-		list( $tipo, $alvo ) = array_pad( explode( ':', $acao ), 2, '' );
-		if ( 'todos' !== $alvo ) { // acha a linha certa depois de remover as vazias
-			$c = $_POST['dc_posic_dest'][ (int) $alvo ] ?? array();
-			$alvo = '';
-			foreach ( $dest as $k => $x ) if ( $x['email'] === sanitize_email( wp_unslash( $c['email'] ?? '' ) ) && $x['whats'] === preg_replace( '/\D/', '', (string) ( $c['whats'] ?? '' ) ) && $x['nome'] === sanitize_text_field( wp_unslash( $c['nome'] ?? '' ) ) ) { $alvo = (string) $k; break; }
-		}
-		if ( '' !== $alvo ) $GLOBALS['po_posic_depois'] = array( $tipo, $alvo );
-	}
+	if ( isset( $_POST['dc_posic_orgao'] ) ) update_post_meta( $post_id, 'dc_posic_orgao', sanitize_text_field( wp_unslash( $_POST['dc_posic_orgao'] ) ) );
 	if ( get_post_meta( $post_id, 'dc_posic_resposta', true ) ) {
-		$antes = get_post_meta( $post_id, 'dc_posic_usar', true ) . '|' . get_post_meta( $post_id, 'dc_posic_resposta_ed', true );
+		$antes = get_post_meta( $post_id, 'dc_posic_usar', true ) . '|' . get_post_meta( $post_id, 'dc_posic_resposta_ed', true ) . '|' . get_post_meta( $post_id, 'dc_posic_orgao', true );
 		update_post_meta( $post_id, 'dc_posic_usar', empty( $_POST['dc_posic_usar'] ) ? '' : '1' );
 		if ( isset( $_POST['dc_posic_resposta_ed'] ) ) update_post_meta( $post_id, 'dc_posic_resposta_ed', sanitize_textarea_field( wp_unslash( $_POST['dc_posic_resposta_ed'] ) ) );
-		$depois = get_post_meta( $post_id, 'dc_posic_usar', true ) . '|' . get_post_meta( $post_id, 'dc_posic_resposta_ed', true );
+		$depois = get_post_meta( $post_id, 'dc_posic_usar', true ) . '|' . get_post_meta( $post_id, 'dc_posic_resposta_ed', true ) . '|' . get_post_meta( $post_id, 'dc_posic_orgao', true );
 		if ( $antes !== $depois ) $GLOBALS['po_den_relato_mudou'] = true; // a matéria é refeita no salvamento da denúncia
 	}
 }, 5 );
-/* depois de salvar, em vez de voltar para a tela, vai para o envio */
-add_filter( 'redirect_post_location', function ( $loc, $post_id ) {
-	if ( empty( $GLOBALS['po_posic_depois'] ) ) return $loc;
-	list( $tipo, $alvo ) = $GLOBALS['po_posic_depois'];
-	return wp_nonce_url( admin_url( 'admin-post.php?action=po_posic_' . ( 'whats' === $tipo ? 'whats' : 'email' ) . '&post=' . $post_id . '&alvo=' . rawurlencode( $alvo ) ), 'po_posic_' . $post_id );
-}, 10, 2 );
 
 /* ---------- envio ---------- */
 function po_posic_volta( $id, $msg ) {
 	wp_safe_redirect( add_query_arg( 'po_posic_ok', rawurlencode( $msg ), get_edit_post_link( $id, 'url' ) ) . '#dc_posic' ); exit;
 }
-function po_posic_alvos( $id ) {
-	$dest = po_posic_dest( $id ); $alvo = (string) ( $_GET['alvo'] ?? '' );
-	if ( 'todos' === $alvo ) return array_values( array_filter( $dest, function ( $c ) { return ! empty( $c['on'] ); } ) );
-	return isset( $dest[ (int) $alvo ] ) && '' !== $alvo ? array( $dest[ (int) $alvo ] ) : array();
+function po_posic_pedido() {
+	$id = absint( $_GET['post'] ?? 0 );
+	if ( ! $id || ! current_user_can( 'edit_post', $id ) || ! wp_verify_nonce( $_GET['_wpnonce'] ?? '', 'po_posic_' . $id ) ) wp_die( 'Link vencido. Volte na denúncia, atualize a página e clique de novo.' );
+	$ag = po_agenda(); $out = array();
+	foreach ( explode( ',', (string) ( $_GET['ids'] ?? '' ) ) as $i ) { $i = preg_replace( '/[^a-z0-9]/', '', $i ); if ( isset( $ag[ $i ] ) ) $out[] = $ag[ $i ]; }
+	return array( $id, $out, absint( $_GET['horas'] ?? 0 ) );
 }
 function po_posic_email_html( $id, $c ) {
 	list( $tit, $rel ) = po_posic_resumo( $id );
 	list( $img ) = po_posic_imagem( $id );
-	$org = po_posic_orgao( $id )['nome'];
 	$prot = get_post_meta( $id, 'dc_protocolo', true ); $local = get_post_meta( $id, 'dc_local', true );
 	$s  = '<div style="font-family:Arial,sans-serif;font-size:15px;line-height:1.5;color:#1d2327;max-width:620px">';
-	$s .= '<p>' . ( po_posic_saudacao( $c['nome'] ) ? 'Prezado(a) ' . esc_html( po_posic_saudacao( $c['nome'] ) ) : 'Prezados' ) . ',</p>';
-	$s .= '<p>A redação do <b>Portal ONE News</b> recebeu de um leitor o relato abaixo' . ( $org ? ', envolvendo <b>' . esc_html( $org ) . '</b>' : '' ) . ( $local ? ' (' . esc_html( $local ) . ')' : '' ) . ', protocolo ' . esc_html( $prot ) . '.</p>';
+	$s .= '<p>' . ( po_posic_saudacao( $c ) ? 'Prezado(a) ' . esc_html( po_posic_saudacao( $c ) ) : 'Prezados' ) . ',</p>';
+	$s .= '<p>A redação do <b>Portal ONE News</b> recebeu de um leitor o relato abaixo' . ( $c['inst'] ? ', envolvendo <b>' . esc_html( $c['inst'] ) . '</b>' : '' ) . ( $local ? ' (' . esc_html( $local ) . ')' : '' ) . ', protocolo ' . esc_html( $prot ) . '.</p>';
 	if ( $tit ) $s .= '<p style="font-size:17px"><b>' . esc_html( $tit ) . '</b></p>';
 	$s .= '<blockquote style="border-left:4px solid #1f3b8f;margin:0;padding:6px 14px;background:#f4f6fb">' . nl2br( esc_html( $rel ) ) . '</blockquote>';
 	if ( $img ) $s .= '<p><img src="' . esc_url( $img ) . '" alt="Imagem enviada pelo leitor" style="max-width:100%;border-radius:8px"></p>';
@@ -233,28 +292,27 @@ function po_posic_email_html( $id, $c ) {
 	return $s;
 }
 add_action( 'admin_post_po_posic_email', function () {
-	$id = absint( $_GET['post'] ?? 0 );
-	if ( ! $id || ! current_user_can( 'edit_post', $id ) || ! wp_verify_nonce( $_GET['_wpnonce'] ?? '', 'po_posic_' . $id ) ) wp_die( 'Sem permissão.' );
-	$alvos = array_values( array_filter( po_posic_alvos( $id ), function ( $c ) { return is_email( $c['email'] ); } ) );
-	if ( ! $alvos ) po_posic_volta( $id, 'Ninguém com e-mail válido para enviar. Confira o e-mail da pessoa (e se ela está marcada).' );
-	po_posic_iniciar_prazo( $id );
+	list( $id, $alvos, $horas ) = po_posic_pedido();
+	$alvos = array_values( array_filter( $alvos, function ( $c ) { return is_email( $c['email'] ); } ) );
+	if ( ! $alvos ) po_posic_volta( $id, 'Esse contato não tem e-mail válido na agenda.' );
+	po_posic_iniciar( $id, $alvos[0], $horas );
 	list( , $arq ) = po_posic_imagem( $id );
 	$prot = get_post_meta( $id, 'dc_protocolo', true );
 	$headers = array( 'Content-Type: text/html; charset=UTF-8', 'From: Portal ONE News <' . get_option( 'admin_email' ) . '>', 'Reply-To: Redação Portal ONE News <' . get_option( 'po_denuncia_email', get_option( 'admin_email' ) ) . '>' );
 	$ok = array(); $erro = array();
 	foreach ( $alvos as $c ) {
-		if ( wp_mail( $c['email'], 'Pedido de posicionamento · Portal ONE News · Protocolo ' . $prot, po_posic_email_html( $id, $c ), $headers, ( $arq && file_exists( $arq ) ) ? array( $arq ) : array() ) ) { po_posic_marcar_envio( $id, 'email', $c ); $ok[] = $c['nome'] ?: $c['email']; }
-		else $erro[] = $c['nome'] ?: $c['email'];
+		po_posic_iniciar( $id, $c, $horas );
+		if ( wp_mail( $c['email'], 'Pedido de posicionamento · Portal ONE News · Protocolo ' . $prot, po_posic_email_html( $id, $c ), $headers, ( $arq && file_exists( $arq ) ) ? array( $arq ) : array() ) ) { po_posic_marcar_envio( $id, 'email', $c ); $ok[] = po_agenda_rotulo( $c ); }
+		else $erro[] = po_agenda_rotulo( $c );
 	}
-	po_posic_volta( $id, ( $ok ? 'E-mail enviado para: ' . implode( ', ', $ok ) . '. Prazo: ' . po_posic_quando( $id ) . '.' : '' ) . ( $erro ? ' O site não conseguiu enviar para: ' . implode( ', ', $erro ) . '.' : '' ) );
+	po_posic_volta( $id, ( $ok ? 'E-mail enviado para: ' . implode( '; ', $ok ) . '. Prazo: ' . po_posic_quando( $id ) . '.' : '' ) . ( $erro ? ' O site não conseguiu enviar para: ' . implode( '; ', $erro ) . '.' : '' ) );
 } );
 add_action( 'admin_post_po_posic_whats', function () {
-	$id = absint( $_GET['post'] ?? 0 );
-	if ( ! $id || ! current_user_can( 'edit_post', $id ) || ! wp_verify_nonce( $_GET['_wpnonce'] ?? '', 'po_posic_' . $id ) ) wp_die( 'Sem permissão.' );
-	$alvos = po_posic_alvos( $id ); $c = $alvos ? $alvos[0] : null;
-	if ( ! $c || strlen( $c['whats'] ) < 10 ) wp_die( 'WhatsApp inválido. Coloque o número com DDD (ex.: 31 99999-0000) e clique de novo.' );
+	list( $id, $alvos, $horas ) = po_posic_pedido();
+	$c = $alvos ? $alvos[0] : null;
+	if ( ! $c || strlen( $c['whats'] ) < 10 ) wp_die( 'Esse contato não tem WhatsApp válido na agenda (precisa do DDD).' );
 	$n = $c['whats']; if ( ! ( 0 === strpos( $n, '55' ) && strlen( $n ) >= 12 ) ) $n = '55' . $n;
-	po_posic_iniciar_prazo( $id );
+	po_posic_iniciar( $id, $c, $horas );
 	po_posic_marcar_envio( $id, 'whats', $c );
 	wp_redirect( 'https://wa.me/' . $n . '?text=' . rawurlencode( po_posic_texto_whats( $id, $c ) ) ); exit;
 } );
