@@ -811,7 +811,7 @@ function po_denuncia_metabox_midia( $post ) {
 	<?php
 	$tit  = get_post_meta( $post->ID, 'dc_titulo_pub', true );
 	$cat  = get_post_meta( $post->ID, 'dc_cat_pub', true );
-	$cat  = $cat ? $cat : 'Denúncia · Santa Luzia';
+	$cat  = $cat ? $cat : po_den_cat_tipo( '', po_den_tipo( $post->ID ) );
 	$prt  = get_post_meta( $post->ID, 'dc_portal_pub', true );
 	$prt  = $prt ? $prt : 'luz';
 	$apr  = get_post_meta( $post->ID, 'dc_aprovada', true );
@@ -821,6 +821,12 @@ function po_denuncia_metabox_midia( $post ) {
 	$ins_st = get_post_meta( $post->ID, 'dc_insta_status', true );
 	?>
 	<hr style="margin:16px 0">
+	<?php $tp_at = po_den_tipo( $post->ID ); ?>
+	<p style="margin:0 0 4px"><b>Tipo do envio</b></p>
+	<select name="dc_tipo" style="width:100%">
+		<?php foreach ( po_den_tipos() as $k => $x ) : ?><option value="<?php echo esc_attr( $k ); ?>" <?php selected( $tp_at, $k ); ?>><?php echo esc_html( $x['nome'] ); ?></option><?php endforeach; ?>
+	</select>
+	<p style="color:#646970;font-size:12px;margin:4px 0 12px">Muda a etiqueta da arte, a editoria, o texto do site e a legenda do Instagram. Se já estiver publicada, clique em <b>Atualizar</b> e depois em <b>Refazer as artes</b> para trocar a arte.</p>
 	<p style="margin:0 0 4px"><b>Título da arte</b> <span style="color:#646970">(opcional — se deixar vazio, o robô escreve)</span></p>
 	<textarea name="dc_titulo_pub" rows="3" style="width:100%" maxlength="120" placeholder="Ex.: Morador cai em buraco e tem moto danificada no Imperial"><?php echo esc_textarea( $tit ); ?></textarea>
 	<p style="margin:10px 0 4px"><b>Editoria</b></p>
@@ -833,7 +839,7 @@ function po_denuncia_metabox_midia( $post ) {
 	<?php $lib = get_post_meta( $post->ID, 'dc_liberada', true ); if ( ! $apr && $lib ) : ?>
 		<div style="margin:14px 0 8px;padding:12px;border-radius:8px;background:#f0f6fc;border:1px solid #9ec2e6;font-size:14px"><b style="color:#135e96">✅ Aprovada por você</b> — o robô está criando o título e vai publicar no site e no Instagram. Não precisa fazer mais nada.</div>
 	<?php elseif ( $apr ) : ?>
-		<div style="margin:14px 0 8px;padding:12px;border-radius:8px;background:#edfaef;border:1px solid #68de7c;font-size:14px"><b style="color:#1e7e34">✅ Denúncia concluída</b> — publicada no site<?php echo 'postado' === $ins_st ? ' e postada no Instagram' : '. Instagram: aguardando o robô'; ?>.</div>
+		<div style="margin:14px 0 8px;padding:12px;border-radius:8px;background:#edfaef;border:1px solid #68de7c;font-size:14px"><b style="color:#1e7e34">✅ <?php echo esc_html( po_den_rot( $post->ID )['nome'] ); ?> concluída</b> — publicada no site<?php echo 'postado' === $ins_st ? ' e postada no Instagram' : '. Instagram: aguardando o robô'; ?>.</div>
 		<button type="submit" name="dc_aprovar" value="1" class="button" style="width:100%" onclick="return confirm('Refazer as artes e atualizar a matéria? (não posta de novo no Instagram)');">Refazer as artes e atualizar a matéria</button>
 	<?php else : ?>
 		<button type="submit" name="dc_aprovar" value="1" class="button button-primary button-large" style="width:100%;margin-top:14px;height:auto;padding:10px;font-size:15px">Aprovar e publicar agora</button>
@@ -885,7 +891,11 @@ add_action( 'save_post_po_denuncia', function ( $post_id ) {
 		else delete_post_meta( $post_id, 'dc_' . $k . '_pub' );
 	}
 	if ( isset( $_POST['dc_titulo_pub'] ) ) update_post_meta( $post_id, 'dc_titulo_pub', sanitize_text_field( wp_unslash( $_POST['dc_titulo_pub'] ) ) );
+	$tipo_antes = po_den_tipo( $post_id );
+	if ( isset( $_POST['dc_tipo'] ) && array_key_exists( $_POST['dc_tipo'], po_den_tipos() ) ) update_post_meta( $post_id, 'dc_tipo', sanitize_key( $_POST['dc_tipo'] ) );
+	$tipo_mudou = po_den_tipo( $post_id ) !== $tipo_antes;
 	if ( isset( $_POST['dc_cat_pub'] ) ) update_post_meta( $post_id, 'dc_cat_pub', sanitize_text_field( wp_unslash( $_POST['dc_cat_pub'] ) ) );
+	if ( $tipo_mudou ) update_post_meta( $post_id, 'dc_cat_pub', po_den_cat_tipo( get_post_meta( $post_id, 'dc_cat_pub', true ), po_den_tipo( $post_id ) ) );
 	if ( isset( $_POST['dc_portal_pub'] ) ) update_post_meta( $post_id, 'dc_portal_pub', 'one' === $_POST['dc_portal_pub'] ? 'one' : 'luz' );
 	// campos editáveis da denúncia (local, quem mandou, nome, instagram); o relato é gravado no filtro wp_insert_post_data
 	if ( isset( $_POST['dc_ed_local'] ) ) {
@@ -897,11 +907,18 @@ add_action( 'save_post_po_denuncia', function ( $post_id ) {
 		$depois = get_post_meta( $post_id, 'dc_local', true ) . '|' . get_post_meta( $post_id, 'dc_identidade', true ) . '|' . get_post_meta( $post_id, 'dc_nome', true );
 		// já publicada e o Israel mudou algo (e não clicou em "refazer"): atualiza a matéria do site na hora
 		$mat = (int) get_post_meta( $post_id, 'dc_post_id', true );
-		if ( $mat && get_post( $mat ) && empty( $_POST['dc_aprovar'] ) && ( $antes !== $depois || ! empty( $GLOBALS['po_den_relato_mudou'] ) ) ) {
+		if ( $mat && get_post( $mat ) && empty( $_POST['dc_aprovar'] ) && ( $antes !== $depois || $tipo_mudou || ! empty( $GLOBALS['po_den_relato_mudou'] ) ) ) {
 			wp_update_post( array( 'ID' => $mat, 'post_content' => po_denuncia_html_site( $post_id ) ) );
 			po_limpar_cache_post( $mat );
-			$anon = 'credito' !== get_post_meta( $post_id, 'dc_identidade', true ) || ! get_post_meta( $post_id, 'dc_nome', true );
-			update_post_meta( $mat, 'po_linha_fina', 'Denúncia · Protocolo ' . get_post_meta( $post_id, 'dc_protocolo', true ) . ' · ' . ( $anon ? 'Denúncia anônima' : 'Enviada por ' . get_post_meta( $post_id, 'dc_nome', true ) ) );
+			update_post_meta( $mat, 'po_linha_fina', po_den_linha_fina( $post_id ) );
+			if ( $tipo_mudou ) { // troca a categoria da matéria (Denúncias <-> Enviado pelo leitor)
+				$rot = po_den_rot( $post_id ); $cats = wp_get_post_categories( $mat );
+				foreach ( po_den_tipos() as $x ) { $c = get_category_by_slug( $x['cat'][0] ); if ( $c ) $cats = array_diff( $cats, array( $c->term_id ) ); }
+				$c = get_category_by_slug( $rot['cat'][0] );
+				if ( ! $c ) { $t = wp_insert_term( $rot['cat'][1], 'category', array( 'slug' => $rot['cat'][0] ) ); $cid = is_wp_error( $t ) ? 0 : $t['term_id']; } else { $cid = $c->term_id; }
+				if ( $cid ) $cats[] = $cid;
+				wp_set_post_categories( $mat, array_values( array_unique( $cats ) ) );
+			}
 		}
 	}
 	if ( ! empty( $_POST['dc_aprovar'] ) ) {
@@ -968,18 +985,60 @@ function po_denuncia_midias( $id ) {
 }
 
 
+// tipo do envio do leitor: denúncia, sugestão de pauta ou matéria enviada (Israel, 17/11/2026)
+function po_den_tipos() {
+	return array(
+		'denuncia' => array( 'nome' => 'Denúncia', 'prefixo' => 'Denúncia', 'anon' => 'Denúncia anônima', 'por' => 'Denúncia feita por %s', 'site_por' => 'Enviada por %s', 'cabecalho' => '📢 DENÚNCIA DO LEITOR', 'cat' => array( 'denuncias', 'Denúncias' ) ),
+		'pauta'    => array( 'nome' => 'Sugestão de pauta', 'prefixo' => 'Sugestão do leitor', 'anon' => 'Sugestão de leitor', 'por' => 'Sugestão de %s', 'site_por' => 'Sugestão de %s', 'cabecalho' => '💡 SUGESTÃO DO LEITOR', 'cat' => array( 'enviado-pelo-leitor', 'Enviado pelo leitor' ) ),
+		'materia'  => array( 'nome' => 'Matéria enviada', 'prefixo' => 'Enviado pelo leitor', 'anon' => 'Enviada por leitor', 'por' => 'Enviada por %s', 'site_por' => 'Enviada por %s', 'cabecalho' => '📩 ENVIADO PELO LEITOR', 'cat' => array( 'enviado-pelo-leitor', 'Enviado pelo leitor' ) ),
+	);
+}
+function po_den_tipo( $id ) {
+	$t = get_post_meta( $id, 'dc_tipo', true );
+	$ts = po_den_tipos();
+	return isset( $ts[ $t ] ) ? $t : 'denuncia';
+}
+function po_den_rot( $id ) { $ts = po_den_tipos(); return $ts[ po_den_tipo( $id ) ]; }
+// troca o começo da editoria ("Denúncia · Santa Luzia" -> "Sugestão do leitor · Santa Luzia")
+function po_den_cat_tipo( $cat, $tipo ) {
+	$ts = po_den_tipos(); $r = isset( $ts[ $tipo ] ) ? $ts[ $tipo ] : $ts['denuncia'];
+	$cat = trim( (string) $cat );
+	$resto = 'Santa Luzia';
+	if ( '' !== $cat ) {
+		$resto = $cat;
+		foreach ( $ts as $x ) {
+			foreach ( array( $x['prefixo'], $x['nome'] ) as $p ) {
+				if ( 0 === stripos( $cat, $p ) ) { $resto = trim( ltrim( substr( $cat, strlen( $p ) ), " ·-|:" ) ); break 2; }
+			}
+		}
+		if ( '' === $resto ) $resto = 'Santa Luzia';
+	}
+	return $r['prefixo'] . ' · ' . $resto;
+}
+function po_den_quem( $id ) {
+	$r = po_den_rot( $id );
+	$anon = 'credito' !== get_post_meta( $id, 'dc_identidade', true ) || ! get_post_meta( $id, 'dc_nome', true );
+	return $anon ? $r['anon'] : sprintf( $r['site_por'], get_post_meta( $id, 'dc_nome', true ) );
+}
+function po_den_linha_fina( $id ) {
+	return po_den_rot( $id )['nome'] . ' · Protocolo ' . get_post_meta( $id, 'dc_protocolo', true ) . ' · ' . po_den_quem( $id );
+}
+
 // texto da matéria da denúncia no site: protocolo, quem enviou, relato na íntegra (sem moldura)
 function po_denuncia_html_site( $id ) {
 	$prot  = get_post_meta( $id, 'dc_protocolo', true );
-	$anon  = 'credito' !== get_post_meta( $id, 'dc_identidade', true ) || ! get_post_meta( $id, 'dc_nome', true );
-	$quem  = $anon ? 'Denúncia anônima' : 'Enviada por ' . get_post_meta( $id, 'dc_nome', true );
-	$html  = '<p><strong>Denúncia · Protocolo ' . esc_html( $prot ) . '</strong><br>' . esc_html( $quem ) . '</p>';
+	$tipo  = po_den_tipo( $id ); $r = po_den_rot( $id );
+	$html  = '<p><strong>' . esc_html( $r['nome'] ) . ' · Protocolo ' . esc_html( $prot ) . '</strong><br>' . esc_html( po_den_quem( $id ) ) . '</p>';
 	$local = get_post_meta( $id, 'dc_local', true );
 	if ( $local ) $html .= '<p><strong>Onde:</strong> ' . esc_html( $local ) . '</p>';
-	$html .= '<p>Relato enviado ao Portal pelo canal <a href="' . esc_url( po_denuncia_link() ) . '">Faça sua denúncia</a>:</p>';
+	$html .= '<p>' . ( 'denuncia' === $tipo ? 'Relato enviado' : 'Texto enviado' ) . ' ao Portal pelo canal <a href="' . esc_url( po_denuncia_link() ) . '">Faça sua denúncia</a>:</p>';
 	$html .= '<blockquote><p>' . nl2br( esc_html( get_post_field( 'post_content', $id ) ) ) . '</p></blockquote>';
-	$html .= '<p>O espaço está aberto para os citados se manifestarem.</p>';
-	$html .= '<p>Viu algo errado no seu bairro? <a href="' . esc_url( po_denuncia_link() ) . '">Faça sua denúncia aqui</a>.</p>';
+	if ( 'denuncia' === $tipo ) {
+		$html .= '<p>O espaço está aberto para os citados se manifestarem.</p>';
+		$html .= '<p>Viu algo errado no seu bairro? <a href="' . esc_url( po_denuncia_link() ) . '">Faça sua denúncia aqui</a>.</p>';
+	} else {
+		$html .= '<p>Tem uma pauta, uma história ou uma notícia do seu bairro? <a href="' . esc_url( po_denuncia_link() ) . '">Envie para o Portal aqui</a>.</p>';
+	}
 	return $html;
 }
 // uma vez só: arruma as matérias de denúncia já publicadas (capa = foto, texto novo)
@@ -1012,8 +1071,11 @@ function po_denuncia_publicar( $id ) {
 	if ( ! $anon && ! $nome ) $anon = true;
 	$portal  = get_post_meta( $id, 'dc_portal_pub', true ) === 'one' ? 'one' : 'luz';
 	$cat     = get_post_meta( $id, 'dc_cat_pub', true );
-	$cat     = $cat ? $cat : 'Denúncia · Santa Luzia';
-	$base    = array( 'portal' => $portal, 'foto' => $arq, 'cat' => $cat, 'titulo' => $titulo, 'anonima' => $anon, 'nome' => $nome, 'protocolo' => $prot );
+	$tipo    = po_den_tipo( $id ); $rot = po_den_rot( $id );
+	$cat     = po_den_cat_tipo( $cat, $tipo );
+	update_post_meta( $id, 'dc_cat_pub', $cat );
+	$selo    = $anon ? $rot['anon'] : sprintf( $rot['por'], $nome );
+	$base    = array( 'portal' => $portal, 'foto' => $arq, 'cat' => $cat, 'titulo' => $titulo, 'anonima' => $anon, 'nome' => $nome, 'protocolo' => $prot, 'selo' => $selo );
 
 	$up  = wp_upload_dir();
 	$dir = trailingslashit( $up['basedir'] ) . 'denuncias';
@@ -1052,13 +1114,12 @@ function po_denuncia_publicar( $id ) {
 	}
 	update_post_meta( $id, 'dc_capa_pendente', $capa_id ? 0 : 1 ); // sem quadro ainda: o robô tira o print do vídeo e manda
 
-	$quem = $anon ? 'Denúncia anônima' : 'Enviada por ' . $nome;
 	$html = po_denuncia_html_site( $id );
 
 	$cats = array();
-	$c_den = get_category_by_slug( 'denuncias' );
+	$c_den = get_category_by_slug( $rot['cat'][0] );
 	if ( $c_den ) { $cats[] = $c_den->term_id; }
-	else { $t = wp_insert_term( 'Denúncias', 'category', array( 'slug' => 'denuncias' ) ); if ( ! is_wp_error( $t ) ) $cats[] = $t['term_id']; }
+	else { $t = wp_insert_term( $rot['cat'][1], 'category', array( 'slug' => $rot['cat'][0] ) ); if ( ! is_wp_error( $t ) ) $cats[] = $t['term_id']; }
 	if ( 'luz' === $portal && ( $c_sl = get_category_by_slug( 'santa-luzia' ) ) ) $cats[] = $c_sl->term_id;
 
 	$mat = (int) get_post_meta( $id, 'dc_post_id', true );
@@ -1069,7 +1130,7 @@ function po_denuncia_publicar( $id ) {
 	if ( $capa_id ) set_post_thumbnail( $mat, $capa_id );
 	else delete_post_thumbnail( $mat ); // nada de arte com moldura enquanto o print do vídeo não chega
 	update_post_meta( $mat, 'po_denuncia_id', $id );
-	update_post_meta( $mat, 'po_linha_fina', 'Denúncia · Protocolo ' . $prot . ' · ' . $quem );
+	update_post_meta( $mat, 'po_linha_fina', po_den_linha_fina( $id ) );
 
 	update_post_meta( $id, 'dc_post_id', $mat );
 	update_post_meta( $id, 'dc_artes', array( 'feed' => $artes['feed'], 'reels' => $artes['reels'], 'site' => $artes['site'] ) );
@@ -1194,6 +1255,8 @@ add_action( 'rest_api_init', function () {
 				'titulo' => get_post_meta( $p->ID, 'dc_titulo_pub', true ), 'editoria' => get_post_meta( $p->ID, 'dc_cat_pub', true ),
 				'moldura' => get_post_meta( $p->ID, 'dc_portal_pub', true ) === 'one' ? 'Portal ONE News' : 'Portal Luziense',
 				'anonima' => $anon, 'nome' => $anon ? '' : get_post_meta( $p->ID, 'dc_nome', true ),
+				'tipo' => po_den_tipo( $p->ID ), 'tipo_nome' => po_den_rot( $p->ID )['nome'], 'cabecalho' => po_den_rot( $p->ID )['cabecalho'],
+				'assinatura' => $anon ? '' : sprintf( po_den_rot( $p->ID )['por'], get_post_meta( $p->ID, 'dc_nome', true ) ),
 				'local' => get_post_meta( $p->ID, 'dc_local', true ), 'relato' => $p->post_content,
 				'instagram_formato' => $md['video'] ? 'reels' : 'feed',
 				'midia_tipo' => $md['video'] ? 'video' : 'foto',
@@ -1219,6 +1282,7 @@ add_action( 'rest_api_init', function () {
 			$out[] = array(
 				'id' => $p->ID, 'protocolo' => get_post_meta( $p->ID, 'dc_protocolo', true ), 'local' => get_post_meta( $p->ID, 'dc_local', true ),
 				'relato' => $p->post_content, 'anonima' => $anon, 'nome' => $anon ? '' : get_post_meta( $p->ID, 'dc_nome', true ),
+				'tipo' => po_den_tipo( $p->ID ), 'editoria_inicio' => po_den_rot( $p->ID )['prefixo'],
 				'foto_url' => $md['foto'] ? wp_get_attachment_url( $md['foto'] ) : '', 'video_url' => $md['video'] ? wp_get_attachment_url( $md['video'] ) : '',
 			);
 		}
@@ -1232,7 +1296,7 @@ add_action( 'rest_api_init', function () {
 		if ( '' === $t ) return new WP_Error( 'titulo', 'mande o titulo', array( 'status' => 400 ) );
 		update_post_meta( $id, 'dc_titulo_pub', function_exists( 'mb_substr' ) ? mb_substr( $t, 0, 120 ) : substr( $t, 0, 120 ) );
 		$ed = sanitize_text_field( (string) $req->get_param( 'editoria' ) );
-		if ( $ed ) update_post_meta( $id, 'dc_cat_pub', $ed );
+		if ( $ed ) update_post_meta( $id, 'dc_cat_pub', po_den_cat_tipo( $ed, po_den_tipo( $id ) ) );
 		$mo = $req->get_param( 'moldura' );
 		if ( $mo ) update_post_meta( $id, 'dc_portal_pub', 'one' === $mo ? 'one' : 'luz' );
 		try { $r = po_denuncia_publicar( $id ); } catch ( Throwable $e ) { return new WP_Error( 'falhou', 'erro no site: ' . $e->getMessage() . ' (' . basename( $e->getFile() ) . ':' . $e->getLine() . ')', array( 'status' => 500 ) ); }

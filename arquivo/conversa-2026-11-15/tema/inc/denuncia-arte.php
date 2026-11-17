@@ -160,7 +160,7 @@ function po_arte_denuncia( $d, $saida ) {
 	$lh = $tp * 1.11;
 
 	// mede o bloco de baixo pra cima
-	$selo_txt = ! empty( $d['anonima'] ) ? 'Denúncia anônima' : 'Denúncia feita por ' . $d['nome'];
+	$selo_txt = ! empty( $d['selo'] ) ? $d['selo'] : ( ! empty( $d['anonima'] ) ? 'Denúncia anônima' : 'Denúncia feita por ' . $d['nome'] );
 	$pad_y = round( $c['selo'] * 0.34 ); $pad_x = round( $c['selo'] * 0.6 );
 	$selo_h = $c['selo'] * 1.36 + 2 * $pad_y;
 	$y_info = $c['base'] - $selo_h;
