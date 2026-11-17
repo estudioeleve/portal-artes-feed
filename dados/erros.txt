@@ -332,3 +332,4 @@
 17/11/2026 10:57 - Rodada 10h: limite de 100 posts/24h do Instagram entre 10:39 e 10:55 (Windsor). Painel da Eleve segue travado (too many actions).
 17/11/2026 11:06 - Post 131237_49 (MDB BH 2028/Política) saiu pelo Windsor SEM COLLAB: falta @portallpolitica (painel travado por too many actions).
 17/11/2026 11:07 - Post 110800_israel (Câmara cobra explicações sobre insulinas, Luziense) saiu pelo Windsor SEM COLLAB: falta @portaluziense.
+17/11/2026 11:18 - painel da Eleve: 'Connection reset by peer' (jsDelivr e raw); post 141243_99 (Dino/6x1, Política) saiu pelo Windsor SEM COLLAB: falta @portallpolitica.
