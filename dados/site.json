@@ -1,17 +1,5 @@
 [
  {
-  "id": "151814_16",
-  "data": "2026-11-15T12:19:02-03:00",
-  "titulo": "Moradores de Brumadinho reclamam de rua esburacada há um mês após obra atribuída à Copasa no Monte Cristo",
-  "linha_fina": "Na Rua Raimundo Vaz Diniz, a antiga Rua 6, pavimento danificado, terra exposta e escavações dificultam a entrada e a saída das casas.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Moradores da Rua Raimundo Vaz Diniz, a antiga Rua 6, no bairro Monte Cristo, em Brumadinho, na Grande BH, reclamam das condições da via depois de uma intervenção atribuída à Companhia de Saneamento de Minas Gerais (Copasa). A denúncia foi feita neste sábado (14).</p>\n<p>Segundo os moradores, o problema já dura cerca de um mês e tem atrapalhado quem precisa entrar e sair da rua todos os dias. \"Sem condições nenhuma pra entrar e sair\", relatou um deles ao pedir a divulgação do caso.</p>\n<p>Imagens enviadas pelos moradores mostram um trecho da rua com o pavimento danificado, terra exposta, pedras e pontos de escavação. O local está sinalizado com cones, o que indica uma área de obra.</p>\n<p>A principal reclamação é a demora para resolver o problema e devolver condições normais de circulação. A situação preocupa principalmente quem depende da rua diariamente para chegar em casa e cumprir a rotina.</p>\n<p>Até a última atualização da reportagem de origem, a Copasa ainda não tinha informado o motivo da obra, o cronograma dos trabalhos nem a previsão para terminar o serviço e recuperar a via. O espaço segue aberto para manifestação da companhia.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/151814_16.jpg",
-  "credito_foto": "Reprodução/Portal da Cidade Brumadinho",
-  "fonte": "Portal da Cidade Brumadinho",
-  "resumos": ""
- },
- {
   "id": "151839_118",
   "data": "2026-11-15T12:19:02-03:00",
   "titulo": "Enem: BH tem 391 viagens de ônibus a mais, metrô reforçado e agentes nos locais de prova neste domingo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/111923_10.jpg",
   "credito_foto": "Foto: Reprodução/g1",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "113238_45",
+  "data": "2026-11-17T08:32:52-03:00",
+  "titulo": "CBS de 11,3%: Durigan vai ao Senado explicar alíquota que preocupa comércio e indústria",
+  "linha_fina": "Ministro da Fazenda, presidente do TCU e secretário da Receita participam de audiência na CAE; percentual supera a estimativa inicial de 9,21%.",
+  "categoria": "comercio",
+  "texto": "<p>O ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de uma audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para explicar a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), o novo tributo federal criado pela reforma tributária, que começa a valer em 2027.</p>\n<p>O percentual de 11,3% recomendado pelo Tribunal de Contas da União (TCU), no fim de outubro, gerou questionamentos de parlamentares e de representantes do setor produtivo. O índice ficou acima da estimativa de 9,21% apresentada antes pela equipe econômica. Além de Durigan, participam da audiência o presidente do TCU, Vital do Rêgo Filho, e o secretário especial da Receita Federal, Robinson Barreirinhas.</p>\n<p>O debate foi pedido pelo senador Izalci Lucas (PL-DF). Segundo ele, somada à previsão do Imposto sobre Bens e Serviços (IBS), estadual e municipal, a nova alíquota levaria a uma cobrança conjunta perto de 30%, acima da trava de 26,5% prevista na Lei Complementar 214, de 2025. O relator da resolução que vai fixar a alíquota, senador Eduardo Braga (MDB-AM), disse que os parlamentares foram \"pegos de surpresa\".</p>\n<p>A CBS é a parte federal do novo Imposto sobre Valor Adicionado (IVA) e vai substituir o PIS e a Cofins. O IBS, administrado por estados e municípios, vai substituir o ICMS e o ISS. A indústria e a Ordem dos Advogados do Brasil pressionam por mudanças no cronograma de transição, e há quem defenda adiar a entrada em vigor do novo tributo.</p>\n<p>Para o comerciante e o pequeno empresário, a definição da alíquota é importante porque vai pesar no preço final dos produtos e serviços e no planejamento do negócio a partir de 2027. Empresas do Simples Nacional têm regras próprias na transição, e a orientação é acompanhar as mudanças com o contador.</p>\n<p>A audiência pode ser acompanhada ao vivo pela TV Senado e pelo canal do Senado na internet.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/113238_45.jpg",
+  "credito_foto": "Foto: Fabio Rodrigues-Pozzebom/Agência Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
