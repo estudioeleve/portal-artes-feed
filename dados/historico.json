@@ -47976,5 +47976,19 @@
   "fonte": "Diário do Rio",
   "arte": "artes/2026-11-16/001620_21.jpg",
   "media_id": "18130852879926100"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "22:42",
+  "id": "011245_215",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Dólar fecha a R$ 5,77, maior valor desde abril de 2025, com mercado desconfiado do ajuste fiscal",
+  "titulo_orig": "Dólar atinge maior valor desde abril de 2025 com incerteza sobre ajuste fiscal de Lula",
+  "link": "https://www.gazetadopovo.com.br/economia/dolar-atinge-maior-valor-desde-abril-de-2025-com-incerteza-sobre-ajuste-fiscal-de-lula/",
+  "fonte": "Gazeta do Povo",
+  "arte": "artes/2026-11-16/011245_215.jpg",
+  "media_id": "18131329384641302"
  }
 ]
