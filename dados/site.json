@@ -1,17 +1,5 @@
 [
  {
-  "id": "091427_100",
-  "data": "2026-11-16T06:20:20-03:00",
-  "titulo": "Incêndio em prédio comercial deixa 11 mortos e 16 feridos em Phuket, na Tailândia",
-  "linha_fina": "Fogo começou de madrugada em uma locadora de veículos perto da praia de Patong e se espalhou para prédios vizinhos; nenhum turista foi atingido.",
-  "categoria": "mundo",
-  "texto": "<p>Um incêndio em um prédio comercial deixou 11 mortos e 16 feridos na ilha de Phuket, um dos destinos turísticos mais procurados da Tailândia, na madrugada desta segunda-feira (16), segundo a polícia local.</p><p>O fogo começou por volta das 3h17, no horário local, em um imóvel de quatro andares onde funcionava uma empresa de aluguel de veículos. As chamas se espalharam em seguida para vários prédios próximos. De acordo com as autoridades tailandesas, os bombeiros levaram cerca de duas horas para controlar o incêndio.</p><p>O prédio fica em uma área urbana próxima à praia de Patong, uma das mais conhecidas de Phuket, na costa oeste da ilha. Dos 16 feridos, 15 são tailandeses e um é de Mianmar. Segundo a polícia, nenhum turista está entre os mortos ou feridos.</p><p>A causa do incêndio ainda não foi determinada e está sendo investigada. As autoridades não informaram se o prédio tinha moradores nos andares superiores nem se havia problemas na estrutura de prevenção contra incêndio.</p><p>A tragédia acontece quatro meses depois de outro incêndio de grandes proporções no país. Em julho, o fogo em um bar de Bangkok deixou pelo menos 27 mortos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/091427_100.jpg",
-  "credito_foto": "AFP/Thai PBS via AFPTV",
-  "fonte": "g1, com informações da Reuters",
-  "resumos": ""
- },
- {
   "id": "091443_122",
   "data": "2026-11-16T06:20:20-03:00",
   "titulo": "Encontro inédito de Trump, Putin e Xi nesta semana preocupa a Europa; entenda",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/221919_188.jpg",
   "credito_foto": "Patrick Arley/Divulgação",
   "fonte": "Brasil de Fato",
+  "resumos": ""
+ },
+ {
+  "id": "222333_379",
+  "data": "2026-11-17T19:24:14-03:00",
+  "titulo": "De Santa Luzia para a Seleção: jovem que começou na canoagem há três anos já é convocada",
+  "linha_fina": "Ana Clara Cardoso, de 17 anos, é atendida pelo Bolsa Atleta do Estado e mira o Mundial Júnior de 2027 e os Jogos Olímpicos de 2028",
+  "categoria": "santa-luzia",
+  "texto": "<p>Há três anos, Ana Clara Cardoso dava as primeiras remadas na canoagem. Hoje, aos 17 anos, a estudante-atleta de Santa Luzia, na Grande BH, já foi convocada para a Seleção Brasileira da modalidade. A trajetória da jovem abre o balanço do esporte mineiro de 2023 a 2026 divulgado pelo Governo de Minas.</p><p>\"Eu sou uma pessoa que conseguiu sair da obesidade e hoje treina com a Seleção Brasileira. Nunca pensei que, com apenas três anos de canoagem, já poderia representar Minas Gerais e o meu país\", contou a atleta.</p><p>Ana Clara é atendida pelo Bolsa Atleta, da Secretaria de Estado de Desenvolvimento Social (Sedese), e usa o recurso para alimentação, inscrições em competições e materiais esportivos. Depois da convocação, em 2026, o próximo objetivo é o Mundial Júnior de Canoagem de Velocidade, em 2027. O sonho maior são os Jogos Olímpicos de 2028.</p><p>Segundo o Estado, foram investidos mais de R$ 541 milhões nos últimos anos em políticas de formação esportiva, inclusão social e participação feminina no esporte, com ações nos 853 municípios mineiros. Os Jogos Escolares de Minas Gerais (Jemg) tiveram, em 2026, pela segunda vez seguida, inscrição de todas as cidades do estado, com mais de 50 mil estudantes. A competição já revelou nomes como o nadador Gabrielzinho e a jogadora de vôlei de praia Ana Patrícia.</p><p>\"O esporte promove talentos e transforma histórias\", afirmou o governador Mateus Simões. Para o secretário de Desenvolvimento Social, Marcelo Couto Dias, o esporte é \"ferramenta de educação, saúde, convivência e desenvolvimento\".</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/222333_379.jpg",
+  "credito_foto": "Júlia Fernandes/Agência Minas",
+  "fonte": "Agência Minas",
   "resumos": ""
  }
 ]
