@@ -1,17 +1,5 @@
 [
  {
-  "id": "181135_1",
-  "data": "2026-11-15T15:14:24-03:00",
-  "titulo": "Incêndio em depósito de recicláveis derruba duas paredes em Montes Claros",
-  "linha_fina": "Fogo começou na madrugada deste domingo (15), no bairro Delfino; ninguém se feriu e a casa do dono, nos fundos, foi preservada.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Um incêndio atingiu um depósito de materiais recicláveis na madrugada deste domingo (15), no bairro Delfino, em Montes Claros, no Norte de Minas. Durante o combate às chamas, duas paredes do imóvel desabaram. Ninguém ficou ferido.</p><p>O Corpo de Bombeiros foi chamado por volta de 0h30 e, ao chegar, encontrou o galpão tomado pelo fogo. O local guardava caixas de madeira e papelão, materiais que alimentam as chamas com facilidade. A área foi isolada para o trabalho das equipes, que conseguiram impedir que o incêndio chegasse a imóveis vizinhos.</p><p>Uma casa nos fundos do terreno, onde mora o dono do depósito, não foi atingida. Depois de controlar o fogo, os militares fizeram o rescaldo, trabalho que elimina focos escondidos e evita que as chamas voltem.</p><p>A rede de iluminação pública também foi afetada: parte da fiação se rompeu e caiu sobre o passeio, com risco de choque elétrico para quem passasse pelo local. A Cemig foi acionada para fazer os reparos.</p><p>Segundo os bombeiros, a construção não tinha estrutura adequada e havia risco de novos desabamentos. Por isso, todo o imóvel foi isolado. O proprietário foi orientado a contratar um profissional habilitado para avaliar o que sobrou da edificação e indicar se as partes comprometidas devem ser demolidas ou recuperadas.</p><p>As causas do incêndio não foram informadas.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/181135_1.jpg",
-  "credito_foto": "Reprodução/Correio do Povo",
-  "fonte": "Corpo de Bombeiros",
-  "resumos": ""
- },
- {
   "id": "181139_11",
   "data": "2026-11-15T15:14:25-03:00",
   "titulo": "Câmara de Contagem faz noite de Natal gratuita com Papai Noel e fotos na hora no dia 26",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/114000_israel.jpg",
   "credito_foto": "Reprodução/Portal ONE News",
   "fonte": "Portal ONE News",
+  "resumos": ""
+ },
+ {
+  "id": "113600_israel",
+  "data": "2026-11-17T11:38:49-03:00",
+  "titulo": "Secretaria de Saúde de Santa Luzia nega demissão de médicos e fala em readequação de contratos",
+  "linha_fina": "Nota responde ao vereador Nandinho, que afirmou na Câmara que todos os médicos da atenção primária foram demitidos.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Secretaria Municipal de Saúde de Santa Luzia desmentiu a informação de que todos os médicos da atenção primária teriam sido demitidos. A afirmação foi feita pelo vereador Nandinho durante a reunião da Câmara Municipal desta terça-feira (17).</p>\n<p>Em nota enviada ao Portal ONE News por meio da sua comunicação, a Secretaria esclarece que não procedem as informações sobre demissões, nem nas unidades de saúde da atenção primária, nem no serviço de urgência e emergência do município.</p>\n<p>Segundo a pasta, o que está acontecendo é um processo de readequação contratual e administrativa que envolve exclusivamente os profissionais médicos vinculados à atenção primária. Esse processo tem provocado, temporariamente, uma redução no número de médicos disponíveis nesse nível de atendimento.</p>\n<p>A Secretaria afirma ainda que as Unidades Básicas de Saúde (UBSs) continuam funcionando e atendendo a população, e que trabalha para resolver a situação no menor prazo possível.</p>\n<p>Acompanhe abaixo, na íntegra, a nota enviada pela Secretaria Municipal de Saúde:</p>\n<blockquote><p>A Secretaria Municipal de Saúde (SMSA) esclarece que não procedem as informações sobre demissões de profissionais médicos que atuam na Atenção Primária à Saúde (APS) ou nos serviços de Urgência e Emergência do município.</p><p>O que está em curso é um processo de readequação contratual e administrativa envolvendo exclusivamente os profissionais médicos vinculados à Atenção Primária à Saúde. Esse processo tem ocasionado, temporariamente, uma redução no quantitativo de médicos disponíveis nesse nível de atenção.</p><p>Ressaltamos que as Unidades Básicas de Saúde (UBSs) permanecem em funcionamento, mantendo o atendimento à população e desenvolvendo as atividades inerentes às equipes de Saúde da Família, dentro de suas atribuições e responsabilidades assistenciais.</p><p>A Secretaria reforça que está empenhada na condução das tratativas necessárias para a resolução dessa situação no menor prazo possível, trabalhando para garantir a continuidade dos serviços e preservar a assistência prestada à população.</p><p>Reiteramos nosso compromisso com os profissionais de saúde, com a transparência das informações e, sobretudo, com a qualidade da assistência à população de Santa Luzia.</p><p>Secretaria Municipal de Saúde</p></blockquote>\n<p>O espaço segue aberto para novas manifestações do vereador e da Prefeitura de Santa Luzia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/113600_israel.jpg",
+  "credito_foto": "Prefeitura de Santa Luzia",
+  "fonte": "Secretaria Municipal de Saúde de Santa Luzia",
   "resumos": ""
  }
 ]
