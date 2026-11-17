@@ -1,17 +1,5 @@
 [
  {
-  "id": "141425_68",
-  "data": "2026-11-15T11:19:56-03:00",
-  "titulo": "Atlético finaliza 16 vezes, acerta só uma no gol e segue com pontaria em baixa antes da final da Sul-Americana",
-  "linha_fina": "Nos últimos cinco jogos, o Galo acertou apenas 25,9% das finalizações; Domínguez diz que time foi competitivo e pede foco na decisão.",
-  "categoria": "atletico",
-  "texto": "<p>O empate sem gols com o Mirassol, no sábado (14), pelo Campeonato Brasileiro, repetiu um problema que tem preocupado o torcedor do Atlético: a falta de pontaria. O Galo finalizou 16 vezes e acertou apenas uma no gol adversário, mesmo criando chances suficientes para marcar.</p>\n<p>O desempenho segue uma tendência das últimas semanas. Nos cinco jogos mais recentes, o Atlético marcou menos gols do que o esperado pelas chances criadas. Contra o Mirassol, o time teve 1,13 de gols esperados e saiu de campo zerado. No período, somou quase sete gols esperados, mas balançou as redes apenas uma vez.</p>\n<p>Nesse recorte de cinco partidas, o Galo finalizou 54 vezes, média de 10,8 por jogo, e acertou o alvo em 14 delas, média de 2,8 por partida. Isso significa que só 25,9% dos chutes foram na direção do gol.</p>\n<p>Na entrevista coletiva depois do jogo, o técnico Eduardo Domínguez destacou que a equipe foi competitiva, criou situações para vencer e merecia o resultado, mas não conseguiu converter as chances. Segundo ele, agora é hora de concentrar as energias na final.</p>\n<p>Se o ataque preocupa, a defesa segue em evolução e tem mostrado um time mais combativo, ponto visto como trunfo para a decisão.</p>\n<p>O Atlético enfrenta o Boca Juniors na final da Copa Sul-Americana, principal objetivo do clube na reta final da temporada. No Brasileirão, o Galo é o sétimo colocado, com 51 pontos, e não tem mais risco de rebaixamento.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/141425_68.jpg",
-  "credito_foto": "Vinicius Silva/AGIF/Folhapress (via Lance!)",
-  "fonte": "Lance!",
-  "resumos": ""
- },
- {
   "id": "141434_39",
   "data": "2026-11-15T11:19:56-03:00",
   "titulo": "UAI de Itaú de Minas passa a oferecer 45 serviços de trânsito a partir desta segunda-feira (16)",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/102033_11.jpg",
   "credito_foto": "Foto: Reprodução/Jornal Extra Alagoas",
   "fonte": "Jornal Extra Alagoas",
+  "resumos": ""
+ },
+ {
+  "id": "102915_5",
+  "data": "2026-11-17T07:29:28-03:00",
+  "titulo": "Licenciamento ambiental em Minas muda a partir de 23/11: empresas não precisam mais da certidão municipal prévia",
+  "linha_fina": "Feam lança nova versão do sistema SLA para seguir a Lei Geral do Licenciamento; pedidos sem taxa gerada terão de ser refeitos.",
+  "categoria": "comercio",
+  "texto": "<p>A Fundação Estadual do Meio Ambiente (Feam) vai colocar no ar, a partir de 23 de novembro de 2026, a versão 3.2.0 do Sistema de Licenciamento Ambiental (SLA) de Minas Gerais. A atualização adapta o sistema à Lei Federal nº 15.190/2025, a Lei Geral do Licenciamento Ambiental, e muda procedimentos que afetam empresas de todos os portes que precisam de licença.</p><p>Uma das principais mudanças é o fim da exigência prévia da certidão municipal de uso e ocupação do solo para enviar a solicitação. No lugar dela, o empreendedor passa a declarar no próprio sistema, sob as penas da lei, que o empreendimento está de acordo com a legislação urbanística do município.</p><p>A nova versão também traz campos obrigatórios para identificar possíveis impactos sobre terras indígenas, territórios quilombolas, patrimônio cultural protegido e unidades de conservação. Conforme as respostas, o sistema avisa quais órgãos precisam se manifestar, o que pode pausar a tramitação dentro dos prazos da lei federal.</p><p>Atenção para quem já começou um pedido: solicitações que ainda estejam em preenchimento e não tenham gerado taxa de expediente antes da implantação da nova versão não poderão seguir, e será preciso abrir um novo requerimento. Depois da emissão da Orientação para Formalização do Processo, os dados não poderão mais ser editados.</p><p>A responsabilidade técnica também terá controle maior: passam a ser obrigatórios o Documento de Responsabilidade Técnica pela atividade e o cadastro dos profissionais responsáveis pelos estudos ambientais, com os registros de ART e do Cadastro Técnico Federal. Nos pedidos de informações complementares, deixa de existir a possibilidade de sobrestamento; o empreendedor poderá apenas pedir prorrogação de prazo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/102915_5.jpg",
+  "credito_foto": "Foto: Robson Santos/Semad",
+  "fonte": "Agência Minas/Feam, via Conexão 424",
   "resumos": ""
  }
 ]
