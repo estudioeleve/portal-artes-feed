@@ -1,17 +1,5 @@
 [
  {
-  "id": "171126_107",
-  "data": "2026-11-15T14:14:31-03:00",
-  "titulo": "Cleitinho enviou R$ 1,3 milhão em emendas para festas em MG antes de propor fim dos repasses para shows",
-  "linha_fina": "Recursos ajudaram a pagar show de Claudia Leitte em Mirabela e estrutura de festa em Ipaba; assessoria diz que prefeituras decidem o uso.",
-  "categoria": "politica",
-  "texto": "<p>O senador e governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), destinou cerca de R$ 1,34 milhão em emendas parlamentares para festas em municípios mineiros durante o mandato no Senado. A informação veio à tona neste domingo (15), poucos dias depois de ele anunciar que pretende proibir o uso de dinheiro do Estado para bancar shows e eventos festivos quando assumir o governo, em janeiro de 2027.</p><p>Em 2024, Cleitinho enviou R$ 500 mil para Mirabela, no Norte de Minas. O valor ajudou a pagar o cachê da cantora Claudia Leitte na tradicional Festa de Agosto da cidade, que custou R$ 650 mil; a prefeitura completou os R$ 150 mil restantes.</p><p>No ano seguinte, o senador indicou R$ 841,5 mil para Ipaba, no Vale do Aço. O dinheiro foi usado na contratação de estruturas para a festa de aniversário do município, que teve shows de Felipe Araújo e Ferrugem.</p><p>Os repasses chamaram atenção porque, em 7 de novembro, Cleitinho afirmou que vai enviar à Assembleia Legislativa um projeto para impedir que verbas estaduais sejam aplicadas em festas municipais.</p><p>Procurada, a assessoria do senador disse que os recursos federais foram pedidos por representantes locais e que as prefeituras têm autonomia para definir como usar o dinheiro, dentro das regras das chamadas transferências especiais.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-15/171126_107.jpg",
-  "credito_foto": "Foto: Reprodução/Agência Senado",
-  "fonte": "NC News",
-  "resumos": ""
- },
- {
   "id": "171143_209",
   "data": "2026-11-15T14:14:31-03:00",
   "titulo": "Piloto explica descida de emergência do avião de Amado Batista: manobra serviu para descongelar sensor",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/131216_164.jpg",
   "credito_foto": "Paulo Pinto/Agência Brasil",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "102000_israel",
+  "data": "2026-11-17T10:19:27-03:00",
+  "titulo": "Vereadores denunciam perda de insulinas em Santa Luzia e prefeito responde",
+  "linha_fina": "Fernando de Ariston aponta armazenamento incorreto no almoxarifado central; Paulo Bigodinho fala em pico de energia e garante que a distribuição segue normal.",
+  "categoria": "santa-luzia",
+  "texto": "<p>O vereador Fernando de Ariston, acompanhado de outros vereadores de Santa Luzia, denunciou um suposto problema no almoxarifado central do município que teria levado à perda de insulinas. Segundo o parlamentar, o local não estava fazendo o armazenamento correto dos medicamentos, e as insulinas não estariam sendo mantidas na temperatura adequada.</p>\n<p>A insulina é um medicamento que precisa ser conservado em refrigeração, dentro de uma faixa de temperatura controlada, para manter a eficácia. Por isso, a denúncia dos vereadores gerou preocupação entre pacientes com diabetes que dependem da distribuição feita pela rede municipal.</p>\n<p>Depois da repercussão, o prefeito Paulo Bigodinho foi às redes sociais para explicar a situação. Em vídeo gravado no próprio almoxarifado, ele afirmou que houve um pico de energia que desregulou os freezers onde os medicamentos ficam guardados. O prefeito também disse que todos os equipamentos de refrigeração do local são novos.</p>\n<p>Segundo Paulo Bigodinho, a quantidade de insulina que ainda está em condições de uso no município é suficiente e não vai comprometer a distribuição aos pacientes. Mesmo assim, ele afirmou que vai procurar o Governo de Minas para pedir a reposição das unidades perdidas.</p>\n<p>O prefeito garantiu que a entrega de insulina em Santa Luzia seguirá normalmente e assumiu o compromisso com a população de que os pacientes não ficarão sem o medicamento.</p>\n<p>O Portal ONE News segue acompanhando o caso e o espaço está aberto para novas manifestações dos vereadores e da Prefeitura de Santa Luzia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/102000_israel.jpg",
+  "credito_foto": "Reprodução/Redes sociais",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
