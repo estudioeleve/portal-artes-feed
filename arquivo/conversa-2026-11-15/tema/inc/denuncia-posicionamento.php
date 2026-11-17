@@ -194,6 +194,11 @@ function po_posic_metabox( $post ) {
 		</ul>
 		<p><b>Prazo:</b> <?php echo esc_html( po_posic_quando( $post->ID ) ); echo $prazo && time() > $prazo ? ' <span style="color:#b32d2e">(vencido)</span>' : ' <span style="color:#646970">(se publicar antes, a matéria sai sem a resposta)</span>'; ?></p>
 	<?php endif; ?>
+	<?php if ( ! $resp ) : ?>
+		<hr><p style="margin-bottom:4px"><b>Respondeu pelo WhatsApp, por telefone ou por e-mail?</b> Cole a resposta aqui e clique em <b>Atualizar</b>:</p>
+		<p style="margin:0"><input type="text" name="dc_posic_manual_nome" placeholder="Quem respondeu (ex.: Antônio, diretor do Hospital Madalena)" style="width:100%;margin-bottom:4px">
+		<textarea name="dc_posic_manual" rows="4" style="width:100%" placeholder="Texto da resposta"></textarea></p>
+	<?php endif; ?>
 	<?php if ( $resp ) : ?>
 		<hr><p style="margin-bottom:4px"><b>Resposta recebida</b> em <?php echo esc_html( wp_date( 'd/m H\hi', (int) get_post_meta( $post->ID, 'dc_posic_resp_em', true ) ) ); ?> · <?php echo esc_html( trim( get_post_meta( $post->ID, 'dc_posic_resp_nome', true ) . ', ' . get_post_meta( $post->ID, 'dc_posic_resp_cargo', true ), ', ' ) ); ?></p>
 		<blockquote style="background:#f6f7f7;padding:8px 12px;margin:0"><?php echo nl2br( esc_html( $resp ) ); ?></blockquote>
@@ -257,6 +262,14 @@ add_action( 'save_post_po_denuncia', function ( $post_id ) {
 	$h = absint( $_POST['dc_posic_horas'] ?? 24 ); if ( ! in_array( $h, array( 2, 24, 48 ), true ) ) $h = 24;
 	update_post_meta( $post_id, 'dc_posic_horas', $h );
 	if ( isset( $_POST['dc_posic_orgao'] ) ) update_post_meta( $post_id, 'dc_posic_orgao', sanitize_text_field( wp_unslash( $_POST['dc_posic_orgao'] ) ) );
+	$man = trim( sanitize_textarea_field( wp_unslash( $_POST['dc_posic_manual'] ?? '' ) ) );
+	if ( $man ) { // resposta que chegou por fora (WhatsApp, telefone, e-mail)
+		update_post_meta( $post_id, 'dc_posic_resposta', $man );
+		update_post_meta( $post_id, 'dc_posic_resp_nome', sanitize_text_field( wp_unslash( $_POST['dc_posic_manual_nome'] ?? '' ) ) );
+		update_post_meta( $post_id, 'dc_posic_resp_cargo', 'registrada pela redação' );
+		update_post_meta( $post_id, 'dc_posic_resp_em', time() );
+		delete_post_meta( $post_id, 'dc_posic_resposta_ed' );
+	}
 	if ( get_post_meta( $post_id, 'dc_posic_resposta', true ) ) {
 		$antes = get_post_meta( $post_id, 'dc_posic_usar', true ) . '|' . get_post_meta( $post_id, 'dc_posic_resposta_ed', true ) . '|' . get_post_meta( $post_id, 'dc_posic_orgao', true );
 		update_post_meta( $post_id, 'dc_posic_usar', empty( $_POST['dc_posic_usar'] ) ? '' : '1' );
@@ -330,7 +343,7 @@ add_action( 'template_redirect', function () {
 	@header( 'X-LiteSpeed-Cache-Control: no-cache' );
 	$id = strlen( $tok ) >= 10 ? (int) $wpdb->get_var( $wpdb->prepare( "SELECT post_id FROM {$wpdb->postmeta} WHERE meta_key = 'dc_posic_token' AND meta_value = %s ORDER BY meta_id DESC LIMIT 1", $tok ) ) : 0;
 	if ( $id && 'po_denuncia' !== get_post_type( $id ) ) $id = 0;
-	status_header( $id ? 200 : 404 ); nocache_headers();
+	status_header( 200 ); nocache_headers(); // nunca 404: o cache guarda página de erro
 	$msg = '';
 	if ( $id && 'POST' === $_SERVER['REQUEST_METHOD'] && empty( $_POST['site'] ) ) {
 		$txt = sanitize_textarea_field( wp_unslash( $_POST['resposta'] ?? '' ) );
