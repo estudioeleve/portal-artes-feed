@@ -658,7 +658,16 @@ function po_importar_feed( $url, $coluna ) {
 	foreach ( array_slice( $lista, -200 ) as $n ) {
 		if ( empty( $n['id'] ) || empty( $n['titulo'] ) ) continue;
 		$ja = get_posts( array( 'post_type' => 'post', 'post_status' => 'any', 'meta_key' => 'po_origem', 'meta_value' => $n['id'], 'fields' => 'ids', 'posts_per_page' => 1 ) );
-		if ( $ja ) continue;
+		if ( $ja ) {
+			// troca a foto de uma matéria já publicada quando o robô manda "refoto" novo (Israel, 17/11/2026)
+			if ( ! empty( $n['refoto'] ) && ! empty( $n['foto'] ) && 0 === strpos( $n['foto'], 'https://raw.githubusercontent.com/estudioeleve/' )
+				&& get_post_meta( $ja[0], 'po_refoto', true ) !== (string) $n['refoto'] ) {
+				require_once ABSPATH . 'wp-admin/includes/media.php'; require_once ABSPATH . 'wp-admin/includes/file.php'; require_once ABSPATH . 'wp-admin/includes/image.php';
+				$mid = media_sideload_image( $n['foto'] . '?v=' . rawurlencode( $n['refoto'] ), $ja[0], wp_strip_all_tags( $n['titulo'] ), 'id' );
+				if ( ! is_wp_error( $mid ) ) { set_post_thumbnail( $ja[0], $mid ); update_post_meta( $ja[0], 'po_refoto', (string) $n['refoto'] ); if ( function_exists( 'po_limpar_cache_post' ) ) po_limpar_cache_post( $ja[0] ); }
+			}
+			continue;
+		}
 		$autor = $robo ? $robo->ID : 1;
 		if ( $coluna ) {
 			$u = po_achar_colunista( isset( $n['colunista_slug'] ) ? $n['colunista_slug'] : '', isset( $n['colunista'] ) ? $n['colunista'] : '' );

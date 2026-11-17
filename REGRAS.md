@@ -17,6 +17,8 @@
 - Corte no **assunto principal**: pessoa com a **cabeça inteira e um pouco do tronco**; lixão, buraco, alagamento, carro, prédio: a melhor parte do problema no meio. Nunca cortar cabeça nem o assunto.
 - Como: `python3 robo/capa16x9.py entrada.jpg saida.jpg --foco X,Y` (X,Y de 0 a 1 = onde está o assunto; ex.: rosto no alto da foto em pé = `--foco 0.5,0.25`). No `site.py`, ponha no item `"foco": [X, Y]` (sem ele, o corte padrão é 22% do topo em foto em pé). **Sempre olhe a imagem cortada (Read) antes de mandar.**
 - **Reels e Instagram não mudam**: vídeo vai inteiro, sem cortar nada.
+- **Foto/print em pé sem "foco" o `site.py` recusa** (17/11: a matéria da Câmara cobrando a Prefeitura sobre as insulinas, 11h07, saiu cortando a cabeça do vereador; o Israel reclamou). Olhe a imagem cortada antes de mandar, sempre.
+- **Para trocar a foto de matéria já publicada:** salve a foto nova com outro nome (ex.: `<id>_b.jpg`), troque o `foto` do item em `dados/site.json` e ponha `"refoto": "<data>-<n>"`; o site troca sozinho em até 15 minutos (tema 2.14.14).
 - **Exemplo certo (Israel aprovou, 17/11/2026):** matéria "Vereadores denunciam perda de insulinas em Santa Luzia e prefeito responde" (10h19): print do vídeo cortado na horizontal com o prefeito do peito para cima, a cabeça inteira, e os freezers do almoxarifado ao lado. **Exemplo errado:** "Menina de 12 anos... encontrada pela PM em Santa Luzia" (07h57): print em pé, inteiro e grandão. Siga sempre o exemplo certo.
 
 ## 🖼️ CAPA DA DENÚNCIA NO SITE: NUNCA MOLDURA; SÓ VÍDEO = PRINT DO VÍDEO NA HORIZONTAL (Israel, 15/11/2026 21h16)

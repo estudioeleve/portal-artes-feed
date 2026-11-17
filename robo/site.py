@@ -26,6 +26,9 @@ for i in sys.argv[1:]:
     os.makedirs(f'{R}/site/{dia}',exist_ok=True)
     sys.path.insert(0,B);from capa16x9 import cortar
     fx,fy=(o.get('foco') or [None,None])[:2]
+    _w,_h=Image.open(f"{R}/{o['foto']}").size
+    if _h>_w and not o.get('foco'):
+      print(i,'FALTA "foco": foto/print EM PÉ. Olhe a foto (Read), ache a cabeça/assunto e ponha "foco": [X, Y] no item (ver REGRAS: FOTO DO SITE SEMPRE NA HORIZONTAL)');continue
     im=cortar(Image.open(f"{R}/{o['foto']}"),fx,fy)
     fn=f'site/{dia}/{i}.jpg';im.save(f'{R}/{fn}',quality=84);foto='https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/'+fn
   cred=o.get('credito_site') or ''
