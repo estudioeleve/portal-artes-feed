@@ -51644,5 +51644,47 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-18/101012_14.jpg",
   "media_id": "17903549229673971"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "07:16",
+  "id": "101544_29",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Divinópolis ganha equipe exclusiva da Cemig para retirar fios soltos e cabos caídos das ruas",
+  "titulo_orig": "Fios soltos e cabos caídos: Divinópolis terá equipe exclusiva da Cemig para atender situações de risco | G1",
+  "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/fios-soltos-e-cabos-caidos-divinopolis-tera-equipe-exclusiva-da-cemig-para-atender-situacoes-de-risco.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "07:16",
+  "id": "101548_73",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Falha que cancelou mais de 18 mil voos nos EUA ainda não tem causa definida, diz governo Trump",
+  "titulo_orig": "Voos cancelados nos EUA: governo ainda investiga falha em roteador | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/18/eua-ainda-nao-sabem-causa-de-falha-que-cancelou-18-mil-voos-diz-secretario-de-trump.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "07:16",
+  "id": "101554_8",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Chuva deixa carro ilhado na marginal da BR-040 em Contagem e alaga trechos do Anel Rodoviário",
+  "titulo_orig": "Chuva na Grande BH: marginal da BR-040 tem carro ilhado e pontos de alagamento; veja vídeo | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/chuva-na-grande-bh-marginal-da-br-040-tem-carro-ilhado-e-pontos-de-alagamento-veja-video/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
