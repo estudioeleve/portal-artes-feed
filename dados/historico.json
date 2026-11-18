@@ -53870,5 +53870,33 @@
   "fonte": "Observatório do Terceiro Setor",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_7549",
+  "data": "2026-11-18",
+  "hora": "20:12",
+  "media_id": "18102797993533996",
+  "titulo": "Denúncia do leitor 7549",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7549",
+  "arte": ""
+ },
+ {
+  "id": "denuncia_7548",
+  "data": "2026-11-18",
+  "hora": "20:13",
+  "media_id": "18121670729469625",
+  "titulo": "Denúncia do leitor 7548",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7548",
+  "arte": ""
  }
 ]
