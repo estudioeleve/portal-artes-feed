@@ -51000,5 +51000,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-17/231559_36.jpg",
   "media_id": "17917548261518782"
+ },
+ {
+  "id": "denuncia_7276",
+  "data": "2026-11-17",
+  "hora": "21:06",
+  "media_id": "18117072259860975",
+  "titulo": "Denúncia do leitor 7276",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7276",
+  "arte": ""
  }
 ]
