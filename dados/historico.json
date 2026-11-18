@@ -51630,5 +51630,19 @@
   "fonte": "Diário do Transporte",
   "arte": "artes/2026-11-18/091732_23.jpg",
   "media_id": "18147652264588695"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "07:13",
+  "id": "101012_14",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Chuva em BH: regionais Oeste e Nordeste já passaram de todo o volume esperado para novembro",
+  "titulo_orig": "Chuva em BH: duas regionais já superaram o volume acumulado para novembro",
+  "link": "https://www.otempo.com.br/cidades/2026/11/18/chuva-em-bh-duas-regionais-ja-superaram-o-volume-acumulado-para-novembro",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-18/101012_14.jpg",
+  "media_id": "17903549229673971"
  }
 ]
