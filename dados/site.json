@@ -1,17 +1,5 @@
 [
  {
-  "id": "231641_241",
-  "data": "2026-11-16T20:19:22-03:00",
-  "titulo": "João Bosco comemora 80 anos com a Orquestra Ouro Preto no Palácio das Artes neste sábado",
-  "linha_fina": "Concerto \"Gênesis\" tem arranjos sinfônicos de Nelson Ayres; ingressos a partir de R$ 25.",
-  "categoria": "entretenimento",
-  "texto": "<p>O cantor, compositor e violonista João Bosco vai comemorar os 80 anos com um concerto especial em Belo Horizonte. Neste sábado (21), ele sobe ao palco com a Orquestra Ouro Preto no espetáculo \"Gênesis\", às 20h30, no Grande Teatro Cemig, no Palácio das Artes, no Centro da capital.</p><p>Para a apresentação, as músicas do artista ganharam arranjos sinfônicos feitos pelo pianista e compositor Nelson Ayres. A regência é do maestro Rodrigo Toffolo.</p><p>O repertório reúne sucessos como \"O Bêbado e a Equilibrista\", \"Corsário\", \"Bala com Bala\" e \"De Frente pro Crime\", e presta homenagem a Aldir Blanc, parceiro de João Bosco em algumas das canções mais conhecidas da música brasileira.</p><p>O show tem um sabor especial para Minas. João Bosco nasceu em Ponte Nova, na Zona da Mata, estudou Engenharia na Universidade Federal de Ouro Preto e morou na cidade que dá nome à orquestra. Com mais de cinco décadas de carreira, ele é conhecido pela mistura de samba, jazz e outros ritmos brasileiros.</p><p>Os ingressos custam a partir de R$ 25 e podem ser comprados pela Sympla ou na bilheteria do Palácio das Artes, na Avenida Afonso Pena, 1.537, sem taxa de conveniência.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/231641_241.jpg",
-  "credito_foto": "Rapha Garcia/Divulgação",
-  "fonte": "bhaz.com.br",
-  "resumos": ""
- },
- {
   "id": "231232_10",
   "data": "2026-11-16T20:19:22-03:00",
   "titulo": "Feirão de Emprego de Ribeirão das Neves nesta quarta tem vagas em nove áreas, para PCD e estágio",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/181501_126.jpg",
   "credito_foto": "Divulgação",
   "fonte": "BHAZ",
+  "resumos": ""
+ },
+ {
+  "id": "155800_israel",
+  "data": "2026-11-18T15:54:58-03:00",
+  "titulo": "Escabiose: escolas municipais de Santa Luzia liberam alunos às 15h nesta quinta para higienização",
+  "linha_fina": "Secretaria de Educação identificou sintomas pontuais em estudantes de algumas unidades e pede que famílias observem as crianças no feriado.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Os alunos de todas as escolas da rede municipal de Santa Luzia serão dispensados às 15h desta quinta-feira (19 de novembro). A medida é preventiva e foi anunciada pela Secretaria Municipal de Educação diante do alerta de aumento de casos de escabiose, a sarna humana, na Região Metropolitana de Belo Horizonte. No período da tarde, as unidades vão passar por higienização do mobiliário e dos espaços coletivos.</p>\n<p>Em comunicado às famílias e à comunidade escolar, a Secretaria informou que acompanha diariamente os casos suspeitos da doença na rede municipal desde o alerta na Grande BH. Segundo o texto, nesta semana foram identificados sintomas pontuais em estudantes de algumas unidades, e essas famílias já foram orientadas quanto ao afastamento escolar e ao tratamento médico. O comunicado não informa quantos alunos apresentaram sintomas nem quais escolas foram afetadas.</p>\n<p>A pasta também pede que os pais e responsáveis observem as crianças durante o feriado do Dia da Consciência Negra, na sexta-feira (20), e o fim de semana. Caso identifiquem algum sintoma, a orientação é procurar atendimento médico em uma unidade de saúde e não enviar o estudante à aula na segunda-feira (23 de novembro).</p>\n<p>A escabiose é uma doença de pele causada por um ácaro e transmitida principalmente pelo contato direto e prolongado com a pele de uma pessoa infectada, ou pelo compartilhamento de roupas, toalhas e roupas de cama. O sintoma mais comum é a coceira intensa, que costuma piorar à noite, acompanhada de pequenas lesões avermelhadas, frequentemente entre os dedos, nos punhos, nas axilas e na cintura. A doença tem tratamento, que deve ser indicado por um profissional de saúde.</p>\n<p>A medida de Santa Luzia ocorre depois que outras cidades da região também registraram casos. Em Vespasiano, as aulas da rede municipal chegaram a ser suspensas por alguns dias, e Pedro Leopoldo e São José da Lapa também emitiram alertas. Na terça-feira (17), a Câmara Municipal de Santa Luzia informou que a Secretaria de Saúde havia confirmado casos de sarna humana na cidade.</p>\n<p>\"Cuidar é um ato coletivo! Contamos com vocês\", conclui o comunicado da Secretaria Municipal de Educação.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/155800_israel.jpg",
+  "credito_foto": "Divulgação/Secretaria Municipal de Educação de Santa Luzia",
+  "fonte": "Secretaria Municipal de Educação de Santa Luzia",
   "resumos": ""
  }
 ]
