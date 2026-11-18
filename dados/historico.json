@@ -51560,5 +51560,33 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-18/091756_13.jpg",
   "media_id": "18136441300813622"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "06:25",
+  "id": "092523_72",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Eleição da presidência da Câmara de BH, em 12 de dezembro, opõe grupo de Damião e o PL de Nikolas",
+  "titulo_orig": "Damião disputa com Nikolas a presidência da Câmara de BH",
+  "link": "https://www.em.com.br/colunistas/bertha-maakaroun/2026/11/7540332-damiao-disputa-com-nikolas-a-presidencia-da-camara-de-bh.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "06:25",
+  "id": "092528_18",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Quase dois meses após MP que proíbe as bets, comissão do Congresso ainda não foi instalada",
+  "titulo_orig": "Fim das bets: Dois meses após Lula proibir apostas, comissão do Congresso ainda não foi instalada",
+  "link": "https://www.estadao.com.br/politica/coluna-do-estadao/fim-das-bets-dois-meses-apos-lula-proibir-apostas-comissao-do-congresso-ainda-nao-foi-instalada/",
+  "fonte": "Estadão",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
