@@ -993,6 +993,17 @@ function po_denuncia_midias( $id ) {
 	}
 	return array( 'foto' => $foto, 'video' => $video );
 }
+/* todos os vídeos da denúncia (o escolhido primeiro), para o robô montar um Reels com pedaços de cada um (Israel, 18/11/2026) */
+function po_denuncia_videos( $id ) {
+	$md = po_denuncia_midias( $id );
+	$out = array();
+	if ( $md['video'] ) $out[] = wp_get_attachment_url( $md['video'] );
+	foreach ( get_attached_media( '', $id ) as $a ) {
+		if ( 0 !== strpos( $a->post_mime_type, 'video' ) || (int) $a->ID === (int) $md['video'] ) continue;
+		$out[] = wp_get_attachment_url( $a->ID );
+	}
+	return array_values( array_filter( $out ) );
+}
 
 
 // tipo do envio do leitor: denúncia, sugestão de pauta ou matéria enviada (Israel, 17/11/2026)
@@ -1278,6 +1289,7 @@ add_action( 'rest_api_init', function () {
 				'midia_url' => $md['video'] ? wp_get_attachment_url( $md['video'] ) : ( $md['foto'] ? wp_get_attachment_url( $md['foto'] ) : '' ),
 				'foto_url' => $md['foto'] ? wp_get_attachment_url( $md['foto'] ) : '',
 				'video_url' => $md['video'] ? wp_get_attachment_url( $md['video'] ) : '',
+				'videos_url' => po_denuncia_videos( $p->ID ),
 				'arte_feed' => isset( $art['feed'] ) ? $art['feed'] : '', 'arte_reels' => isset( $art['reels'] ) ? $art['reels'] : '', 'capa_site' => isset( $art['site'] ) ? $art['site'] : '',
 				'materia_url' => $mat ? get_permalink( $mat ) : '', 'instagram' => $st ? $st : 'pendente',
 			);

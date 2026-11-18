@@ -44,6 +44,32 @@ def load(p,d):
   try: return json.load(open(p))
   except Exception: return d
 
+def _dur(f):
+  try: return float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',f],text=True).strip())
+  except Exception: return 0.0
+
+def juntar_videos(arqs,saida,total=45.0,minimo=4.0,maximo=15.0):
+  """Junta vários vídeos do leitor num só (1080x1920, 30 fps, som original de cada um).
+  Cada vídeo entra com um pedaço do meio (onde costuma estar a ação): no máximo 15 s cada
+  e cerca de 45 s no total; vídeo curto entra inteiro."""
+  durs=[_dur(a) for a in arqs]
+  ok=[(a,d) for a,d in zip(arqs,durs) if d>=1]
+  if not ok: raise RuntimeError('nenhum vídeo válido')
+  cota=max(minimo,min(maximo,total/len(ok)))
+  inp=[];fc=[];n=0
+  for a,d in ok:
+    tam=min(d,cota);ini=max(0.0,(d-tam)/2)
+    inp+=['-ss',f'{ini:.2f}','-t',f'{tam:.2f}','-i',a]
+    tem_som=bool(subprocess.run(['ffprobe','-v','error','-select_streams','a','-show_entries','stream=index','-of','csv=p=0',a],capture_output=True,text=True).stdout.strip())
+    fc.append(f'[{n}:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,fps=30,format=yuv420p[v{n}]')
+    if tem_som: fc.append(f'[{n}:a]aresample=44100,aformat=channel_layouts=stereo[a{n}]')
+    else: fc.append(f'anullsrc=r=44100:cl=stereo,atrim=0:{tam:.2f}[a{n}]')
+    n+=1
+  fc.append(''.join(f'[v{k}][a{k}]' for k in range(n))+f'concat=n={n}:v=1:a=1[v][a]')
+  subprocess.run(['ffmpeg','-y','-loglevel','error',*inp,'-filter_complex',';'.join(fc),'-map','[v]','-map','[a]',
+                  '-c:v','libx264','-preset','veryfast','-crf','18','-c:a','aac','-b:a','160k',saida],check=True)
+  return saida
+
 def preparar(url):
   from PIL import Image
   hoje=datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).strftime('%Y-%m-%d')
@@ -73,8 +99,14 @@ def preparar(url):
         it['arquivo']=out
       elif tipo in ('video','vídeo'):
         os.makedirs(f'{R}/videos/{hoje}',exist_ok=True)
-        v=baixar(d.get('video_url') or d['midia_url'],f'{tmp}/{i}_video')
+        vids=[u for u in (d.get('videos_url') or []) if u] or [d.get('video_url') or d['midia_url']]
         a=baixar(d['arte_reels'],f'{tmp}/{i}_arte.png')
+        if len(vids)>1:
+          # Vários vídeos (Israel, 18/11/2026): um Reels só, com um pedaço de cada um, em sequência, corte seco.
+          v=juntar_videos([baixar(u,f'{tmp}/{i}_video{k}') for k,u in enumerate(vids)],f'{tmp}/{i}_juntos.mp4')
+          it['videos']=len(vids)
+        else:
+          v=baixar(vids[0],f'{tmp}/{i}_video')
         out=f'videos/{hoje}/denuncia_{i}.mp4'
         # Recorte centralizado para 1080x1920 (cobre a tela inteira, sem faixa preta) e arte por cima do começo ao fim.
         # Áudio: só o som original do vídeo (sem música, sem efeito). O ffmpeg já aplica a rotação do celular.
