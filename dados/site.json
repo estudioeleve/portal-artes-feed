@@ -1,17 +1,5 @@
 [
  {
-  "id": "211642_22",
-  "data": "2026-11-16T18:19:07-03:00",
-  "titulo": "Falha no JPMorgan Chase trava transações de milhares de clientes de bancos nos EUA",
-  "linha_fina": "Banco diz que não houve ataque hacker; pane é a terceira grande falha de sistemas nos Estados Unidos em menos de uma semana.",
-  "categoria": "mundo",
-  "texto": "<p>Milhares de clientes de bancos dos Estados Unidos relataram dificuldades para acessar contas e concluir transações pela internet nesta segunda-feira (16). O problema começou no JPMorgan Chase, um dos maiores bancos do país, e provocou um efeito cascata no sistema financeiro americano.</p>\n<p>Em comunicado, o Chase afirmou que a falha não foi causada por um ataque cibernético. Segundo um porta-voz, algumas transações estão demorando mais do que o normal, mas os clientes continuam com acesso às contas e aos recursos. A instituição disse que trabalha para normalizar os serviços.</p>\n<p>A instabilidade parece concentrada nos clientes do Chase e em correntistas de outros bancos que tentavam fazer operações com a instituição. Bank of America e Citigroup não relataram problemas nos próprios sistemas.</p>\n<p>A pane ocorre poucos dias depois de outras duas grandes falhas nos Estados Unidos. Na quinta-feira (12), um problema nos sistemas da Microsoft durou várias horas e afetou serviços como Outlook, Teams e o assistente Copilot. Na sexta-feira (13), uma falha na Administração Federal de Aviação (FAA) suspendeu todos os voos do país por várias horas.</p>\n<p>Até a última atualização, o banco não havia informado a causa exata do problema nem a previsão para a normalização completa dos serviços.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/211642_22.jpg",
-  "credito_foto": "LM Otero/AP Photo/g1",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "211638_36",
   "data": "2026-11-16T18:19:07-03:00",
   "titulo": "Tony Bellotto diz que está melhorando e confirma volta aos shows dos Titãs",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/161253_12.jpg",
   "credito_foto": "Foto: Pixabay",
   "fonte": "SouBH",
+  "resumos": ""
+ },
+ {
+  "id": "162317_293",
+  "data": "2026-11-18T13:29:48-03:00",
+  "titulo": "Lojista: móveis estão nos planos de 12,3% dos consumidores de BH na Black Friday, aponta CDL",
+  "linha_fina": "Pesquisa da CDL/BH mostra gasto médio de R$ 978,86 por item, 13,9% acima de 2025, e 89% dos compradores pesquisando preço antes.",
+  "categoria": "comercio",
+  "texto": "<p>A compra de móveis está nos planos de 12,3% dos consumidores de Belo Horizonte para a Black Friday deste ano, segundo pesquisa da Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH). O levantamento aponta um desembolso médio de cerca de R$ 2,9 mil por consumidor, considerando a compra de três produtos durante a campanha.</p>\n<p>O gasto estimado por item é de R$ 978,86, valor 13,9% maior que os R$ 859,46 registrados em 2025. O dado mostra mais disposição para investir em cada produto, embora a intenção de compra varie conforme a categoria.</p>\n<p>No geral, 36,5% dos entrevistados pretendem aproveitar as promoções da Black Friday. Entre as motivações estão comprar produtos desejados (31,5%), adquirir itens necessários por preço menor (26%) e buscar condições de pagamento melhores (20,5%). Outros 8,2% querem antecipar as compras de Natal, e 5,5% pretendem trocar produtos por versões mais novas.</p>\n<p>Na lista dos produtos mais procurados, os móveis aparecem atrás de eletrodomésticos (39,7%), eletrônicos (28,8%), roupas (19,2%), calçados e cosméticos (ambos com 15,1%). Para o presidente da CDL/BH, Marcelo de Souza e Silva, a expectativa de preços mais vantajosos aumenta a disposição de compra e permite ao consumidor antecipar aquisições.</p>\n<p>A pesquisa também mostra que 89% de quem pretende comprar na data pesquisa preços com antecedência. Para o lojista de móveis, a dica é deixar claras as informações que pesam na decisão: medidas, materiais, prazo e custo de entrega e condições de pagamento, tanto na loja física quanto nas redes sociais. A Black Friday deste ano será no dia 27 de novembro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/162317_293.jpg",
+  "credito_foto": "Foto: Reprodução/eMóbile",
+  "fonte": "eMóbile, com dados da CDL/BH",
   "resumos": ""
  }
 ]
