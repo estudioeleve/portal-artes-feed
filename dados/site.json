@@ -1,17 +1,5 @@
 [
  {
-  "id": "001710_91",
-  "data": "2026-11-16T21:20:46-03:00",
-  "titulo": "Equipe de Ribeirão das Neves é campeã geral da Copa Minas Gerais de Kickboxing",
-  "linha_fina": "AFS Kickboxing levou o troféu por equipes em Contagem; destaque para Diene Resende, com três medalhas de ouro.",
-  "categoria": "ribeirao-das-neves",
-  "texto": "<p>A equipe AFS Kickboxing, de Ribeirão das Neves, conquistou o título geral da Copa Minas Gerais de Kickboxing, disputada neste domingo (15) no Ginásio Califórnia, em Contagem, na Grande BH. A delegação nevense ficou com o troféu de primeiro lugar por equipes na competição estadual.</p><p>Sob o comando do mestre Alexandre Siqueira, responsável pela preparação dos atletas, a equipe subiu ao pódio em várias categorias e modalidades, como Light Contact, Kick Light, Point Fight e Kickboxing Inclusivo.</p><p>O grande destaque individual foi Diene Resende, que ganhou três medalhas de ouro, no Light Contact, no Kick Light e no Point Fight. Aline Júlia, Yasmim Helena e Douglas Nicacio conquistaram dois ouros cada, no Light Contact e no Kick Light.</p><p>Um dos momentos mais comemorados foi o ouro de Arthur Davi na categoria Kickboxing Inclusivo, que reforça o trabalho da equipe com a inclusão no esporte.</p><p>Segundo a coordenação da equipe, o resultado mostra o crescimento do projeto e a dedicação dos atletas nos treinos. O título coloca Ribeirão das Neves em destaque no kickboxing mineiro.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/001710_91.jpg",
-  "credito_foto": "Divulgação/AFS Kickboxing",
-  "fonte": "RibeiraoDasNeves.net",
-  "resumos": ""
- },
- {
   "id": "001558_37",
   "data": "2026-11-16T21:20:46-03:00",
   "titulo": "PSOL, da base de Lula, convoca protestos nesta terça em dez cidades contra o ajuste fiscal",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/192430_156.jpg",
   "credito_foto": "Reuters/Lisa Leutner",
   "fonte": "Brasil 247 / Ministério de Minas e Energia / EPE",
+  "resumos": ""
+ },
+ {
+  "id": "193143_138",
+  "data": "2026-11-18T16:31:56-03:00",
+  "titulo": "Bombeiros fazem simulado de evacuação no armazém da Cooxupé, em Guaxupé; não há emergência real",
+  "linha_fina": "Treinamento com militares e brigadistas começou às 14h30 desta quarta-feira (18) na matriz da cooperativa, no Sul de Minas.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O Corpo de Bombeiros Militar de Minas Gerais (CBMMG) realizou, na tarde desta quarta-feira (18), um simulado de evacuação no armazém da matriz da Cooxupé, em Guaxupé, no Sul de Minas. A atividade começou por volta das 14h30.</p>\n<p>O treinamento reuniu militares do 2º Pelotão de Bombeiros Militar e brigadistas e funcionários da cooperativa, uma das maiores do setor de café do mundo. O objetivo foi testar e aprimorar os procedimentos que devem ser adotados em caso de incidentes no local, como incêndios ou vazamentos.</p>\n<p>Segundo a corporação, trata-se de uma ação técnica planejada com antecedência e de caráter exclusivamente preventivo e educativo. Os bombeiros reforçaram que não havia nenhuma situação real de emergência no armazém.</p>\n<p>A divulgação antecipada do simulado teve como objetivo tranquilizar a população e evitar falsos alarmes provocados pela movimentação de viaturas, equipes de socorro e pessoas na região durante a tarde. Quem passou pelo entorno da matriz da cooperativa não precisava se alarmar.</p>\n<p>Simulados como esse fazem parte das exigências de segurança contra incêndio e pânico para grandes estruturas, como armazéns, indústrias e prédios com grande circulação de pessoas. Eles ajudam a medir o tempo de saída dos trabalhadores, a conferir rotas de fuga, alarmes e equipamentos e a treinar as brigadas internas.</p>\n<p>Em caso de emergência real, a orientação é acionar o Corpo de Bombeiros pelo telefone 193.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/193143_138.jpg",
+  "credito_foto": "Márcio Borges/VOL",
+  "fonte": "Itatiaia / Corpo de Bombeiros",
   "resumos": ""
  }
 ]
