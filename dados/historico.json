@@ -52652,5 +52652,47 @@
   "fonte": "Prefeitura de Belo Horizonte",
   "arte": "artes/2026-11-18/161415_20.jpg",
   "media_id": "17956618818322836"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "13:20",
+  "id": "161406_29",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "PM recupera em Montes Claros carro furtado em BH que rodava com placa clonada; motorista diz ter pago R$ 10 mil",
+  "titulo_orig": "PM recupera em Montes Claros carro furtado em BH que circulava com placa clonada; suspeito diz ter pago R$ 10 mil pelo veículo",
+  "link": "https://webterra.com.br/2026/11/18/pm-recupera-em-montes-claros-carro-furtado-em-bh-que-circulava-com-placa-clonada-suspeito-diz-ter-pago-r-10-mil-pelo-veiculo/",
+  "fonte": "WebTerra",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "13:20",
+  "id": "161543_16",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH abre aulas gratuitas de câmbio, o vôlei adaptado, para pessoas com mais de 60 anos no Barreiro",
+  "titulo_orig": "Programa Vida Ativa oferece atividade esportiva inédita para pessoas com mais de 60 anos em Belo Horizonte",
+  "link": "https://prefeitura.pbh.gov.br/noticias/programa-vida-ativa-oferece-atividade-esportiva-inedita-para-pessoas-com-mais-de-60-anos",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "13:20",
+  "id": "161550_18",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Plano de Contingência ao Calor Extremo de BH será tema de palestra on-line gratuita em 1º de dezembro",
+  "titulo_orig": "Plano de Contingência ao Calor Extremo de Belo Horizonte é tema da edição especial do Ambiente em Foco Virtual",
+  "link": "https://prefeitura.pbh.gov.br/noticias/palestra-plano-de-contingencia-ao-calor-extremo-de-belo-horizonte-e-tema-da-edicao",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
