@@ -51784,5 +51784,33 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-18/111813_a-20.jpg",
   "media_id": "17994224060858951"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "08:22",
+  "id": "112151_8-11",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Chuva extremamente forte atinge Contagem e Defesa Civil alerta para novos temporais nesta quarta",
+  "titulo_orig": "Chove extremamente forte na Grande BH na manhã desta quarta-feira (18/11)",
+  "link": "https://www.otempo.com.br/cidades/2026/11/18/chove-extremamente-forte-na-grande-bh-na-manha-desta-quarta-feira-18-11",
+  "fonte": "www.otempo.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "08:22",
+  "id": "111101_31",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Polícia faz terceiro dia seguido de operação na Maré após achar fábrica capaz de produzir 3 mil fuzis por ano",
+  "titulo_orig": "PM faz pelo 3º dia seguido operação no Complexo da Maré",
+  "link": "https://cbn.globo.com/rio-de-janeiro/noticia/2026/11/18/pm-faz-pelo-3o-dia-seguido-operacao-no-complexo-da-mare.ghtml",
+  "fonte": "CBN",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
