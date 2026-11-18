@@ -53534,5 +53534,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-18/201116_98.jpg",
   "media_id": "18137660854815800"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "18:11",
+  "id": "201107_89",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "SESI inaugura escola com robótica em Venda Nova, que vai chegar a mil alunos",
+  "titulo_orig": "SESI inaugura escola na região de Venda Nova, em BH - FIEMG",
+  "link": "https://www.fiemg.com.br/noticias/unidade-sao-joao-batista-atende-430-alunos-e-tera-capacidade-para-aproximadamente-mil-estudantes-apos-ampliacao-da-estrutura/",
+  "fonte": "FIEMG",
+  "arte": "artes/2026-11-18/201107_89.jpg",
+  "media_id": "18120370526092516"
  }
 ]
