@@ -53184,5 +53184,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-18/181221_36.jpg",
   "media_id": "18139296175736702"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "16:12",
+  "id": "181405_172",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Desemprego de longa duração cai abaixo de 1 milhão de pessoas pela 1ª vez no país, aponta IBGE",
+  "titulo_orig": "Número de desempregados há dois anos ou mais é o menor já registrado",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/numero-de-desempregados-ha-dois-anos-ou-mais-e-o-menor-ja-registrado",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-18/181405_172.jpg",
+  "media_id": "18090060356513660"
  }
 ]
