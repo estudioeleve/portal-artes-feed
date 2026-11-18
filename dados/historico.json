@@ -51868,5 +51868,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-18/111011_15.jpg",
   "media_id": "18053940059827496"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "08:49",
+  "id": "111047_45",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Irã ataca base dos EUA no Kuwait e Bahrein diz ter interceptado drones; tensão volta a subir no Golfo",
+  "titulo_orig": "Irã ataca base dos EUA no Kuwait; Bahrein intercepta drones | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/18/ira-ataca-instalacoes-de-drones-e-misseis-dos-eua-no-kuwait.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-18/111047_45.jpg",
+  "media_id": "17994082785074536"
  }
 ]
