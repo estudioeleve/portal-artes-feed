@@ -51686,5 +51686,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "07:21",
+  "id": "101157_tas",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Black Friday: lojista associado à CDL/BH pode divulgar ofertas de graça na vitrine BlackZAP BH",
+  "titulo_orig": "Comércio de BH conta com ferramenta para impulsionar vendas na Black Friday",
+  "link": "https://diariodocomercio.com.br/economia/black-friday-bh-ofertas/",
+  "fonte": "diariodocomercio.com.br",
+  "arte": "artes/2026-11-18/101157_tas.jpg",
+  "media_id": "18191732302411483"
  }
 ]
