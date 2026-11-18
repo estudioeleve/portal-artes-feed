@@ -52708,5 +52708,33 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-18/161301_8.jpg",
   "media_id": "18059974652572314"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "13:30",
+  "id": "163008_0",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Bacia que transbordou em Betim chegou ao limite com rio 3,20 m mais alto; entenda como funcionam essas estruturas",
+  "titulo_orig": "Entenda como funcionam estruturas que controlam a água da chuva | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/apos-bacia-transbordar-em-betim-entenda-como-funcionam-estruturas-que-controlam-a-agua-da-chuva.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "13:30",
+  "id": "161421_109",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista: Dino decide que ações sobre a transição para a escala 5x2 serão julgadas direto no mérito pelo STF",
+  "titulo_orig": "Dino decide que escala 5×2 será julgada de forma definitiva pelo STF - Portal do Comércio",
+  "link": "https://portaldocomercio.org.br/diario-executivo/dino-decide-que-escala-5x2-sera-julgada-de-forma-definitiva-pelo-stf/",
+  "fonte": "Portal do Comércio",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
