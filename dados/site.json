@@ -1,17 +1,5 @@
 [
  {
-  "id": "151855_80",
-  "data": "2026-11-16T12:21:48-03:00",
-  "titulo": "Juros e tarifaço dos EUA freiam a indústria eletroeletrônica de Minas em 2026",
-  "linha_fina": "Sindicato do setor diz que o ano começou bem, puxado por automação e linha branca, mas esfriou a partir de junho.",
-  "categoria": "comercio",
-  "texto": "<p>A indústria eletroeletrônica de Minas Gerais deve encerrar 2026 com crescimento moderado, abaixo do que o setor projetava no começo do ano. A avaliação é do Sindicato da Indústria de Aparelhos Elétricos, Eletrônicos e Similares do Estado de Minas Gerais (Sinaees).</p><p>Segundo o presidente da entidade, Tasso Galhano, o desempenho foi afetado principalmente pela manutenção dos juros em patamares elevados, pela desaceleração de diferentes mercados e pelas incertezas causadas pelas medidas tarifárias adotadas pelos Estados Unidos.</p><p>O dirigente explica que o ano começou com resultados positivos, sobretudo para a indústria eletrônica, impulsionada pela procura por equipamentos de automação e por produtos da linha branca. A partir de junho, porém, o ritmo dos negócios diminuiu.</p><p>A expectativa de queda dos juros, que poderia estimular investimentos em infraestrutura e, com isso, aumentar a demanda por equipamentos elétricos e eletrônicos, não se confirmou como o setor esperava. Galhano resumiu 2026 como um ano de muitas surpresas, fortemente marcado pelo tarifaço.</p><p>Para o comércio, o cenário serve de alerta na reta final do ano: com a indústria mais cautelosa e o crédito caro, lojistas que trabalham com eletroeletrônicos devem planejar estoques e promoções de Black Friday e Natal com atenção ao custo do dinheiro e ao ritmo de vendas.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/151855_80.jpg",
-  "credito_foto": "Reprodução/Diário do Comércio",
-  "fonte": "Diário do Comércio",
-  "resumos": ""
- },
- {
   "id": "151824_23",
   "data": "2026-11-16T12:21:49-03:00",
   "titulo": "STJ vê dano coletivo no abandono de casarões de BH, um deles de Guimarães Rosa",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/103134_9.jpg",
   "credito_foto": "Divulgação",
   "fonte": "Abrasce, via Rádio Guaíba",
+  "resumos": ""
+ },
+ {
+  "id": "103309_71",
+  "data": "2026-11-18T07:33:29-03:00",
+  "titulo": "Clube russo perde licença após dono criticar a guerra, muda para o Chipre e chega à elite do país",
+  "linha_fina": "Krasava foi fundado em 2021, saiu da Rússia em 2022 e hoje reúne torcedores russos e ucranianos na primeira divisão cipriota.",
+  "categoria": "esporte",
+  "texto": "<p>Uma crítica pública à guerra na Ucrânia mudou o destino de um clube de futebol russo. Em 2022, o ex-jogador e empresário Yevgeny Savin condenou a invasão do território ucraniano e viu o Krasava, time que ele havia fundado um ano antes, perder a licença para disputar competições na Rússia. Quatro anos depois, a equipe está na primeira divisão do Chipre e sonha com torneios europeus.</p><p>A repercussão começou em abril de 2022, quando Savin publicou em seu canal no YouTube um vídeo com depoimentos de jogadores ucranianos sobre a invasão. O empresário passou a ser criticado na Rússia e deixou o país no mês seguinte. Na época, o Krasava disputava a terceira divisão russa e tinha forte presença nas redes sociais.</p><p>A saída encontrada foi comprar o Ypsonas, time da segunda divisão cipriota próximo de Limassol, e reconstruir ali o clube, mantendo nome, cores e identidade. Depois de três temporadas, o Krasava conquistou o acesso à elite em 2025 e agora tenta se firmar entre os principais times do país.</p><p>\"Quando estávamos deixando o país, disseram que estaríamos mortos sem a Rússia\", contou Savin à agência Reuters. Segundo ele, o clube é o único do século 21 a mudar de país mantendo nome e cores.</p><p>O Krasava adotou um modelo de gestão parecido com o de uma startup e, para a temporada 2026/27, fechou contratações sem pagar taxas de transferência, com saldo positivo de cerca de 260 mil euros em negociações de atletas.</p><p>Nas arquibancadas, o time reúne torcedores de vários países da antiga União Soviética, inclusive russos e ucranianos, que vivem na comunidade de língua russa do Chipre. O elenco tem jogadores ucranianos, mas nenhum atleta russo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/103309_71.jpg",
+  "credito_foto": "Divulgação/Krasava",
+  "fonte": "ge, com informações da Reuters",
   "resumos": ""
  }
 ]
