@@ -413,3 +413,25 @@ Tudo o que o Israel vê é em português.
    No começo de cada rodada, se `dados/pendentes.json` tiver itens de hoje, publique-os primeiro (a arte já está no GitHub;
    coloque o item de volta no `dados/lote.json` antes de rodar o `links.py`) e tire-os da lista depois de publicados.
 9. No fim: `git add -A && git commit && git push` do histórico.
+
+
+## VÍDEO LONGO (acima de 3 minutos) — pedido do Israel, 18/11/2026
+"O Instagram não entrega acima de 3 minutos." Todo vídeo que for virar Reels (denúncia, vídeo que o Israel mandar,
+vídeo de leitor) e tiver **mais de 3 min** passa por `robo/video_longo.py` antes de postar:
+1. `python3 robo/video_longo.py analisar VIDEO PASTA` (nas denúncias o `denuncias.py preparar` já faz isso sozinho,
+   em `dados/longos/<id>/`, e pula a denúncia até a escolha existir).
+2. **Ler `PASTA/falas.txt` inteiro** e escolher as frases que ficam, gravando `PASTA/escolha.json` = `{"frases":[1,2,5,...]}`
+   (números em ordem). Regras da escolha:
+   - **Nunca cortar fala importante**: o fato, a denúncia, quem/onde/quando, números, a resposta de autoridade,
+     o pedido do morador. Frase escolhida entra INTEIRA (o corte é sempre na fronteira da frase).
+   - Tirar: repetições (a pessoa conta a mesma coisa duas vezes — fica a versão mais clara), hesitações,
+     conversa paralela, trechos sem fala ou com barulho, apresentações longas.
+   - Manter a ordem original (não inverter o que a pessoa disse) e o começo forte (a frase mais forte logo no início,
+     se for a primeira ou a segunda frase do vídeo).
+   - Somar até 178 s; se passar um pouco (até ~205 s) o script acelera de leve (máx. 1,15x, voz natural). Se nem assim
+     couber, ele para com erro: escolha menos frases.
+3. `python3 robo/video_longo.py montar VIDEO PASTA SAIDA.mp4` (nas denúncias: rodar o `preparar` de novo):
+   corta nas frases, **enquadra o personagem principal** (segue o maior rosto do vídeo, câmera suave, cabeça no terço
+   de cima, 1080x1920) e acelera só se precisar.
+4. Conferir antes de postar: assistir 3–4 quadros (rosto enquadrado, cabeça não cortada) e transcrever o resultado
+   para checar que nenhuma frase ficou pela metade.

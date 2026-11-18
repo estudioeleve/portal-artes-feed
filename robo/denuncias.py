@@ -107,6 +107,17 @@ def preparar(url):
           it['videos']=len(vids)
         else:
           v=baixar(vids[0],f'{tmp}/{i}_video')
+        # VÍDEO LONGO (Israel, 18/11/2026): acima de 3 min o Instagram não entrega. O robô lê a transcrição,
+        # escolhe as frases principais (dados/longos/<id>/escolha.json) e o video_longo.py enquadra e monta até 3 min.
+        if _dur(v)>180:
+          pasta=f'{R}/dados/longos/{i}'
+          if not os.path.exists(f'{pasta}/escolha.json'):
+            subprocess.run([sys.executable,f'{R}/robo/video_longo.py','analisar',v,pasta],check=True)
+            print(i,f'VÍDEO LONGO ({_dur(v):.0f} s): leia {pasta}/falas.txt, grave {pasta}/escolha.json e rode o preparar de novo')
+            continue
+          vl=f'{tmp}/{i}_resumido.mp4'
+          subprocess.run([sys.executable,f'{R}/robo/video_longo.py','montar',v,pasta,vl],check=True)
+          v=vl;it['resumido']=True
         out=f'videos/{hoje}/denuncia_{i}.mp4'
         # Recorte centralizado para 1080x1920 (cobre a tela inteira, sem faixa preta) e arte por cima do começo ao fim.
         # Áudio: só o som original do vídeo (sem música, sem efeito). O ffmpeg já aplica a rotação do celular.
