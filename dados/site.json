@@ -1,17 +1,5 @@
 [
  {
-  "id": "001620_21",
-  "data": "2026-11-16T21:20:46-03:00",
-  "titulo": "Cruzeiro abre conversa com o Flamengo para comprar Viña em definitivo por R$ 26 milhões",
-  "linha_fina": "Lateral uruguaio está emprestado até o fim de 2026; contrato prevê compra por US$ 4,5 milhões.",
-  "categoria": "cruzeiro",
-  "texto": "<p>O Cruzeiro quer contratar em definitivo o lateral-esquerdo Matías Viña, emprestado pelo Flamengo até o fim de 2026, e já abriu conversas com o clube carioca, segundo informação do ge repercutida pelo Diário do Rio nesta segunda-feira (16).</p><p>O contrato de empréstimo prevê uma opção de compra para a Raposa no valor de 4,5 milhões de dólares, cerca de R$ 26 milhões na cotação atual. O vínculo do jogador com o Flamengo vai até dezembro de 2028.</p><p>Uruguaio de 29 anos, Viña chegou ao Cruzeiro em setembro. Até agora, disputou quatro partidas pelo clube, sem gols nem assistências. Antes, ele defendeu o Flamengo de janeiro de 2024 a janeiro de 2026, quando foi emprestado ao River Plate, da Argentina.</p><p>Pelo Flamengo, o lateral fez 32 jogos, com um gol e duas assistências, e conquistou a Libertadores e o Campeonato Brasileiro de 2025, além da Copa do Brasil de 2024.</p><p>A permanência de Viña faz parte do planejamento do Cruzeiro para a próxima temporada. O clube não comentou oficialmente as negociações.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/001620_21.jpg",
-  "credito_foto": "Gustavo Aleixo/Cruzeiro",
-  "fonte": "Diário do Rio",
-  "resumos": ""
- },
- {
   "id": "001710_91",
   "data": "2026-11-16T21:20:46-03:00",
   "titulo": "Equipe de Ribeirão das Neves é campeã geral da Copa Minas Gerais de Kickboxing",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/191041_29.jpg",
   "credito_foto": "Reprodução/Redes sociais",
   "fonte": "BHAZ",
+  "resumos": ""
+ },
+ {
+  "id": "192430_156",
+  "data": "2026-11-18T16:24:57-03:00",
+  "titulo": "Oferta de gás natural no Brasil deve crescer mais de 80% até 2036, prevê plano do governo federal",
+  "linha_fina": "Plano Decenal de Energia projeta salto de 61 para 112 milhões de m³ por dia, com pré-sal à frente e investimento de R$ 15,9 bilhões em infraestrutura.",
+  "categoria": "brasil",
+  "texto": "<p>A oferta potencial de gás natural produzido no Brasil deve crescer mais de 80% entre 2026 e 2036, passando de 61 milhões para 112 milhões de metros cúbicos por dia. A projeção está no Caderno de Gás Natural do Plano Decenal de Expansão de Energia 2036, elaborado pelo Ministério de Minas e Energia e pela Empresa de Pesquisa Energética (EPE) e divulgado na terça-feira (17).</p>\n<p>Do volume previsto para 2036, 81% devem chegar ao mercado pela malha integrada de gasodutos, e os 19% restantes vão abastecer sistemas isolados em Urucu, no Amazonas, e no Maranhão.</p>\n<p>O Rio de Janeiro deve continuar como principal produtor, com o início da operação do Projeto Raia, previsto para 2028. Sergipe, com o projeto Sergipe Águas Profundas, a partir de 2030, e o Maranhão, com as reservas da Bacia do Parnaíba, também ganham peso. Com isso, a participação do Nordeste na oferta nacional deve subir de 19% para 34% em dez anos.</p>\n<p>Na malha integrada, que soma produção nacional e importações, o volume potencial deve passar de 132 para 175 milhões de metros cúbicos diários, alta de mais de 30%. O pré-sal deve responder, em média, por cerca de 74% desse total.</p>\n<p>O estudo prevê queda nas importações de gás da Bolívia, de 13 milhões de metros cúbicos por dia em 2026 para 5 milhões a partir de 2030. Em compensação, a capacidade de receber gás natural liquefeito (GNL) deve aumentar com o terminal de Suape, em Pernambuco, e a retomada do terminal de regaseificação de São Paulo.</p>\n<p>Para viabilizar a expansão, o plano considera investimentos de cerca de R$ 15,9 bilhões em gasodutos, no terminal pernambucano, em estações de compressão e na unidade de processamento de Miranga, na Bahia. A demanda total no país deve subir de 71 para 104 milhões de metros cúbicos por dia até 2036, crescimento médio de 3,8% ao ano.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/192430_156.jpg",
+  "credito_foto": "Reuters/Lisa Leutner",
+  "fonte": "Brasil 247 / Ministério de Minas e Energia / EPE",
   "resumos": ""
  }
 ]
