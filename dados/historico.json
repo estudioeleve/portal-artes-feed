@@ -53730,5 +53730,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-18/211432_71.jpg",
   "media_id": "17924269854236293"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "19:06",
+  "id": "190000_israel",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Câmara e Prefeitura de Santa Luzia firmam cooperação para higienizar e desinfetar escolas municipais contra a sarna humana",
+  "titulo_orig": "",
+  "link": "israel-190000-camara-escabiose",
+  "fonte": "Câmara Municipal de Santa Luzia",
+  "arte": "",
+  "media_id": "18175715200460474"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "19:07",
+  "id": "190500_israel",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Santa Luzia vai sortear 5 inscrições gratuitas para a Maratona de BH 2027; veja como participar",
+  "titulo_orig": "",
+  "link": "israel-190500-maratona",
+  "fonte": "Prefeitura de Santa Luzia",
+  "arte": "artes/2026-11-18/190500_israel.jpg",
+  "media_id": "18111577028191454"
  }
 ]
