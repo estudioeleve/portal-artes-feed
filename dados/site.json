@@ -1,17 +1,5 @@
 [
  {
-  "id": "152444_32",
-  "data": "2026-11-16T12:25:39-03:00",
-  "titulo": "BH recebe encontro nacional de municípios mineradores para debater terras raras e minerais críticos",
-  "linha_fina": "Prefeitos se reúnem nos dias 24 e 25 de novembro e cobram indústrias de transformação e mais benefícios para as cidades.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Prefeitos e representantes de cidades que dependem da mineração vão se reunir em Belo Horizonte nos dias 24 e 25 de novembro para discutir como a exploração de minerais críticos e terras raras pode gerar desenvolvimento local. O debate faz parte do 7º Encontro Nacional dos Municípios Mineradores, organizado pela Associação Brasileira dos Municípios Mineradores (AMIG Brasil).</p><p>A programação vai tratar dos efeitos sociais, ambientais e econômicos da atividade e da participação das prefeituras nas decisões do setor. No dia 25, das 13h30 às 15h, o professor Bruno Milanez, da Universidade Federal de Juiz de Fora (UFJF), vai analisar os avanços e os retrocessos da Política Nacional de Minerais Críticos e Estratégicos e o que ela pode inspirar na regulamentação de outros minerais.</p><p>A política foi criada pela Lei nº 15.506, de setembro de 2026, e incentiva cadeias produtivas ligadas à transição energética e às novas tecnologias. Para a AMIG Brasil, a implementação precisa garantir que os investimentos em exploração e transformação mineral deixem benefícios duradouros nos territórios produtores, e não apenas a extração.</p><p>O encontro acontece depois de a entidade passar a integrar o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), ligado à Presidência da República. A representação será feita pelo presidente da associação e prefeito de Itabira, Marco Antônio Lage. A prefeita de Canaã dos Carajás (PA), Josemira Gadelha, vice-presidente da entidade, será a suplente.</p><p>Os municípios mineradores defendem que a nova fase da mineração no país traga indústrias de transformação para perto das minas, com geração de empregos e arrecadação para as cidades que convivem com os impactos da atividade.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/152444_32.jpg",
-  "credito_foto": "Reprodução/BRA1",
-  "fonte": "BRA1",
-  "resumos": ""
- },
- {
   "id": "152515_44",
   "data": "2026-11-16T12:25:39-03:00",
   "titulo": "Scott Colom se torna o primeiro senador negro eleito pelo voto popular no Mississippi",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/111101_31.jpg",
   "credito_foto": "Divulgação/CBN",
   "fonte": "CBN",
+  "resumos": ""
+ },
+ {
+  "id": "112417_121",
+  "data": "2026-11-18T08:24:38-03:00",
+  "titulo": "Após apagão aéreo, governo Trump pede US$ 50 bilhões para modernizar aeroportos e enfrenta resistência no Senado",
+  "linha_fina": "Senadores republicanos dizem que não apoiam o valor, mas aceitam um pacote menor voltado à segurança; democratas querem explicações sobre a pane.",
+  "categoria": "mundo",
+  "texto": "<p>O pedido do governo do presidente Donald Trump de US$ 50 bilhões, cerca de R$ 290 bilhões, para reformar o controle de tráfego aéreo e melhorar os aeroportos dos Estados Unidos enfrenta resistência no Congresso. Senadores republicanos afirmaram nesta terça-feira (17) que não apoiariam o valor, mas que estão dispostos a aprovar um pacote menor, voltado para a segurança.</p>\n<p>O secretário de Transportes, Sean Duffy, havia pedido inicialmente US$ 30 bilhões na sexta-feira, incluindo US$ 18 bilhões para aeroportos. O valor foi elevado para US$ 50 bilhões depois da paralisação nacional dos voos, atribuída a falha em um único roteador, que levou ao cancelamento de mais de 18 mil voos.</p>\n<p>\"Vou aceitar o que conseguir e vou trabalhar com o Congresso para garantir que as mais altas prioridades sejam atendidas primeiro\", disse Duffy depois de um almoço com senadores republicanos, segundo a imprensa americana. De acordo com assessores do Senado, o secretário enfrentou perguntas duras sobre o custo da proposta.</p>\n<p>Os senadores lembraram que o Congresso aprovou no ano passado US$ 12,5 bilhões para o setor, e que apenas cerca de 30% desse valor foi gasto. Alguns parlamentares defendem que as companhias aéreas e outros usuários do sistema arquem com parte da modernização. O senador republicano John Kennedy classificou como um \"enorme erro\" o salto de US$ 30 bilhões para US$ 50 bilhões.</p>\n<p>Os democratas, por sua vez, afirmam que querem mais explicações sobre o que deu errado antes de aprovar novos recursos.</p>\n<p>Na sexta-feira (13), um apagão aéreo generalizado obrigou o fechamento de todos os aeroportos do país e interrompeu pousos e decolagens por mais de quatro horas, afetando milhões de passageiros.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/112417_121.jpg",
+  "credito_foto": "Reuters/Reprodução g1",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
