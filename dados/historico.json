@@ -53506,5 +53506,19 @@
   "fonte": "Diário do Comércio",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "17:27",
+  "id": "201137_7",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Frango e mel de Minas seguem fora da Europa; decisão fica para dezembro",
+  "titulo_orig": "Frango e mel de Minas seguem fora do mercado europeu | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/colunas/diario-do-comercio/economia/frango-e-mel-de-minas-seguem-fora-do-mercado-europeu/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-18/201137_7.jpg",
+  "media_id": "18156866518540718"
  }
 ]
