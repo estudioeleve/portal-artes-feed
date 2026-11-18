@@ -52246,5 +52246,19 @@
   "fonte": "Jornal Geraes",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "10:48",
+  "id": "133854_15",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Quadrilha trocava ácido da carga por água; operação prende cinco e faz buscas em Minas",
+  "titulo_orig": "Operação da polícia prende grupo suspeito de desvio de ácido sulfônico | G1",
+  "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/18/operacao-da-policia-civil-prende-grupo-suspeito-de-esquema-interestadual-de-desvio-de-acido-sulfonico.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-18/133854_15.jpg",
+  "media_id": "18033700190684023"
  }
 ]
