@@ -63,14 +63,15 @@ main{flex:1;min-width:0;padding:26px 30px 100px;max-width:1180px}
 label.f{display:block;font-weight:700;font-size:.92rem;margin:16px 0 6px}
 .hint{font-weight:400;color:var(--mut);font-size:.82rem}
 input[type=text],input[type=email],input[type=password],input[type=date],select,textarea{width:100%;border:1.5px solid #CBD2DE;border-radius:10px;padding:11px 12px;background:#fff;min-height:46px}
+.filewrap{display:inline-flex;gap:10px;align-items:center;flex-wrap:wrap;max-width:100%}.filewrap label{display:inline-flex;align-items:center;gap:6px}
 textarea{min-height:96px;resize:vertical}
 input:focus,select:focus,textarea:focus{outline:3px solid #B9C7EA;border-color:var(--azul)}
 .opts{display:flex;gap:10px;flex-wrap:wrap}
-.opt{flex:1;min-width:140px;border:1.5px solid #CBD2DE;border-radius:12px;padding:12px;cursor:pointer;display:flex;gap:8px;align-items:center;font-weight:600;background:#fff}
-.opt input{width:20px;height:20px;accent-color:var(--azul)}
+.opt{flex:1 1 140px;min-width:0;border:1.5px solid #CBD2DE;border-radius:12px;padding:12px;cursor:pointer;display:flex;gap:8px;align-items:center;font-weight:600;background:#fff}
+.opt input{width:20px;height:20px;flex:none;accent-color:var(--azul)}
 .opt:has(input:checked){border-color:var(--azul);background:var(--azul-cl);color:var(--azul-esc)}
 .chk{display:flex;gap:8px;align-items:center;font-weight:500;cursor:pointer}
-.chk input{width:20px;height:20px;accent-color:var(--azul)}
+.chk input{width:20px;height:20px;flex:none;accent-color:var(--azul)}
 .secgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:6px;border:1.5px solid #CBD2DE;border-radius:12px;padding:10px;max-height:260px;overflow:auto;background:#fff}
 .badge{display:inline-flex;align-items:center;gap:5px;border-radius:20px;padding:3px 10px;font-size:.78rem;font-weight:700;white-space:nowrap;border:1px solid transparent}
 .s-aguardando{background:#FFF6C2;color:#6B5800;border-color:#EBD86A}
@@ -155,6 +156,7 @@ table{width:100%;border-collapse:collapse}
  .bottom .nv{background:var(--azul);color:#fff!important;border-radius:14px;margin:0 4px;font-weight:800}
  .g4{grid-template-columns:repeat(2,1fr)}.g3,.g2{grid-template-columns:1fr}
  .filtros{grid-template-columns:repeat(2,1fr)}
+ .opt{flex:1 1 calc(50% - 5px);padding:12px 10px;font-size:.92rem}
  .dl{grid-template-columns:1fr 1fr}
  .lista .it{grid-template-columns:1fr;gap:6px}
  .chart .bar{grid-template-columns:110px 1fr 28px}
@@ -241,7 +243,7 @@ function seed(){
   d.prazoDesejado=des===null?null:hoje0()+des*DIA;
   if(orig!=='pref')d.secIds.push(orig);
   if(secDest)d.secIds.push(secDest);
-  d.comAcesso=destino==='comunicacao'||destino==='ambos';
+  d.comAcesso=destino==='comunicacao'||destino==='ambos'||sit==='resolvida';
   d.respId=destino==='secretaria'?users.find(u=>u.secId===secDest&&u.ativo).id:destino==='prefeito'?'u2':'u3';
   D.seq++;d.numero='SL-'+new Date(criada).getFullYear()+'-'+String(D.seq).padStart(4,'0');
   d.historico.push({em:criada,autorId:autor,texto:'Pedido criado e enviado para '+destTxt(d)});
@@ -409,7 +411,7 @@ function telaNova(){
  :`<label class="f">Para quem? *</label><div class="opts"><label class="opt"><input type="radio" name="dst" value="prefeito" required> Prefeito</label><label class="opt"><input type="radio" name="dst" value="comunicacao"> Comunicação</label><label class="opt"><input type="radio" name="dst" value="ambos"> Os dois</label></div>`}
  <label class="f">Programa de governo <span class="hint">(opcional)</span></label><select id="np"><option value="">Nenhum</option>${D.progs.filter(p=>p.ativo).map(p=>`<option value="${p.id}">${esc(p.nome)}</option>`).join('')}</select>
  <label class="f">Prazo desejado *</label><div class="row"><input type="date" id="nz" style="max-width:220px"><label class="chk"><input type="checkbox" id="nsz" onchange="document.getElementById('nz').disabled=this.checked"> Sem data definida</label></div>
- <label class="f">Anexo <span class="hint">(opcional — foto, PDF, documento)</span></label><input type="file" id="na">
+ <label class="f">Anexo <span class="hint">(opcional — foto, PDF, documento)</span></label><span class="filewrap"><label class="btn sm">📎 Escolher arquivo<input type="file" id="na" hidden onchange="this.closest('.filewrap').querySelector('.fn').textContent=this.files[0]?this.files[0].name:'Nenhum arquivo escolhido'"></label> <span class="fn muted">Nenhum arquivo escolhido</span></span>
  <div id="nerr" style="color:#A01C1C;font-weight:600;margin-top:12px"></div>
  <button class="btn p" id="nbtn" style="width:100%;margin-top:18px;font-size:1.05rem;min-height:54px">Enviar pedido</button></form>`;
 }
@@ -485,7 +487,7 @@ function telaPedido(id){
  ${d.situacao==='resolvida'&&(u.perfil==='comunicacao'||u.perfil==='admin')?`<div class="card mt"><h2>📣 Divulgação</h2><p class="muted">Marque se esta entrega vai virar notícia.</p><div class="row">${Object.entries(DIV).map(([k,t])=>`<button class="btn sm ${d.divulgacao===k?'p':''}" onclick="setDiv('${d.id}','${k}')">${t.replace('Divulgação: ','')}</button>`).join('')}</div></div>`:''}
  ${d.situacao==='resolvida'&&solicitante(d)&&!at&&!d.reabertura?`<div class="card mt"><h2>Precisa reabrir?</h2><p class="muted">Se a entrega não resolveu, peça a reabertura informando o motivo.</p><textarea id="rmot" placeholder="Motivo da reabertura"></textarea><button class="btn mt" onclick="pedirReab('${d.id}')">Pedir reabertura</button></div>`:''}
  <div class="card mt"><h2>Conversa</h2>${timeline||'<p class="muted">Nenhuma mensagem ainda.</p>'}
- <div style="border-top:1px solid var(--linha);padding-top:14px;margin-top:10px"><textarea id="mtx" placeholder="Escreva uma mensagem…"></textarea><div class="row" style="margin-top:8px"><input type="file" id="mfx" style="max-width:260px"><div class="sp"></div><button class="btn p" id="mbtn" onclick="mandar('${d.id}')">Enviar mensagem</button></div></div></div>
+ <div style="border-top:1px solid var(--linha);padding-top:14px;margin-top:10px"><textarea id="mtx" placeholder="Escreva uma mensagem…"></textarea><div class="row" style="margin-top:8px"><span class="filewrap"><label class="btn sm">📎 Escolher arquivo<input type="file" id="mfx" hidden onchange="this.closest('.filewrap').querySelector('.fn').textContent=this.files[0]?this.files[0].name:'Nenhum arquivo escolhido'"></label> <span class="fn muted">Nenhum arquivo escolhido</span></span><div class="sp"></div><button class="btn p" id="mbtn" onclick="mandar('${d.id}')">Enviar mensagem</button></div></div></div>
  <div class="grid g2 mt"><div class="card"><h2>Anexos</h2>${todosAnx.length?todosAnx.map(x=>`<span class="anx">📎 ${esc(x.nome)} <span class="muted">${x.tam}</span></span>`).join(''):'<p class="muted">Nenhum anexo.</p>'}<p class="muted" style="margin-top:8px">Na versão final, os anexos ficam em armazenamento privado e só abrem para quem tem acesso ao pedido.</p></div>
  <div class="card"><h2>Histórico</h2><ul class="hist">${d.historico.slice().reverse().map(h=>`<li><b>${fdh(h.em)}</b> — ${esc(U(h.autorId)?.nome||'')}: ${esc(h.texto)}</li>`).join('')}</ul></div></div>`;
 }
@@ -497,7 +499,7 @@ function painelAtend(d){
  <div class="grid g3 mt" style="margin-top:12px">
  <div><label class="f" style="margin-top:0">Mudar situação</label><select id="asit" onchange="document.getElementById('bde').style.display=this.value==='resposta'?'':'none';document.getElementById('bfim').style.display=this.value==='resolvida'?'':'none'">${Object.entries(SIT).map(([k,v])=>`<option value="${k}" ${d.situacao===k?'selected':''}>${v.i} ${v.t}</option>`).join('')}</select>
  <div id="bde" style="display:${d.situacao==='resposta'?'':'none'}"><label class="f">Aguardando resposta de quem?</label><select id="ade">${['Prefeito','Solicitante','Comunicação','Outra secretaria'].map(x=>`<option ${d.aguardandoDe===x?'selected':''}>${x}</option>`).join('')}</select></div>
- <div id="bfim" style="display:none"><label class="f">O que foi entregue? *</label><textarea id="aent" placeholder="Descreva a entrega (obrigatório)"></textarea><label class="f">Foto da entrega <span class="hint">(opcional)</span></label><input type="file" accept="image/*" id="afoto"></div>
+ <div id="bfim" style="display:none"><label class="f">O que foi entregue? *</label><textarea id="aent" placeholder="Descreva a entrega (obrigatório)"></textarea><label class="f">Foto da entrega <span class="hint">(opcional)</span></label><span class="filewrap"><label class="btn sm">📎 Escolher arquivo<input type="file" accept="image/*" id="afoto" hidden onchange="this.closest('.filewrap').querySelector('.fn').textContent=this.files[0]?this.files[0].name:'Nenhum arquivo escolhido'"></label> <span class="fn muted">Nenhum arquivo escolhido</span></span></div>
  <button class="btn p mt" style="margin-top:10px" onclick="mudarSit('${d.id}')">Atualizar situação</button></div>
  <div><label class="f" style="margin-top:0">Prazo combinado</label><input type="date" id="apz" value="${d.prazoCombinado?new Date(d.prazoCombinado).toISOString().slice(0,10):''}"><button class="btn mt" style="margin-top:10px" onclick="setPrazo('${d.id}')">Salvar prazo</button></div>
  <div><label class="f" style="margin-top:0">Encaminhar para</label><select id="aenc">${alvos.map(([i,t])=>`<option value="${i}">${esc(t)}</option>`).join('')}</select><button class="btn mt" style="margin-top:10px" onclick="encaminhar('${d.id}')">Encaminhar</button></div>
@@ -562,7 +564,7 @@ function salvarUser(){const p=uperf.value,sid=p==='secretaria'?usec.value:null;c
  D.users.push(nu);save();document.getElementById('modal').innerHTML='';toast('Usuário cadastrado');route()}
 function admSecs(){
  return `<div class="row mb"><p class="muted" style="margin:0">Setores desativados não aparecem nos formulários. O histórico é mantido.</p><div class="sp"></div><button class="btn p" onclick="novoSetor()">+ Novo setor</button></div>
- <div class="card"><table class="tbl"><tr><th>Setor</th><th>Responsável ativo</th><th>Situação</th><th></th></tr>${D.secs.map(s=>{const r=D.users.find(u=>u.secId===s.id&&u.ativo);return `<tr class="${s.ativo?'':'inativo'}"><td><b>${esc(s.nome)}</b></td><td>${r?esc(r.nome):'<span class="muted">—</span>'}</td><td>${s.ativo?'<span class="badge s-resolvida">Ativo</span>':'<span class="badge prog">Disponível para ativação</span>'}</td><td class="row"><button class="btn sm" onclick="editarSetor('${s.id}')">Editar</button><button class="btn sm" onclick="SEC('${s.id}').ativo=!SEC('${s.id}').ativo;save();route()">${s.ativo?'Desativar':'Ativar'}</button></td></tr>`}).join('')}</table></div>`}
+ <div class="card" style="overflow:auto"><table class="tbl"><tr><th>Setor</th><th>Responsável ativo</th><th>Situação</th><th></th></tr>${D.secs.map(s=>{const r=D.users.find(u=>u.secId===s.id&&u.ativo);return `<tr class="${s.ativo?'':'inativo'}"><td><b>${esc(s.nome)}</b></td><td>${r?esc(r.nome):'<span class="muted">—</span>'}</td><td>${s.ativo?'<span class="badge s-resolvida">Ativo</span>':'<span class="badge prog">Disponível para ativação</span>'}</td><td class="row"><button class="btn sm" onclick="editarSetor('${s.id}')">Editar</button><button class="btn sm" onclick="SEC('${s.id}').ativo=!SEC('${s.id}').ativo;save();route()">${s.ativo?'Desativar':'Ativar'}</button></td></tr>`}).join('')}</table></div>`}
 function modalTexto(tit,val,cb){window._cb=cb;document.getElementById('modal').innerHTML=`<div class="modal-bg"><form class="modal" onsubmit="event.preventDefault();_cb(mtxt.value.trim());document.getElementById('modal').innerHTML=''"><h2>${tit}</h2><input type="text" id="mtxt" required value="${esc(val)}" style="margin-top:12px"><div class="row mt"><div class="sp"></div><button type="button" class="btn" onclick="document.getElementById('modal').innerHTML=''">Cancelar</button><button class="btn p">Salvar</button></div></form></div>`;mtxt.focus()}
 function novoSetor(){modalTexto('Novo setor','',v=>{D.secs.push({id:uid(),nome:v,ativo:true});save();route()})}
 function editarSetor(id){modalTexto('Editar setor',SEC(id).nome,v=>{SEC(id).nome=v;save();route()})}
