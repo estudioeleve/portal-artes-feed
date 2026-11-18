@@ -1,17 +1,5 @@
 [
  {
-  "id": "151759_40",
-  "data": "2026-11-16T12:21:48-03:00",
-  "titulo": "PBH pede que contribuintes não paguem guias de tributos após falha no sistema",
-  "linha_fina": "Prefeitura identificou erro na emissão das guias, promete prorrogar os vencimentos e não cobrar juros nem multa pelo atraso.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>A Prefeitura de Belo Horizonte (PBH) orientou nesta segunda-feira (16) os contribuintes a não pagarem guias de tributos municipais emitidas pelo sistema da administração até que uma nova comunicação oficial seja divulgada. A recomendação foi feita depois que o município identificou uma falha na plataforma que gera os documentos de pagamento.</p><p>Em nota oficial, a PBH afirmou que a orientação é uma medida de segurança para evitar prejuízos aos cidadãos enquanto o problema é resolvido. A prefeitura disse que já adota as providências necessárias para regularizar o sistema o mais rápido possível, mas não divulgou uma previsão para a normalização do serviço.</p><p>Para que ninguém seja prejudicado, os prazos de vencimento dos tributos afetados serão prorrogados. Segundo o comunicado, não haverá cobrança de juros, multas ou outros encargos decorrentes da falha. Quem tem guias a vencer nos próximos dias, portanto, não deve se preocupar com atraso enquanto a situação não for resolvida.</p><p>A emissão e o pagamento das guias devem ser retomados assim que o sistema voltar a funcionar normalmente. De acordo com a administração municipal, um novo comunicado será publicado com as orientações sobre como emitir os documentos e quitar os tributos.</p><p>Até lá, a recomendação é não pagar documentos emitidos pela plataforma afetada e acompanhar os canais oficiais da prefeitura. A PBH agradeceu a compreensão dos contribuintes.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/151759_40.jpg",
-  "credito_foto": "Fabiano Domingues/PBH",
-  "fonte": "Prefeitura de Belo Horizonte",
-  "resumos": ""
- },
- {
   "id": "151804_53",
   "data": "2026-11-16T12:21:48-03:00",
   "titulo": "Cruzeiro vende 35 mil ingressos e abre mais um setor do Mineirão contra o Palmeiras",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/102230_108.jpg",
   "credito_foto": "Reprodução/Cruzeiro",
   "fonte": "brasileirao.com.br e Rede 98",
+  "resumos": ""
+ },
+ {
+  "id": "102343_oria",
+  "data": "2026-11-18T07:30:24-03:00",
+  "titulo": "Minas chega ao maior IDH da sua história, com índice de 0,809, acima da média do Brasil",
+  "linha_fina": "Dados do Pnud, da Fundação João Pinheiro e do IBGE mantêm o estado na faixa de desenvolvimento humano \"muito alto\"; em 2012, o índice era de 0,787.",
+  "categoria": "minas-gerais",
+  "texto": "<p>Minas Gerais alcançou o maior Índice de Desenvolvimento Humano Municipal (IDHM) da sua história: 0,809. Os dados foram divulgados nesta semana pelo Programa das Nações Unidas para o Desenvolvimento (Pnud), pela Fundação João Pinheiro (FJP) e pelo Instituto Brasileiro de Geografia e Estatística (IBGE).</p><p>Com o resultado, o estado segue na faixa considerada \"muito alta\" de desenvolvimento humano, na qual entrou em 2023, quando registrava 0,803. O índice mineiro também fica acima da média nacional, que é de 0,805. Em 2012, Minas marcava 0,787, ainda no patamar \"alto\".</p><p>O IDHM leva em conta três dimensões: renda, educação e longevidade. Na renda, o governo estadual cita a menor taxa de desemprego da série histórica, registrada no último trimestre de 2025, e a criação de mais de 1 milhão de empregos formais desde 2019. Só em 2025, foram abertas 114.033 empresas no estado, alta de 116% em relação a 2019.</p><p>Na educação, o programa Trilhas de Futuro, da Secretaria de Estado de Educação, já ofereceu cerca de 374 mil vagas em cursos técnicos e formou mais de 100 mil profissionais. A sexta edição tem 50 mil vagas em 143 municípios, com 98 opções de cursos.</p><p>\"Cada ponto de avanço no IDHM representa uma família com mais saúde, mais educação e mais renda\", afirmou o governador Mateus Simões. O secretário de Desenvolvimento Social em exercício, Ricardo Alves, disse que o indicador \"mede qualidade de vida\" e reflete investimentos em formação profissional, proteção social e geração de emprego.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/102343_oria.jpg",
+  "credito_foto": "Victor Fagundes/Sede-MG",
+  "fonte": "Agência Minas",
   "resumos": ""
  }
 ]
