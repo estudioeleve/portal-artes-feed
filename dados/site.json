@@ -1,17 +1,5 @@
 [
  {
-  "id": "142152_50",
-  "data": "2026-11-16T11:24:42-03:00",
-  "titulo": "PM apreende três pistolas com numeração raspada e prende três suspeitos em Coronel Fabriciano",
-  "linha_fina": "Uma das armas, uma pistola 9 mm, chegou a ser exibida pelo dono nas redes sociais, segundo a PM.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Ações da Polícia Militar em dois bairros de Coronel Fabriciano, no Vale do Aço, terminaram com a apreensão de três pistolas com numeração suprimida e a prisão de três suspeitos de envolvimento com o tráfico de drogas. Segundo a PM, uma das armas chegou a ser exibida pelo dono nas redes sociais.</p>\n<p>Na noite de domingo (15), um homem de 27 anos foi preso no bairro Floresta durante uma operação de combate à criminalidade organizada. A ação começou após informações do serviço de inteligência sobre o possível envolvimento dele com uma organização criminosa da cidade. Durante as buscas, ele teria jogado um celular em cima do telhado de uma garagem.</p>\n<p>Dentro de um guarda-roupa, os militares encontraram uma pistola Taurus calibre 9 mm, com numeração raspada e carregada com oito munições. Uma porção de maconha e um celular também foram apreendidos.</p>\n<p>No sábado (14), dois homens de 28 e 33 anos foram presos no Morro do Carmo, no bairro Nossa Senhora do Carmo, por equipes da Rotam. Segundo a PM, eles estariam fazendo a segurança de um ponto de tráfico. Foram apreendidas uma pistola 9 mm e uma 7,65 mm, ambas com numeração suprimida, seis carregadores, 55 munições, duas porções de cocaína e dois celulares.</p>\n<p>Os suspeitos e o material apreendido foram levados à Delegacia de Polícia Civil, que vai investigar o caso.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/142152_50.jpg",
-  "credito_foto": "Foto: Imagem ilustrativa/PMMG",
-  "fonte": "Polícia Militar e Itatiaia",
-  "resumos": ""
- },
- {
   "id": "151759_40",
   "data": "2026-11-16T12:21:48-03:00",
   "titulo": "PBH pede que contribuintes não paguem guias de tributos após falha no sistema",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/101554_8.jpg",
   "credito_foto": "Imagens cedidas/Itatiaia",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "102230_108",
+  "data": "2026-11-18T07:23:28-03:00",
+  "titulo": "Cruzeiro recebe o Palmeiras hoje, às 20h30, no Mineirão, e pode complicar a briga pelo título",
+  "linha_fina": "Raposa, terceira colocada e com quatro vitórias seguidas, busca o G4; Palmeiras, vice-líder a três pontos do Flamengo, joga desfalcado.",
+  "categoria": "cruzeiro",
+  "texto": "<p>O Cruzeiro recebe o Palmeiras nesta quarta-feira (18), às 20h30, no Mineirão, pela 35ª rodada do Campeonato Brasileiro. O jogo reúne objetivos diferentes na reta final: a Raposa quer se manter entre os quatro primeiros, e o time paulista tenta seguir vivo na briga pelo título.</p><p>O Cruzeiro chega embalado por quatro vitórias consecutivas na competição. A mais recente foi fora de casa, por 3 a 2 sobre o Bahia, em Salvador. Na terceira colocação, a equipe de Artur Jorge já tem vaga garantida na Libertadores de 2027 e agora busca terminar no G4 para entrar direto na fase de grupos do torneio continental.</p><p>O Palmeiras é o vice-líder, com 73 pontos em 34 jogos, três a menos que o Flamengo, que enfrenta o Athletico-PR no mesmo horário, no Maracanã. Se o Cruzeiro vencer, o rival carioca pode abrir seis pontos de vantagem antes do confronto direto entre Palmeiras e Flamengo, marcado para sábado (21), às 16h30, no Allianz Parque.</p><p>Para o jogo desta noite, Artur Jorge terá de volta William, Villalba e Matheus Pereira, que cumpriram suspensão. Em compensação, João Marcelo, Felipe Morais e Sinisterra estão fora por lesão, e Fabrício Bruno é dúvida por um problema muscular. O Palmeiras também tem desfalques importantes para a partida.</p><p>A expectativa é de bom público no Mineirão. O torcedor deve ficar atento ao cadastro da biometria, exigido para a entrada no estádio, e chegar com antecedência para evitar filas.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/102230_108.jpg",
+  "credito_foto": "Reprodução/Cruzeiro",
+  "fonte": "brasileirao.com.br e Rede 98",
   "resumos": ""
  }
 ]
