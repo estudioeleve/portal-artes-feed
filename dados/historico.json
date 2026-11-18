@@ -51840,5 +51840,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "08:32",
+  "id": "111006_12",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Bombeiros resgatam tamanduá-bandeira durante a noite em Oliveira e devolvem animal à natureza",
+  "titulo_orig": "Bombeiros capturam e soltam tamanduá-bandeira em Oliveira",
+  "link": "https://portalgerais.com/bombeiros-capturam-e-soltam-tamandua-bandeira-em-oliveira/",
+  "fonte": "Portal Gerais",
+  "arte": "artes/2026-11-18/111006_12.jpg",
+  "media_id": "18115988282144022"
  }
 ]
