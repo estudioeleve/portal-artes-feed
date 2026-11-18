@@ -4799,5 +4799,17 @@
   "credito_foto": "Divulgação/Prefeitura de Santa Luzia",
   "fonte": "Secretaria Municipal de Esporte e Lazer de Santa Luzia",
   "resumos": ""
+ },
+ {
+  "id": "191500_dolar",
+  "data": "2026-11-18T19:15:00-03:00",
+  "titulo": "Dólar dispara 1,54% e fecha a R$ 5,87 nesta quarta-feira",
+  "linha_fina": "Moeda americana acumula alta de quase 8% em novembro, com o mercado atento às contas públicas; Bolsa de São Paulo fechou em queda.",
+  "categoria": "economia",
+  "texto": "<p>O dólar comercial fechou em forte alta nesta quarta-feira (18), cotado a R$ 5,87, avanço de 1,54% em relação ao fechamento anterior, de R$ 5,78. Durante o dia, a moeda americana oscilou entre R$ 5,79 e R$ 5,88, segundo o portal TMC.</p><p>Na semana, a alta já é de 3,85%: na sexta-feira (13), o dólar havia fechado a R$ 5,66. Em novembro, o avanço acumulado chega a 7,84%, a partir dos R$ 5,45 do fim de outubro.</p><p>A cotação oficial do Banco Central, a Ptax, fechou o dia a R$ 5,8102 na venda, alta de 0,43%. A Ptax é calculada ao longo do dia e serve de referência para contratos e para o câmbio de cartões no exterior.</p><p>O movimento acontece com o mercado atento às contas públicas: o Senado votou nesta quarta trechos do projeto de ajuste fiscal. A Bolsa de São Paulo, a B3, também fechou em queda.</p><p>Na prática, o dólar mais caro pesa no bolso de quem vai viajar para fora, compra produtos importados ou paga serviços cobrados na moeda americana, e pode pressionar os preços de itens como combustíveis, eletrônicos e alimentos que dependem de insumos importados.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/191500_dolar.jpg",
+  "credito_foto": "Arte: Portal ONE News",
+  "fonte": "TMC / Banco Central",
+  "resumos": ""
  }
 ]
