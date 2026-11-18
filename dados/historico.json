@@ -51168,5 +51168,19 @@
   "fonte": "Rádio Santana FM",
   "arte": "artes/2026-11-17/001616_0.jpg",
   "media_id": "18099373085459269"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "21:41",
+  "id": "001925_103",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Estudantes fecham parte da Faria Lima e vias no Rio em ato da UNE contra o ajuste fiscal do governo",
+  "titulo_orig": "Ato de estudantes fecha vias em Rio e São Paulo para protestar contra ajuste fiscal",
+  "link": "https://oglobo.globo.com/politica/noticia/2026/11/17/alvo-de-criticas-da-esquerda-ato-de-estudantes-fecha-parte-da-faria-lima-para-protesta-contra-ajuste-fiscal.ghtml",
+  "fonte": "O GLOBO",
+  "arte": "artes/2026-11-17/001925_103.jpg",
+  "media_id": "18118525325521948"
  }
 ]
