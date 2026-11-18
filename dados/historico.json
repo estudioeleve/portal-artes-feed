@@ -54052,5 +54052,19 @@
   "fonte": "tmc.com.br",
   "arte": "artes/2026-11-18/233449_404.jpg",
   "media_id": "18643502590028007"
+ },
+ {
+  "id": "denuncia_7765",
+  "data": "2026-11-18",
+  "hora": "20:56",
+  "media_id": "18497752324106392",
+  "titulo": "Denúncia do leitor OC-2026-7765",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7765",
+  "arte": "videos/2026-11-18/denuncia_7765.mp4"
  }
 ]
