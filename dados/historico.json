@@ -51896,5 +51896,19 @@
   "fonte": "www.otempo.com.br",
   "arte": "artes/2026-11-18/111734_ades.jpg",
   "media_id": "17901183477680923"
+ },
+ {
+  "id": "denuncia_7513",
+  "data": "2026-11-18",
+  "hora": "09:01",
+  "media_id": "18102328460410851",
+  "titulo": "Denúncia do leitor OC-2026-7513",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7513",
+  "arte": "artes/denuncias/2026-11-18/denuncia_7513.jpg"
  }
 ]
