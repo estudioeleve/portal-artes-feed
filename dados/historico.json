@@ -51854,5 +51854,19 @@
   "fonte": "Portal Gerais",
   "arte": "artes/2026-11-18/111006_12.jpg",
   "media_id": "18115988282144022"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "08:33",
+  "id": "113258_pais",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Inmet mantém alerta de tempestades em boa parte do país; Norte de Minas está sob aviso laranja nesta quarta",
+  "titulo_orig": "Chuvas e trovoadas permanecem intensas na maior parte do país",
+  "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-e-trovoadas-permanecem-intensas-na-maior-parte-do-pais",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
