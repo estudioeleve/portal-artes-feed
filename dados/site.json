@@ -1,17 +1,5 @@
 [
  {
-  "id": "151804_53",
-  "data": "2026-11-16T12:21:48-03:00",
-  "titulo": "Cruzeiro vende 35 mil ingressos e abre mais um setor do Mineirão contra o Palmeiras",
-  "linha_fina": "Laranja Superior foi liberado; jogo é nesta quarta (18), às 20h30, pela 35ª rodada do Brasileirão.",
-  "categoria": "cruzeiro",
-  "texto": "<p>A venda de ingressos para o jogo entre Cruzeiro e Palmeiras segue em ritmo forte e levou o clube celeste a abrir mais um setor do Mineirão. Até a manhã desta segunda-feira (16), mais de 35 mil torcedores já tinham garantido presença no estádio.</p><p>O Laranja Superior passou a ser vendido para a torcida cruzeirense. Com isso, o Roxo Superior é o único setor que segue fechado, e a abertura dele depende da procura nos próximos dias.</p><p>Cruzeiro e Palmeiras se enfrentam nesta quarta-feira (18), às 20h30 (horário de Brasília), pela 35ª rodada do Campeonato Brasileiro. O time mineiro ocupa o 3º lugar, com 60 pontos. O Palmeiras é o 2º colocado, com 73.</p><p>A venda para os cruzeirenses começou na quarta-feira (11), exclusivamente pela internet, no site socio.cruzeiro.com.br/jogos e no aplicativo Cruzeiro: Nação Azul. Os torcedores do Palmeiras compram as entradas pelo site baladapp.com.br.</p><p>Com o estádio cheio, o Cruzeiro tenta somar pontos importantes na reta final do Brasileirão diante de um dos principais adversários da temporada.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-16/151804_53.jpg",
-  "credito_foto": "Cris Mattos/FMF",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "151855_80",
   "data": "2026-11-16T12:21:48-03:00",
   "titulo": "Juros e tarifaço dos EUA freiam a indústria eletroeletrônica de Minas em 2026",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/102343_oria.jpg",
   "credito_foto": "Victor Fagundes/Sede-MG",
   "fonte": "Agência Minas",
+  "resumos": ""
+ },
+ {
+  "id": "103134_9",
+  "data": "2026-11-18T07:32:41-03:00",
+  "titulo": "Black Friday: shoppings esperam vender 3% mais e descontos médios de 37%; veja o que deve sair",
+  "linha_fina": "Pesquisa da Abrasce aponta perfumaria e cosméticos como a categoria mais forte; 42% dos shoppings vão concentrar as ações de 27 a 29 de novembro.",
+  "categoria": "comercio",
+  "texto": "<p>Os shopping centers brasileiros esperam vender 3% a mais na Black Friday deste ano, em comparação com 2025. A projeção é da Pesquisa de Expectativas da Associação Brasileira de Shopping Centers (Abrasce). A data será em 27 de novembro.</p><p>Segundo o levantamento, 79% dos shoppings mantêm expectativas positivas para o período e 71% projetam aumento nas vendas. O fluxo de visitantes deve crescer 1,7%, e o tíquete médio estimado é de R$ 237,35, acima do registrado no ano passado.</p><p>Os descontos previstos vão de 10% a 70%, com média de 37%. Perfumaria e cosméticos lideram as categorias com maior expectativa de vendas, citadas por 74% dos shoppings. Em seguida aparecem eletrônicos e informática (65%), vestuário (63%), calçados (60%) e eletrodomésticos e eletroportáteis (57%). Em 2023, perfumaria e cosméticos ocupavam apenas o sexto lugar nesse ranking.</p><p>As campanhas não ficam restritas à sexta-feira: 42% dos empreendimentos vão concentrar as ações entre 27 e 29 de novembro, 29% farão promoções durante toda a semana, de 23 a 29, e 11% terão ofertas ao longo do mês. As redes sociais serão o principal canal de divulgação, citadas por 80% dos shoppings. Roletas de prêmios (33%) e brindes (27%) também estão entre as estratégias, e parte dos centros comerciais deve estender o horário até as 23h.</p><p>Para a Abrasce, a Black Friday antecipa parte das compras de Natal. \"A combinação de ofertas com a possibilidade de comparar produtos, contar com atendimento presencial e levar a compra na hora amplia a conveniência para o consumidor\", afirmou a diretora de planejamento estratégico e operações da entidade, Gabriella Oliveira.</p><p>Para o pequeno lojista, a dica é se antecipar: organizar estoque e equipe, definir as ofertas com clareza e começar a divulgação nas redes sociais antes da data.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/103134_9.jpg",
+  "credito_foto": "Divulgação",
+  "fonte": "Abrasce, via Rádio Guaíba",
   "resumos": ""
  }
 ]
