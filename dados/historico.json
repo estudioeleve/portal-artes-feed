@@ -52414,5 +52414,19 @@
   "fonte": "O TEMPO Betim",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "11:46",
+  "id": "141222_70",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "IBGE: proporção de negros com diploma de faculdade é metade da de brancos no Brasil",
+  "titulo_orig": "IBGE: percentual de negros com ensino superior é metade do de brancos",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-percentual-de-negros-com-ensino-superior-e-metade-da-de-brancos",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-18/141222_70.jpg",
+  "media_id": "18116197997125647"
  }
 ]
