@@ -54444,5 +54444,19 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_7822",
+  "data": "2026-11-18",
+  "hora": "23:21",
+  "media_id": "18182534239431472",
+  "titulo": "Denúncia do leitor OC-2026-7822",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7822",
+  "arte": "videos/2026-11-18/denuncia_7822.mp4"
  }
 ]
