@@ -54290,5 +54290,47 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-18/011607_121.jpg",
   "media_id": "18645789214010110"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "22:19",
+  "id": "011204_190",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Carro pega fogo na BR-381 perto do posto da PRF em Betim e trânsito chega a 4 km de fila",
+  "titulo_orig": "Veículo pega fogo na BR-381, perto do posto da PRF em Betim",
+  "link": "https://www.otempobetim.com.br/cidades/2026/11/18/veiculo-pega-fogo-na-br-381-perto-do-posto-da-prf-em-betim",
+  "fonte": "O TEMPO Betim",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "22:19",
+  "id": "011651_248",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Minas apresenta 30 projetos na COP31 e busca mais de R$ 600 milhões para ações contra a crise do clima",
+  "titulo_orig": "Governo de Minas apresenta projetos de sustentabilidade na COP31 e busca atrair mais de R$ 600 milhões em investimentos",
+  "link": "https://www.jornalcco.com.br/governo-de-minas-apresenta-projetos-de-sustentabilidade-na-cop31-e-busca-atrair-mais-de-r-600-milhoes-em-investimentos",
+  "fonte": "Jornal Correio Centro Oeste Arcos",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "22:19",
+  "id": "011435_152",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Divinópolis confirma segundo caso de mpox e acompanha outros dois suspeitos; veja os sintomas",
+  "titulo_orig": "Divinópolis registra dois casos positivos de Mpox, os primeiros da cidade em 2026 | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/divinopolis-registra-caso-positivo-de-mpox-e-investiga-possibilidade-de-paciente-contaminada/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
