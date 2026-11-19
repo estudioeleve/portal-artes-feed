@@ -56754,5 +56754,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-19/203008_14.jpg",
   "media_id": "18081190835427106"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "18:15",
+  "id": "181000_israel",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Escolas municipais de Santa Luzia passam por desinfecção e aulas devem voltar na segunda",
+  "titulo_orig": "",
+  "link": "pedido_israel:181000_israel",
+  "fonte": "Prefeitura de Santa Luzia",
+  "arte": "videos/2026-11-19/1810_desinfeccao_escolas_santa_luzia.mp4",
+  "media_id": "18131837074875067"
  }
 ]
