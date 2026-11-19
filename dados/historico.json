@@ -54892,5 +54892,33 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "07:30",
+  "id": "102904_8",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Equipe de Cleitinho avalia nova auditoria na Cemig após troca de diretor às vésperas de leilão da Aneel",
+  "titulo_orig": "Cemig entra no radar de Cleitinho, que avalia novas auditorias na empresa ",
+  "link": "https://www.otempo.com.br/politica/2026/11/19/cemig-entra-no-radar-de-cleitinho-que-avalia-novas-auditorias-na-empresa",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "07:30",
+  "id": "102912_25",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Imóvel leva 8 dias para ser alugado e 23 dias para ser vendido em BH, aponta estudo da UFMG",
+  "titulo_orig": "Quanto tempo leva para alugar ou vender imóvel em SP, RJ e BH?",
+  "link": "https://valorinveste.globo.com/produtos/imoveis/noticia/2026/11/19/quanto-tempo-leva-para-alugar-ou-vender-imovel-em-sp-rj-e-bh.ghtml",
+  "fonte": "Valor Investe",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
