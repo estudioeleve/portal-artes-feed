@@ -1,17 +1,5 @@
 [
  {
-  "id": "231700_11",
-  "data": "2026-11-17T20:19:22-03:00",
-  "titulo": "Fernanda Torres pede ajuda para encontrar Platão, seu cachorro, que sumiu em sítio em Petrópolis",
-  "linha_fina": "Atriz teme que o border collie tenha se perdido no mato ou sido picado por cobra; fãs e colegas compartilharam o apelo",
-  "categoria": "entretenimento",
-  "texto": "<p>A atriz Fernanda Torres usou as redes sociais nesta terça-feira (17) para pedir ajuda na busca por Platão, seu cachorro da raça border collie, que desapareceu no sítio da família na região de Secretário, em Petrópolis, na Região Serrana do Rio de Janeiro.</p><p>Em um vídeo publicado no perfil, a atriz contou como o animal sumiu e pediu que moradores da região e qualquer pessoa com informações ajudem nas buscas. Segundo ela, o cão costuma circular pelos arredores da propriedade e pode ter se afastado no meio da vegetação.</p><p>Fernanda disse temer que Platão tenha sido picado por uma cobra enquanto explorava o mato ao redor do sítio. \"Todo mundo [da região] conhece ele, é um border collie maravilhoso, um cara incrível\", afirmou no vídeo.</p><p>A atriz divulgou contatos para receber notícias sobre o paradeiro do cachorro, que, segundo ela, é tratado como parte da família. A publicação recebeu mensagens de apoio de fãs e de colegas de profissão, que ajudaram a compartilhar o apelo.</p><p>Até a publicação desta reportagem, não havia informação de que o animal tivesse sido encontrado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/231700_11.jpg",
-  "credito_foto": "Reprodução/Mais Novela",
-  "fonte": "Terra",
-  "resumos": ""
- },
- {
   "id": "231703_9",
   "data": "2026-11-17T20:19:22-03:00",
   "titulo": "Integrantes do Vou Zuar se pronunciam após prisão de dois colegas suspeitos de estupro em Barbacena",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/193625_-46.jpg",
   "credito_foto": "Foto: Divulgação/Conmebol",
   "fonte": "No Ataque / CNN Brasil / TyC Sports",
+  "resumos": ""
+ },
+ {
+  "id": "172500_israel",
+  "data": "2026-11-19T17:24:51-03:00",
+  "titulo": "Defesa Civil prevê chuva forte em Minas no feriadão, com até 80 mm no Norte e risco de granizo",
+  "linha_fina": "Previsão vai de quinta (19) a segunda (23); tempestades podem ter raios, ventos de até 80 km/h e granizo pontual.",
+  "categoria": "minas-gerais",
+  "texto": "<p>A Defesa Civil de Minas Gerais divulgou a previsão do tempo para o feriado prolongado da Consciência Negra e alerta para chuva em várias regiões do estado entre esta quinta-feira (19) e a segunda-feira (23). Os dados são do Centro de Inteligência em Defesa Civil (Cindec).</p><p>Nesta quinta, a chuva atinge diversas regiões, com acumulados de até 60 milímetros no Norte, no Jequitinhonha e nos vales do Mucuri e do Rio Doce. Na sexta-feira (20), a maior atenção é para o Norte e o Nordeste do estado, onde os volumes podem chegar a 80 milímetros.</p><p>No sábado (21), a chuva continua, com acumulados de 40 a 60 milímetros no Norte de Minas e no norte do Noroeste. No domingo (22), a previsão é de até 60 milímetros no Noroeste, Norte, Jequitinhonha e Mucuri. Já na segunda-feira (23), os maiores volumes se deslocam para o Noroeste, o Triângulo, a Central Mineira e o Oeste, também com até 60 milímetros.</p><p>Segundo a Defesa Civil, as tempestades podem vir acompanhadas de raios, ventos de 40 a 80 km/h e granizo em pontos isolados. A persistência da chuva aumenta o risco de alagamentos, enxurradas e deslizamentos de terra.</p><p>A orientação é evitar áreas alagadas, não atravessar ruas, córregos ou pontes com água corrente, não se abrigar debaixo de árvores durante as tempestades e ficar atento a rachaduras, estalos e inclinação de muros e postes. Em caso de emergência, a Defesa Civil atende pelo telefone 199 e o Corpo de Bombeiros pelo 193.</p><p>Quem vai pegar a estrada no feriado deve redobrar a atenção, reduzir a velocidade e acompanhar os alertas oficiais. Para receber avisos por SMS, basta enviar o CEP para o número 40199.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/172500_israel.jpg",
+  "credito_foto": "Reprodução/Defesa Civil de Minas Gerais",
+  "fonte": "Defesa Civil de Minas Gerais",
   "resumos": ""
  }
 ]
