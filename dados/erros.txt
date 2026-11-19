@@ -460,3 +460,4 @@
 2026-11-19 17:10 - Rodada 17h: denúncias A e C vazias; B só com a 7626 (segue segurada para o Israel decidir: relato repetido/embaralhado e endereço com número). Não postada nem marcada.
 2026-11-19 17:32 - Pedido do Israel (máscara nas unidades de saúde de Santa Luzia, 173000_israel, Luziense) saiu pelo Windsor SEM COLLAB: falta @portaluziense (painel: 'too many actions').
 2026-11-19 17:39 - Rodada 17h: 203120_39 (BNDES R$ 254 bi, Comércio) saiu pelo Windsor SEM COLLAB: falta @portallcomercio (painel: 'too many actions').
+2026-11-19 17:40 - Rodada de denúncias: A e C vazias; B só com a 7626 (segue segurada para o Israel decidir: relato repetido/embaralhado e endereço com número). Não postada nem marcada.
