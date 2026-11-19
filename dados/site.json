@@ -1,17 +1,5 @@
 [
  {
-  "id": "141336_28",
-  "data": "2026-11-17T11:16:51-03:00",
-  "titulo": "Parque Goiânia, na Região Nordeste de BH, ganha 100 mudas de ipês, quaresmeiras e outras árvores nativas",
-  "linha_fina": "Plantio foi feito pelo Instituto Unimed em parceria com a Prefeitura e integra o Selo Instituição Amiga da Árvore.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O Parque Goiânia, na Região Nordeste de Belo Horizonte, recebeu 100 mudas de árvores de espécies nativas, como ipês e quaresmeiras. O plantio foi realizado no último sábado (14) pelo Instituto Unimed, em parceria com a Prefeitura de Belo Horizonte, para fortalecer as áreas verdes e a qualidade ambiental da região.</p>\n<p>A iniciativa integra o Selo Instituição Amiga da Árvore, programa da Prefeitura que reconhece entidades comprometidas com a ampliação da arborização urbana na capital.</p>\n<p>Participaram da atividade o subsecretário de Gestão Ambiental e do Clima da Secretaria Municipal de Meio Ambiente, Dimi Chaves, e a diretora de Educação Ambiental da pasta, Ana Paula Assunção. Durante o plantio, Dimi destacou a necessidade de ações concretas diante dos efeitos das mudanças climáticas.</p>\n<p>\"Não podemos mais pensar apenas no futuro, mas agir no presente, aumentando a resiliência de nossas cidades. Essa responsabilidade é do poder público, mas fortalecemos essa atuação quando entidades se comprometem com o meio ambiente\", afirmou.</p>\n<p>A ação faz parte do calendário de 2026 do Instituto Unimed e das comemorações pelos 30 anos da Unimed Aeromédica. Mais árvores ajudam a reduzir o calor, melhorar a qualidade do ar e diminuir os efeitos das chuvas fortes, como alagamentos, ao facilitar a absorção da água pelo solo.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/141336_28.jpg",
-  "credito_foto": "Divulgação/PBH",
-  "fonte": "Prefeitura de Belo Horizonte",
-  "resumos": ""
- },
- {
   "id": "141349_142",
   "data": "2026-11-17T11:16:52-03:00",
   "titulo": "Irã nega plano de ataque com \"bomba suja\" em Washington, mas Trump diz que não descarta a ameaça",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/101825_stir.jpg",
   "credito_foto": "Reprodução/O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "102659_61",
+  "data": "2026-11-19T07:27:25-03:00",
+  "titulo": "Usina parada, mineração de bitcoin obsoleta e 13 empresas numa sala: o que há nos EUA ligado ao grupo de Ricardo Magro",
+  "linha_fina": "Empresário apontado como chefe de esquema bilionário de sonegação está foragido desde maio; MP fala em 192 empresas e 25 fundos usados para lavar dinheiro.",
+  "categoria": "brasil",
+  "texto": "<p>Uma usina praticamente vazia e sem funcionar, uma fazenda de mineração de bitcoin com máquinas consideradas antigas e lentas e um endereço onde várias empresas dividem a mesma sala. Foi isso que uma reportagem do Fantástico encontrou nos Estados Unidos ao visitar negócios ligados ao grupo do empresário Ricardo Magro.</p>\n<p>Apontado pelas investigações como responsável por um esquema bilionário de sonegação de impostos no Brasil, Magro mora nos Estados Unidos há 11 anos, tem Green Card e é considerado foragido desde maio.</p>\n<p>Uma das instalações visitadas foi uma usina com 91 anos de história. Segundo ex-funcionários, o local chegou a ter cerca de 50 trabalhadores e hoje tem menos de 15. Pela primeira vez em mais de nove décadas, a usina deixou de operar, depois de passar ao controle de uma empresa ligada à família do empresário. Os relatos também descrevem uma rotina incomum nas visitas de Magro, chamado internamente de \"O Conselho\": os funcionários eram orientados a não dizer o nome dele nem olhá-lo nos olhos.</p>\n<p>Outro negócio era uma operação de mineração de criptomoedas em Oklahoma. De acordo com ex-funcionários, os equipamentos eram obsoletos e a atividade não dava lucro, o que chamou a atenção dos investigadores diante das suspeitas sobre a movimentação financeira das empresas.</p>\n<p>Em Houston, um prédio aparece nas investigações como uma espécie de central do grupo: numa única sala funcionavam ao menos 13 empresas. Segundo o Ministério Público, operadores financeiros criaram ou administraram 192 empresas e 25 fundos de investimento por onde circulava o dinheiro das fraudes, enviado ao exterior. Um ex-funcionário da refinaria Refit, apontado como operador do esquema fora do país, deixou o Brasil em outubro e também entrou para a lista de foragidos.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/102659_61.jpg",
+  "credito_foto": "Reprodução/TV Globo",
+  "fonte": "g1/Fantástico",
   "resumos": ""
  }
 ]
