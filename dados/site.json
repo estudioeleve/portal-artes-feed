@@ -1,17 +1,5 @@
 [
  {
-  "id": "111141_53",
-  "data": "2026-11-17T08:20:27-03:00",
-  "titulo": "Bolsa Família: beneficiários com NIS final 2 recebem nesta terça; quarta tem pagamento unificado para os demais",
-  "linha_fina": "Valor médio do benefício em novembro é de R$ 783,63; 19,07 milhões de famílias recebem o pagamento.",
-  "categoria": "brasil",
-  "texto": "<p>A Caixa Econômica Federal paga nesta terça-feira (17) a parcela de novembro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) terminado em 2. Neste mês, 19,07 milhões de famílias recebem o benefício, com valor médio de R$ 783,63. O governo vai desembolsar R$ 14,88 bilhões.</p>\n<p>Os beneficiários com NIS de final 1 receberam na segunda-feira (16). Na quarta-feira (18), o calendário será unificado: no mesmo dia recebem todos os beneficiários com NIS terminado em 3, 4, 5, 6, 7, 8, 9 e 0.</p>\n<p>Normalmente, o pagamento do Bolsa Família é feito nos últimos dez dias úteis de cada mês. Por causa dos efeitos do fenômeno climático El Niño, o governo decidiu concentrar os pagamentos em três dias por mês até dezembro.</p>\n<p>Moradores de 112 municípios de oito estados em situação de emergência ou de calamidade pública receberam o crédito já na segunda-feira, independentemente do final do NIS. Em Minas Gerais, uma cidade entrou nessa lista. Também foram contemplados municípios do Amazonas, Piauí, Paraná, Rio Grande do Norte, Roraima, São Paulo e Sergipe.</p>\n<p>O beneficiário pode consultar as datas, o valor e a composição das parcelas no aplicativo Caixa Tem e no aplicativo Bolsa Família. O dinheiro é depositado na conta poupança social digital e pode ser movimentado pelo celular.</p>\n<p>Quem tiver dúvidas pode ligar para a central de atendimento da Caixa, no 111, ou para o Disque Social, no 121, do Ministério do Desenvolvimento e Assistência Social.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/111141_53.jpg",
-  "credito_foto": "Foto: Marcello Casal Jr./Agência Brasil",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "111145_17",
   "data": "2026-11-17T08:20:27-03:00",
   "titulo": "Governo endurece regra e trava venda fracionada de gás de cozinha e uso de botijão de outra marca",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/013831_14.jpg",
   "credito_foto": "Divulgação/Prefeitura de Contagem",
   "fonte": "Diário de Contagem / Prefeitura de Contagem",
+  "resumos": ""
+ },
+ {
+  "id": "014044_rais",
+  "data": "2026-11-18T22:41:19-03:00",
+  "titulo": "Chuvas já atingem 289 mil pessoas em Minas e deixam 28 cidades em situação de emergência",
+  "linha_fina": "Boletim da Defesa Civil aponta 93 desabrigados, 1,5 mil desalojados e duas mortes desde outubro; Durandé é o decreto mais recente.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O período chuvoso 2026/2027 já afetou cerca de 289 mil pessoas em Minas Gerais, segundo boletim da Defesa Civil estadual divulgado nesta quarta-feira (18). Desse total, 93 estão desabrigadas, ou seja, precisaram deixar suas casas e ir para abrigos públicos.</p><p>Outras 1,5 mil pessoas estão desalojadas: tiveram de sair dos imóveis por causa dos temporais, mas não precisaram de abrigo público. Desde o começo do período chuvoso, em 1º de outubro, o estado contabiliza duas mortes. A temporada vai até 31 de março de 2027.</p><p>Ao todo, 28 municípios decretaram situação de emergência, o que facilita o acesso a recursos para resposta e reconstrução: Água Boa, Águas Formosas, Alvinópolis, Amparo do Serra, Barra Longa, Cachoeira de Pajeú, Caparaó, Carangola, Carlos Chagas, Cássia, Curvelo, Divinolândia de Minas, Dom Silvério, Durandé, Jequitinhonha, Josenópolis, Paraopeba, Pavão, Pescador, Pintópolis, Raul Soares, Reduto, Santa Vitória, São Gotardo, Senador Amaral, Teófilo Otoni, Turmalina e Ubá. O decreto mais recente é o de Durandé, na Zona da Mata.</p><p>O Governo de Minas já distribuiu ajuda humanitária aos atingidos, entre elas mil telhas, 630 cestas básicas, 268 colchões, 264 kits de limpeza, 248 kits de higiene e 240 kits dormitório.</p><p>A previsão indica que áreas de instabilidade continuam favorecendo tempestades. Na manhã desta quarta, um temporal provocou alagamentos e acidentes em Belo Horizonte e na Região Metropolitana. Para a noite, há previsão de pancadas moderadas a fortes, com acumulados de 40 a 60 milímetros na Grande BH e nas regiões Noroeste, Norte, Jequitinhonha, Mucuri, Central e parte do Rio Doce. Em situação de risco, a orientação é ligar para a Defesa Civil (199) ou para os Bombeiros (193).</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/014044_rais.jpg",
+  "credito_foto": "Reprodução/O Tempo",
+  "fonte": "O Tempo / Defesa Civil de Minas Gerais",
   "resumos": ""
  }
 ]
