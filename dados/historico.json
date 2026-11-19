@@ -54696,5 +54696,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "06:18",
+  "id": "091115_132",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Lojista, atenção: Lula assina hoje o decreto que define as regras de transição do 6x1 para o 5x2",
+  "titulo_orig": "Fim da escala 6x1: Lula assina decreto da jornada 5x2 nesta quinta | G1",
+  "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/governo-regulamenta-da-jornada-5x2-nesta-quinta-feira-lula-assina-decreto-com-novas-regras.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-19/091115_132.jpg",
+  "media_id": "17981886260917731"
  }
 ]
