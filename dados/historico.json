@@ -56516,5 +56516,33 @@
   "fonte": "bhaz.com.br",
   "arte": "artes/2026-11-19/192442_277.jpg",
   "media_id": "18274518439306587"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "16:35",
+  "id": "193451_18",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Defesa de Bolsonaro recorre ao STF para que ele possa receber a visita do senador Rogério Marinho",
+  "titulo_orig": "Jair Bolsonaro recorre ao STF para receber visita de Rogério Marinho | G1",
+  "link": "https://g1.globo.com/politica/noticia/2026/11/19/defesa-diz-que-bolsonaro-nao-tem-voto-na-eleicao-do-senado-e-recorre-para-que-ex-presidente-receba-marinho.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "16:35",
+  "id": "193455_130",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Trump aparece de olhos fechados e parece cochilar durante discurso de Xi Jinping na cúpula da Apec",
+  "titulo_orig": "VÍDEO: Trump fecha os olhos e aparenta 'cochilar' durante discurso de  | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/19/video-trump-fecha-os-olhos-e-aparenta-cochilar-durante-discurso-de-xi-jinping.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
