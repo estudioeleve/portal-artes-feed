@@ -1,17 +1,5 @@
 [
  {
-  "id": "081000_israel",
-  "data": "2026-11-17T08:05:04-03:00",
-  "titulo": "Carro quase cai no córrego na rotatória da UPA; moradores pedem mais segurança",
-  "linha_fina": "Na Avenida Senhor do Bonfim, moradores denunciam falta de iluminação e de proteção que impeça veículos de cair no córrego.",
-  "categoria": "santa-luzia",
-  "texto": "<p>Um carro quase caiu no córrego que passa ao lado da rotatória da UPA, na Avenida Senhor do Bonfim, em Santa Luzia. Imagens registradas no local mostram o veículo com parte da frente sobre a vegetação da margem, à beira do canal, enquanto pessoas observavam a situação.</p><p>Moradores da região denunciam a falta de iluminação no trecho e de qualquer estrutura de segurança para os veículos que passam pela rotatória. Segundo eles, não há nada que impeça um carro de cair no córrego caso o motorista perca o controle da direção ou em caso de colisão.</p><p>Os moradores pedem que sejam instaladas iluminação adequada e uma barreira de proteção, como guarda-corpo ou defensa metálica, ao longo da margem do córrego, para evitar acidentes mais graves.</p><p>O espaço está aberto para a Prefeitura de Santa Luzia se manifestar sobre a denúncia e informar se há previsão de melhorias no local.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/081000_israel.jpg",
-  "credito_foto": "Foto: Reprodução de vídeo/Portal ONE News",
-  "fonte": "Portal ONE News",
-  "resumos": ""
- },
- {
   "id": "111045_20",
   "data": "2026-11-17T08:14:38-03:00",
   "titulo": "Cleitinho escolhe coronel Ralfe Veiga para comandar a PM de Minas e promete combater facções",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/002604_438.jpg",
   "credito_foto": "Reprodução/Por Dentro de Tudo",
   "fonte": "Por Dentro de Tudo",
+  "resumos": ""
+ },
+ {
+  "id": "003500_326",
+  "data": "2026-11-18T21:35:19-03:00",
+  "titulo": "Governo de Minas promove seminário sobre a reparação de Brumadinho e do Rio Doce em 2 de dezembro",
+  "linha_fina": "Evento com MPMG, MPF, Defensoria e Fundação Dom Cabral vai discutir como transformar a reparação em desenvolvimento; inscrições até 27/11.",
+  "categoria": "minas-gerais",
+  "texto": "<p>O Governo de Minas realiza no dia 2 de dezembro o Seminário Regional 2026: Reparação e Legado, com a pergunta \"É possível uma reparação que alcance um novo patamar de desenvolvimento?\". O evento é organizado pela Secretaria de Estado de Planejamento e Gestão (Seplag-MG), pelas Instituições de Justiça e pela Fundação Dom Cabral (FDC), dentro do acordo de cooperação ligado aos acordos de reparação de Brumadinho e do Rio Doce.</p><p>A proposta é discutir como a reparação dos danos causados pelos rompimentos das barragens pode gerar desenvolvimento duradouro para as comunidades atingidas e como o conhecimento pode ajudar Minas a prevenir e superar novos eventos críticos.</p><p>Em junho, os compromitentes dos acordos — Governo de Minas, Ministério Público de Minas Gerais, Ministério Público Federal e Defensoria Pública do Estado — assinaram parceria com a FDC para pesquisas sobre gestão de grandes desastres e reparações socioambientais.</p><p>A programação começa às 9h, com credenciamento, e tem três painéis: como gerar desenvolvimento nas comunidades afetadas (10h30), como direcionar os recursos da reparação de forma efetiva (13h) e como desenvolver as capacidades institucionais necessárias (16h). Às 14h30 haverá uma roda de conversa sobre o Memorial Brumadinho e a preservação da memória das vítimas.</p><p>As inscrições vão até 27 de novembro, pelo site www.mg.gov.br/seminarioreparacaoelegado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/003500_326.jpg",
+  "credito_foto": "Divulgação/Governo de Minas",
+  "fonte": "Governo de Minas",
   "resumos": ""
  }
 ]
