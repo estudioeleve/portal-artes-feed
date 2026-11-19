@@ -1,17 +1,5 @@
 [
  {
-  "id": "221845_178",
-  "data": "2026-11-17T19:22:05-03:00",
-  "titulo": "Escolas estaduais de Minas levam cultura afro-brasileira para a sala de aula na semana da Consciência Negra",
-  "linha_fina": "Projetos incluem desfile, oficinas de tranças e percussão e até aulas de Química sobre a contribuição da população negra",
-  "categoria": "educacao",
-  "texto": "<p>Escolas da rede estadual de Minas Gerais desenvolvem ao longo do ano projetos de valorização da cultura afro-brasileira e de educação antirracista. As iniciativas ganham ainda mais destaque nesta semana, que antecede o Dia da Consciência Negra, celebrado na sexta-feira (20).</p><p>Um dos exemplos é a Escola Estadual de Ladainha, no Vale do Mucuri. Desde 2009, o projeto da escola reúne um desfile protagonizado por estudantes negros, oficinas de tranças, artesanato, percussão, dança, teatro e música, além de exposições de artes plásticas feitas pelos alunos. \"Por meio dessas atividades, eles passam a ter ainda mais orgulho do cabelo, da cor da pele e da própria história\", afirma o diretor Sérgio Andrade.</p><p>A estudante Maria dos Anjos Lemes Souza, do 3º ano do Ensino Médio em Tempo Integral, conta que o projeto mudou a forma como enxerga a própria identidade. \"Aprendi mais sobre a cultura negra, a luta contra o racismo e a contribuição da população negra para a nossa sociedade\", disse.</p><p>Em Santa Maria de Itabira, na Escola Estadual Agenor Guerra, o professor Júlio Vieira usou a tecnologia para aproximar os conteúdos de Química e Ciências da Natureza da história e das contribuições da população negra, em um projeto desenvolvido durante o mês de novembro.</p><p>Segundo a Secretaria de Estado de Educação, as ações buscam reconhecer a ancestralidade e fortalecer o orgulho da identidade negra como caminho para uma escola mais inclusiva.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/221845_178.jpg",
-  "credito_foto": "SEE/Divulgação",
-  "fonte": "Agência Minas",
-  "resumos": ""
- },
- {
   "id": "221919_188",
   "data": "2026-11-17T19:22:06-03:00",
   "titulo": "Prêmio Zumbi de Cultura homenageia 23 personalidades negras nesta sexta (20) no Sesc Palladium",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/183215_53.jpg",
   "credito_foto": "Divulgação",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "191836_36",
+  "data": "2026-11-19T16:25:53-03:00",
+  "titulo": "Feriado em BH: comércio pode abrir, shoppings vão das 14h às 20h e ônibus serão de graça",
+  "linha_fina": "CDL/BH autoriza abertura do comércio na Consciência Negra; ônibus municipais têm Catraca Livre na sexta (20) e no domingo (22).",
+  "categoria": "comercio",
+  "texto": "<p>O comércio de Belo Horizonte está autorizado a abrir no feriado do Dia da Consciência Negra, nesta sexta-feira (20). De acordo com a Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH), lojas de rua e shopping centers podem funcionar, desde que cumpram as regras trabalhistas previstas para a data. A abertura, no entanto, fica a critério de cada estabelecimento.</p><p>Nos shoppings, o horário previsto para as lojas é das 14h às 20h. Há exceções: nos shoppings Cidade, Norte e Anchieta Garden, a previsão é de funcionamento das 10h às 16h. No comércio de rua, a jornada máxima autorizada é de oito horas, com intervalo mínimo de uma hora. Os trabalhadores convocados terão direito a auxílio-alimentação de R$ 70 e a folga compensatória, conforme as condições divulgadas pela entidade.</p><p>O transporte coletivo também muda. Os ônibus municipais terão tarifa zero na sexta-feira (20) e no domingo (22), pelo programa Catraca Livre, que garante gratuidade nas linhas convencionais e suplementares em domingos e feriados. Para usar o benefício, o passageiro apresenta o cartão BHBUS, que libera a catraca sem descontar créditos. As linhas vão rodar com o quadro de horários de feriado, e a orientação é consultar a previsão de chegada antes de sair de casa.</p><p>As agências bancárias ficam fechadas na sexta e reabrem na segunda-feira (23). Segundo a Febraban, contas de consumo e boletos que vencem no feriado podem ser pagos no próximo dia útil sem acréscimo. Aplicativos, Pix e canais digitais seguem funcionando.</p><p>Na saúde, os centros de saúde da capital ficam fechados de sexta a domingo, assim como consultas especializadas, centros de reabilitação e serviços odontológicos. As UPAs, o Hospital Metropolitano Odilon Behrens e o Samu funcionam 24 horas, e os Cersams mantêm o atendimento.</p><p>Os mercados distritais do Cruzeiro, Padre Eustáquio e Bairro São Paulo e as unidades do programa Abastecer abrem das 7h às 13h. As feiras livres têm abertura facultativa, e os restaurantes populares atendem apenas pessoas em situação de rua durante o feriado. As informações foram divulgadas pela Prefeitura de Belo Horizonte nesta quinta-feira (19).</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/191836_36.jpg",
+  "credito_foto": "Reprodução/NC News",
+  "fonte": "NC News / Prefeitura de Belo Horizonte",
   "resumos": ""
  }
 ]
