@@ -1,17 +1,5 @@
 [
  {
-  "id": "001925_103",
-  "data": "2026-11-17T21:25:00-03:00",
-  "titulo": "Estudantes fecham parte da Faria Lima e vias no Rio em ato da UNE contra o ajuste fiscal do governo",
-  "linha_fina": "Manifestações reuniram algumas centenas de pessoas nas duas capitais; grupos temem cortes em educação, saúde e assistência social.",
-  "categoria": "politica",
-  "texto": "<p>Um ato convocado pela União Nacional dos Estudantes (UNE) contra o pacote de ajuste fiscal do governo federal reuniu algumas centenas de manifestantes em São Paulo e no Rio de Janeiro nesta terça-feira (17).</p>\n<p>Na capital paulista, o protesto fechou cinco das seis faixas da Avenida Faria Lima, na Zona Oeste, endereço de boa parte do mercado financeiro do país. Os manifestantes se concentraram em frente à escultura da Baleia, um dos símbolos da avenida. No Centro do Rio, o ato começou em frente à Igreja da Candelária e seguiu pela via lateral da Avenida Presidente Vargas em direção ao Banco Central.</p>\n<p>O principal argumento dos participantes é que a política de contenção de despesas pode limitar a capacidade do Estado de ampliar investimentos em educação, saúde e assistência social. Partidos e movimentos de esquerda, como PSOL, PCdoB, PSTU e Unidade Popular, aderiram às manifestações, mas as principais centrais sindicais do país não participaram.</p>\n<p>Nas redes sociais, a convocação recebeu críticas de parte da própria esquerda, que considerou ruim a estratégia de voltar às ruas logo após a eleição.</p>\n<p>No Congresso, o Senado adiou para esta quarta-feira (18) a votação dos destaques ao projeto de lei complementar do ajuste fiscal, por falta de acordo entre as bancadas.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/001925_103.jpg",
-  "credito_foto": "Edilson Dantas (via O Globo)",
-  "fonte": "O Globo",
-  "resumos": ""
- },
- {
   "id": "011843_8",
   "data": "2026-11-17T22:20:35-03:00",
   "titulo": "Lojista de Betim: pedido de alvará sanitário passa a ser só pela internet a partir de 9 de dezembro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/211655_29.jpg",
   "credito_foto": "Divulgação/Prefeitura de Confins",
   "fonte": "Jornal Panorama Minas",
+  "resumos": ""
+ },
+ {
+  "id": "211650_160",
+  "data": "2026-11-19T18:20:53-03:00",
+  "titulo": "Carreta tomba na BR-381 em Brumadinho, espalha carga pela pista e provoca fila de 6 km",
+  "linha_fina": "Acidente foi por volta das 6h30 no km 525, sentido São Paulo; motorista não se feriu e faixa da direita foi bloqueada.",
+  "categoria": "regiao-metropolitana",
+  "texto": "<p>O tombamento de uma carreta provocou cerca de 6 quilômetros de congestionamento na BR-381, em Brumadinho, na Região Metropolitana de Belo Horizonte, na manhã desta quinta-feira (19). O acidente aconteceu por volta das 6h30, na altura do km 525, no sentido São Paulo.</p><p>Com o tombamento, parte da carga transportada caiu sobre a pista. Segundo a concessionária Motiva MinasSP, responsável pelo trecho, o motorista não se feriu e recusou ser levado para uma unidade de saúde.</p><p>Para permitir a retirada do material, a faixa da direita foi bloqueada, e os veículos que seguiam em direção a São Paulo passaram a circular apenas pela faixa da esquerda. A redução da capacidade da pista levou à formação de uma fila de aproximadamente 6 quilômetros.</p><p>As equipes de operação e resgate da concessionária sinalizaram a área, organizaram o fluxo de veículos, orientaram os motoristas e fizeram a limpeza da pista atingida pela carga. O trabalho também incluiu o apoio para a remoção da carreta e a liberação da faixa interditada.</p><p>A concessionária orientou os motoristas a reduzir a velocidade ao se aproximar do local e a respeitar a sinalização. O alerta vale ainda mais neste feriado prolongado da Consciência Negra, quando o movimento nas rodovias que cortam a Grande BH deve aumentar.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/211650_160.jpg",
+  "credito_foto": "Reprodução/BH 24 Horas",
+  "fonte": "BH 24 Horas",
   "resumos": ""
  }
 ]
