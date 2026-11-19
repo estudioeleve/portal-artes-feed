@@ -1,17 +1,5 @@
 [
  {
-  "id": "011921_162",
-  "data": "2026-11-17T22:22:48-03:00",
-  "titulo": "Por que Juiz de Fora é chamada de \"Manchester Mineira\"? A história começa com 1.200 imigrantes alemães em 1858",
-  "linha_fina": "Colonos chegaram para as obras da Estrada União e Indústria e ajudaram a transformar a cidade da Zona da Mata em polo industrial.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Juiz de Fora, na Zona da Mata mineira, carrega até hoje um apelido que conta parte da sua história: \"Manchester Mineira\". A comparação com a cidade inglesa, berço da indústria têxtil, tem relação direta com a chegada de cerca de 1.200 imigrantes de língua alemã em 1858.</p>\n<p>Naquele ano, a Colônia Dom Pedro II, fundada pelo empresário Mariano Procópio, recebeu os colonos, vindos de regiões que hoje pertencem à Alemanha, à Áustria e a outras áreas de língua alemã, segundo a Universidade Federal de Juiz de Fora (UFJF).</p>\n<p>Os imigrantes chegaram ligados às obras da Estrada União e Indústria, rodovia aberta por Mariano Procópio para escoar o café produzido na região. Muitos dominavam ofícios urbanos, como marcenaria e mecânica, e passaram a abastecer oficinas e fábricas. Tecelagens e uma usina pioneira ajudaram a consolidar a vocação industrial da cidade e o apelido que atravessou gerações.</p>\n<p>A antiga colônia agrícola deu origem ao bairro São Pedro, e a herança germânica segue presente em festas, grupos de dança folclórica e sobrenomes de famílias tradicionais da cidade.</p>\n<p>Hoje, Juiz de Fora tem cerca de 540 mil moradores, segundo o Censo 2022, e é referência regional em saúde, comércio e ensino superior. A UFJF atrai estudantes de várias partes do país e movimenta a vida cultural ao longo do ano.</p>\n<p>A localização também pesa: às margens da BR-040, a cidade fica no caminho entre Belo Horizonte e o Rio de Janeiro, o que permite viver no interior sem ficar longe das duas capitais.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/011921_162.jpg",
-  "credito_foto": "Wikimedia Commons/Revista Oeste",
-  "fonte": "Revista Oeste / UFJF",
-  "resumos": ""
- },
- {
   "id": "223300_israel",
   "data": "2026-11-17T22:33:49-03:00",
   "titulo": "Prefeito Paulo Bigodinho e vice Ilacir Bicalho almoçam com Falcão, vice-governador eleito de Minas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/211706_84.jpg",
   "credito_foto": "Reprodução/ALMG/Agência Senado",
   "fonte": "Brasil de Fato",
+  "resumos": ""
+ },
+ {
+  "id": "213546_57",
+  "data": "2026-11-19T18:35:59-03:00",
+  "titulo": "Ecossistema de inovação de Varginha, o ETech Valley, ganha selo nacional com apoio do Sebrae Minas",
+  "linha_fina": "Certificação Bronze da Plataforma Connected Smart Cities reconhece a organização e a governança do ambiente de inovação da cidade.",
+  "categoria": "comercio",
+  "texto": "<p>O ecossistema de inovação de Varginha, no Sul de Minas, conhecido como ETech Valley, conquistou o Selo CSC de Ecossistemas de Inovação na categoria Bronze. A certificação é concedida pela Plataforma Connected Smart Cities (CSC) a municípios que desenvolvem ações de organização e governança de ambientes de inovação.</p><p>O reconhecimento foi anunciado em uma cerimônia em São Paulo, com a presença do secretário municipal de Desenvolvimento Econômico, Henrique Touguinha, que representou a cidade.</p><p>Segundo o Sebrae Minas, o resultado vem do trabalho de articulação entre os atores locais, retomado em 2024 com a aplicação da metodologia Ecossistema Local de Inovação (ELI), na modalidade Ativação. Desde então, a instituição atua para aproximar poder público, empresas, instituições de ensino e entidades do setor produtivo, ajudando a construir uma agenda comum voltada à inovação.</p><p>O apoio inclui o acompanhamento dos encontros, o planejamento das atividades e o incentivo à participação dos integrantes. Todo o histórico foi reunido em um plano de ação e nos documentos usados na candidatura ao selo, mostrando a continuidade das iniciativas e os avanços na estruturação do ecossistema.</p><p>De acordo com a analista do Sebrae Minas Amanda Cezário, o foco desde a retomada tem sido aproximar os diferentes agentes, fortalecer a participação das instituições e criar uma agenda ligada às necessidades da região. Para ela, o selo dá visibilidade ao trabalho coletivo e incentiva a continuidade das ações.</p><p>Para pequenos empresários e empreendedores, ecossistemas de inovação organizados facilitam o acesso a parcerias, capacitação e programas de apoio a novos negócios e startups.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/213546_57.jpg",
+  "credito_foto": "Divulgação/Prefeitura de Varginha",
+  "fonte": "Itatiaia",
   "resumos": ""
  }
 ]
