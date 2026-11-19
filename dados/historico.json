@@ -56418,5 +56418,61 @@
   "fonte": "ncnews.com.br",
   "arte": "artes/2026-11-19/191836_36.jpg",
   "media_id": "18435071182145773"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "16:27",
+  "id": "191943_150",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "BH começa a estudar a nova concessão dos ônibus que vai substituir os contratos de 2008",
+  "titulo_orig": "Belo Horizonte inicia estudos para nova concessão de ônibus que vai substituir contratos de 2008",
+  "link": "https://diariodotransporte.com.br/2026/11/19/belo-horizonte-inicia-estudos-para-nova-concessao-de-onibus-que-vai-substituir-contratos-de-2008/",
+  "fonte": "Diário do Transporte",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "16:27",
+  "id": "192049_50",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Atraso de repasses da Prefeitura de Poços de Caldas deixa 58 entidades há dois meses e meio sem dinheiro",
+  "titulo_orig": "Atraso de repasses da prefeitura afeta instituições em Poços de Caldas | G1",
+  "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/19/atraso-em-repasses-da-prefeitura-afeta-58-instituicoes-em-pocos-de-caldas.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "16:27",
+  "id": "192053_40",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Marlon Jackson, irmão de Michael Jackson, revela que trata câncer de próstata há quatro anos",
+  "titulo_orig": "Marlon Jackson, irmão de Michael Jackson, revela diagnóstico de câncer | G1",
+  "link": "https://g1.globo.com/pop-arte/noticia/2026/11/19/marlon-jackson-irmao-de-michael-jackson-revela-diagnostico-de-cancer-de-prostata.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "16:27",
+  "id": "192445_331",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Trump, Putin e Xi assinam declaração de paz e dizem que guerra nuclear nunca deve ser travada",
+  "titulo_orig": "China, Rússia e EUA: 'Guerra nuclear nunca deve ser travada' | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
