@@ -55550,5 +55550,19 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-19/131359_60.jpg",
   "media_id": "17903384598457122"
+ },
+ {
+  "id": "denuncia_7946",
+  "data": "2026-11-19",
+  "hora": "10:59",
+  "media_id": "17998185650842449",
+  "titulo": "Denúncia do leitor OC-2026-7946",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:7946",
+  "arte": "dados/reels/den-7946.mp4"
  }
 ]
