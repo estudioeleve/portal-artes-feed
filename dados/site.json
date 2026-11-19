@@ -1,17 +1,5 @@
 [
  {
-  "id": "231647_26",
-  "data": "2026-11-17T20:19:21-03:00",
-  "titulo": "Cleitinho anuncia procurador Danilo Castro como futuro advogado-geral do Estado de Minas",
-  "linha_fina": "Procurador de carreira já chefiou a Consultoria Jurídica do Estado e foi advogado-geral adjunto; anúncio saiu junto com a nova cúpula da PM",
-  "categoria": "politica",
-  "texto": "<p>O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), anunciou nesta terça-feira (17) o procurador Danilo Antônio de Souza Castro como futuro advogado-geral do Estado (AGE). A indicação foi divulgada em vídeo nas redes sociais, no mesmo dia em que Cleitinho apresentou os coronéis escolhidos para comandar a Polícia Militar.</p><p>Danilo Castro é procurador de carreira e especialista em Direito Público pela PUC Minas. Entre 2015 e 2018, no governo Fernando Pimentel, chefiou a Consultoria Jurídica do Estado, setor que orienta o Executivo em questões da administração pública.</p><p>No início da gestão Romeu Zema, entre 2019 e 2020, ele foi advogado-geral adjunto do Estado, um dos principais cargos de direção da AGE. Também ocupou funções na administração direta, como secretário adjunto da Casa Civil e de Relações Institucionais e chefe de gabinete da Secretaria de Planejamento e Gestão.</p><p>À frente da Advocacia-Geral do Estado, Castro será responsável pela representação judicial de Minas Gerais e pelo assessoramento jurídico do governo nas decisões e medidas administrativas.</p><p>No mesmo vídeo, Cleitinho confirmou o coronel Ralfe Veiga de Oliveira para o comando-geral da Polícia Militar. O novo governo toma posse em janeiro de 2027.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/231647_26.jpg",
-  "credito_foto": "Reprodução/BH 24 Horas",
-  "fonte": "BH 24 Horas",
-  "resumos": ""
- },
- {
   "id": "231650_43",
   "data": "2026-11-17T20:19:21-03:00",
   "titulo": "Fhemig abre seleção com 10 vagas para biomédico, farmacêutico e fonoaudiólogo em hospitais de BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/193455_130.jpg",
   "credito_foto": "Foto: Reprodução/g1",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "193536_ais",
+  "data": "2026-11-19T16:36:05-03:00",
+  "titulo": "Empreendedor tem até sexta para entregar estudo ambiental no modelo antigo; Minas muda as regras no sábado",
+  "linha_fina": "Feam reduz de 64 para quatro os modelos de termo de referência para RCA e EIA/Rima; novo sistema de licenciamento entra no ar na segunda (23).",
+  "categoria": "comercio",
+  "texto": "<p>Empresas e empreendedores que dependem de licenciamento ambiental em Minas Gerais têm até esta sexta-feira (20) para apresentar estudos feitos nos formatos antigos. A partir de sábado (21), o Estado passa a exigir novos modelos, e os documentos que não seguirem as regras atualizadas serão desconsiderados, segundo a Fundação Estadual do Meio Ambiente (Feam).</p><p>A mudança vale para o Estudo de Impacto Ambiental e Relatório de Impacto Ambiental (EIA/Rima) e para o Relatório de Controle Ambiental (RCA), e busca adequar os procedimentos mineiros à Lei Geral do Licenciamento Ambiental.</p><p>O principal ponto é a reorganização dos Termos de Referência, que definem as informações exigidas em cada estudo. Antes, a Feam oferecia 45 modelos para RCA e 19 para EIA/Rima. Agora serão quatro modelos principais, com anexos conforme a atividade: 24 anexos temáticos para o RCA e seis para o EIA/Rima, que incluem mineração, aterros sanitários, tratamento de resíduos, loteamentos, distritos industriais e logísticos, agropecuária e barragens.</p><p>Os estudos deverão ser entregues no momento da formalização do pedido no Sistema de Licenciamento Ambiental (SLA), que vai indicar qual procedimento seguir. Empreendimentos em terras indígenas, territórios quilombolas, bens protegidos ou unidades de conservação, com exceção das Áreas de Proteção Ambiental, poderão ter de apresentar manifestações das autoridades competentes. Depois de definido o termo aplicável, a estrutura deve ser seguida à risca, com todos os itens previstos.</p><p>Na segunda-feira (23), entra em operação uma nova versão do SLA, com mudanças na solicitação de licenças, na entrega de documentos e nos prazos. Uma das novidades é o fim da exigência prévia da certidão municipal de uso e ocupação do solo: o empreendedor passará a declarar no sistema, sob as penas da lei, que a atividade cumpre a legislação urbanística do município. Também será obrigatório identificar os responsáveis técnicos pelos estudos, com os documentos de responsabilidade técnica.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/193536_ais.jpg",
+  "credito_foto": "Foto: Agência Brasil/Diário do Comércio",
+  "fonte": "Diário do Comércio / Feam",
   "resumos": ""
  }
 ]
