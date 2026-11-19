@@ -1,17 +1,5 @@
 [
  {
-  "id": "002317_12",
-  "data": "2026-11-17T21:24:29-03:00",
-  "titulo": "Reino Unido entrega aos EUA oficial do Exército americano preso sob suspeita de espionagem",
-  "linha_fina": "Militar da ativa foi detido em 10 de novembro perto de Gloucester; polícia britânica havia ligado o caso à Rússia, que nega envolvimento.",
-  "categoria": "mundo",
-  "texto": "<p>As autoridades britânicas transferiram para a custódia das Forças Armadas dos Estados Unidos um oficial da ativa do Exército americano preso na semana passada por suspeita de crimes contra a segurança nacional. A informação foi divulgada nesta terça-feira (17) pela Polícia Metropolitana de Londres.</p>\n<p>O militar foi detido pela polícia antiterrorismo britânica em 10 de novembro, perto de Gloucester, no oeste da Inglaterra, e era investigado por suspeitas relacionadas à segurança nacional e espionagem. A polícia já havia informado que o país estrangeiro ligado às suspeitas era a Rússia. O Kremlin negou qualquer ligação.</p>\n<p>Antes de transferir o caso, os investigadores britânicos consultaram o procurador-geral do Reino Unido e autoridades americanas. \"Trata-se de alegações extremamente graves\", afirmou o comissário-adjunto Laurence Taylor, chefe da unidade de combate ao terrorismo, ao dizer que a resposta deve ser rápida sempre que houver suspeita de espionagem.</p>\n<p>O FBI informou que o soldado está sob custódia após uma investigação conjunta que envolveu o escritório da agência na Filadélfia, o adido jurídico em Londres, a polícia antiterrorismo britânica, o MI5, a contrainteligência de defesa do Reino Unido e o próprio Exército dos EUA. O nome do militar não foi divulgado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/002317_12.jpg",
-  "credito_foto": "Don Emmert/AFP (foto de arquivo, via g1)",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "002323_95",
   "data": "2026-11-17T21:24:29-03:00",
   "titulo": "Saúde pode perder cerca de R$ 9 bilhões em 2027 com regra do ajuste fiscal, aponta estudo do Senado",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/203400_62.jpg",
   "credito_foto": "Fernando Maia/Riotur",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "181000_israel",
+  "data": "2026-11-19T18:13:30-03:00",
+  "titulo": "Escolas municipais de Santa Luzia passam por desinfecção e aulas devem voltar na segunda",
+  "linha_fina": "Trabalho começou na tarde desta quinta (19), após parceria entre Prefeitura e Câmara contra a escabiose; retorno das aulas é esperado para o dia 23.",
+  "categoria": "santa-luzia",
+  "texto": "<p>As escolas da rede municipal de Santa Luzia começaram a passar por desinfecção na tarde desta quinta-feira (19). O trabalho foi mostrado pelo prefeito Paulo Bigodinho em suas redes sociais, numa publicação feita em conjunto com o presidente da Câmara Municipal, Glayson Johnny.</p><p>Nas imagens, equipes com macacão de proteção, máscara e pulverizadores costais percorrem salas de aula, corredores e escadas das unidades, aplicando o produto em carteiras, cadeiras, paredes e áreas comuns. A ação foi apresentada como medida de prevenção, depois da confirmação de casos de escabiose, a sarna humana, na cidade.</p><p>A desinfecção é resultado do Termo de Cooperação Técnica firmado nesta semana entre a Câmara e a Prefeitura para higienizar as escolas municipais. Para que o serviço fosse feito, a Secretaria Municipal de Educação dispensou os alunos às 15h desta quinta, véspera do feriado da Consciência Negra.</p><p>Segundo o prefeito, a expectativa é que as aulas sejam retomadas na segunda-feira (23), com as escolas já desinfetadas.</p><p>A Secretaria de Educação também orientou as famílias a observar as crianças durante o feriado prolongado. Quem apresentar sintomas, como coceira intensa, principalmente à noite, e pequenas lesões na pele, não deve ser levado à escola na segunda-feira e precisa procurar uma unidade de saúde para avaliação.</p><p>A escabiose é causada por um ácaro e passa de uma pessoa para outra pelo contato direto com a pele ou pelo compartilhamento de roupas, toalhas e roupas de cama. O tratamento é simples e deve ser feito com orientação médica, junto com a lavagem das roupas e dos objetos de uso pessoal de toda a família.</p><p>O Portal Luziense segue acompanhando o retorno das aulas na rede municipal.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/181000_israel.jpg",
+  "credito_foto": "Reprodução/Redes sociais do prefeito Paulo Bigodinho",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
