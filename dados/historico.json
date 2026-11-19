@@ -56698,5 +56698,33 @@
   "fonte": "Rádio Catedral",
   "arte": "artes/2026-11-19/201733_3.jpg",
   "media_id": "17883437412547045"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "17:34",
+  "id": "203356_87",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Prefeitura de BH entrega carros a cooperativas de catadores e investe R$ 220 mil em equipamentos",
+  "titulo_orig": "Prefeitura de BH entrega veículos a cooperativas de catadores de recicláveis",
+  "link": "https://prefeitura.pbh.gov.br/noticias/prefeitura-de-bh-entrega-veiculos-cooperativas-de-catadores-de-reciclaveis",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "17:34",
+  "id": "203400_62",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Réveillon do Rio começa antes do Natal, com show de Zeca Pagodinho, Alcione e Jorge Aragão em Copacabana",
+  "titulo_orig": "Temporada de réveillon do Rio começa antes do Natal e vai até dia 3",
+  "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/temporada-de-reveillon-do-rio-comeca-antes-do-natal-e-vai-ate-dia-3",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
