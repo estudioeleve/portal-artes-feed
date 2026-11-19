@@ -54388,5 +54388,33 @@
   "fonte": "Conexão 424",
   "arte": "artes/2026-11-18/013851_119.jpg",
   "media_id": "17994555134863057"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "22:42",
+  "id": "014204_345",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "PF bloqueia R$ 2,3 bilhões de grupo suspeito de explorar apostas ilegais e mira iate, aviões e mansão de R$ 100 milhões",
+  "titulo_orig": "Polícia Federal deflagra operação para combater exploração ilegal de apostas",
+  "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/policia-federal-deflagra-operacao-para-combater-exploracao-ilegal-de-apostas",
+  "fonte": "GOV.BR",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "22:42",
+  "id": "014209_168",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "EDUCAÇÃO",
+  "titulo": "Defesa Civil lança nesta quinta guia para escolas prepararem alunos e professores para situações de risco",
+  "titulo_orig": "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
+  "link": "https://www.gov.br/mdr/pt-br/noticias/defesa-civil-nacional-lanca-guia-de-orientacoes-para-escolas",
+  "fonte": "GOV.BR",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
