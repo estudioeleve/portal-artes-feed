@@ -54794,5 +54794,61 @@
   "fonte": "Diário do Comércio",
   "arte": "artes/2026-11-19/091300_29.jpg",
   "media_id": "18119951210026628"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "07:17",
+  "id": "101130_0",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "MG-030 ganha serviço de reboque em Nova Lima para retirar carros quebrados e acidentados da pista",
+  "titulo_orig": "MG-030 ganha novo serviço de reboque em Nova Lima | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/11/19/mg-030-ganha-servico-de-reboque-para-agilizar-retirada-de-veiculos-em-nova-lima-veja-como-acionar.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-19/101130_0.jpg",
+  "media_id": "18188879806419196"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "07:17",
+  "id": "101214_100",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Asfalto desfeito pela chuva no Palmares vira munição de esquerda e direita contra Damião em BH",
+  "titulo_orig": "Asfalto desfeito pela chuva em BH torna Damião alvo de esquerda e direita",
+  "link": "https://www.metropoles.com/minas-gerais/asfalto-desfeito-pela-chuva-em-bh-torna-damiao-alvo-de-esquerda-e-direita",
+  "fonte": "Metrópoles",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "07:17",
+  "id": "101259_62",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Haitianos vão às ruas apoiar tropas de Bukele contra gangues, mas analistas alertam para escalada",
+  "titulo_orig": "Tropas de Bukele no Haiti: população apoia e analistas fazem alerta | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/19/tropas-de-bukele-no-haiti-populacao-manifesta-apoio-mas-analistas-alertam-para-escalada.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "07:17",
+  "id": "101313_90",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Dia do Empreendedorismo Feminino: mulheres pagam mais juros, mas Sebrae garante 100% do empréstimo",
+  "titulo_orig": "Empreendedorismo feminino cresce no Brasil, mas crédito ainda é desafio",
+  "link": "https://www.correiobraziliense.com.br/economia/2026/11/7540958-empreendedorismo-feminino-cresce-no-brasil-mas-credito-ainda-e-desafio.html",
+  "fonte": "Correio Braziliense",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
