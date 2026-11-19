@@ -1,0 +1,220 @@
+{
+"cenas": [
+{
+"a": 0,
+"m": {
+"v": "r19/c_muro.mp4",
+"de": 2
+},
+"chip": "CIDADE",
+"curto": "Chuva derruba muro de escola"
+},
+{
+"a": 2.2,
+"m": {
+"v": "r19/c_cam.mp4",
+"de": 12.4,
+"fy": 0.1
+},
+"chip": "CIDADE",
+"curto": "Carro capota no Duquesa 1"
+},
+{
+"a": 4.4,
+"m": {
+"i": "r19/covid_v.jpg"
+},
+"chip": "SAÚDE",
+"curto": "Máscara volta a ser obrigatória"
+},
+{
+"a": 8.9,
+"m": {
+"v": "r19/c_galo.mp4",
+"de": 17,
+"cred": "Vídeo: Conmebol Sul-Americana"
+},
+"chip": "ESPORTE",
+"curto": "Galo na final da Sul-Americana"
+},
+{
+"a": 12.3,
+"tipo": "abre"
+},
+{
+"a": 16.08,
+"m": {
+"v": "r19/c_muro.mp4",
+"de": 0
+},
+"chip": "CIDADE",
+"tit": "Chuva derruba parte do muro da Escola Municipal Santa Luzia"
+},
+{
+"a": 22.15,
+"m": {
+"v": "r19/c_muro.mp4",
+"de": 9
+},
+"chip": "CIDADE",
+"tit": "Muro atingiu duas salas de aula durante a madrugada"
+},
+{
+"a": 24.79,
+"m": {
+"i": "r19/m8117.jpg",
+"inteira": true
+},
+"chip": "CIDADE",
+"tit": "Ninguém se feriu, e as aulas foram suspensas"
+},
+{
+"a": 27.71,
+"m": {
+"v": "r19/c_pref.mp4",
+"de": 4
+},
+"chip": "PREFEITURA",
+"tit": "Prefeito promete retomar as aulas o quanto antes",
+"nome": "PAULO BIGODINHO",
+"cargo": "Prefeito de Santa Luzia"
+},
+{
+"a": 33.28,
+"m": {
+"i": "r19/m8062.jpg",
+"inteira": true
+},
+"chip": "DENÚNCIA",
+"tit": "Industrial Americano fica mais uma vez sem luz depois da chuva"
+},
+{
+"a": 37.98,
+"m": {
+"i": "r19/m8062.jpg",
+"inteira": true
+},
+"chip": "DENÚNCIA",
+"tit": "Moradores cobram a poda das árvores na região"
+},
+{
+"a": 41.64,
+"m": {
+"v": "r19/c_cam.mp4",
+"de": 10.4,
+"cred": "Imagens: câmera de segurança",
+"fy": 0.1
+},
+"chip": "DENÚNCIA",
+"tit": "Carro capota ao descer a Rua João de Barro, no Duquesa 1"
+},
+{
+"a": 45.91,
+"m": {
+"v": "fab_base.mp4",
+"de": 19.3,
+"fy": 0.18,
+"cred": "Imagens: Fabrício Bom Pastor, repórter colaborador"
+},
+"chip": "DENÚNCIA",
+"tit": "Segundo moradores, é o 14º capotamento na rua"
+},
+{
+"a": 49.51,
+"m": {
+"v": "r19/c_capot.mp4",
+"de": 1,
+"cred": "Imagens: Fabrício Bom Pastor, repórter colaborador"
+},
+"chip": "DENÚNCIA",
+"tit": "Moradores pedem asfalto na ladeira"
+},
+{
+"a": 52.16,
+"m": {
+"i": "r19/covid_v.jpg"
+},
+"chip": "SAÚDE",
+"tit": "Santa Luzia volta a exigir máscara no Hospital Madalena, UPAs e postos"
+},
+{
+"a": 61.95,
+"m": {
+"i": "r19/m8189.jpg",
+"inteira": true
+},
+"chip": "SAÚDE",
+"tit": "Médicos dos postos ainda têm valores a receber"
+},
+{
+"a": 66.27,
+"m": {
+"i": "r19/m8189.jpg",
+"inteira": true
+},
+"chip": "SAÚDE",
+"tit": "Segundo o prefeito, o dinheiro existe e os postos seguem abertos"
+},
+{
+"a": 70.63,
+"m": {
+"i": "r19/m8195.jpg",
+"inteira": true
+},
+"chip": "FERIADO",
+"tit": "Sexta-feira é feriado da Consciência Negra em todo o país"
+},
+{
+"a": 74.81,
+"m": {
+"i": "r19/m8195.jpg",
+"inteira": true
+},
+"chip": "BELO HORIZONTE",
+"tit": "Ônibus municipais de BH de graça na sexta e no domingo"
+},
+{
+"a": 80.46,
+"m": {
+"v": "r19/c_desinf.mp4",
+"de": 2
+},
+"chip": "SAÚDE",
+"tit": "Sarna humana avança na Grande BH"
+},
+{
+"a": 83.26,
+"m": {
+"v": "r19/c_desinf.mp4",
+"de": 38
+},
+"chip": "EDUCAÇÃO",
+"tit": "Escolas de Santa Luzia passam por desinfecção"
+},
+{
+"a": 88.59,
+"m": {
+"v": "r19/c_galo.mp4",
+"de": 7,
+"cred": "Vídeo: Conmebol Sul-Americana"
+},
+"chip": "ESPORTE",
+"tit": "Galo decide a Sul-Americana contra o Boca neste sábado, na Colômbia"
+},
+{
+"a": 94.77,
+"m": {
+"dolar": true,
+"t2": 4.6
+},
+"chip": "ECONOMIA",
+"tit": "Dólar passa de R$ 5,91, maior valor desde abril de 2025"
+},
+{
+"a": 104.03,
+"tipo": "fim"
+}
+],
+"end": 114.26,
+"data": "19.11.2026"
+}
