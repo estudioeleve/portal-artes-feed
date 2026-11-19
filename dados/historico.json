@@ -57048,5 +57048,19 @@
   "fonte": "O Tempo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "19:28",
+  "id": "221434_229",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Feirão em Ribeirão das Neves oferece mais de 3 mil vagas e trabalhadores saem contratados",
+  "titulo_orig": "Feirão de Empregos movimenta mercado de trabalho em Neves",
+  "link": "https://ribeiraodasneves.mg.gov.br/src/pages/noticias/feirao-de-empregos-movimenta-mercado-de-trabalho-neves.html",
+  "fonte": "Prefeitura de Ribeirão das Neves",
+  "arte": "artes/2026-11-19/221434_229.jpg",
+  "media_id": "18078850706473239"
  }
 ]
