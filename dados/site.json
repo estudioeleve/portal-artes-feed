@@ -1,17 +1,5 @@
 [
  {
-  "id": "161201_113",
-  "data": "2026-11-17T13:15:36-03:00",
-  "titulo": "Cascavel é encontrada na porta de depósito e capturada pelos bombeiros em Timóteo",
-  "linha_fina": "Serpente estava na escadaria de um imóvel em frente a uma indústria; ninguém ficou ferido.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Uma cobra cascavel foi encontrada por trabalhadores na entrada de um depósito e capturada pelo Corpo de Bombeiros em Timóteo, no Vale do Aço. A serpente estava na escadaria de acesso a um imóvel, em frente a um estabelecimento industrial.</p><p>Segundo os bombeiros, a equipe foi chamada pelo telefone 193 depois que o animal foi visto. Por ser peçonhenta, a cascavel representava risco para as pessoas que circulavam pelo local.</p><p>Os militares usaram equipamentos de proteção e materiais próprios para o manejo de animais silvestres. A captura foi feita sem ferir a serpente e ninguém se machucou. O animal foi levado ao Centro de Biodiversidade da Usipa (Cebus), em Ipatinga, para receber cuidados e ter a destinação adequada.</p><p>O Corpo de Bombeiros orienta que, ao encontrar uma cascavel ou outro animal silvestre, ninguém tente capturar, tocar ou matar o bicho. O certo é manter distância, afastar crianças e animais de estimação e chamar os bombeiros pelo 193.</p><p>A picada da cascavel pode causar acidentes graves e exige atendimento médico imediato. Com o calor e as chuvas, os encontros com serpentes costumam ficar mais frequentes.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/161201_113.jpg",
-  "credito_foto": "Reprodução/G1",
-  "fonte": "G1",
-  "resumos": ""
- },
- {
   "id": "161226_93",
   "data": "2026-11-17T13:15:36-03:00",
   "titulo": "Parque do Palácio, em BH, abre programação de Natal com oficinas e bolhas de sabão gigantes",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/122951_16.jpg",
   "credito_foto": "Reprodução/Diplomacia Business",
   "fonte": "Diplomacia Business",
+  "resumos": ""
+ },
+ {
+  "id": "094000_israel",
+  "data": "2026-11-19T09:39:20-03:00",
+  "titulo": "Prefeito Paulo Bigodinho visita Escola Municipal Santa Luzia após queda do muro e promete retomar aulas o quanto antes",
+  "linha_fina": "Segundo o prefeito, não havia ninguém na escola porque o desabamento foi de madrugada; ele tranquilizou as famílias sobre a continuidade das aulas.",
+  "categoria": "santa-luzia",
+  "texto": "<p>O prefeito de Santa Luzia, Paulo Bigodinho, esteve nesta quinta-feira (19) na Escola Municipal Santa Luzia, onde parte do muro desabou durante a chuva da madrugada e atingiu duas salas de aula. Em vídeo gravado no local, ele mostrou a área atingida e falou com as famílias dos alunos.</p>\n<p>Segundo o prefeito, graças a Deus não havia ninguém na escola no momento do desabamento, já que o acidente aconteceu de madrugada. Ninguém ficou ferido.</p>\n<p>No vídeo, Paulo Bigodinho buscou tranquilizar pais e responsáveis quanto à continuidade das aulas e prometeu medidas para que o funcionamento da escola no local seja restabelecido o quanto antes. Ele também falou sobre o isolamento da área com tapumes.</p>\n<p>As aulas desta quinta-feira foram suspensas nos dois turnos, conforme comunicado da direção da escola, e a Defesa Civil isolou o local. O retorno depende da confirmação de que não há risco para alunos e funcionários.</p>\n<p>O Portal ONE News acompanha o caso e vai informar a data de retorno das aulas assim que ela for divulgada.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/094000_israel.jpg",
+  "credito_foto": "Reprodução/Portal ONE News",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
