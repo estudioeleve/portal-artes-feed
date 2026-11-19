@@ -55480,5 +55480,19 @@
   "fonte": "Cenário Minas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "10:19",
+  "id": "121245_17",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Cidade mineira troca arroz, feijão e café por passagens do Trem de Natal; veja quanto vale cada item",
+  "titulo_orig": "Soledade de Minas troca alimentos por passagens do Trem de Natal | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/suldeminas/soledade-de-minas-troca-alimentos-por-passagens-do-trem-de-natal/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-19/121245_17.jpg",
+  "media_id": "17894126343653691"
  }
 ]
