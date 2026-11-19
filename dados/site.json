@@ -1,17 +1,5 @@
 [
  {
-  "id": "231559_36",
-  "data": "2026-11-17T20:19:21-03:00",
-  "titulo": "Zé Ramalho faz show de sucessos em BH nesta sexta e ainda há ingressos; veja horário e preços",
-  "linha_fina": "Cantor de 77 anos se apresenta na Arena Hall, na Savassi, às 21h, com \"Avôhai\", \"Chão de Giz\" e \"Admirável Gado Novo\"",
-  "categoria": "entretenimento",
-  "texto": "<p>O cantor e compositor Zé Ramalho volta a Belo Horizonte nesta sexta-feira (20) com o espetáculo \"Show dos Sucessos\". Aos 77 anos, o paraibano se apresenta na Arena Hall, na Savassi, e ainda há ingressos à venda.</p><p>O repertório reúne músicas que marcaram gerações, como \"Avôhai\", \"Chão de Giz\", \"Frevo Mulher\", \"Admirável Gado Novo\", \"Sinônimos\" e \"Beira-Mar\". O show passa por diferentes fases da carreira do artista, conhecido pela voz marcante e pela mistura de música nordestina, rock e MPB.</p><p>Os portões da Arena Hall abrem às 19h, e a apresentação está prevista para as 21h. Os ingressos custam de R$ 180 a R$ 520 e são vendidos pela plataforma Sympla.</p><p>A classificação etária é de 18 anos. Menores de idade só entram acompanhados dos pais ou responsáveis legais.</p><p><strong>Serviço</strong><br>Zé Ramalho – Show dos Sucessos<br>Data: sexta-feira, 20 de novembro<br>Local: Arena Hall – Av. Nossa Senhora do Carmo, 230, Savassi, BH<br>Portões: 19h | Show: 21h<br>Ingressos: R$ 180 a R$ 520, pela Sympla</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/231559_36.jpg",
-  "credito_foto": "Leo Aversa/Divulgação",
-  "fonte": "Itatiaia",
-  "resumos": ""
- },
- {
   "id": "231637_87",
   "data": "2026-11-17T20:19:21-03:00",
   "titulo": "Festival da Jabuticaba de Sabará chega aos 40 anos com casarão do século 18 reaberto ao público",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/192839_33.jpg",
   "credito_foto": "Foto: Getty Images/Goal",
   "fonte": "Goal",
+  "resumos": ""
+ },
+ {
+  "id": "192936_1494",
+  "data": "2026-11-19T16:30:13-03:00",
+  "titulo": "Seis regiões de BH já passaram da média de chuva prevista para todo o mês de novembro",
+  "linha_fina": "Levantamento da Defesa Civil mostra Norte e Venda Nova perto de 100% da média; Hipercentro está em 69%.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Seis das dez regionais de Belo Horizonte já ultrapassaram a média histórica de chuva esperada para todo o mês de novembro, e o mês ainda tem mais de dez dias pela frente. O levantamento da Defesa Civil foi atualizado às 6h desta quinta-feira (19).</p><p>A região Nordeste lidera o acumulado, com 284,4 milímetros, o equivalente a 120,5% da média climatológica do mês, que é de 236 milímetros. Em seguida aparecem as regiões Oeste, com 279,2 mm (118,3%); Pampulha, com 274,2 mm (116,2%); Barreiro, com 271,7 mm (115,1%); Noroeste, com 268,2 mm (113,6%); e Centro-Sul, com 257,4 mm (109,1%).</p><p>Duas regiões estão perto de alcançar a média: Norte, com 235,4 mm (99,7%), e Venda Nova, com 234,2 mm (99,2%). A Leste acumula 220,8 mm (93,6%), e o Hipercentro, 162,8 mm, ou 69% do esperado para novembro.</p><p>As estações hidrometeorológicas da Prefeitura mostram que a chuva continuou entre as 18h de quarta-feira (18) e as 6h desta quinta. Nesse intervalo, a Nordeste registrou o maior volume, 27,6 mm, seguida por Barreiro (27,4 mm), Centro-Sul (23 mm), Norte (17,6 mm) e Leste (17,2 mm).</p><p>Com o solo encharcado, aumenta o risco de deslizamentos, alagamentos e queda de árvores. Em caso de emergência, a orientação é ligar para a Defesa Civil, no 199, ou para o Corpo de Bombeiros, no 193. Problemas com a rede elétrica devem ser informados à Cemig pelo 116.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/192936_1494.jpg",
+  "credito_foto": "Foto: Arquivo/Hoje em Dia",
+  "fonte": "Hoje em Dia / Defesa Civil de BH",
   "resumos": ""
  }
 ]
