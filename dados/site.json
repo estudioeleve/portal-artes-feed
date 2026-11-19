@@ -1,17 +1,5 @@
 [
  {
-  "id": "151625_17",
-  "data": "2026-11-17T12:20:15-03:00",
-  "titulo": "Degustação de queijos e jantar abrem a Semana da Cozinha Italiana no Mundo em BH",
-  "linha_fina": "Evento do Consulado-Geral da Itália e da Câmara de Comércio Italiana chega à 11ª edição com o tema \"Territórios e cadeias produtivas de excelência\".",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Belo Horizonte recebe a 11ª edição da Semana da Cozinha Italiana no Mundo, evento promovido em vários países na segunda quinzena de novembro para celebrar a gastronomia da Itália. Neste ano, o tema é \"Territórios e cadeias produtivas de excelência\".</p>\n<p>A abertura foi na noite de segunda-feira (16), com uma degustação de queijos e um jantar organizados pelo Consulado-Geral da Itália em Belo Horizonte e pela Câmara de Comércio Italiana. O encontro aconteceu em um restaurante da Região Centro-Sul da capital.</p>\n<p>A degustação foi guiada pelo jornalista Eduardo Girão, especialista em queijos, e teve mascarpone, grana padano, parmigiano reggiano, pecorino romano e gorgonzola dolce, acompanhados de vinhos branco e tinto. Durante a apresentação, ele destacou a importância da Itália para a cultura queijeira mundial, inclusive para a produção de Minas Gerais.</p>\n<p>No jantar, os convidados puderam escolher entre três pratos principais: raviole de ricota e espinafre na manteiga com parmigiano, risoto à milanesa, feito com açafrão, e nhoque ao forno com molho pomodoro. A sobremesa foi uma panacota com calda de caramelo salgado.</p>\n<p>O evento contou com a presença da vice-cônsul do Consulado-Geral da Itália em Belo Horizonte, Cecilia Zazzera. A programação da semana reforça a ligação entre a culinária italiana e a mineira, que compartilham a tradição dos queijos e das massas caseiras.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/151625_17.jpg",
-  "credito_foto": "Maria Fernanda Ramos/Itatiaia",
-  "fonte": "Itatiaia",
-  "resumos": ""
- },
- {
   "id": "151546_42",
   "data": "2026-11-17T12:20:15-03:00",
   "titulo": "Esporte adaptado e jiu-jítsu inclusivo atendem crianças com deficiência em Pedro Leopoldo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/085600_israel.jpg",
   "credito_foto": "Divulgação/Escola Municipal Santa Luzia",
   "fonte": "Escola Municipal Santa Luzia",
+  "resumos": ""
+ },
+ {
+  "id": "091000_israel",
+  "data": "2026-11-19T08:54:52-03:00",
+  "titulo": "Chuva derruba parte do muro da Escola Municipal Santa Luzia e atinge duas salas de aula",
+  "linha_fina": "Desabamento foi na madrugada desta quinta (19). Aulas estão suspensas nos dois turnos e a Defesa Civil isolou o local.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Parte do muro lateral da Escola Municipal Santa Luzia desabou com a chuva forte que atingiu Santa Luzia, na Região Metropolitana de Belo Horizonte, na madrugada desta quinta-feira (19). Segundo as informações apuradas até o momento, a estrutura atingiu duas salas de aula da unidade.</p><p>Imagens feitas no local mostram tijolos, pedaços do muro e terra espalhados ao longo da lateral do prédio, junto às janelas das salas. Não há informação de pessoas feridas, já que o desabamento ocorreu durante a madrugada, fora do horário de aula.</p><p>A direção da escola já havia divulgado um comunicado suspendendo as aulas desta quinta-feira nos turnos da manhã e da tarde. De acordo com a direção, a medida foi adotada para garantir a segurança dos alunos, dos profissionais e de toda a comunidade escolar, e vale até que seja confirmado que nenhuma outra parte do muro corre risco de cair.</p><p>A Defesa Civil esteve no local e isolou a área. A escola ainda não informou quando as aulas serão retomadas nem o prazo para a reconstrução do muro.</p><p>A orientação para pais e responsáveis é acompanhar os canais oficiais da escola e da Prefeitura de Santa Luzia. Em dias de chuva forte, a Defesa Civil recomenda evitar muros, encostas e barrancos e, em caso de risco, acionar o órgão pelo 199 ou o Corpo de Bombeiros pelo 193.</p><p>O Portal ONE News segue acompanhando a situação e os efeitos da chuva na cidade.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/091000_israel.jpg",
+  "credito_foto": "Reprodução/Portal ONE News",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
