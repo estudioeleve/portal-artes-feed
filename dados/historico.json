@@ -55186,5 +55186,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-19/111058_27.jpg",
   "media_id": "18641943616003647"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "09:11",
+  "id": "101201_15",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Prefeitos alertam para risco de ônibus pararem e cobram ajuda da União e dos estados",
+  "titulo_orig": "Prefeitos cobram participação federal e estadual para evitar colapso do transporte público",
+  "link": "https://technibus.com.br/2026/11/19/prefeitos-cobram-participacao-federal-e-estadual-para-evitar-colapso-do-transporte-publico",
+  "fonte": "technibus.com.br",
+  "arte": "artes/2026-11-19/101201_15.jpg",
+  "media_id": "17871855696662224"
  }
 ]
