@@ -56152,5 +56152,33 @@
   "fonte": "www.agenciaminas.mg.gov.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "14:29",
+  "id": "172841_54",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "GTA 6 é para maiores de 18 anos: psiquiatras e psicólogos explicam por que os pais devem respeitar a classificação",
+  "titulo_orig": "Por que GTA 6 não é recomendado para menores de 18 anos — e o alerta de psiquiatras e psicólogos | G1",
+  "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/por-que-gta-6-nao-e-recomendado-para-menores-de-18-anos-e-o-alerta-de-psiquiatras-e-psicologos.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "14:29",
+  "id": "172914_46",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF lança campanha \"Andar com Fé\" contra a intolerância religiosa e pelo respeito a todas as crenças",
+  "titulo_orig": "STF lança campanha para combater intolerância religiosa e valorizar diversidade de crenças",
+  "link": "https://noticias.stf.jus.br/postsnoticias/stf-lanca-campanha-para-combater-intolerancia-religiosa-e-valorizar-diversidade-de-crencas/",
+  "fonte": "stf noticias",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
