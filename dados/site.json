@@ -1,17 +1,5 @@
 [
  {
-  "id": "161206_23",
-  "data": "2026-11-17T13:15:36-03:00",
-  "titulo": "Câmara de BH debate uso de inteligência artificial e reconhecimento facial na segurança",
-  "linha_fina": "Audiência pública desta quarta (18), às 13h30, foi pedida pela vereadora Trópia (Novo) e é aberta ao público.",
-  "categoria": "politica",
-  "texto": "<p>A Câmara Municipal de Belo Horizonte promove nesta quarta-feira (18) uma audiência pública para discutir o uso de inteligência artificial na segurança da capital. O encontro vai avaliar como tecnologias como reconhecimento facial, leitura automática de placas e videomonitoramento inteligente poderiam ajudar no combate à criminalidade.</p><p>A reunião será às 13h30, no Plenário Camil Caram, a pedido da vereadora Trópia (Novo). O debate é aberto ao público e deve reunir representantes de órgãos municipais, forças de segurança e empresas de tecnologia.</p><p>Entre os temas estão sistemas que comparam imagens de câmeras com cadastros, leitores de placas para identificar veículos procurados e ferramentas de análise preditiva, que usam bases de dados para apontar padrões e orientar o planejamento do policiamento. Também será discutida a integração de informações entre órgãos para reduzir o tempo de resposta às ocorrências.</p><p>A audiência acontece em meio à preocupação com a violência na Grande BH. Em consulta recente do Tribunal de Contas do Estado (TCE-MG), 66,32% dos participantes da região metropolitana apontaram a criminalidade como problema que merece atenção das autoridades. A consulta teve participação voluntária e não é uma pesquisa representativa.</p><p>A realização do debate não significa aprovação automática de novas tecnologias nem autorização para sua instalação na cidade.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/161206_23.jpg",
-  "credito_foto": "Envato/Moon BH",
-  "fonte": "Moon BH",
-  "resumos": ""
- },
- {
   "id": "161201_113",
   "data": "2026-11-17T13:15:36-03:00",
   "titulo": "Cascavel é encontrada na porta de depósito e capturada pelos bombeiros em Timóteo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/122244_60.jpg",
   "credito_foto": "Domínio público/PxHere",
   "fonte": "Agência iNFRA",
+  "resumos": ""
+ },
+ {
+  "id": "122951_16",
+  "data": "2026-11-19T09:30:05-03:00",
+  "titulo": "Heliópolis, em São Paulo, recebe fórum internacional gratuito sobre moradia digna em dezembro",
+  "linha_fina": "Fórum do Sul Global em ATHIS, de 6 a 8 de dezembro, reúne ONU-Habitat, CAU/SP, governo federal e delegações da América Latina e da África.",
+  "categoria": "brasil",
+  "texto": "<p>A comunidade de Heliópolis, uma das maiores favelas da cidade de São Paulo, vai sediar de 6 a 8 de dezembro um encontro internacional sobre moradia digna. O Fórum do Sul Global em ATHIS será realizado no Instituto Baccarelli e reunirá representantes de governos, organismos internacionais, universidades, movimentos sociais e lideranças comunitárias de países da América Latina e da África.</p>\n<p>O evento é promovido pelo Conselho de Arquitetura e Urbanismo de São Paulo (CAU/SP), pelo Programa das Nações Unidas para os Assentamentos Humanos (ONU-Habitat) e pela Agência Brasileira de Cooperação do Ministério das Relações Exteriores. A proposta é trocar experiências e fortalecer a Assistência Técnica para Habitação de Interesse Social (ATHIS), política que garante apoio gratuito de arquitetos e engenheiros a famílias de baixa renda na construção e reforma de suas casas.</p>\n<p>A programação começa no dia 6, com visitas técnicas a cinco territórios paulistas, e segue nos dias 7 e 8 com 20 mesas de debate. Durante o fórum, serão lançadas a Carta do Sul Global e a Plataforma ATHIS em Rede. A entrada é gratuita, com inscrição pelo site do fórum.</p>\n<p>Segundo a chefe do ONU-Habitat no Brasil, Rayne Ferretti Moraes, enfrentar a crise habitacional exige mais do que ampliar a oferta de moradias: são necessárias soluções integradas, políticas públicas consistentes e cooperação entre países, sempre levando em conta a realidade de cada território.</p>\n<p>A abertura terá representantes da Casa Civil, dos ministérios das Cidades, das Relações Exteriores e do Meio Ambiente, entre outros, além da Caixa, do governo paulista e da Prefeitura de São Paulo. Também são esperadas delegações de Cabo Verde, Moçambique, África do Sul, México, Uruguai, Cuba, Equador, Peru e Colômbia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/122951_16.jpg",
+  "credito_foto": "Reprodução/Diplomacia Business",
+  "fonte": "Diplomacia Business",
   "resumos": ""
  }
 ]
