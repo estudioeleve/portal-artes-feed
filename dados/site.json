@@ -1,17 +1,5 @@
 [
  {
-  "id": "102000_israel",
-  "data": "2026-11-17T10:19:27-03:00",
-  "titulo": "Vereadores denunciam perda de insulinas em Santa Luzia e prefeito responde",
-  "linha_fina": "Fernando de Ariston aponta armazenamento incorreto no almoxarifado central; Paulo Bigodinho fala em pico de energia e garante que a distribuição segue normal.",
-  "categoria": "santa-luzia",
-  "texto": "<p>O vereador Fernando de Ariston, acompanhado de outros vereadores de Santa Luzia, denunciou um suposto problema no almoxarifado central do município que teria levado à perda de insulinas. Segundo o parlamentar, o local não estava fazendo o armazenamento correto dos medicamentos, e as insulinas não estariam sendo mantidas na temperatura adequada.</p>\n<p>A insulina é um medicamento que precisa ser conservado em refrigeração, dentro de uma faixa de temperatura controlada, para manter a eficácia. Por isso, a denúncia dos vereadores gerou preocupação entre pacientes com diabetes que dependem da distribuição feita pela rede municipal.</p>\n<p>Depois da repercussão, o prefeito Paulo Bigodinho foi às redes sociais para explicar a situação. Em vídeo gravado no próprio almoxarifado, ele afirmou que houve um pico de energia que desregulou os freezers onde os medicamentos ficam guardados. O prefeito também disse que todos os equipamentos de refrigeração do local são novos.</p>\n<p>Segundo Paulo Bigodinho, a quantidade de insulina que ainda está em condições de uso no município é suficiente e não vai comprometer a distribuição aos pacientes. Mesmo assim, ele afirmou que vai procurar o Governo de Minas para pedir a reposição das unidades perdidas.</p>\n<p>O prefeito garantiu que a entrega de insulina em Santa Luzia seguirá normalmente e assumiu o compromisso com a população de que os pacientes não ficarão sem o medicamento.</p>\n<p>O Portal ONE News segue acompanhando o caso e o espaço está aberto para novas manifestações dos vereadores e da Prefeitura de Santa Luzia.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/102000_israel.jpg",
-  "credito_foto": "Reprodução/Redes sociais",
-  "fonte": "Portal ONE News",
-  "resumos": ""
- },
- {
   "id": "104500_israel",
   "data": "2026-11-17T10:41:53-03:00",
   "titulo": "Enxurrada toma ruas de Ipatinga e funcionárias seguram porta de pet shop contra a água",
@@ -4798,6 +4786,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/091146_72.jpg",
   "credito_foto": "Pexels (via Itatiaia)",
   "fonte": "Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "091850_10",
+  "data": "2026-11-19T06:19:03-03:00",
+  "titulo": "Governo Lula avalia levar Direitos Humanos para o Ministério da Justiça no novo desenho da Esplanada",
+  "linha_fina": "Ideia é compensar a perda de atribuições da Justiça com a criação do Ministério da Segurança Pública; fusão de Transportes e Portos enfrenta resistência.",
+  "categoria": "politica",
+  "texto": "<p>Auxiliares do presidente Luiz Inácio Lula da Silva avaliam incorporar a área de Direitos Humanos ao Ministério da Justiça no desenho da Esplanada dos Ministérios para o novo mandato. A ideia é evitar o esvaziamento da Justiça, que vai perder atribuições com a criação do Ministério da Segurança Pública, uma das promessas de campanha do presidente.</p>\n<p>As conversas também incluem outras mudanças, como a fusão dos ministérios dos Transportes e de Portos e Aeroportos em uma única pasta. Esse cenário, no entanto, enfrenta resistência de partidos do Centrão.</p>\n<p>O Ministério dos Direitos Humanos e da Cidadania foi criado por Lula na transição do fim de 2022. A pasta já teve três titulares e hoje é comandada por Janine Mello. Se a mudança for confirmada, o governo voltaria ao modelo adotado antes de 2003, quando a área funcionava dentro da Justiça.</p>\n<p>Na nova configuração, o Ministério da Justiça deve ter a estrutura reduzida, mas preservar pelo menos três das atuais oito áreas: a Secretaria Nacional de Justiça, a Secretaria Nacional de Acesso à Justiça e a Secretaria de Assuntos Legislativos. Mesmo menor, a pasta deve manter peso político, já que participa das indicações para tribunais e cortes superiores.</p>\n<p>O ministério também deve conduzir as discussões sobre a reforma do Judiciário, outra promessa de campanha de Lula. Diante da crise no Supremo Tribunal Federal, o presidente pretende colocar a Justiça à frente das propostas de mudança no funcionamento do sistema e na composição das instituições. Nenhuma das alterações foi oficializada até agora.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/091850_10.jpg",
+  "credito_foto": "Cristiano Mariz/Agência O Globo",
+  "fonte": "O Globo",
   "resumos": ""
  }
 ]
