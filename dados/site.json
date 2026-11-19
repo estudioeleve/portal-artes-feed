@@ -1,17 +1,5 @@
 [
  {
-  "id": "021424_42",
-  "data": "2026-11-17T23:19:11-03:00",
-  "titulo": "Mega-Sena 3087: veja os números sorteados nesta terça; prêmio acumulado vai a R$ 34 milhões",
-  "linha_fina": "Dezenas sorteadas foram 06, 10, 23, 25, 48 e 50. Próximo sorteio é na quinta-feira (19).",
-  "categoria": "brasil",
-  "texto": "<p>A Caixa Econômica Federal sorteou na noite desta terça-feira (17), no Espaço da Sorte, em São Paulo, as seis dezenas do concurso 3087 da Mega-Sena. Os números sorteados foram: 06 – 10 – 23 – 25 – 48 – 50.</p><p>O prêmio principal está acumulado em R$ 34 milhões para o próximo sorteio, marcado para quinta-feira (19). As apostas podem ser feitas até uma hora antes do sorteio, nas casas lotéricas credenciadas, no site e no aplicativo Loterias Caixa.</p><p>Na aposta simples, o jogador escolhe 6 números entre 60, o que dá 50.063.860 combinações possíveis. Ou seja, quem faz um jogo simples, que custa R$ 6, tem uma chance em pouco mais de 50 milhões de levar o prêmio principal.</p><p>Marcar mais números aumenta a chance, mas o preço sobe na mesma proporção. Um jogo com 7 números equivale a sete apostas simples e custa R$ 42. Com 20 números, o máximo permitido no volante, o jogo vale por 38.760 apostas simples e custa R$ 232.560.</p><p>Quem acertar quatro ou cinco números também recebe prêmio. Os valores de cada faixa e o número de ganhadores são divulgados pela Caixa após a apuração. Prêmios podem ser resgatados em até 90 dias após o sorteio.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-17/021424_42.jpg",
-  "credito_foto": "Leonardo Fonseca/BHAZ",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "021530_330",
   "data": "2026-11-17T23:19:11-03:00",
   "titulo": "Minas forma 55 novos delegados da Polícia Civil, que começam a ser designados para as cidades nesta quarta",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/221210_115.jpg",
   "credito_foto": "Divulgação/CBMMG",
   "fonte": "O Globo",
+  "resumos": ""
+ },
+ {
+  "id": "195500_israel",
+  "data": "2026-11-19T20:05:44-03:00",
+  "titulo": "Suspeito de matar Girley e Juan em barbearia de Santa Luzia morre em confronto com o GER",
+  "linha_fina": "Gabriel Graciano de Assis, de 27 anos, estava com uma pistola 9 mm, mesmo calibre usado no crime; suposto mandante ainda não foi preso.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Morreu em confronto com o Grupo Especializado de Recobrimento (GER) da Polícia Militar, no bairro Jardim dos Comerciários, na região de Venda Nova, em Belo Horizonte, Gabriel Graciano de Assis, de 27 anos. Ele era apontado como o atirador do duplo homicídio que matou Girley e Juan dentro de uma barbearia na região do São Benedito, em Santa Luzia, no último sábado (14).</p><p>De acordo com as informações, a Polícia Militar investigou o caso e descobriu que o suspeito estava em uma casa no Jardim dos Comerciários. Equipes do GER foram até o imóvel. Segundo a PM, Gabriel estava armado com uma pistola calibre 9 milímetros e fez menção de atirar contra os militares, que reagiram. Ele foi baleado e morreu.</p><p>O calibre 9 mm é o mesmo usado no crime da barbearia. A pistola foi apreendida e deve passar por exames de balística, que vão apontar se é a arma usada para matar Girley e Juan. No imóvel, os policiais também apreenderam porções de drogas, dinheiro, um celular e uma balança de precisão.</p><p>A ação foi resultado do trabalho de investigação e de inteligência da Polícia Militar desde o duplo homicídio, que chocou moradores de Santa Luzia. Girley e Juan foram mortos a tiros dentro da barbearia no sábado, e o caso mobilizou as forças de segurança da região.</p><p>Segundo informações apuradas pelo Portal ONE News, o suposto mandante do crime ainda não foi preso. A polícia já trabalha para identificá-lo e localizá-lo.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/195500_israel.jpg",
+  "credito_foto": "Divulgação/PMMG",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
