@@ -55564,5 +55564,19 @@
   "fonte": "Faça sua denúncia",
   "link": "denuncia:7946",
   "arte": "dados/reels/den-7946.mp4"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "11:01",
+  "id": "110500_israel",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "RETIFICAÇÃO",
+  "titulo": "Retificação: novas imagens mostram que o carro descia, e não subia, a Rua João de Barro quando tombou no Duquesa",
+  "titulo_orig": "",
+  "link": "pedido-israel-110500-retificacao-duquesa",
+  "fonte": "Portal ONE News",
+  "arte": "videos/2026-11-19/1100_retificacao_duquesa.mp4",
+  "media_id": "18079922546734568"
  }
 ]
