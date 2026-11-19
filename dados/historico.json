@@ -56306,5 +56306,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "15:35",
+  "id": "183500_israel",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Prefeito de Santa Luzia diz que há dinheiro para pagar médicos dos postos e que UBSs seguem abertas",
+  "titulo_orig": "",
+  "link": "",
+  "fonte": "Instagram Paulo Bigodinho",
+  "arte": "artes/2026-11-19/183500_israel.jpg",
+  "media_id": "18073339661794340"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "15:36",
+  "id": "183600_israel",
+  "bloco": "rmbh",
+  "portal": "luziense",
+  "ed": "SANTA LUZIA",
+  "titulo": "Moradores da Vila Íris se reúnem com o prefeito para discutir REURB e melhorias no bairro",
+  "titulo_orig": "",
+  "link": "",
+  "fonte": "Instagram Paulo Bigodinho",
+  "arte": "artes/2026-11-19/183600_israel.jpg",
+  "media_id": "18120671117079562"
  }
 ]
