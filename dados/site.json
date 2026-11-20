@@ -1,17 +1,5 @@
 [
  {
-  "id": "191500_dolar",
-  "data": "2026-11-18T19:15:00-03:00",
-  "titulo": "Dólar dispara 1,54% e fecha a R$ 5,87 nesta quarta-feira",
-  "linha_fina": "Moeda americana acumula alta de quase 8% em novembro, com o mercado atento às contas públicas; Bolsa de São Paulo fechou em queda.",
-  "categoria": "economia",
-  "texto": "<p>O dólar comercial fechou em forte alta nesta quarta-feira (18), cotado a R$ 5,87, avanço de 1,54% em relação ao fechamento anterior, de R$ 5,78. Durante o dia, a moeda americana oscilou entre R$ 5,79 e R$ 5,88, segundo o portal TMC.</p><p>Na semana, a alta já é de 3,85%: na sexta-feira (13), o dólar havia fechado a R$ 5,66. Em novembro, o avanço acumulado chega a 7,84%, a partir dos R$ 5,45 do fim de outubro.</p><p>A cotação oficial do Banco Central, a Ptax, fechou o dia a R$ 5,8102 na venda, alta de 0,43%. A Ptax é calculada ao longo do dia e serve de referência para contratos e para o câmbio de cartões no exterior.</p><p>O movimento acontece com o mercado atento às contas públicas: o Senado votou nesta quarta trechos do projeto de ajuste fiscal. A Bolsa de São Paulo, a B3, também fechou em queda.</p><p>Na prática, o dólar mais caro pesa no bolso de quem vai viajar para fora, compra produtos importados ou paga serviços cobrados na moeda americana, e pode pressionar os preços de itens como combustíveis, eletrônicos e alimentos que dependem de insumos importados.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/191500_dolar.jpg",
-  "credito_foto": "Arte: Portal ONE News",
-  "fonte": "TMC / Banco Central",
-  "resumos": ""
- },
- {
   "id": "221921_497",
   "data": "2026-11-18T19:20:00-03:00",
   "titulo": "Paralisação de médicos esvazia UBSs de Santa Luzia e pacientes voltam para casa sem consulta",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/153052_302.jpg",
   "credito_foto": "Divulgação/ALRN",
   "fonte": "Blog de Assis / ALRN",
+  "resumos": ""
+ },
+ {
+  "id": "161900_gf",
+  "data": "2026-11-20T16:15:12-03:00",
+  "titulo": "Influenciador Gabriel Félix morre aos 29 anos; noiva pede orações e privacidade à família",
+  "linha_fina": "Noiva, Isabelle Abreu, confirmou a morte nas redes; causa não foi divulgada. Ele deixa a filha Amelie, de 3 anos.",
+  "categoria": "entretenimento",
+  "texto": "<p>O influenciador digital e modelo Gabriel Félix morreu na noite desta quinta-feira (19), aos 29 anos. A notícia foi confirmada pela noiva dele, Isabelle Abreu, nas redes sociais. A causa da morte não foi divulgada.</p>\n<p>Gabriel tinha cerca de 1,5 milhão de seguidores no Instagram, onde compartilhava a rotina ao lado da noiva e da filha do casal, Amelie, de 3 anos. Os dois se conheceram durante a pandemia, quando viviam em estados diferentes, e passaram a morar juntos em São Paulo em 2021. O pedido de casamento foi feito em julho de 2025, na Itália.</p>\n<p>Em uma homenagem publicada no perfil, Isabelle chamou Gabriel de \"o amor da minha vida, minha alma gêmea\" e disse que o amor e o legado dele vão permanecer na família. Nos stories, ela afirmou que a família ainda não sabe o que aconteceu e pediu orações.</p>\n<p>A influenciadora também agradeceu o carinho recebido e pediu respeito neste momento de luto. \"Peço, por favor, que respeitem este momento tão delicado. Ainda estamos tentando compreender tudo o que aconteceu e precisamos de tempo e privacidade para viver essa dor\", declarou.</p>\n<p>A última publicação de Gabriel no Instagram foi dedicada à filha. Na mensagem, ele falou sobre a experiência de ser pai: \"Às vezes paro e penso: 'Caraca, eu sou pai desse serzinho maravilhoso'. Que doideira a vida\".</p>\n<p>A morte precoce do influenciador provocou uma onda de mensagens de pesar entre seguidores e pessoas que acompanhavam o conteúdo do casal nas redes sociais. Até o momento, não foram divulgadas informações sobre o velório.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/161900_gf.jpg",
+  "credito_foto": "Reprodução/Instagram",
+  "fonte": "Itatiaia",
   "resumos": ""
  }
 ]
