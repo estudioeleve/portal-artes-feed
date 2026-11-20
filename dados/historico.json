@@ -60254,5 +60254,19 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-20/201706_58.jpg",
   "media_id": "17993930757110145"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "20:46",
+  "id": "201427_28",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Áustria confirma ataque hacker a site do Ministério das Relações Exteriores e acesso a dados",
+  "titulo_orig": "Áustria diz que site de ministério foi hackeado | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/20/austria-site-de-ministerio-ataque-hacker.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-20/201427_28.jpg",
+  "media_id": "18081863309726854"
  }
 ]
