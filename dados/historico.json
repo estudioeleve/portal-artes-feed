@@ -58392,5 +58392,33 @@
   "fonte": "www.itatiaia.com.br",
   "arte": "artes/2026-11-20/092510_mas.jpg",
   "media_id": "18142401601626655"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "09:33",
+  "id": "093331_-sul",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Temporal com granizo e vendaval destrói Tupanciretã (RS) de madrugada; prefeito fala em feridos e possível morte",
+  "titulo_orig": "Granizo e ventos fortes provocam destruição em cidade do Rio Grande do Sul\n",
+  "link": "https://www.otempo.com.br/brasil/2026/11/20/granizo-e-ventos-fortes-provocam-destruicao-em-cidade-do-rio-grande-do-sul",
+  "fonte": "www.otempo.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "09:33",
+  "id": "093317_ado",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Etiópia recebe primeira carga de carne bovina do Brasil e abre mercado para 17 produtos do agro",
+  "titulo_orig": "Etiópia recebe primeira remessa de carne bovina brasileira após abertura de mercado | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/agro/etiopia-recebe-primeira-remessa-de-carne-bovina-brasileira-apos-abertura-de-mercado/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
