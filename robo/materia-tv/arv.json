@@ -1,0 +1,90 @@
+{
+ "video": "arv_base.mp4",
+ "base": 101.62,
+ "abre": {
+  "dur": 4.8,
+  "tit": "ÁRVORE GIGANTE AMEAÇA CAIR PERTO DO HOSPITAL MADALENA",
+  "local": "Av. Raul Teixeira da Costa Sobrinho · Santa Luzia",
+  "rep": "REPORTAGEM: FABRÍCIO BOM PASTOR"
+ },
+ "tarjas": [
+  {
+   "a": 4.8,
+   "chip": "DENÚNCIA",
+   "tit": "ÁRVORE AMEAÇA CAIR NA AV. RAUL TEIXEIRA DA COSTA SOBRINHO"
+  },
+  {
+   "a": 19.83,
+   "chip": "DENÚNCIA",
+   "tit": "ÁRVORE FICA AO LADO DE PONTO DE ÔNIBUS"
+  },
+  {
+   "a": 36.95,
+   "chip": "DENÚNCIA",
+   "tit": "TRONCO E RAÍZES EXPOSTAS PREOCUPAM QUEM PASSA"
+  },
+  {
+   "a": 44.53,
+   "chip": "PARTE ALTA",
+   "tit": "ÁRVORE FICA EM FRENTE AO Nº 418, PERTO DO HOSPITAL MADALENA"
+  },
+  {
+   "a": 57.75,
+   "chip": "MORADORES",
+   "tit": "MORADORES PEDEM QUE A PREFEITURA CORTE AS ÁRVORES"
+  },
+  {
+   "a": 68.67,
+   "chip": "MORADORES",
+   "tit": "OUTRA ÁRVORE JÁ CAIU NO LOCAL, SEGUNDO MORADORA"
+  },
+  {
+   "a": 92.14,
+   "chip": "DENÚNCIA",
+   "tit": "FISCAL DO POVO COBRA MEIO AMBIENTE E DEFESA CIVIL"
+  }
+ ],
+ "nomes": [
+  {
+   "a": 5.3999999999999995,
+   "b": 11.3,
+   "nome": "FABRÍCIO BOM PASTOR",
+   "cargo": "Fiscal do Povo · Repórter colaborador"
+  },
+  {
+   "a": 59.11,
+   "b": 65.11,
+   "nome": "MORADORA",
+   "cargo": "Av. Raul Teixeira da Costa Sobrinho"
+  },
+  {
+   "a": 82.5,
+   "b": 87.7,
+   "nome": "MORADORA",
+   "cargo": "Av. Raul Teixeira da Costa Sobrinho"
+  },
+  {
+   "a": 94.13,
+   "b": 100.93,
+   "nome": "FABRÍCIO BOM PASTOR",
+   "cargo": "Fiscal do Povo · Repórter colaborador"
+  }
+ ],
+ "rotulos": [
+  {
+   "a": 35.07,
+   "b": 36.87,
+   "txt": "TRONCO PODRE"
+  },
+  {
+   "a": 52.29,
+   "b": 55.89,
+   "txt": "PONTO DE ÔNIBUS"
+  },
+  {
+   "a": 72.38,
+   "b": 75.68,
+   "txt": "ÁRVORE QUE JÁ CAIU"
+  }
+ ]
+}

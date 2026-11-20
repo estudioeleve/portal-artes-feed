@@ -1,0 +1,77 @@
+{
+ "video": "cra_base.mp4",
+ "base": 71.11,
+ "abre": {
+  "dur": 4.8,
+  "tit": "CRATERA SE ABRE NO MEIO DA RUA NO SÃO BENEDITO",
+  "local": "Rua Onofre Teixeira com Rua Estados Unidos",
+  "rep": "REPORTAGEM: FABRÍCIO BOM PASTOR"
+ },
+ "tarjas": [
+  {
+   "a": 4.8,
+   "chip": "DENÚNCIA",
+   "tit": "CRATERA SE ABRE NA RUA ONOFRE TEIXEIRA, NO SÃO BENEDITO"
+  },
+  {
+   "a": 15.85,
+   "chip": "SÃO BENEDITO",
+   "tit": "MORADOR DIZ QUE O BURACO ESTÁ ABERTO HÁ MAIS DE 4 MESES"
+  },
+  {
+   "a": 22.85,
+   "chip": "SÃO BENEDITO",
+   "tit": "ÔNIBUS JÁ CAIU NO BURACO, SEGUNDO MORADOR"
+  },
+  {
+   "a": 38.47,
+   "chip": "SÃO BENEDITO",
+   "tit": "MORADOR COLOCOU MADEIRA PARA CARRO NÃO CAIR"
+  },
+  {
+   "a": 44.81,
+   "chip": "DENÚNCIA",
+   "tit": "TAMPA DE CONCRETO DA CAIXA PLUVIAL NÃO AGUENTOU"
+  },
+  {
+   "a": 61.11,
+   "chip": "DENÚNCIA",
+   "tit": "FISCAL DO POVO COBRA A SECRETARIA DE OBRAS"
+  }
+ ],
+ "nomes": [
+  {
+   "a": 5.2,
+   "b": 10.0,
+   "nome": "FABRÍCIO BOM PASTOR",
+   "cargo": "Fiscal do Povo · Repórter colaborador"
+  },
+  {
+   "a": 12.55,
+   "b": 18.05,
+   "nome": "ANTÔNIO",
+   "cargo": "Morador do São Benedito"
+  },
+  {
+   "a": 61.35,
+   "b": 67.05,
+   "nome": "FABRÍCIO BOM PASTOR",
+   "cargo": "Fiscal do Povo · Repórter colaborador"
+  }
+ ],
+ "dados": [
+  {
+   "a": 18.85,
+   "b": 22.75,
+   "big": "4 A 5 MESES",
+   "txt": "com o buraco aberto, segundo morador"
+  }
+ ],
+ "rotulos": [
+  {
+   "a": 39.48,
+   "b": 43.08,
+   "txt": "MADEIRA COLOCADA PELO MORADOR"
+  }
+ ]
+}
