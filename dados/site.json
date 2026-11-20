@@ -1,17 +1,5 @@
 [
  {
-  "id": "001514_4",
-  "data": "2026-11-18T21:27:54-03:00",
-  "titulo": "Do rap ao grafite: projeto leva formação em hip-hop a educadores das nove regionais de BH",
-  "linha_fina": "\"Vozes da Quebrada\" será lançado nesta quinta (19), às 14h, no Órbi ICT, na Lagoinha, e termina no 4º Encontro Municipal do Hip-Hop.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O projeto \"Vozes da Quebrada, Potências das Culturas Periféricas\" será lançado nesta quinta-feira (19), às 14h, no Órbi ICT, na Avenida Antônio Carlos, bairro Lagoinha, em Belo Horizonte. A iniciativa vai levar formação em cultura hip-hop a profissionais da Rede Municipal de Educação e a artistas e educadores da cidade.</p><p>Podem participar monitores, agentes de escola, professores, coordenadores pedagógicos, profissionais da EJA e demais trabalhadores das escolas municipais, além de jovens artistas, educadores populares, agentes culturais e lideranças comunitárias. A proposta é aproximar os saberes das periferias das práticas das escolas, com foco em protagonismo juvenil e educação antirracista.</p><p>As atividades serão divididas em três grupos que cobrem as nove regionais: Norte, Venda Nova e Pampulha; Barreiro, Oeste e Noroeste; e Leste, Centro-Sul e Nordeste. Haverá rodas de conversa, oficinas, vivências artísticas e elaboração de propostas pedagógicas guiadas pelos cinco elementos do hip-hop: MC/rap, DJ, breaking, grafite e conhecimento.</p><p>\"O Hip-Hop produz conhecimento a partir das experiências e das histórias dos territórios\", afirma Fred Maciel, o Negro F., artista urbano e integrante da coordenação.</p><p>O projeto reúne o Instituto Vamos Juntos Periferia, a Nação Hip-Hop Brasil e o Instituto Macunaíma, e terá como encerramento o 4º Encontro Municipal do Hip-Hop.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/001514_4.jpg",
-  "credito_foto": "Divulgação/BH Eventos",
-  "fonte": "BH Eventos",
-  "resumos": ""
- },
- {
   "id": "001657_423",
   "data": "2026-11-18T21:27:54-03:00",
   "titulo": "Rede Mário Penna inaugura nesta quinta o Hospital Raja, com 200 leitos e cirurgia robótica, em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182806_o-21.jpg",
   "credito_foto": "Divulgação/Defesa Civil de BH",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "182854_rica",
+  "data": "2026-11-20T18:29:18-03:00",
+  "titulo": "Disque 100 bate recorde de denúncias de racismo em 2026, com 3.270 registros até agora",
+  "linha_fina": "Número já supera todo o ano passado e é o maior desde 2015; outubro teve 667 denúncias, o mês com mais registros do ano.",
+  "categoria": "brasil",
+  "texto": "<p>O Disque 100, canal de denúncias do Ministério dos Direitos Humanos e da Cidadania, já recebeu 3.270 denúncias de racismo contra pessoas pretas ou pardas em 2026. O número supera o total de todo o ano passado, quando foram 2.879 casos, e é o maior da série histórica, iniciada em 2015, ano em que houve 638 registros.</p>\n<p>Outubro foi o mês com mais denúncias até agora: 667. Os dados foram divulgados nesta sexta-feira (20), Dia da Consciência Negra.</p>\n<p>Segundo o ministério, os números não refletem necessariamente a quantidade de crimes, mas os casos levados ao serviço. O governo avalia que o crescimento tem relação com a maior confiança da população no canal e com a maior conscientização sobre o racismo.</p>\n<p>Outros levantamentos divulgados nesta semana mostram as desigualdades raciais no país. De acordo com o IBGE, 19% das pessoas brancas com 25 anos ou mais tinham ensino superior completo em 2025; entre pretos e pardos, a proporção era de 9,2%. Pesquisa do DataSenado aponta que 34% das mulheres negras sofreram alguma situação de violência doméstica ou familiar nos 12 meses anteriores ao levantamento.</p>\n<p>Um estudo do Instituto Cidades Sustentáveis e do Ipsos-Ipec indica ainda que 79% dos brasileiros consideram o racismo um problema central das cidades e que 66% afirmam que negros e brancos não têm as mesmas oportunidades de emprego e renda.</p>\n<p>O Disque 100 funciona 24 horas por dia, inclusive sábados, domingos e feriados. Qualquer pessoa pode fazer denúncia pelo telefone 100, de forma gratuita.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182854_rica.jpg",
+  "credito_foto": "Foto: Marcello Casal Jr./Agência Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
