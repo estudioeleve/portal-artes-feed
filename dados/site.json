@@ -1,17 +1,5 @@
 [
  {
-  "id": "001456_53",
-  "data": "2026-11-18T21:27:53-03:00",
-  "titulo": "Senado aprova mais dois anos para estados usarem R$ 1,8 bilhão de verba de internet nas escolas públicas",
-  "linha_fina": "Prazo passa de dezembro de 2026 para dezembro de 2028; sem a mudança, o dinheiro voltaria ao Tesouro. Texto ainda precisa passar pela Câmara.",
-  "categoria": "educacao",
-  "texto": "<p>O Senado aprovou nesta quarta-feira (18) uma nova ampliação do prazo para que os estados e o Distrito Federal usem recursos da União na melhoria da conectividade das escolas públicas, incluindo a compra de equipamentos para estudantes e professores. A medida está no Projeto de Lei 5.756/2026, que ainda precisa ser aprovado pela Câmara dos Deputados.</p><p>O prazo para aplicação do dinheiro terminaria em dezembro deste ano. Com a prorrogação, passa para dezembro de 2028, e o prazo para devolver valores não aplicados muda de março de 2027 para março de 2029. Sem a mudança, estados e DF teriam de devolver cerca de R$ 1,8 bilhão ao Tesouro Nacional.</p><p>A autora do projeto, senadora Professora Dorinha Seabra (União-TO), defendeu a aprovação ainda neste ano para não perder os recursos. Segundo ela, levantamento feito em agosto mostrou que 51,6% do valor original repassado, de R$ 3,5 bilhões, ainda estava parado em conta. Entre os motivos do atraso está a crise global de componentes de memória, que elevou preços e reduziu a oferta de aparelhos.</p><p>O relator, senador Flávio Arns (PSB-PR), destacou que a proposta não cria despesa nova para a União, porque o dinheiro já está guardado em contas específicas e rende até ser aplicado.</p><p>A verba foi criada em 2020, durante a pandemia, para garantir internet a alunos e professores. A lei chegou a ser vetada, o veto foi derrubado pelo Congresso e o Supremo Tribunal Federal manteve a norma. Desde então, o prazo de uso já foi prorrogado outras vezes. Agora, a decisão fica com os deputados.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/001456_53.jpg",
-  "credito_foto": "Reprodução/Agência Senado",
-  "fonte": "Agência Senado",
-  "resumos": ""
- },
- {
   "id": "001509_6",
   "data": "2026-11-18T21:27:54-03:00",
   "titulo": "\"O Quebra-Nozes\" com capoeira e dança urbana chega ao Palácio das Artes, em BH, de 26 a 29 de novembro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182241_33.jpg",
   "credito_foto": "Foto: Fernando Frazão/Agência Brasil",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "182717_tado",
+  "data": "2026-11-20T18:27:44-03:00",
+  "titulo": "Viveiros do IEF produzem mais de 2 milhões de mudas para recuperar nascentes e áreas degradadas em Minas",
+  "linha_fina": "Entre 2023 e 2026, cerca de 1,72 milhão de mudas de espécies nativas foram distribuídas para restauração ambiental, arborização e educação.",
+  "categoria": "minas-gerais",
+  "texto": "<p>Os viveiros florestais do Instituto Estadual de Florestas (IEF) produziram mais de 2 milhões de mudas entre 2023 e 2026, segundo balanço divulgado pelo Governo de Minas. Desse total, cerca de 1,72 milhão já foram distribuídas para projetos de restauração ambiental em diferentes regiões do estado.</p>\n<p>As mudas atendem à recuperação de Áreas de Preservação Permanente (APPs), à proteção de nascentes, à arborização urbana e a iniciativas de educação ambiental feitas por escolas e prefeituras. O IEF atua em todas as etapas, da coleta de sementes e escolha das espécies ao plantio e à manutenção.</p>\n<p>A escolha das plantas leva em conta a função de cada uma na recuperação. Espécies de crescimento rápido, como o açoita-cavalo e o mutambo, ajudam a cobrir o solo. O jequitibá-rosa, de crescimento mais lento, diversifica a floresta. Os viveiros também fornecem frutíferas, como pitanga e goiaba, que atraem a fauna.</p>\n<p>\"Nosso carro-chefe é a restauração de Áreas de Preservação Permanente, reservas legais e áreas próximas a nascentes\", explicou o analista ambiental Patrick Timochenco, do viveiro de Divinópolis, no Centro-Oeste mineiro.</p>\n<p>Parcerias com empresas ampliam o alcance do trabalho. No Centro-Oeste, uma mineradora usa mudas do IEF, por meio de termos de cooperação, para recuperar áreas degradadas; cerca de 20 hectares de APPs foram recuperados em uma microbacia desde 2017. O trabalho inclui cercamento, preparo do terreno, plantio, manutenção e replantio das mudas que não sobrevivem.</p>\n<p>Prefeituras, escolas, produtores rurais e entidades interessadas em receber mudas podem procurar o escritório regional do IEF mais próximo para conhecer as regras de doação.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182717_tado.jpg",
+  "credito_foto": "Foto: Robson Santos/Semad-MG",
+  "fonte": "Agência Minas",
   "resumos": ""
  }
 ]
