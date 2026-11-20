@@ -1,17 +1,5 @@
 [
  {
-  "id": "002627_264",
-  "data": "2026-11-18T21:27:53-03:00",
-  "titulo": "Lagoa Santa define em leilão empresa que vai trocar 19 mil lâmpadas por LED e instalar Wi-Fi público",
-  "linha_fina": "Consórcio Lagoa Santa IP venceu a PPP de iluminação e soluções digitais na B3; contrato de 22 anos prevê videomonitoramento, radares e estacionamento rotativo.",
-  "categoria": "lagoa-santa",
-  "texto": "<p>O projeto de Parceria Público-Privada (PPP) de iluminação pública e soluções digitais de Lagoa Santa, na Grande BH, avançou mais uma etapa nesta terça-feira (17), com a realização do leilão na B3, em São Paulo. Batizado pela Prefeitura de Lagoa Santa 360, o projeto teve como vencedor o Consórcio Lagoa Santa IP, formado pelas empresas BMPI Infra S.A. e Construtora Remo Ltda.</p><p>O consórcio apresentou proposta de R$ 867 mil para a contraprestação mensal máxima, com deságio de 2,01% em relação ao valor de referência do edital, ou seja, 2,01% abaixo do valor máximo previsto para o pagamento mensal à concessionária. O contrato terá vigência de 22 anos.</p><p>A PPP prevê a modernização de mais de 19 mil pontos de iluminação pública, com a troca das luminárias convencionais por tecnologia LED e a implantação de telegestão, sistema que permite monitorar os equipamentos a distância. Também estão previstas dez soluções tecnológicas para a gestão urbana, entre elas videomonitoramento, Wi-Fi público, gestão semafórica, monitoramento ambiental, radares de fiscalização de velocidade, estacionamento rotativo, sistema de alarme e cercamento perimetral.</p><p>O Lagoa Santa 360 integra o SMART-RMBH, iniciativa coordenada pela Agência de Desenvolvimento da Região Metropolitana de Belo Horizonte (Agência RMBH) para modernizar a infraestrutura e os serviços públicos municipais. O programa estrutura PPPs com metas de qualidade, fiscalização e pagamento vinculado ao desempenho, mantendo o patrimônio público. Lagoa Santa e Matozinhos são os primeiros municípios-piloto.</p><p>A Agência RMBH participou da estruturação do projeto em parceria com a Prefeitura e o Grupo Houer, com estudos técnicos e análises de viabilidade, além de consulta e audiência públicas. As próximas etapas incluem a homologação do resultado e a assinatura do contrato com a concessionária.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/002627_264.jpg",
-  "credito_foto": "Cauê Diniz/B3",
-  "fonte": "Agência RMBH",
-  "resumos": ""
- },
- {
   "id": "001151_40",
   "data": "2026-11-18T21:27:53-03:00",
   "titulo": "Galo estreia no Mineiro 2027 contra o Itabirito em 6 de janeiro, na Arena MRV; veja a tabela",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/181843_47.jpg",
   "credito_foto": "Foto: Gustavo Aleixo/Cruzeiro",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "182045_das",
+  "data": "2026-11-20T18:21:46-03:00",
+  "titulo": "Outlets de BH e Contagem esperam vender 15% mais em novembro com a Black Friday e o 13º salário",
+  "linha_fina": "Só Marcas Outlet e BH Outlet apostam em anúncios por bairro e ofertas-relâmpago; novembro e dezembro superam em 60% os outros meses.",
+  "categoria": "comercio",
+  "texto": "<p>Dois dos outlets mais conhecidos de Minas Gerais esperam um fim de ano de vendas em alta. O Só Marcas Outlet, em Contagem, e o BH Outlet, no bairro Belvedere, na região Centro-Sul de Belo Horizonte, projetam crescimento de cerca de 15% nas vendas de novembro de 2026, em comparação com o mesmo mês do ano passado. Os dois pertencem ao Grupo Mário Valadares (GMV).</p>\n<p>Segundo o grupo, novembro e dezembro têm peso expressivo no faturamento: as vendas desses dois meses chegam a superar em mais de 60% as dos demais meses do ano. Em dezembro de 2025, o Só Marcas Outlet movimentou R$ 50 milhões, 8% a mais que em novembro.</p>\n<p>Na Black Friday, os outlets prometem descontos adicionais de até 50% sobre preços que já são, em média, 30% menores que os das lojas tradicionais. O empresário Mário Valadares, fundador dos dois centros de compras, dá o exemplo de um tênis de R$ 200, vendido a R$ 140 no outlet e que pode sair por R$ 70 na promoção. Para o Natal, a aposta é no 13º salário e na compra de presentes para a família.</p>\n<p>O empresário afirma ainda que consumidores de renda mais alta, que tradicionalmente não frequentavam outlets, passaram a procurar esse tipo de loja por causa do cenário econômico e do endividamento das famílias. Segundo ele, os outlets do grupo não tiveram queda de vendas ao longo do ano.</p>\n<p>Entre as estratégias para atrair clientes, o grupo usa anúncios segmentados nas redes sociais e nas plataformas digitais, direcionados a bairros e públicos específicos, e promove ofertas-relâmpago em lojas participantes, com descontos extras por tempo limitado.</p>\n<p>Para o pequeno lojista, as táticas servem de referência: divulgar os produtos mais procurados para o público do próprio bairro e criar promoções curtas costuma aumentar o movimento nas datas fortes do comércio.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182045_das.jpg",
+  "credito_foto": "Foto: Divulgação/Grupo GMV",
+  "fonte": "Diário do Comércio",
   "resumos": ""
  }
 ]
