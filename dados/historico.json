@@ -60212,5 +60212,19 @@
   "fonte": "Governo Federal",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "20:20",
+  "id": "201548_334",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Só 33% dos empreendedores negros de Minas que pedem crédito conseguem, aponta Sebrae",
+  "titulo_orig": "Empreendedorismo negro em Juiz de Fora: histórias de quem faz do próprio talento uma profissão",
+  "link": "https://tribunademinas.com.br/noticias/economia/20-11-2026/empreendedorismo-negro-em-juiz-de-fora-historias-de-quem-faz-do-proprio-talento-uma-profissao.html",
+  "fonte": "Tribuna de Minas",
+  "arte": "artes/2026-11-20/201548_334.jpg",
+  "media_id": "18002826546035100"
  }
 ]
