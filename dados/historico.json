@@ -58280,5 +58280,33 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-20/081401_50.jpg",
   "media_id": "18159588028517843"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "09:16",
+  "id": "091330_29",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Prefeitura de BH libera quase R$ 3 milhões para comprar armas para a Guarda Civil Municipal",
+  "titulo_orig": "BH destina quase R$ 3 milhões para compra de armas para Guarda Municipal",
+  "link": "https://www.otempo.com.br/cidades/2026/11/20/bh-destina-quase-r-3-milhoes-para-compra-de-armas-para-guarda-municipal",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-20/091330_29.jpg",
+  "media_id": "18117674729122983"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "09:16",
+  "id": "091326_24",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "PM intercepta carro clonado com arma e toucas ninja e frustra possível ataque de facção em BH",
+  "titulo_orig": "PM impede possível ataque do Comando Vermelho em área de conflito em BH e prende sete pessoas | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/pm-impede-possivel-ataque-do-comando-vermelho-em-area-de-conflito-em-bh-e-prende-sete-pessoas/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-20/091326_24.jpg",
+  "media_id": "SITE"
  }
 ]
