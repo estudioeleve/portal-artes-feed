@@ -1,17 +1,5 @@
 [
  {
-  "id": "002604_438",
-  "data": "2026-11-18T21:27:54-03:00",
-  "titulo": "GPS leva motorista a ponte inacabada e carro despenca da estrutura em Pedro Leopoldo",
-  "linha_fina": "Acidente foi na manhã desta quarta (18), perto do Parque de Exposições; a ponte ao lado da linha férrea não leva a lugar nenhum. Ninguém se feriu.",
-  "categoria": "pedro-leopoldo",
-  "texto": "<p>Um carro despencou de uma ponte inacabada na manhã desta quarta-feira (18) em Pedro Leopoldo, no Vetor Norte da Grande BH. A estrutura fica ao lado da linha férrea, nas proximidades do Parque de Exposições, e não tem continuidade: não dá acesso a nenhum outro trecho da cidade.</p><p>Segundo as informações apuradas, o motorista seguia para uma clínica da região quando o GPS indicou o caminho pela ponte. Sem conhecer o local, ele seguiu pela estrutura e o veículo acabou caindo pela ponta.</p><p>Apesar do susto, ninguém ficou ferido. Imagens do carro inclinado, com a frente apoiada no chão abaixo da estrutura, circularam nas redes sociais.</p><p>O caso chama a atenção para o risco de estruturas inacabadas sem bloqueio ou sinalização adequada e para os cuidados ao seguir aplicativos de navegação em lugares desconhecidos. A orientação é sempre observar a sinalização da via e desconfiar de rotas que levem a trechos sem saída ou em obras.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/002604_438.jpg",
-  "credito_foto": "Reprodução/Por Dentro de Tudo",
-  "fonte": "Por Dentro de Tudo",
-  "resumos": ""
- },
- {
   "id": "003500_326",
   "data": "2026-11-18T21:35:19-03:00",
   "titulo": "Governo de Minas promove seminário sobre a reparação de Brumadinho e do Rio Doce em 2 de dezembro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/183535_m-bh.jpg",
   "credito_foto": "Reprodução/Google Street View",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "183702_cia",
+  "data": "2026-11-20T18:37:20-03:00",
+  "titulo": "BH cria carteira municipal de identificação para pessoas com deficiência; emissão ainda depende de regras da PBH",
+  "linha_fina": "Lei 12.182, publicada no Diário Oficial do Município, prevê prioridade no atendimento em saúde, educação, transporte e assistência social.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Belo Horizonte vai ter uma carteira municipal de identificação para pessoas com deficiência. A criação do documento está na Lei nº 12.182, sancionada pelo prefeito Álvaro Damião (União Brasil) e publicada no Diário Oficial do Município nesta quinta-feira (19).</p>\n<p>A carteira terá caráter complementar. O objetivo é identificar a pessoa com deficiência e reforçar o direito à atenção integral e à prioridade no atendimento, principalmente nas áreas de saúde, educação, transporte e assistência social, tanto em serviços públicos quanto privados.</p>\n<p>O documento não substitui a carteira de identidade, a Carteira Nacional de Habilitação (CNH) nem outros documentos oficiais.</p>\n<p>A emissão ainda depende de regulamentação. Caberá à Prefeitura de Belo Horizonte definir o fluxo de produção da carteira, as informações que vão constar nela e as regras para pedido, renovação, validade e emissão de segunda via. Os custos serão bancados pelo município.</p>\n<p>Poderá solicitar a carteira quem se enquadra no conceito da Lei Brasileira de Inclusão (Lei Federal nº 13.146/2015): pessoa com impedimento de longo prazo de natureza física, mental, intelectual ou sensorial que, diante de barreiras, possa ter dificuldade de participar da sociedade em igualdade de condições.</p>\n<p>O projeto que deu origem à lei é da vereadora Dra. Michelly Siqueira (PRD). Ainda não há data para o início da emissão do documento.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/183702_cia.jpg",
+  "credito_foto": "Foto ilustrativa: Paulo H. Carvalho/Agência Brasil",
+  "fonte": "BHAZ",
   "resumos": ""
  }
 ]
