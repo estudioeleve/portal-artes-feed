@@ -1,17 +1,5 @@
 [
  {
-  "id": "001509_6",
-  "data": "2026-11-18T21:27:54-03:00",
-  "titulo": "\"O Quebra-Nozes\" com capoeira e dança urbana chega ao Palácio das Artes, em BH, de 26 a 29 de novembro",
-  "linha_fina": "São Paulo Companhia de Dança apresenta a versão de Márcia Haydée; ingressos a partir de R$ 25 (meia) e ensaio aberto gratuito para a rede pública.",
-  "categoria": "entretenimento",
-  "texto": "<p>A São Paulo Companhia de Dança apresenta em Belo Horizonte \"O Quebra-Nozes no Mundo dos Sonhos\", um dos balés natalinos mais famosos do mundo, no Grande Teatro Cemig Palácio das Artes. As sessões serão de 26 a 29 de novembro: às 20h30 na quinta e na sexta-feira, às 16h e às 20h30 no sábado e às 17h no domingo.</p><p>A montagem é assinada pela coreógrafa Márcia Haydée, reconhecida internacionalmente como primeira-bailarina e diretora artística na Europa. A versão revisita o conto de E.T.A. Hoffmann com um olhar voltado à cultura brasileira: as sapatilhas de ponta dividem o palco com passos de capoeira e das danças urbanas.</p><p>A história acompanha dois irmãos durante uma noite de festa que ganha ares fantásticos quando um boneco ganha vida. A música de Tchaikovsky, estreada em 1892, segue como a base de todo o espetáculo, agora com doses de lirismo e comicidade.</p><p>\"É uma alegria retornar a Belo Horizonte com uma obra tão especial\", afirmou a diretora da companhia, Inês Bogéa, ao destacar a mistura entre tradição e contemporaneidade.</p><p>No dia 26 de novembro, às 15h30, haverá ensaio aberto gratuito, exclusivo para estudantes e professores da rede pública. Os ingressos para as sessões custam a partir de R$ 25 (meia-entrada) e estão à venda pelo Sympla e na bilheteria do Palácio das Artes.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/001509_6.jpg",
-  "credito_foto": "Divulgação/São Paulo Companhia de Dança",
-  "fonte": "SouBH",
-  "resumos": ""
- },
- {
   "id": "001514_4",
   "data": "2026-11-18T21:27:54-03:00",
   "titulo": "Do rap ao grafite: projeto leva formação em hip-hop a educadores das nove regionais de BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182717_tado.jpg",
   "credito_foto": "Foto: Robson Santos/Semad-MG",
   "fonte": "Agência Minas",
+  "resumos": ""
+ },
+ {
+  "id": "182806_o-21",
+  "data": "2026-11-20T18:28:32-03:00",
+  "titulo": "BH segue em alerta de chuva forte até sábado; 8 das 10 regionais já passaram da média de novembro",
+  "linha_fina": "Defesa Civil prevê pancadas com raios e ventos de 50 km/h até as 8h de sábado (21); Oeste lidera o acumulado do mês, com 291,6 mm.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Belo Horizonte está sob novo alerta de chuva forte até as 8h deste sábado (21). O aviso da Defesa Civil municipal, emitido na manhã desta sexta-feira (20), prevê pancadas de chuva com raios e rajadas de vento em torno de 50 km/h. A instabilidade deve continuar durante todo o fim de semana prolongado.</p>\n<p>O alerta chega num momento em que a cidade já recebeu mais chuva do que o esperado para o mês inteiro. Até as 5h30 desta sexta, oito das dez regionais haviam ultrapassado a média climatológica de novembro, de 236 milímetros, segundo dados do Instituto Nacional de Meteorologia (Inmet).</p>\n<p>A Regional Oeste lidera o acumulado, com 291,6 mm (123,6% da média). Em seguida aparecem Nordeste (284,6 mm), Pampulha (279,2 mm), Barreiro (271,7 mm), Noroeste (269,6 mm), Centro-Sul (264,2 mm), Venda Nova (252,4 mm) e Norte (237,2 mm). A Leste soma 225,6 mm, e o Hipercentro tem o menor volume, 170,4 mm.</p>\n<p>Com o solo encharcado, a Regional Pampulha permanece em alerta moderado de risco geológico. Nessas condições, aumenta a chance de deslizamentos e desmoronamentos em encostas, morros e áreas próximas a barrancos.</p>\n<p>No sábado, a previsão é de céu nublado a parcialmente nublado, com novas pancadas de intensidade moderada a forte, raios e rajadas de vento, e temperatura entre 19°C e 30°C. No domingo (22), o dia deve ter muitas nuvens e chuva a qualquer hora, com máxima de 26°C.</p>\n<p>Em caso de emergência, a Defesa Civil orienta ligar para o 199 e, durante temporais, não atravessar ruas alagadas, evitar abrigo debaixo de árvores e ficar longe de córregos e encostas. Também é possível receber alertas por SMS enviando o CEP para o número 40199.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182806_o-21.jpg",
+  "credito_foto": "Divulgação/Defesa Civil de BH",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
