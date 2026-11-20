@@ -59400,5 +59400,33 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-20/151442_5.jpg",
   "media_id": "17913678051595332"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "15:31",
+  "id": "153047_280",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Natal de Luz de Governador Valadares começa em 3 de dezembro com desfile e aposta no comércio do Centro",
+  "titulo_orig": "Natal de Luz 2026 terá desfile de abertura no dia 3 de dezembro - drd.com.br",
+  "link": "https://drd.com.br/natal-de-luz-2026-tera-desfile-de-abertura-no-dia-3-de-dezembro/",
+  "fonte": "drd.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "15:31",
+  "id": "153052_302",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Brasil chega a 10,4 milhões de mulheres donas de negócio, recorde em dez anos, aponta estudo do Sebrae",
+  "titulo_orig": "Sessão solene na Assembleia celebra Dia Estadual da Mulher Empreendedora",
+  "link": "https://www.blogdeassis.com.br/2026/11/20/sessao-solene-na-assembleia-celebra-dia-estadual-da-mulher-empreendedora/481643/",
+  "fonte": "Blog de Assis",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
