@@ -58308,5 +58308,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-20/091326_24.jpg",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "09:18",
+  "id": "091326_24",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "PM intercepta carro clonado com arma e toucas ninja e frustra possível ataque de facção em BH",
+  "titulo_orig": "PM impede possível ataque do Comando Vermelho em área de conflito em BH e prende sete pessoas | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/pm-impede-possivel-ataque-do-comando-vermelho-em-area-de-conflito-em-bh-e-prende-sete-pessoas/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-20/091326_24.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "09:18",
+  "id": "091354_7",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Consciência Negra: monumentos, praças e terreiros que guardam a história negra de BH",
+  "titulo_orig": "Da Pampulha à Lagoinha: conheça os espaços que celebram a cultura e a resistência negra em BH",
+  "link": "https://bhaz.com.br/noticias/bh/da-pampulha-a-lagoinha-conheca-os-espacos-que-celebram-a-cultura-e-a-resistencia-negra-em-bh/",
+  "fonte": "BHAZ",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
