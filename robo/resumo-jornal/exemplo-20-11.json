@@ -1,0 +1,307 @@
+{
+"cenas": [
+{
+"a": 0,
+"m": {
+"i": "r20/m8624.jpg"
+},
+"chip": "BRASIL",
+"curto": "Dia da Consciência Negra"
+},
+{
+"a": 5.78,
+"m": {
+"i": "r20/galo1.jpg",
+"fy": 0.0
+},
+"chip": "ESPORTE",
+"curto": "Galo a um passo do título inédito"
+},
+{
+"a": 9.82,
+"m": {
+"v": "r20/natal.mp4",
+"de": 3.6,
+"fy": 0.35
+},
+"chip": "NATAL",
+"curto": "Luzes de Natal na Praça da Liberdade"
+},
+{
+"a": 13.16,
+"m": {
+"v": "r19/c_desinf.mp4",
+"de": 37.5
+},
+"chip": "EDUCAÇÃO",
+"curto": "Força-tarefa nas escolas de Santa Luzia"
+},
+{
+"a": 17.5,
+"tipo": "abre"
+},
+{
+"a": 21.4,
+"m": {
+"v": "r19/c_galo.mp4",
+"de": 7,
+"cred": "Vídeo: Conmebol Sul-Americana"
+},
+"chip": "ESPORTE",
+"tit": "Galo enfrenta o Boca às 19h30 na final da Sul-Americana"
+},
+{
+"a": 26.7,
+"m": {
+"v": "r19/c_galo.mp4",
+"de": 17,
+"cred": "Vídeo: Conmebol Sul-Americana"
+},
+"chip": "ESPORTE",
+"tit": "Galo enfrenta o Boca às 19h30 na final da Sul-Americana"
+},
+{
+"a": 31.06,
+"m": {
+"i": "r20/galo2.jpg",
+"fy": 0.0,
+"cred": "Fotos: Reprodução/Atlético"
+},
+"chip": "ESPORTE",
+"tit": "Galo fez hoje o último treino antes da final"
+},
+{
+"a": 33.52,
+"m": {
+"i": "r20/galo3.jpg",
+"fy": 0.2,
+"cred": "Fotos: Reprodução/Atlético"
+},
+"chip": "ESPORTE",
+"tit": "Galo fez hoje o último treino antes da final"
+},
+{
+"a": 35.56,
+"m": {
+"i": "r20/fred2.jpg",
+"fx": 0.47,
+"cred": "Fotos: Reprodução/Atlético"
+},
+"chip": "ESPORTE",
+"tit": "Recuperado de lesão, Fred deve ser titular"
+},
+{
+"a": 39.26,
+"m": {
+"v": "r20/natal.mp4",
+"de": 31.5,
+"fy": 0.35,
+"cred": "Imagens: reprodução/redes sociais"
+},
+"chip": "NATAL",
+"tit": "Praça da Liberdade acende as luzes de Natal amanhã"
+},
+{
+"a": 41.4,
+"m": {
+"v": "r20/natal.mp4",
+"de": 3.65,
+"fy": 0.35,
+"cred": "Imagens: reprodução/redes sociais"
+},
+"chip": "NATAL",
+"tit": "Praça da Liberdade acende as luzes de Natal amanhã"
+},
+{
+"a": 44.0,
+"m": {
+"v": "r20/natal.mp4",
+"de": 6.25,
+"fy": 0.35,
+"cred": "Imagens: reprodução/redes sociais"
+},
+"chip": "NATAL",
+"tit": "Evento começa às 18h; luzes acesas às 18h30"
+},
+{
+"a": 49.9,
+"m": {
+"v": "r20/natal.mp4",
+"de": 60.5,
+"fy": 0.35,
+"cred": "Imagens: reprodução/redes sociais"
+},
+"chip": "NATAL",
+"tit": "Mais de 1,5 milhão de pontos de LED"
+},
+{
+"a": 52.88,
+"m": {
+"v": "r20/natal.mp4",
+"de": 45,
+"fy": 0.35,
+"cred": "Imagens: reprodução/redes sociais"
+},
+"chip": "NATAL",
+"tit": "Decoração fica até 6 de janeiro"
+},
+{
+"a": 55.76,
+"m": {
+"v": "r19/c_desinf.mp4",
+"de": 2
+},
+"chip": "EDUCAÇÃO",
+"tit": "Desinfecção das escolas continua em Santa Luzia"
+},
+{
+"a": 58.0,
+"m": {
+"v": "r19/c_desinf.mp4",
+"de": 25
+},
+"chip": "EDUCAÇÃO",
+"tit": "Desinfecção das escolas continua em Santa Luzia"
+},
+{
+"a": 59.72,
+"m": {
+"v": "r20/glay.mp4",
+"de": 12.3,
+"fy": 0.3
+},
+"chip": "EDUCAÇÃO",
+"tit": "Trabalho é parceria da Prefeitura com a Câmara"
+},
+{
+"a": 63.1,
+"m": {
+"v": "r20/glay.mp4",
+"de": 0.4,
+"fy": 0.25
+},
+"chip": "EDUCAÇÃO",
+"tit": "Trabalho é parceria da Prefeitura com a Câmara",
+"nome": "GLAYSON JOHNNY",
+"cargo": "Presidente da Câmara de Santa Luzia"
+},
+{
+"a": 66.23,
+"m": {
+"v": "r20/glay.mp4",
+"de": 17.4,
+"fy": 0.25
+},
+"chip": "EDUCAÇÃO",
+"tit": "Trabalho é parceria da Prefeitura com a Câmara",
+"nome": "GLAYSON JOHNNY",
+"cargo": "Presidente da Câmara de Santa Luzia"
+},
+{
+"a": 72.4,
+"m": {
+"v": "r20/stories.mp4",
+"de": 0,
+"fy": 0.3
+},
+"chip": "PREFEITURA",
+"tit": "Prefeitura faz limpeza de praças nesta sexta-feira"
+},
+{
+"a": 75.9,
+"m": {
+"v": "r20/stories.mp4",
+"de": 9.5,
+"fy": 0.3
+},
+"chip": "PREFEITURA",
+"tit": "Prefeitura faz limpeza de praças nesta sexta-feira"
+},
+{
+"a": 78.4,
+"m": {
+"v": "r20/stories.mp4",
+"de": 0.3,
+"fy": 0.3
+},
+"chip": "PREFEITURA",
+"tit": "Praça Eurico Gaspar Dutra, no Boa Esperança"
+},
+{
+"a": 81.76,
+"m": {
+"v": "r20/stories.mp4",
+"de": 9.0,
+"fy": 0.3
+},
+"chip": "PREFEITURA",
+"tit": "Praça da Juventude também recebeu capina"
+},
+{
+"a": 83.26,
+"m": {
+"v": "r20/stories.mp4",
+"de": 0,
+"fy": 0.0
+},
+"chip": "PREFEITURA",
+"tit": "Limpeza foi mostrada pelo prefeito Paulo Bigodinho"
+},
+{
+"a": 87.55,
+"m": {
+"v": "r20/arv_a.mp4",
+"de": 44
+},
+"chip": "DENÚNCIA",
+"tit": "Árvore ameaça cair na Av. Raul Teixeira da Costa Sobrinho"
+},
+{
+"a": 89.29,
+"m": {
+"v": "r20/arv_a.mp4",
+"de": 100,
+"fy": 0.3
+},
+"chip": "DENÚNCIA",
+"tit": "Árvore ameaça cair na Av. Raul Teixeira da Costa Sobrinho",
+"nome": "FABRÍCIO BOM PASTOR",
+"cargo": "Fiscal do Povo · Repórter colaborador"
+},
+{
+"a": 95.13,
+"m": {
+"v": "r20/arv_a.mp4",
+"de": 136.5
+},
+"chip": "DENÚNCIA",
+"tit": "Fiscal do Povo pede o corte da árvore"
+},
+{
+"a": 98.3,
+"m": {
+"v": "r20/arv_a.mp4",
+"de": 87.18
+},
+"chip": "DENÚNCIA",
+"tit": "Fiscal do Povo pede o corte da árvore",
+"nome": "FABRÍCIO BOM PASTOR",
+"cargo": "Fiscal do Povo · Repórter colaborador"
+},
+{
+"a": 103.6,
+"m": {
+"dolar": true,
+"t2": 3.5
+},
+"chip": "ECONOMIA",
+"tit": "Dólar termina a semana a R$ 5,93, maior valor desde abril de 2025"
+},
+{
+"a": 110.55,
+"tipo": "fim"
+}
+],
+"end": 122.87,
+"data": "20.11.2026"
+}

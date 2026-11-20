@@ -47,13 +47,13 @@ const Painel: React.FC<{m: Midia; lt: number}> = ({m, lt}) => {
 };
 
 // gráfico do dólar (dados reais: fechamento do dólar comercial)
-const PTS: [number, number, string][] = [[0, 5.45, '30/10'], [14, 5.67, '13/11'], [17, 5.79, ''], [18, 5.78, ''], [19, 5.87, '18/11']];
+const PTS: [number, number, string][] = [[0, 5.45, '30/10'], [14, 5.67, '13/11'], [17, 5.79, ''], [18, 5.78, ''], [19, 5.87, ''], [20, 5.93, '19/11']];
 const Dolar: React.FC<{t2?: number}> = ({t2}) => {
   const lt = useCurrentFrame() / FPS;
-  const X0 = ML, X1 = 800, Y0 = 820, Y1 = 380, V0 = 5.40, V1 = 5.90;
-  const px = (d: number) => X0 + (d / 19) * (X1 - X0), py = (v: number) => Y0 - ((v - V0) / (V1 - V0)) * (Y0 - Y1);
+  const X0 = ML, X1 = 800, Y0 = 820, Y1 = 380, V0 = 5.40, V1 = 5.95;
+  const px = (d: number) => X0 + (d / 20) * (X1 - X0), py = (v: number) => Y0 - ((v - V0) / (V1 - V0)) * (Y0 - Y1);
   const p = (x: number) => x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
-  const prog = p(seg(lt, 0.5, 3.4)); const head = prog * 19;
+  const prog = p(seg(lt, 0.5, 3.4)); const head = prog * 20;
   const vis: [number, number][] = [];
   for (let k = 0; k < PTS.length; k++) { if (PTS[k][0] <= head) vis.push([PTS[k][0], PTS[k][1]]); else { const a = PTS[k - 1]; const f = (head - a[0]) / (PTS[k][0] - a[0]); vis.push([head, a[1] + (PTS[k][1] - a[1]) * f]); break; } }
   const hv = vis[vis.length - 1];
@@ -65,12 +65,12 @@ const Dolar: React.FC<{t2?: number}> = ({t2}) => {
   return <AbsoluteFill style={{background: 'radial-gradient(120% 90% at 70% 20%, #0a2a8a 0%, #031247 55%, #010a2c 100%)'}}>
     <Img src={staticFile('r18/usd1.jpg')} style={{position: 'absolute', width: 1500, left: -180 + lt * 6, top: 230, transform: 'rotate(-9deg)', opacity: 0.16 * intro, filter: 'grayscale(0.4) blur(1.5px)'}} />
     <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(1,10,44,.55) 0%, rgba(1,10,44,0) 40%, rgba(1,10,44,.6) 100%)'}} />
-    <div style={{position: 'absolute', left: ML, top: 58, fontFamily: 'M', fontWeight: 800, fontSize: 26, letterSpacing: '0.12em', color: CL, opacity: intro}}>DÓLAR COMERCIAL · FECHAMENTO</div>
+    <div style={{position: 'absolute', left: ML, top: 58, fontFamily: 'M', fontWeight: 800, fontSize: 26, letterSpacing: '0.12em', color: CL, opacity: intro}}>DÓLAR COMERCIAL · FECHAMENTO DA SEMANA</div>
     <div style={{position: 'absolute', left: ML, top: 96, display: 'flex', alignItems: 'center', gap: 26, opacity: intro}}>
       <div style={{fontFamily: 'M', fontWeight: 900, fontSize: 150, color: '#fff', letterSpacing: '-0.04em', fontVariantNumeric: 'tabular-nums', lineHeight: 1}}><span style={{fontSize: 70, verticalAlign: 'top', marginRight: 8}}>R$</span>{valor}</div>
-      <div style={{background: CL, color: AZ, fontFamily: 'M', fontWeight: 900, fontSize: 34, padding: '10px 16px', borderRadius: 6, clipPath: `inset(0 ${100 - fimL * 100}% 0 0)`}}>▲ 1,54%</div>
+      <div style={{background: CL, color: AZ, fontFamily: 'M', fontWeight: 900, fontSize: 34, padding: '10px 16px', borderRadius: 6, clipPath: `inset(0 ${100 - fimL * 100}% 0 0)`}}>▲ 1,1%</div>
     </div>
-    <div style={{position: 'absolute', left: ML, top: 268, fontFamily: 'M', fontWeight: 800, fontSize: 26, color: '#fff', background: AZ2, padding: '8px 16px', letterSpacing: '0.04em', clipPath: `inset(0 ${100 - nov * 100}% 0 0)`}}>EM NOVEMBRO: ▲ 7,8%</div>
+    <div style={{position: 'absolute', left: ML, top: 268, fontFamily: 'M', fontWeight: 800, fontSize: 26, color: '#fff', background: AZ2, padding: '8px 16px', letterSpacing: '0.04em', clipPath: `inset(0 ${100 - nov * 100}% 0 0)`}}>MAIOR VALOR DESDE ABRIL DE 2025</div>
     <svg width={1080} height={1000} style={{position: 'absolute', left: 0, top: 0}}>
       <defs>
         <linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stopColor={CL} stopOpacity="0.42" /><stop offset="1" stopColor={CL} stopOpacity="0" /></linearGradient>
@@ -89,7 +89,7 @@ const Dolar: React.FC<{t2?: number}> = ({t2}) => {
         <circle cx={px(hv[0])} cy={py(hv[1])} r={13} fill="#fff" stroke={CL} strokeWidth={5} />
       </g> : null}
     </svg>
-    <div style={{position: 'absolute', left: px(19) - 150, top: py(5.87) - 92, width: 150, textAlign: 'center', fontFamily: 'M', fontWeight: 900, fontSize: 36, color: AZ, background: '#fff', borderRadius: 6, padding: '6px 0', opacity: fimL, transform: `translateY(${(1 - fimL) * 12}px)`}}>5,87</div>
+    <div style={{position: 'absolute', left: px(20) - 150, top: py(5.93) - 92, width: 150, textAlign: 'center', fontFamily: 'M', fontWeight: 900, fontSize: 36, color: AZ, background: '#fff', borderRadius: 6, padding: '6px 0', opacity: fimL, transform: `translateY(${(1 - fimL) * 12}px)`}}>5,93</div>
     <div style={{position: 'absolute', right: MR - 60, top: 22, fontFamily: 'M', fontWeight: 800, fontSize: 19, color: 'rgba(255,255,255,.6)', letterSpacing: '0.04em'}}>Fonte: Banco Central / mercado</div>
   </AbsoluteFill>;
 };
@@ -167,7 +167,7 @@ export const Jornal: React.FC<{d: DadosJ}> = ({d}) => {
     <Sequence durationInFrames={Math.round(tFim * FPS)}>
       <Drone escuro={cheia ? 0.45 : 0.7} />
       {C.map((x, k) => x.m ? <Sequence key={k} from={Math.round(x.a * FPS)} durationInFrames={Math.max(1, Math.round(((C[k + 1]?.a ?? d.end) - x.a) * FPS))}>
-        <div style={{position: 'absolute', inset: 0, transform: `translateX(${(1 - (k === i ? push : 1)) * 70}px)`, opacity: k === i ? 0.3 + 0.7 * push : 1}}><Painel m={x.m} lt={k === i ? lt : 0} /></div>
+        <div style={{position: 'absolute', inset: 0, transform: 'none', opacity: 1}}><Painel m={x.m} lt={k === i ? lt : 0} /></div>
       </Sequence> : null)}
       {!cheia ? <Topo data={d.data} /> : null}
       {c.m ? <><Nome c={c} lt={ltn} /><Tarja c={c} lt={lt2} digitar={!!c.tit} /></> : null}
