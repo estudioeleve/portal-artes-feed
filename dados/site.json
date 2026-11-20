@@ -1,17 +1,5 @@
 [
  {
-  "id": "211436_43",
-  "data": "2026-11-18T18:22:27-03:00",
-  "titulo": "Governo de Minas e ANM divergem em quase R$ 4 bilhões sobre royalties da mineração usados para abater dívida",
-  "linha_fina": "Estado calcula R$ 16,8 bilhões em Cfem até 2055 para o Propag; agência federal fala em pouco mais de R$ 13 bilhões.",
-  "categoria": "politica",
-  "texto": "<p>O Governo de Minas Gerais e a Agência Nacional de Mineração (ANM) discordam, em documentos oficiais, sobre quanto o estado tem a receber em royalties da mineração até 2055. A diferença entre os cálculos chega a quase R$ 4 bilhões, segundo o site O Fator.</p><p>O Executivo mineiro pretende usar esses recebíveis para abater parte da dívida de R$ 188,2 bilhões com a União, dentro do Programa de Pleno Pagamento das Dívidas dos Estados (Propag). Os royalties em questão são da Compensação Financeira pela Exploração de Recursos Minerais (Cfem).</p><p>Quando aderiu ao Propag, em dezembro de 2025, o governo estimou que a Cfem renderia cerca de R$ 18 bilhões entre 2025 e 2055. Em junho, a ANM contestou o valor em nota técnica e apontou que os royalties do período de 2026 a 2055 valeriam R$ 13,7 bilhões.</p><p>Em manifestação protocolada no início de outubro, o estado apresentou nova projeção, agora de 2027 a 2055, com valor de R$ 16,8 bilhões. Segundo o Palácio Tiradentes, se a conta da ANM for ajustada para o mesmo período, o resultado fica em pouco mais de R$ 13 bilhões, R$ 3,8 bilhões abaixo do que Minas reivindica.</p><p>Nos documentos, os técnicos do estado afirmam que o cálculo federal adotou um \"cenário deliberadamente conservador\" para os ganhos de Minas com a Cfem e pedem que a agência reavalie os números. A definição do valor é importante porque influencia quanto da dívida o estado consegue abater com o fluxo dos royalties.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/211436_43.jpg",
-  "credito_foto": "Gil Leonardi/Imprensa MG",
-  "fonte": "O Fator",
-  "resumos": ""
- },
- {
   "id": "211458_66",
   "data": "2026-11-18T18:22:27-03:00",
   "titulo": "Seis estudantes mineiros ganham ouro na Olimpíada Nacional de Eficiência Energética; Cemig premia nesta quinta",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/151424_168.jpg",
   "credito_foto": "Reprodução/bhaz",
   "fonte": "bhaz",
+  "resumos": ""
+ },
+ {
+  "id": "151458_83",
+  "data": "2026-11-20T15:20:37-03:00",
+  "titulo": "Pacientes que usam cannabis medicinal passam de 1 milhão no Brasil, aponta anuário do setor",
+  "linha_fina": "Total saltou de 873 mil para 1,1 milhão em um ano; frasco em farmácia custa em média R$ 650.",
+  "categoria": "saude",
+  "texto": "<p>O número de pacientes em tratamento com cannabis medicinal no Brasil passou de 1 milhão. Segundo a 5ª edição do anuário da empresa Kaya Mind, o total saltou de 873 mil em 2025 para 1,1 milhão em 2026. Em 2023, eram 430 mil pacientes, o que mostra uma expansão forte em pouco tempo.</p>\n<p>Neste ano, a Agência Nacional de Vigilância Sanitária (Anvisa) avançou na regulação dos produtos. Uma resolução permitiu a venda de canabidiol em farmácias de manipulação e o cultivo da planta no país por empresas, voltado à fabricação de medicamentos e outros produtos específicos.</p>\n<p>A principal forma de acesso é a importação, feita com autorização da Anvisa: 457 mil pacientes (41%) usam esse caminho. Outros 406 mil (37%) compram em farmácias e drogarias, e 248 mil (22%) conseguem os produtos por meio de associações. Mais de 10 mil pessoas obtiveram na Justiça, por habeas corpus, o direito de cultivar a planta.</p>\n<p>O preço médio do frasco vendido em farmácias caiu desde 2024, mas continua alto: R$ 650. O importado custa, em média, R$ 556, e o produzido por associações, R$ 352. No cálculo por miligrama de óleo, a importação é a opção mais barata.</p>\n<p>De acordo com o levantamento, a queda nos preços das farmácias é resultado do desenvolvimento da indústria nacional e do aumento da concorrência. Atualmente, 18 empresas vendem produtos de cannabis nas drogarias, com 67 mil frascos por mês, e 58 pedidos aguardam liberação da Anvisa.</p>\n<p>O anuário mostra ainda que os clínicos gerais passaram a liderar as prescrições: neste ano, eles emitiram 68,9% das receitas de produtos importados.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/151458_83.jpg",
+  "credito_foto": "TV Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
