@@ -58312,20 +58312,6 @@
  {
   "data": "2026-11-20",
   "hora": "09:18",
-  "id": "091326_24",
-  "bloco": "rmbh",
-  "portal": "one",
-  "ed": "POLÍCIA",
-  "titulo": "PM intercepta carro clonado com arma e toucas ninja e frustra possível ataque de facção em BH",
-  "titulo_orig": "PM impede possível ataque do Comando Vermelho em área de conflito em BH e prende sete pessoas | Rádio Itatiaia",
-  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/pm-impede-possivel-ataque-do-comando-vermelho-em-area-de-conflito-em-bh-e-prende-sete-pessoas/",
-  "fonte": "Rádio Itatiaia",
-  "arte": "artes/2026-11-20/091326_24.jpg",
-  "media_id": "SITE"
- },
- {
-  "data": "2026-11-20",
-  "hora": "09:18",
   "id": "091354_7",
   "bloco": "rmbh",
   "portal": "one",
@@ -58336,5 +58322,19 @@
   "fonte": "BHAZ",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "09:24",
+  "id": "091337_34",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Polícia Civil de Minas ganha reforço de 93 peritos criminais nomeados no Diário Oficial",
+  "titulo_orig": "nomeação de peritos criminais em Minas Gerais - Jornal Panorama",
+  "link": "https://jornalpanoramaminas.com.br/policia-civil-de-mg-recebe-nomeacao-de-93-novos-peritos-criminais/",
+  "fonte": "Jornal Panorama Minas",
+  "arte": "artes/2026-11-20/091337_34.jpg",
+  "media_id": "18075793082595877"
  }
 ]
