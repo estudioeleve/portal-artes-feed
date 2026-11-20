@@ -59708,5 +59708,19 @@
   "fonte": "Hora do Povo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "17:19",
+  "id": "171419_5",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Bancos devolvem dinheiro de 250 contribuintes de BH lesados por ataque hacker na Prefeitura",
+  "titulo_orig": "Após ataque hacker, bancos começam a devolver dinheiro de 250 contribuintes de BH - NC News",
+  "link": "https://ncnews.com.br/2026/11/20/apos-ataque-hacker-bancos-comecam-a-devolver-dinheiro-de-250-contribuintes-de-bh/",
+  "fonte": "ncnews.com.br",
+  "arte": "artes/2026-11-20/171419_5.jpg",
+  "media_id": "18123110831058288"
  }
 ]
