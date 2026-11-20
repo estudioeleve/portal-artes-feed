@@ -57832,5 +57832,33 @@
   "fonte": "Folha de S.Paulo",
   "arte": "artes/2026-11-20/061610_22.jpg",
   "media_id": "18137215823497063"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "06:33",
+  "id": "063236_39",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Consciência Negra: Congresso tem ao menos 57 propostas de inclusão da população negra, algumas paradas há 20 anos",
+  "titulo_orig": "Consciência Negra: Congresso tem ao menos 57 propostas de inclusão | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/consciencia-negra-congresso-tem-ao-menos-57-propostas-de-inclusao/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "06:33",
+  "id": "063240_14",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo avalia vetar por inteiro projeto que amplia a renegociação das dívidas rurais",
+  "titulo_orig": "Governo avalia veto integral ao projeto da renegociação das dívidas rurais",
+  "link": "https://www.estadao.com.br/politica/coluna-do-estadao/governo-avalia-veto-integral-ao-projeto-da-renegociacao-das-dividas-rurais/",
+  "fonte": "Estadão",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
