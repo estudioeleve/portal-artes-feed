@@ -1,17 +1,5 @@
 [
  {
-  "id": "151351_56",
-  "data": "2026-11-18T12:17:04-03:00",
-  "titulo": "Dólar chega a R$ 5,81, maior valor em mais de um ano, e Ibovespa recua com incerteza fiscal",
-  "linha_fina": "Mercado acompanha votação do ajuste fiscal no Senado; alta do dólar pode encarecer produtos importados no varejo.",
-  "categoria": "comercio",
-  "texto": "<p>O dólar subiu nesta quarta-feira (18) e chegou a R$ 5,81, a maior cotação da moeda americana em mais de um ano. Por volta das 10h10, a alta era de 0,62%. Na terça-feira (17), o dólar havia fechado praticamente estável, a R$ 5,78.</p>\n<p>No mesmo horário, o Ibovespa, principal índice da Bolsa brasileira, recuava 0,28%, aos 169.347 pontos. Os investidores acompanham com cautela a votação de medidas de ajuste fiscal no Congresso Nacional e aguardam definições da equipe econômica do presidente Lula para o próximo mandato.</p>\n<p>Para conter a pressão, o Banco Central programou dois leilões de linha, em que vende dólares com compromisso de recompra, no valor total de US$ 1 bilhão.</p>\n<p>No exterior, o dólar atingiu o maior nível em 19 meses. Dados da economia dos Estados Unidos e declarações de autoridades do Federal Reserve, o banco central americano, reforçaram a expectativa de alta dos juros em dezembro. Segundo a agência Reuters, analistas avaliam que a valorização pode perder força se o mercado já tiver incorporado essa possibilidade aos preços.</p>\n<p>Para o comerciante, o dólar mais alto costuma encarecer produtos importados e insumos, como eletrônicos, peças e embalagens, justamente na reta final de vendas da Black Friday e do Natal. Quem ainda vai repor estoque deve acompanhar a cotação e negociar prazos com os fornecedores.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/151351_56.jpg",
-  "credito_foto": "Reprodução/Canal MyNews",
-  "fonte": "Canal MyNews",
-  "resumos": ""
- },
- {
   "id": "151239_18",
   "data": "2026-11-18T12:17:04-03:00",
   "titulo": "Clubes das Séries A e B pedem socorro financeiro ao governo federal após fim das bets; Leila critica",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/081820_html.jpg",
   "credito_foto": "Foto: Alexandre Guzanshe/EM/D.A Press",
   "fonte": "Estado de Minas",
+  "resumos": ""
+ },
+ {
+  "id": "081800_129",
+  "data": "2026-11-20T08:20:21-03:00",
+  "titulo": "Fim de semana em BH tem festival nordestino gratuito em Santa Tereza, Forumdoc, Natal no Parque do Palácio e batalhas de rima",
+  "linha_fina": "Programação de sexta a domingo reúne comida típica, forró, cinema documental gratuito, atividades natalinas e shows.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>O feriado do Dia da Consciência Negra abre um fim de semana movimentado em Belo Horizonte, com programação que vai de comida nordestina gratuita a cinema documental, atividades de Natal e batalhas de rima, de sexta-feira (20) a domingo (22).</p>\n<p>A Praça Duque de Caxias, no bairro Santa Tereza, na Região Leste, recebe a primeira edição do Festival Encontros Nordestinos, com entrada gratuita. O evento tem pratos típicos, como acarajé, baião de dois, carne de sol com macaxeira, moqueca e bobó de camarão, além de apresentações de forró e axé com Trio Lampião, Axé Medeiros, Trio Bem Te Quero, Juju Pauline e Toninho Moreira. O festival acontece nesta sexta e no sábado, das 12h às 22h.</p>\n<p>O Forumdoc.bh chega à 30ª edição com programação gratuita dedicada ao cinema documental. São 25 produções nacionais e internacionais, com sessões especiais, debates e encontros com realizadores, de sexta até 29 de novembro, no Cine Santa Tereza (Rua Estrela do Sul, 89) e no Cine Humberto Mauro, no Palácio das Artes. Os ingressos são distribuídos pelo Sympla ou na bilheteria, 30 minutos antes das sessões.</p>\n<p>O clima de Natal também começa a tomar conta da cidade, com a inauguração da decoração da Praça da Liberdade, no bairro Funcionários, e atividades natalinas no Parque do Palácio, no Mangabeiras, com oficinas e brincadeiras para crianças e toda a família.</p>\n<p>Na música, a agenda do fim de semana inclui shows de Pitty, Zé Ramalho, Mãeana e Jovem Dionísio. A cena do hip-hop também marca presença com duelos de MCs, além de peças de teatro em cartaz em diferentes regiões da capital.</p>\n<p>Como a previsão é de chuva, com possibilidade de temporal no sábado, a recomendação é conferir com os organizadores se há mudança de horário ou local antes de sair de casa, principalmente nos eventos ao ar livre.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/081800_129.jpg",
+  "credito_foto": "Foto: Divulgação/Metrópoles",
+  "fonte": "Metrópoles",
   "resumos": ""
  }
 ]
