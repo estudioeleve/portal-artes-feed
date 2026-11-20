@@ -59792,5 +59792,33 @@
   "fonte": "O Tempo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "18:23",
+  "id": "182218_381",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Moradores do bairro Suzana, na Pampulha, reclamam de mau cheiro após caminhão de frigorífico deixar sangue na rua",
+  "titulo_orig": "Moradores denunciam mau cheiro após sangue deixado por caminhões de frigorífico em BH",
+  "link": "https://noticias.r7.com/minas-gerais/mg-no-ar/video/moradores-denunciam-mau-cheiro-apos-sangue-deixado-por-caminhoes-de-frigorifico-em-bh-20112026/",
+  "fonte": "R7",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "18:23",
+  "id": "182241_33",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Estátua de Zumbi dos Palmares faz 40 anos no Rio com lavagem, capoeira e alerta sobre a juventude negra",
+  "titulo_orig": "Homenagens lembram legado de Zumbi e desafios da juventude negra",
+  "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11homenagens-lembram-legado-de-zumbi-e-desafios-da-juventude-negra",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
