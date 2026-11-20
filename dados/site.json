@@ -1,17 +1,5 @@
 [
  {
-  "id": "234051_8",
-  "data": "2026-11-18T20:42:14-03:00",
-  "titulo": "Let’s Dance BH transforma a Praça da Assembleia em pista de dança gratuita neste sábado (21)",
-  "linha_fina": "Festival vai das 14h às 22h com Banda Black Soul, Lira Club, aulas de dança, \"Momento Romântico\" e praça gastronômica.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>A Praça da Assembleia, no bairro Santo Agostinho, em Belo Horizonte, vai virar uma grande pista de dança ao ar livre neste sábado (21). O festival Let's Dance BH acontece das 14h às 22h, com entrada gratuita, e promete música, aulas de dança e gastronomia para todas as idades.</p><p>A abertura fica por conta da Escola Avantgarde. Em seguida, a Banda Black Soul sobe ao palco com repertório de soul music e R&B. Para fechar a noite, a banda Lira Club toca sucessos da dance music e do pop rock.</p><p>Durante todo o evento, dançarinos vão circular pela pista ensinando passos básicos para quem está começando e animando o público a entrar na dança.</p><p>Um dos destaques é o \"Momento Romântico\", nos intervalos entre as bandas. Com músicas lentas clássicas, a ideia é recriar o clima das matinês dos anos 60, 70 e 80, para casais relembrarem bons tempos e para novos encontros.</p><p>O festival terá ainda uma praça gastronômica com opções variadas e um bar com chope artesanal, vinhos e drinques.</p><p><strong>Serviço:</strong> Let's Dance BH. Sábado, 21 de novembro, das 14h às 22h, na Praça da Assembleia (Praça Carlos Chagas, s/n, Santo Agostinho). Entrada gratuita, com ingressos e informações no Sympla.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/234051_8.jpg",
-  "credito_foto": "Divulgação/Let’s Dance BH",
-  "fonte": "Cenário Minas",
-  "resumos": ""
- },
- {
   "id": "234054_7",
   "data": "2026-11-18T20:42:14-03:00",
   "titulo": "Ucrânia ataca ponte da Crimeia pela terceira vez na semana enquanto Putin se reúne com Trump e Xi",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/171654_46.jpg",
   "credito_foto": "Divulgação/UNE",
   "fonte": "Hora do Povo",
+  "resumos": ""
+ },
+ {
+  "id": "172006_58",
+  "data": "2026-11-20T17:20:30-03:00",
+  "titulo": "Dois soldados de El Salvador morrem em explosão durante missão contra gangues no Haiti",
+  "linha_fina": "Outros dois militares ficaram feridos; Exército salvadorenho não informou onde foi a explosão nem que material era manuseado.",
+  "categoria": "mundo",
+  "texto": "<p>Dois soldados de El Salvador morreram e outros dois ficaram feridos em uma explosão enquanto manuseavam material explosivo durante uma missão no Haiti. A informação foi divulgada pelo Exército salvadorenho nesta sexta-feira (20).</p>\n<p>Os militares não disseram onde a explosão aconteceu nem que tipo de explosivo estava sendo usado. Um porta-voz do governo de El Salvador afirmou que não poderia dar mais detalhes naquele momento.</p>\n<p>No mês passado, o presidente Nayib Bukele enviou mais de 2 mil soldados ao Haiti para combater gangues armadas que controlam boa parte do país. O envio aconteceu depois que quatro integrantes de uma missão apoiada pela Organização das Nações Unidas (ONU) desapareceram, em 18 de outubro.</p>\n<p>Desde a chegada das tropas, Bukele tem publicado vídeos de ataques a casas de líderes de gangues. Milhares de haitianos foram às ruas em manifestações de apoio à intervenção estrangeira.</p>\n<p>Analistas, no entanto, alertam que, sem um plano de longo prazo para garantir o controle do território, as operações podem ter efeito contrário e colocar civis em risco.</p>\n<p>O Haiti enfrenta uma grave crise de segurança há anos, agravada após o assassinato do presidente Jovenel Moïse, em 2021. Gangues armadas dominam grande parte da capital, Porto Príncipe, e a violência já obrigou centenas de milhares de pessoas a deixar suas casas.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/172006_58.jpg",
+  "credito_foto": "Reprodução/Reuters/g1",
+  "fonte": "g1 / Reuters",
   "resumos": ""
  }
 ]
