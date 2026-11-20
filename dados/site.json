@@ -1,17 +1,5 @@
 [
  {
-  "id": "001657_423",
-  "data": "2026-11-18T21:27:54-03:00",
-  "titulo": "Rede Mário Penna inaugura nesta quinta o Hospital Raja, com 200 leitos e cirurgia robótica, em BH",
-  "linha_fina": "Unidade de 18 andares fica na Avenida Raja Gabáglia; recursos vão ajudar a manter o atendimento 100% SUS do Hospital Luxemburgo.",
-  "categoria": "saude",
-  "texto": "<p>A Rede Mário Penna inaugura nesta quinta-feira (19), às 10h, o Hospital Raja, na Avenida Raja Gabáglia, 1.306, no bairro Cidade Jardim, em Belo Horizonte. A abertura marca os 55 anos da instituição, dedicada à saúde em Minas Gerais.</p><p>Com o lema \"O cuidar evoluiu\", a nova unidade tem mais de 14 mil metros quadrados de área construída, distribuídos em 18 andares. São 200 leitos de internação, 30 leitos de UTI e um bloco cirúrgico com 10 salas, uma delas dedicada à cirurgia robótica.</p><p>O complexo terá ainda um andar exclusivo para Transplante de Medula Óssea (TMO), centro de imagem e diagnóstico, hemodinâmica, pronto atendimento e ambulatórios especializados, reunindo todas as etapas do atendimento em um só lugar.</p><p>O Hospital Raja vai atender pacientes de planos de saúde e particulares. Segundo a instituição, os recursos gerados vão ajudar a custear e fortalecer o atendimento gratuito, 100% SUS, do vizinho Hospital Luxemburgo, além de levar tecnologias como a cirurgia robótica também para procedimentos de alta complexidade da rede pública.</p><p>A inauguração amplia a oferta de serviços de alta complexidade na região Centro-Sul da capital.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-18/001657_423.jpg",
-  "credito_foto": "Divulgação/Rede Mário Penna",
-  "fonte": "BH 24 Horas",
-  "resumos": ""
- },
- {
   "id": "002604_438",
   "data": "2026-11-18T21:27:54-03:00",
   "titulo": "GPS leva motorista a ponte inacabada e carro despenca da estrutura em Pedro Leopoldo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/182854_rica.jpg",
   "credito_foto": "Foto: Marcello Casal Jr./Agência Brasil",
   "fonte": "Agência Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "183535_m-bh",
+  "data": "2026-11-20T18:36:38-03:00",
+  "titulo": "Carro com quatro pessoas é atingido por trem no Barreiro, em BH, e passageira fica ferida",
+  "linha_fina": "Mulher de 33 anos teve um corte na cabeça e foi levada pelo Samu em estado estável; acidente foi no bairro Vila Independência.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Um carro com quatro pessoas foi atingido por um trem na tarde desta sexta-feira (20), no bairro Vila Independência, na região do Barreiro, em Belo Horizonte. Uma passageira de 33 anos ficou ferida.</p>\n<p>Segundo o Corpo de Bombeiros, a mulher estava no banco da frente. Ela estava consciente e orientada, mas tinha um corte na cabeça e dores pelo corpo. Emocionalmente abalada, a passageira permaneceu dentro do veículo até ser amparada pelos militares.</p>\n<p>A vítima recebeu os primeiros atendimentos das equipes de resgate e foi encaminhada pelo Serviço de Atendimento Móvel de Urgência (Samu) para atendimento médico. De acordo com os bombeiros, o quadro dela era estável.</p>\n<p>As outras três pessoas que estavam no carro não tiveram ferimentos informados. A ocorrência mobilizou equipes do Corpo de Bombeiros, da Polícia Militar e do Samu.</p>\n<p>As circunstâncias do acidente não foram divulgadas. O trecho da linha férrea na região tem passagem de nível sinalizada com placas de \"Pare, olhe, escute\".</p>\n<p>Acidentes em passagens de nível costumam ser graves. A orientação é sempre parar antes da linha, olhar para os dois lados e ouvir se há trem se aproximando antes de atravessar, mesmo em cruzamentos sinalizados.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/183535_m-bh.jpg",
+  "credito_foto": "Reprodução/Google Street View",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
