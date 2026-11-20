@@ -58952,5 +58952,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-20/122231_31.jpg",
   "media_id": "18122146594815244"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "12:36",
+  "id": "122234_0",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Minas tem a 3ª maior população quilombola do país, mas só 3,3% vive em território reconhecido",
+  "titulo_orig": "População quilombola em MG: só 3,3% vivem em áreas reconhecidas | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/20/mg-tem-a-3a-maior-populacao-quilombola-do-pais-mas-so-33percent-dela-vive-em-areas-reconhecidas.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-20/122234_0.jpg",
+  "media_id": "18379765522301406"
  }
 ]
