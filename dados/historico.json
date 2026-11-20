@@ -58588,5 +58588,19 @@
   "fonte": "BH 24 Horas",
   "arte": "artes/2026-11-20/101535_45.jpg",
   "media_id": "18343892971302285"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "10:42",
+  "id": "101550_11",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Minas recebe 300 mil doses contra a Covid e reforça vacinação de idosos, gestantes e crianças",
+  "titulo_orig": "Minas reforça a importância da vacinação contra a covid-19 ",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/minas-reforca-a-importancia-da-vacinacao-contra-a-covid-19",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "artes/2026-11-20/101550_11.jpg",
+  "media_id": "18131953144881181"
  }
 ]
