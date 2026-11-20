@@ -58798,5 +58798,19 @@
   "fonte": "Metrópoles",
   "arte": "artes/2026-11-20/111217_37.jpg",
   "media_id": "18112480481257372"
+ },
+ {
+  "id": "denuncia_8389",
+  "data": "2026-11-20",
+  "hora": "11:55",
+  "media_id": "17922509400461594",
+  "titulo": "Denúncia do leitor 8389",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:8389",
+  "arte": ""
  }
 ]
