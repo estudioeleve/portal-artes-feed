@@ -57678,5 +57678,19 @@
   "fonte": "Prefeitura de Belo Horizonte",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "23:31",
+  "id": "015856_15",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "GTA VI deve faturar R$ 11,5 bilhões só no primeiro dia, mais que o dobro do GTA V em 2013",
+  "titulo_orig": "GTA VI: Lançamento deve render R$ 11,5 bilhões no primeiro dia | G1",
+  "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-19/015856_15.jpg",
+  "media_id": "17953417134057800"
  }
 ]
