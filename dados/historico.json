@@ -59764,5 +59764,47 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-20/181648_171.jpg",
   "media_id": "18454106140124878"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "18:20",
+  "id": "181859_52",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Míssil russo cai em área rural da Polônia e premiê Donald Tusk fala em \"provocação\" de Moscou",
+  "titulo_orig": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação' | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/20/missil-russo-atinge-a-polonia-e-primeiro-ministro-fala-em-provocacao.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "18:20",
+  "id": "181843_47",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "CRUZEIRO",
+  "titulo": "Cruzeiro terá mais três desfalques contra a Chapecoense: William, Lucas Romero e Arroyo ficam fora",
+  "titulo_orig": "Cruzeiro tem mais três desfalques para duelo com a Chapecoense; veja quem são",
+  "link": "https://www.otempo.com.br/sports/cruzeiro/2026/11/20/cruzeiro-tem-mais-tres-desfalques-para-duelo-com-a-chapecoense-veja-quem-sao",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "18:20",
+  "id": "181849_34",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Atlético enfrenta o Boca neste sábado na final da Sul-Americana e tenta evitar o 6º vice seguido do Brasil",
+  "titulo_orig": "Sul-Americana: Atlético-MG tenta evitar 6º vice consecutivo do Brasil",
+  "link": "https://www.abcdoabc.com.br/sul-americana-atletico-mg-tente/",
+  "fonte": "Portal ABC do ABC",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
