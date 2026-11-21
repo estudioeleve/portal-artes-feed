@@ -1,19 +1,55 @@
 [
  {
-  "id": 8947,
-  "protocolo": "OC-2026-8947",
+  "id": 7626,
+  "protocolo": "OC-2026-7626",
   "instagram_formato": "reels",
   "midia_tipo": "video",
-  "relato": "Vila da luz as margens da br 381\r\nVim aqui até a Vila da Luz, às margens da BR-381, para mostrar a situação que cada dia mais está preocupante. E vereadores de Belo Horizonte, ninguém vem aqui tentar ajudar famílias que, além de correr risco dos acidentes aqui também, não tem dignidade quanto à moradia. Fica aí o registro.",
+  "relato": "morador morador sinaliza morador sinaliza morador sinaliza morador sinaliza morador sinaliza buraco morador sinaliza buraco morador sinaliza buraco na morador sinaliza buraco na morador sinaliza buraco na morador sinaliza buraco na Rua morador sinaliza buraco na Rua Bom morador sinaliza buraco na Rua Bom Pastor morador sinaliza buraco na Rua Bom Pastor morador sinaliza buraco na Rua Bom Pastor 309 morador sinaliza buraco na Rua Bom Pastor 309 morador sinaliza buraco na Rua Bom Pastor 309 morador sinaliza buraco na Rua Bom Pastor 309 morador sinaliza buraco na Rua Bom Pastor 309 morador sinaliza buraco na Rua Bom Pastor 309 São morador sinaliza buraco na Rua Bom Pastor 309 São Benedito",
+  "anonima": false,
+  "nome": "Fabricio Bom Pastor",
+  "cidade": null,
+  "bairro": null,
+  "moldura": "Portal Luziense",
+  "titulo": "Morador sinaliza buraco na Rua Bom Pastor, no bairro São Benedito",
+  "data": null,
+  "extra": {
+   "editoria": "Denúncia · São Benedito",
+   "tipo": "denuncia",
+   "tipo_nome": "Denúncia",
+   "cabecalho": "📢 DENÚNCIA DO LEITOR",
+   "assinatura": "Denúncia feita por Fabricio Bom Pastor",
+   "local": "Rua bom pastor 309 sao Benedito",
+   "posicionamento": "",
+   "foto_url": "",
+   "videos_url": [
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/VID-20261118-WA0161.mp4",
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/20261118_115301.mp4"
+   ],
+   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-7626-1795036102-site.png",
+   "materia_url": "https://portalonenews.com.br/santa-luzia/morador-sinaliza-buraco-na-rua-bom-pastor-no-bairro-sao-benedito/",
+   "instagram": "pendente"
+  },
+  "videos": 2,
+  "arquivo": "videos/2026-11-21/denuncia_7626.mp4",
+  "duracao": 30.0,
+  "quadro": "fotos/denuncias/7626_quadro.jpg",
+  "acao": "create_video_post"
+ },
+ {
+  "id": 9084,
+  "protocolo": "OC-2026-9084",
+  "instagram_formato": "reels",
+  "midia_tipo": "video",
+  "relato": "Avenida Senhor do Bonfim Uma tragédia anunciada que vem sendo avisado há meses e a prefeitura não faz nada e dessa vez um motoqueiro com alguém na garupa acabou caindo no buraco e ficando ferido e precisou ser atendido pelo SAMU E o Fabrício bom Pastor o fiscal do povo pede ajuda à prefeitura já que moradores pedem socorro moradores e motoristas que passam ali na região que além de não ter uma sinalização boa na rotatória Não ter o guarda corpo no corre agora também os buracos estão causando acidente",
   "anonima": false,
   "nome": "Fabrício Bom Pastor",
   "cidade": null,
   "bairro": null,
-  "moldura": "Portal ONE News",
-  "titulo": "Morador mostra famílias em situação precária na Vila da Luz, às margens da BR-381, em BH",
+  "moldura": "Portal Luziense",
+  "titulo": "Leitor relata queda de motociclista em buraco na Avenida Senhor do Bonfim",
   "data": null,
   "extra": {
-   "editoria": "Denúncia · Belo Horizonte",
+   "editoria": "Denúncia · Santa Luzia",
    "tipo": "denuncia",
    "tipo_nome": "Denúncia",
    "cabecalho": "📢 DENÚNCIA DO LEITOR",
@@ -22,17 +58,18 @@
    "posicionamento": "",
    "foto_url": "",
    "videos_url": [
-    "https://portalonenews.com.br/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-21-at-11.58.34.mp4",
-    "https://portalonenews.com.br/wp-content/uploads/2026/11/13647713-0e9a-448e-a21f-c3ca21e40861.mov"
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/b8166224-cdf2-485d-ba0b-46a3c54faeb4.mp4",
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/d29f3ffa-bd4a-44be-a1c8-2b84b81360fa.mp4",
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/085efa77-9e75-49fa-819e-7e97df4449ec.mp4"
    ],
-   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-8947-1795274017-site.png",
-   "materia_url": "https://portalonenews.com.br/denuncias/morador-mostra-familias-em-situacao-precaria-na-vila-da-luz-as-margens-da-br-381-em-bh/",
+   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-9084-1795297359-site.png",
+   "materia_url": "https://portalonenews.com.br/santa-luzia/leitor-relata-queda-de-motociclista-em-buraco-na-avenida-senhor-do-bonfim/",
    "instagram": "pendente"
   },
-  "videos": 2,
-  "arquivo": "videos/2026-11-21/denuncia_8947.mp4",
-  "duracao": 30.1,
-  "quadro": "fotos/denuncias/8947_quadro.jpg",
+  "videos": 3,
+  "arquivo": "videos/2026-11-21/denuncia_9084.mp4",
+  "duracao": 45.1,
+  "quadro": "fotos/denuncias/9084_quadro.jpg",
   "acao": "create_video_post"
  }
 ]
