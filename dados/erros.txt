@@ -567,3 +567,4 @@
 2026-11-21 18:55 - Denúncia 9084 (queda de moto em buraco na Av. Senhor do Bonfim, Santa Luzia, Reels de 3 vídeos): painel deu erro ao preparar a mídia (jsDelivr) e 'too many actions' (raw); saiu pelo Windsor SEM COLLAB - falta @portaluziense (media 18120030473110069).
 2026-11-21 18:55 - Rodada denúncias: C vazia; B ainda com a 7626 (segue segurada para o Israel decidir: relato repetido/embaralhado e endereço com número). Não postada nem marcada.
 2026-11-21 19:42 - Rodada denúncias: A vazia; B ainda com a 7626 (segue segurada para o Israel decidir: relato repetido/embaralhado e endereço com número). Não postada nem marcada. C: capa da 9084 enviada ao site (print do vídeo em 1s).
+2026-11-21 20:41 - Rodada denúncias: A e C vazias; B só com a 7626 (segue segurada para o Israel decidir: relato repetido/embaralhado e endereço com número). Não postada nem marcada.
