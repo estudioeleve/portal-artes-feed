@@ -61654,5 +61654,19 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-21/112136_5.jpg",
   "media_id": "17998706495840053"
+ },
+ {
+  "id": "denuncia_8947",
+  "data": "2026-11-21",
+  "hora": "12:20",
+  "media_id": "18364225387217957",
+  "titulo": "Denúncia do leitor OC-2026-8947",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal ONE News",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:8947",
+  "arte": "videos/2026-11-21/denuncia_8947.mp4"
  }
 ]
