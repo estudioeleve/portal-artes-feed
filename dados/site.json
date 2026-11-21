@@ -1,17 +1,5 @@
 [
  {
-  "id": "091146_72",
-  "data": "2026-11-19T06:17:16-03:00",
-  "titulo": "Preço da cebola volta a subir em Minas com fim da safra e oferta menor; veja o que explica a alta",
-  "linha_fina": "Cepea aponta redução da oferta no Triângulo Mineiro e em Goiás, mais descartes e atraso nas lavouras do Sul.",
-  "categoria": "comercio",
-  "texto": "<p>O preço da cebola voltou a subir no Triângulo Mineiro e em Cristalina, em Goiás, por causa da redução da oferta nas duas regiões. Segundo o Hortifrúti, do Centro de Estudos Avançados em Economia Aplicada (Cepea), a disponibilidade do produto está cada vez menor com o fim da temporada de produção.</p>\n<p>A maior parte dos produtores dessas regiões já encerrou as atividades do ano. Ainda há um pequeno volume a ser vendido ao longo de novembro e no começo de dezembro, principalmente em Goiás.</p>\n<p>Outro fator que limita a oferta é o aumento dos descartes, comum no fim da temporada, o que reduz ainda mais a quantidade de cebola disponível no mercado.</p>\n<p>A produção da região Sul, que costuma ganhar força em novembro, também segue controlada. De acordo com o Cepea, os dias nublados e o excesso de umidade durante o plantio, no segundo semestre, atrasaram o desenvolvimento das lavouras.</p>\n<p>Com menos produto nas principais regiões produtoras, a oferta nacional continua limitada e favorece a alta dos preços. Para sacolões, mercados, restaurantes e lanchonetes, a tendência é de cebola mais cara nas próximas semanas, o que pede atenção na hora de comprar e de formar preços.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/091146_72.jpg",
-  "credito_foto": "Pexels (via Itatiaia)",
-  "fonte": "Itatiaia",
-  "resumos": ""
- },
- {
   "id": "091850_10",
   "data": "2026-11-19T06:19:03-03:00",
   "titulo": "Governo Lula avalia levar Direitos Humanos para o Ministério da Justiça no novo desenho da Esplanada",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/212500_israel.jpg",
   "credito_foto": "Portal ONE News",
   "fonte": "Portal ONE News",
+  "resumos": ""
+ },
+ {
+  "id": "222000_israel",
+  "data": "2026-11-20T22:15:22-03:00",
+  "titulo": "Praça da Liberdade testa as luzes do Natal da Mineiridade, com mais de 1,5 milhão de pontos de LED",
+  "linha_fina": "Teste das luzes foi feito nesta sexta-feira (20); inauguração oficial é neste sábado (21), às 18h, com a Fábrica do Noel no Palácio da Liberdade.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Já é Natal em Belo Horizonte. O teste das tradicionais luzes de Natal da Praça da Liberdade foi feito na noite desta sexta-feira (20), e a praça já brilha com a decoração do Natal da Mineiridade.</p><p>Neste ano, são mais de 1,5 milhão de pontos de LED espalhados pela praça e pelo Palácio da Liberdade. As árvores ganharam lanternas e estrelas iluminadas, a alameda central de palmeiras recebeu centenas de sinos de luz, e arcos iluminados se refletem no espelho d'água, em frente ao coreto. Uma grande árvore de Natal, com uma estrela vermelha no topo, também faz parte da decoração.</p><p>Com o tema 'Minas: a Casa do Brasil', o projeto traz referências da cultura mineira, do artesanato e da tecnologia. Entre as peças, um painel iluminado exibe o verso 'A vida se repete na estação', de Fernando Brant, um dos nomes do Clube da Esquina.</p><p>A inauguração oficial do Natal da Mineiridade será neste sábado (21), a partir das 18h. Entre as novidades está a Fábrica do Noel, instalada dentro do Palácio da Liberdade.</p><p>A Praça da Liberdade fica na região Centro-Sul de Belo Horizonte e costuma reunir milhares de famílias durante o período de festas. Com a decoração pronta, a expectativa é de movimento intenso na praça a partir do fim de semana.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/222000_israel.jpg",
+  "credito_foto": "Flavio Tavares/O Tempo",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
