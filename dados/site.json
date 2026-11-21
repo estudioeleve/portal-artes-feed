@@ -1,17 +1,5 @@
 [
  {
-  "id": "111123_28",
-  "data": "2026-11-19T08:15:56-03:00",
-  "titulo": "Dupla suspeita de fingir comprar celulares e notebooks para assaltar vendedores é presa no Barreiro",
-  "linha_fina": "Vendedor que já tinha sido vítima desconfiou de nova negociação e chamou a PM. Polícia apreendeu revólver, simulacro e moto e recuperou um notebook.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Dois homens suspeitos de se passar por compradores de aparelhos eletrônicos para assaltar vendedores foram presos pela Polícia Militar nesta quarta-feira (18), na região do Barreiro, em Belo Horizonte.</p><p>Segundo a PM, a dupla demonstrava interesse na compra de celulares e notebooks anunciados na internet e marcava encontros com os vendedores. No momento da negociação, os suspeitos anunciavam o assalto e levavam os produtos.</p><p>A prisão aconteceu depois de denúncias de comerciantes. Um vendedor que trabalha no bairro Milionários já tinha sido vítima de um crime parecido. Ao perceber uma movimentação semelhante à da primeira vez, ele desconfiou e chamou a polícia.</p><p>Militares do 41º Batalhão começaram as buscas e conseguiram interceptar os suspeitos logo depois de mais um roubo. Com eles, a polícia apreendeu um revólver calibre .32, um simulacro de arma de fogo e uma motocicleta. Um notebook roubado foi recuperado.</p><p>A Polícia Militar apura se a dupla participou de outros crimes parecidos em bairros diferentes da capital. A orientação para quem vende aparelhos pela internet é marcar a entrega em locais movimentados, de preferência com câmeras, levar um acompanhante e desconfiar de compradores que insistem em encontros em ruas vazias ou à noite.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/111123_28.jpg",
-  "credito_foto": "Divulgação/PMMG",
-  "fonte": "R7",
-  "resumos": ""
- },
- {
   "id": "111128_29",
   "data": "2026-11-19T08:15:56-03:00",
   "titulo": "Corte da ONU conclui que Mianmar teve intenção de destruir a minoria rohingya",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/001300_israel.jpg",
   "credito_foto": "Foto: Reprodução/Vídeo enviado ao Portal ONE News",
   "fonte": "Portal ONE News",
+  "resumos": ""
+ },
+ {
+  "id": "005600_israel",
+  "data": "2026-11-21T01:03:58-03:00",
+  "titulo": "Rio das Velhas chega a 3 metros em Santa Luzia, mas ainda não oferece perigo, diz Defesa Civil",
+  "linha_fina": "Medição foi feita à 0h56 deste sábado (21/11), depois da chuva forte da noite; nível segue sendo monitorado.",
+  "categoria": "santa-luzia",
+  "texto": "<p>O Rio das Velhas atingiu o nível de 3 metros em Santa Luzia, na Região Metropolitana de Belo Horizonte, à 0h56 deste sábado (21/11), depois da chuva forte que caiu na cidade durante a noite de sexta-feira.</p>\n<p>Segundo a Defesa Civil, esse nível ainda não representa perigo para os moradores que vivem perto das margens. O rio, no entanto, segue sendo monitorado, já que a previsão é de mais chuva para o fim de semana na Grande BH.</p>\n<p>A foto feita pelo Portal ONE News mostra a água barrenta e volumosa passando sob a ponte e a régua de medição do rio, iluminada com lanterna no meio da madrugada.</p>\n<p>Na mesma noite, moradores do Conjunto Cristina voltaram a relatar o transbordamento do córrego que corta o bairro, problema que se repete sempre que as chuvas apertam em Santa Luzia.</p>\n<p>Em caso de risco, a orientação é não atravessar ruas alagadas nem se aproximar das margens do rio e dos córregos, e acionar a Defesa Civil pelo telefone 199 ou o Corpo de Bombeiros pelo 193. O Portal ONE News segue acompanhando o nível do Rio das Velhas e vai atualizando as informações.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/005600_israel.jpg",
+  "credito_foto": "Foto: Portal ONE News",
+  "fonte": "Portal ONE News e Defesa Civil",
   "resumos": ""
  }
 ]
