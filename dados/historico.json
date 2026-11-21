@@ -60352,5 +60352,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "21:21",
+  "id": "212111_158",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Câmera flagra raio atingindo postes durante temporal em Cascavel (PR)",
+  "titulo_orig": "Céu se ilumina e raio atinge poste de energia durante chuva em Cascavel",
+  "link": "https://cgn.inf.br/noticia/2240190/ceu-se-ilumina-e-raio-atinge-poste-de-energia-durante-chuva-em-cascavel",
+  "fonte": "CGN",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

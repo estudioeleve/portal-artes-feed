@@ -1,17 +1,5 @@
 [
  {
-  "id": "091408_143",
-  "data": "2026-11-19T06:17:16-03:00",
-  "titulo": "Missa de sétimo dia lembra o legado da jornalista Anna Marina, pioneira nas redações de BH",
-  "linha_fina": "Celebração foi na noite de quarta (18), no Santuário de Nossa Senhora de Fátima, no Santo Agostinho; ela morreu aos 92 anos.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Familiares, amigos e colegas de profissão se reuniram na noite desta quarta-feira (18) para a missa de sétimo dia da jornalista Anna Marina Vianna de Siqueira, colunista e editora do Estado de Minas. A celebração foi no Santuário Arquidiocesano de Nossa Senhora de Fátima, no bairro Santo Agostinho, na região Centro-Sul de Belo Horizonte.</p>\n<p>Anna Marina morreu na madrugada de 10 de novembro, aos 92 anos, em decorrência de uma infecção pulmonar. Ela estava internada no Hospital Mater Dei.</p>\n<p>A jornalista é lembrada pelo pioneirismo feminino nas redações da capital mineira, onde trabalhou por mais de seis décadas. Foi a primeira mulher jornalista dos Diários e Emissoras Associados em Belo Horizonte e, em 1969, criou o \"Caderno Feminino\".</p>\n<p>Durante a missa, a jornalista Isabela Teixeira da Costa destacou a personalidade da colega. \"Ela gostava de gente que quebrava regras\", disse, lembrando que Anna Marina dava força a pessoas talentosas e se encantava por quem fugia do convencional.</p>\n<p>A celebração reuniu homenagens e lembranças da convivência com a jornalista, que deixou uma trajetória marcante na imprensa mineira.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/091408_143.jpg",
-  "credito_foto": "Ramon Lisboa/EM/D.A.Press",
-  "fonte": "Estado de Minas",
-  "resumos": ""
- },
- {
   "id": "091355_123",
   "data": "2026-11-19T06:17:16-03:00",
   "titulo": "Sepultura, banda nascida em BH, vai lançar em 2027 álbum ao vivo com 40 músicas da turnê de despedida",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/211427_65.jpg",
   "credito_foto": "Pixabay/Imagem ilustrativa",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "212111_158",
+  "data": "2026-11-20T21:21:27-03:00",
+  "titulo": "Câmera flagra raio atingindo postes durante temporal em Cascavel (PR)",
+  "linha_fina": "Ventania também derrubou tendas no autódromo da cidade, deixou duas pessoas feridas e espalhou árvores e galhos pelas ruas.",
+  "categoria": "brasil",
+  "texto": "<p>Uma câmera de segurança registrou o momento em que uma descarga elétrica atingiu a região de postes de energia na Avenida Barão do Rio Branco, em Cascavel, no oeste do Paraná, durante o temporal da tarde desta sexta-feira (20). Nas imagens, o clarão toma conta da rua por uma fração de segundo.</p>\n<p>O registro foi enviado por moradores ao portal CGN, que recebeu vários vídeos ao longo da tarde mostrando chuva forte, rajadas de vento e raios em diferentes pontos da cidade.</p>\n<p>No Autódromo Internacional de Cascavel, a ventania derrubou tendas e danificou estruturas montadas para a corrida Cascavel de Ouro. Duas pessoas ficaram feridas e foram levadas ao hospital. Na região central, uma árvore caiu na esquina das ruas Visconde de Guarapuava e Belo Horizonte e atrapalhou o trânsito. No Jardim Veredas, a Rua Paracatu ficou tomada por galhos.</p>\n<p>Durante tempestades com raios, a orientação da Defesa Civil é procurar abrigo em locais fechados, ficar longe de postes, árvores e estruturas metálicas e evitar usar aparelhos ligados à tomada.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/212111_158.jpg",
+  "credito_foto": "Reprodução/CGN",
+  "fonte": "CGN",
   "resumos": ""
  }
 ]
