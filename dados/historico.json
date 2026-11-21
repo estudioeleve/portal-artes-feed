@@ -61038,5 +61038,33 @@
   "fonte": "Brasil 247",
   "arte": "artes/2026-11-21/071352_10.jpg",
   "media_id": "17928837702203404"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "08:17",
+  "id": "081257_25",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH tem sábado nublado, com pancadas de chuva e trovoadas; Pampulha já passa de 130% da média de novembro",
+  "titulo_orig": "BH terá um sábado nublado com chuvas isoladas; veja a previsão do tempo para hoje (21)",
+  "link": "https://www.otempo.com.br/cidades/2026/11/21/bh-tera-um-sabado-nublado-com-chuvas-isoladas-veja-a-previsao-para-hoje-21",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "08:17",
+  "id": "081458_125",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Palco da final entre Atlético e Boca, estádio de Barranquilla passou por reforma de R$ 248 milhões",
+  "titulo_orig": "De Copa cancelada à modernização: conheça o palco da Sul-Americana | Ge",
+  "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/21/de-copa-que-nao-existiu-a-modernizacao-conheca-o-estadio-da-final-da-sul-americana.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
