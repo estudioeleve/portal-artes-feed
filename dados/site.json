@@ -1,17 +1,5 @@
 [
  {
-  "id": "141508_157",
-  "data": "2026-11-19T11:18:24-03:00",
-  "titulo": "Feira de Cerâmica de Minas reúne 68 ceramistas no Mercado Central de BH com entrada gratuita",
-  "linha_fina": "39ª edição vai de 27 a 30 de novembro, com venda direta dos artistas, fornecedores de insumos, oficinas e palestras.",
-  "categoria": "comercio",
-  "texto": "<p>O Mercado Central de Belo Horizonte recebe, de 27 a 30 de novembro, a 39ª edição da Feira de Cerâmica de Minas Gerais, uma das mais tradicionais do país no segmento. O evento celebra 27 anos de história e tem entrada e atividades gratuitas.</p>\n<p>Ao todo, serão 68 ceramistas: 62 expositores profissionais e seis participantes na categoria Novos Talentos. Também estarão presentes sete fornecedores especializados de equipamentos e insumos, o que cobre diferentes etapas da cadeia produtiva da cerâmica artesanal.</p>\n<p>Além de conhecer e comprar peças diretamente dos artistas, os visitantes vão encontrar ferramentas, equipamentos, esmaltes, moldes e outros materiais usados na produção. Para quem trabalha ou quer começar no ramo, a feira reúne num só lugar fornecedores, técnicas e contato com outros profissionais.</p>\n<p>A programação dos quatro dias inclui exposição temática, palestras, oficinas com preços acessíveis e demonstrações técnicas abertas ao público. O encontro reúne diferentes gerações, de mestres ceramistas a artistas em início de carreira, vindos de Minas Gerais e de outros estados.</p>\n<p>A edição tem patrocínio da Cerâmica Cersil. Segundo a organização, ao longo de quase três décadas a feira tem ajudado a divulgar e fortalecer a cerâmica mineira, valorizando a produção artesanal e o desenvolvimento profissional de artistas e ateliês.</p>\n<p>Para os pequenos empreendedores do artesanato, a data é estratégica: a feira acontece no começo da temporada de compras de fim de ano, quando cresce a procura por presentes feitos à mão.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/141508_157.jpg",
-  "credito_foto": "Divulgação/Feira de Cerâmica de Minas Gerais",
-  "fonte": "Cenário Minas",
-  "resumos": ""
- },
- {
   "id": "141519_74",
   "data": "2026-11-19T11:18:24-03:00",
   "titulo": "Prédios centenários dos Bombeiros em BH vão abrir as portas ao público na Modernos Eternos 2027",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/092259_cana.jpg",
   "credito_foto": "Reprodução/O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "092353_44",
+  "data": "2026-11-21T09:24:20-03:00",
+  "titulo": "PM lança Operação Proteção à Vida para prevenir homicídios em Montes Claros e no Norte de Minas",
+  "linha_fina": "Ação da 11ª Região da PM reforça patrulhamento, abordagens e cumprimento de mandados nos locais e horários mais críticos.",
+  "categoria": "minas-gerais",
+  "texto": "<p>A Polícia Militar de Minas Gerais lançou nesta sexta-feira (20) a Operação Proteção à Vida, que será realizada em toda a área da 11ª Região de Polícia Militar (11ª RPM), com sede em Montes Claros, no Norte de Minas. O objetivo é intensificar o policiamento preventivo e repressivo, com foco na prevenção de homicídios e no combate à criminalidade.</p>\n<p>Em Montes Claros, o lançamento aconteceu no trevo de Cowan. A mobilização prevê o reforço da presença policial em locais e horários considerados de maior incidência de crimes, para ampliar a sensação de segurança da população.</p>\n<p>Entre as estratégias estão abordagens, patrulhamento ostensivo e cumprimento de mandados judiciais. As ações fazem parte do planejamento da corporação para fortalecer o enfrentamento à criminalidade nas cidades atendidas pela região.</p>\n<p>Segundo o coronel Welington Eduardo Mourão Ferreira, a operação reúne diferentes recursos e serviços da PM. \"A operação consiste no incremento dos nossos esforços, a partir da alocação de vários recursos da nossa malha protetora, de forma a contribuir com a presença policial, com mais abordagens e buscarmos a paz social\", afirmou.</p>\n<p>A Polícia Militar reforça que a população pode colaborar com informações pelo telefone 190, em casos de emergência, ou pelo Disque-Denúncia Unificado, no 181, de forma anônima.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/092353_44.jpg",
+  "credito_foto": "Polícia Militar",
+  "fonte": "Polícia Militar de Minas Gerais",
   "resumos": ""
  }
 ]
