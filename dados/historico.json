@@ -62536,5 +62536,19 @@
   "fonte": "www.itatiaia.com.br",
   "arte": "artes/2026-11-21/161915_ade.jpg",
   "media_id": "18082413116402658"
+ },
+ {
+  "id": "denuncia_9084",
+  "data": "2026-11-21",
+  "hora": "18:50",
+  "media_id": "18120030473110069",
+  "titulo": "Denúncia do leitor OC-2026-9084",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:9084",
+  "arte": "videos/2026-11-21/denuncia_9084.mp4"
  }
 ]
