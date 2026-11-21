@@ -61220,5 +61220,19 @@
   "fonte": "WebTerra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "09:31",
+  "id": "091917_45",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "União Europeia propõe imposto de 3% sobre receitas de big techs para bancar orçamento até 2034",
+  "titulo_orig": "União Europeia propõe taxar big techs para financiar orçamento até 2034 | G1",
+  "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/uniao-europeia-propoe-taxar-big-techs-para-financiar-orcamento-ate-2034.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-21/091917_45.jpg",
+  "media_id": "17912966100570676"
  }
 ]
