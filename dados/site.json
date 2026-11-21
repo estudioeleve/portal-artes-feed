@@ -1,17 +1,5 @@
 [
  {
-  "id": "161419_83",
-  "data": "2026-11-19T13:18:20-03:00",
-  "titulo": "Festival de dança em BH terá oficinas com 20 professores, do balé ao passinho, e espera mais de 600 alunos",
-  "linha_fina": "Corpo em Cena acontece em 28 e 29 de novembro e 1º, 5 e 6 de dezembro, no CRDança e na Academia Wanda Bambirra.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Belo Horizonte recebe, entre o fim de novembro e o começo de dezembro, a primeira edição do Festival Corpo em Cena, voltado à formação de profissionais e ao fortalecimento do mercado da dança. As atividades acontecem nos dias 28 e 29 de novembro e 1º, 5 e 6 de dezembro.</p><p>A programação será no Centro de Referência da Dança de BH (CRDança) e na Academia Wanda Bambirra. Ao todo, 20 professores participam, e a organização espera mais de 600 alunos.</p><p>Os estilos vão do balé clássico às danças urbanas: dança contemporânea, jazz, hip hop freestyle, passinho de BH, vogue, samba, forró, house, dancehall, afro dance, amapiano e West Coast. Também haverá dois laboratórios de criação coreográfica.</p><p>O festival inclui ainda o seminário \"Dança também é negócio\", que discute como o artista pode viver da dança e as oportunidades na economia criativa. Entre os nomes confirmados estão Jomar Mesquita, Rodrigo Quik, Letícia Carneiro, Dani Pavan, Marcelin do Passinho de BH e Sarah Versiani.</p><p>A coordenação é de Regina Moura, da Notom Produções Artísticas, com mais de 25 anos na produção cultural e passagens por companhias mineiras como Mimulus, Primeiro Ato e Café com Dança. As inscrições e os detalhes das oficinas estão nos canais oficiais do festival.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/161419_83.jpg",
-  "credito_foto": "Divulgação/Festival Corpo em Cena",
-  "fonte": "SouBH",
-  "resumos": ""
- },
- {
   "id": "161210_286",
   "data": "2026-11-19T13:18:21-03:00",
   "titulo": "WS do Piseiro faz show neste domingo em Matozinhos, e 90% dos ingressos já foram vendidos",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/111720_58.jpg",
   "credito_foto": "Foto: José Fernando Ogura/AEN (arquivo)",
   "fonte": "Bem Paraná",
+  "resumos": ""
+ },
+ {
+  "id": "112136_5",
+  "data": "2026-11-21T11:21:50-03:00",
+  "titulo": "Mais de 500 camelos atravessam deserto na China em migração anual de 150 km",
+  "linha_fina": "Pastores nômades conduzem os animais pelo deserto de Badain Jaran, na Mongólia Interior, em busca de pastagens para o inverno.",
+  "categoria": "mundo",
+  "texto": "<p>Mais de 500 camelos atravessaram o deserto de Badain Jaran, no norte da China, durante a migração anual realizada na região autônoma da Mongólia Interior. As imagens da fila de animais cruzando as dunas chamaram a atenção nas redes sociais.</p><p>O deslocamento é acompanhado por pastores nômades e faz parte de uma tradição de pastoreio sazonal que prepara os rebanhos para o inverno. No início de novembro, os pastores reúnem os camelos que passaram meses soltos pelo deserto, alimentando-se da vegetação nativa.</p><p>Com a chegada do frio e a redução das pastagens, os animais são conduzidos para áreas onde poderão encontrar alimento durante os meses mais rigorosos do ano. A travessia dura cerca de dez dias e percorre aproximadamente 150 quilômetros.</p><p>Além de garantir a sobrevivência do rebanho, a migração ajuda a preservar o ecossistema local, porque permite que a vegetação do deserto se recupere depois de meses de pastoreio.</p><p>Apesar de o fenômeno ser frequentemente associado à Mongólia, ele acontece na Mongólia Interior, uma região autônoma que pertence à China, e não no país independente vizinho. O deserto de Badain Jaran é conhecido por ter algumas das dunas mais altas do mundo e dezenas de pequenos lagos entre elas.</p><p>A tradição de conduzir camelos pelas dunas é mantida há gerações pelas famílias de pastores da região e se tornou também atração para fotógrafos e turistas que visitam o norte da China nesta época do ano.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/112136_5.jpg",
+  "credito_foto": "Foto: Reprodução/TV Globo",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
