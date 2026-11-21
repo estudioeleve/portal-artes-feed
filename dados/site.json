@@ -1,17 +1,5 @@
 [
  {
-  "id": "101259_62",
-  "data": "2026-11-19T07:16:57-03:00",
-  "titulo": "Haitianos vão às ruas apoiar tropas de Bukele contra gangues, mas analistas alertam para escalada",
-  "linha_fina": "El Salvador enviou mais de 2 mil militares ao Haiti; especialistas dizem que ofensivas sem plano de longo prazo podem piorar o conflito.",
-  "categoria": "mundo",
-  "texto": "<p>Milhares de haitianos marcharam nesta semana em várias cidades do país em apoio às tropas enviadas pelo presidente de El Salvador, Nayib Bukele, para combater as gangues armadas. Nas ruas, manifestantes levavam cartazes com frases como \"Viva Bukele\" e \"Abaixo as gangues\".</p>\n<p>Bukele enviou mais de 2 mil militares ao Haiti por meio de um acordo bilateral com o governo haitiano, depois que quatro integrantes salvadorenhos da força antigangues apoiada pela ONU desapareceram, em 18 de outubro. Na quarta-feira (18), ele anunciou a destruição da mansão de um chefe de gangue como parte da ofensiva e tem divulgado vídeos de forte impacto da operação.</p>\n<p>As gangues controlam grande parte da capital, Porto Príncipe, e de áreas vizinhas. Os líderes haitianos pedem ajuda estrangeira há anos, mas sucessivas missões apoiadas pela ONU tiveram dificuldade para reunir pessoal e restabelecer a segurança.</p>\n<p>Analistas do International Crisis Group alertam que a operação trouxe poucos avanços concretos quase um mês depois do início e que ofensivas de grande repercussão, sem estratégia de longo prazo nem plano de saída, podem ter o efeito contrário. Segundo eles, depois de uma ação contra o complexo de um líder de gangue, grupos armados voltaram ao local e ameaçaram moradores suspeitos de passar informações.</p>\n<p>O governo haitiano não divulgou o número de mortos nas operações recentes. Dados da ONU mostram que, das mais de 4.200 pessoas mortas no Haiti neste ano, mais da metade morreu durante ações de segurança, incluindo mais de 300 civis. O governo de El Salvador não respondeu aos pedidos de comentário.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/101259_62.jpg",
-  "credito_foto": "Clarens Siffroy/AFP",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "101313_90",
   "data": "2026-11-19T07:16:57-03:00",
   "titulo": "Dia do Empreendedorismo Feminino: mulheres pagam mais juros, mas Sebrae garante 100% do empréstimo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/222115_87.jpg",
   "credito_foto": "Reprodução/Observo",
   "fonte": "Observo",
+  "resumos": ""
+ },
+ {
+  "id": "221401_49",
+  "data": "2026-11-20T22:29:08-03:00",
+  "titulo": "Arroyo volta da seleção do Equador com dores musculares e desfalca o Cruzeiro contra a Chapecoense",
+  "linha_fina": "Atacante passou por exames nesta sexta-feira (20) e não viajou para Chapecó; clube teme que ele não jogue mais nesta reta final.",
+  "categoria": "cruzeiro",
+  "texto": "<p>O atacante Keny Arroyo voltou da seleção do Equador com dores musculares e sinais de desgaste físico e está fora do jogo do Cruzeiro contra a Chapecoense, pelo Campeonato Brasileiro. O jogador passou por exames nesta sexta-feira (20) e não viajou com a delegação para Santa Catarina.</p><p>Peça importante no time do técnico Artur Jorge, Arroyo soma 16 participações diretas em gols na temporada. Ele vai passar por novas avaliações, mas há o temor de que não volte a jogar nesta reta final do ano. O clube ainda não divulgou detalhes sobre o grau da lesão.</p><p>O desfalque aumenta a lista de baixas do Cruzeiro para a rodada, que também terá jogadores suspensos e atletas poupados por questões físicas.</p><p>O time celeste vive bom momento: está em terceiro lugar na Série A e venceu as últimas cinco partidas pelo campeonato, incluindo o 2 a 1 sobre o Palmeiras no jogo mais recente. A Chapecoense, já rebaixada para a Série B, é a lanterna da competição.</p><p>Com a disputa pelas primeiras posições ainda aberta, Artur Jorge terá de encontrar uma alternativa no ataque para manter a sequência de vitórias em Chapecó.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/221401_49.jpg",
+  "credito_foto": "Gustavo Aleixo/Cruzeiro",
+  "fonte": "Terra",
   "resumos": ""
  }
 ]
