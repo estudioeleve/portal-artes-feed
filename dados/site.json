@@ -1,17 +1,5 @@
 [
  {
-  "id": "101139_11",
-  "data": "2026-11-19T07:16:55-03:00",
-  "titulo": "BH cria política de segurança nas escolas municipais e incentiva câmeras nas entradas e nos muros",
-  "linha_fina": "Lei proíbe câmeras em salas de aula, banheiros e refeitórios e exige que a comunidade escolar seja avisada sobre a instalação.",
-  "categoria": "educacao",
-  "texto": "<p>As escolas da rede municipal de Belo Horizonte ganharam nesta quinta-feira (19) uma política própria de segurança. A Prefeitura instituiu a Política Municipal de Segurança das Escolas da Rede Própria de Ensino, que reúne ações voltadas à proteção de estudantes, profissionais da educação, famílias e de toda a comunidade escolar.</p>\n<p>Entre as medidas previstas está o incentivo à instalação de sistemas de videomonitoramento na parte externa das unidades. As câmeras devem cobrir entradas, saídas, muros e áreas de circulação, pontos considerados mais sensíveis para a segurança de quem chega e sai das escolas.</p>\n<p>A lei também define onde as câmeras não podem ser colocadas: salas de aula, banheiros, refeitórios e espaços de descanso ficam de fora. O uso das imagens terá que seguir as regras da Lei Geral de Proteção de Dados Pessoais (LGPD), e cada escola deverá informar a comunidade escolar quando instalar os equipamentos.</p>\n<p>O texto é resultado de um projeto de lei apresentado pela vereadora Professora Marli (PP) e pelo vereador Maninho Félix (PSD), aprovado pela Câmara Municipal de Belo Horizonte.</p>\n<p>Segundo a Prefeitura, o objetivo é criar um ambiente mais seguro dentro e no entorno das escolas, com ações planejadas em conjunto com a comunidade. A regulamentação deve detalhar como as unidades poderão aderir ao videomonitoramento.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/101139_11.jpg",
-  "credito_foto": "Reprodução/Rede 98",
-  "fonte": "Rede 98",
-  "resumos": ""
- },
- {
   "id": "101153_7",
   "data": "2026-11-19T07:16:56-03:00",
   "titulo": "Gambá fica preso na janela de uma casa em Formiga e é resgatado pelos bombeiros sem ferimentos",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/221356_76.jpg",
   "credito_foto": "Reprodução/O Tempo Betim",
   "fonte": "O Tempo Betim",
+  "resumos": ""
+ },
+ {
+  "id": "221322_17",
+  "data": "2026-11-20T22:20:14-03:00",
+  "titulo": "Terremoto de magnitude 6,7 atinge o centro do Peru e faz moradores deixarem as casas em Lima",
+  "linha_fina": "Tremor ocorreu a 108 km de profundidade, perto de Carhuamayo; até a última atualização não havia relato de danos ou vítimas.",
+  "categoria": "mundo",
+  "texto": "<p>Um terremoto de magnitude 6,7 foi registrado na região central do Peru nesta sexta-feira (20). Segundo o Serviço Geológico dos Estados Unidos (USGS), o epicentro ficou a cerca de 9 quilômetros a noroeste do distrito de Carhuamayo, na região de Junín.</p><p>O tremor aconteceu a 108 quilômetros de profundidade, o que costuma diminuir o impacto na superfície. Mesmo assim, ele foi sentido em Lima, a capital do país, a centenas de quilômetros do epicentro.</p><p>De acordo com a agência de notícias Reuters, moradores de Lima chegaram a deixar as casas durante o tremor, e um canal de televisão local mostrou parlamentares saindo do prédio do Congresso.</p><p>Até a última atualização, não havia relatos de danos materiais nem de vítimas. O Peru fica no chamado Círculo de Fogo do Pacífico, uma das regiões com mais atividade sísmica do planeta, onde terremotos são frequentes.</p><p>As autoridades peruanas seguem acompanhando a situação e avaliando possíveis estragos nas regiões mais próximas do epicentro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/221322_17.jpg",
+  "credito_foto": "Reprodução/USGS",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
