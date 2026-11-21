@@ -62200,5 +62200,19 @@
   "fonte": "Terra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "14:37",
+  "id": "141812_81",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Saca de café do Cerrado Mineiro é vendida por R$ 220 mil e bate recorde nacional em leilão",
+  "titulo_orig": "Saca de café atinge R$ 220 mil e estabelece recorde nacional no 14º Prêmio Região do Cerrado Mineiro | Patrocínio Online",
+  "link": "https://patrocinioonline.com.br/noticias/saca-de-cafe-atinge-r-220-mil-e-estabelece-recorde-nacional-no-14-premio-regiao-do-cerrado-mineiro",
+  "fonte": "Patrocínio Online",
+  "arte": "artes/2026-11-21/141812_81.jpg",
+  "media_id": "17897115492437560"
  }
 ]
