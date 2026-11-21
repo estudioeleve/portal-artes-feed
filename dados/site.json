@@ -1,17 +1,5 @@
 [
  {
-  "id": "173000_israel",
-  "data": "2026-11-19T17:31:36-03:00",
-  "titulo": "Santa Luzia volta a exigir máscara no Hospital Municipal, nas UPAs e nas UBSs por alta da Covid",
-  "linha_fina": "Secretaria de Saúde também pede que pessoas com sintomas gripais não visitem nem acompanhem pacientes.",
-  "categoria": "santa-luzia",
-  "texto": "<p>A Prefeitura de Santa Luzia, por meio da Secretaria Municipal de Saúde, informou nesta quinta-feira (19) que o uso de máscara passa a ser obrigatório nas unidades de saúde do município. A medida foi adotada diante do aumento de casos de Covid-19 nas cidades da Região Metropolitana de Belo Horizonte.</p><p>A exigência vale para o Hospital Municipal Madalena Calixto, para as Unidades de Pronto Atendimento (UPAs) e para as Unidades Básicas de Saúde (UBSs) da cidade.</p><p>A Secretaria também reforçou a recomendação para que pessoas com sintomas gripais não visitem pacientes no hospital e não acompanhem pacientes nas outras unidades. Segundo a pasta, o objetivo é evitar a transmissão de doenças respiratórias para os pacientes e para os profissionais que atuam na assistência.</p><p>\"A prevenção é um cuidado coletivo. Proteja-se e proteja quem está ao seu redor\", diz o comunicado da Prefeitura.</p><p>Outras cidades da Grande BH, como Contagem e São José da Lapa, também voltaram a exigir máscara em unidades de saúde nos últimos dias por causa do crescimento dos casos da doença.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/173000_israel.jpg",
-  "credito_foto": "Divulgação/Prefeitura de Santa Luzia",
-  "fonte": "Prefeitura de Santa Luzia",
-  "resumos": ""
- },
- {
   "id": "201733_3",
   "data": "2026-11-19T17:32:54-03:00",
   "titulo": "Feriadão deve levar 257 mil veículos à BR-040 entre BH e Juiz de Fora; veja os horários de pico",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/143815_28.jpg",
   "credito_foto": "Antônio Cruz/Agência Brasil",
   "fonte": "A Crítica de Campo Grande",
+  "resumos": ""
+ },
+ {
+  "id": "143929_18",
+  "data": "2026-11-21T14:39:40-03:00",
+  "titulo": "Lula defende ajuste fiscal e critica mercado: \"O sistema financeiro não vai me ensinar a dirigir o Brasil\"",
+  "linha_fina": "Em live com André Janones, presidente disse que ajuste não corta programas sociais; texto aprovado no Senado vai à Câmara na próxima semana.",
+  "categoria": "politica",
+  "texto": "<p>O presidente Luiz Inácio Lula da Silva defendeu neste sábado (21), durante uma live nas redes sociais, o projeto de ajuste fiscal do governo e criticou o mercado financeiro por, segundo ele, questionar a seriedade do governo com o gasto público. \"Não é o sistema financeiro que vai me ensinar a dirigir o país\", afirmou.</p>\n<p>O texto do ajuste já foi aprovado pelo Senado e deve ser analisado pela Câmara dos Deputados na próxima semana. A previsão é reduzir despesas e aumentar a arrecadação, com economia estimada entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027, segundo a Agência Brasil.</p>\n<p>\"O mercado sabe porque me conhece, eu fui o presidente que mais fiz superávit primário nesse país. O que eu não posso ficar aceitando é que esse bando de yuppie da Faria Lima fique querendo, toda hora, questionar a seriedade do governo\", disse Lula, em referência a profissionais do mercado financeiro de São Paulo.</p>\n<p>A transmissão foi comandada pelo deputado federal André Janones (Rede-MG) e gravada na Granja do Torto, em Brasília. Na live, o presidente também rebateu críticas de lideranças da própria esquerda, que questionaram o ajuste por reduzir despesas. Segundo Lula, não houve uma reforma fiscal, mas um ajuste para garantir controle sobre o orçamento do ano que vem.</p>\n<p>O presidente afirmou que, em nenhuma hipótese, vai tirar recursos dos mais pobres. De acordo com ele, cerca de R$ 33 bilhões do ajuste virão da redução de isenções fiscais e de limites a compensações tributárias de grandes empresas, sem corte de programas sociais. Lula elogiou o ministro do Planejamento, Bruno Moretti, responsável pelo desenho da proposta.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/143929_18.jpg",
+  "credito_foto": "Ricardo Stuckert/PR",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
