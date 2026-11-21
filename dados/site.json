@@ -1,17 +1,5 @@
 [
  {
-  "id": "101313_90",
-  "data": "2026-11-19T07:16:57-03:00",
-  "titulo": "Dia do Empreendedorismo Feminino: mulheres pagam mais juros, mas Sebrae garante 100% do empréstimo",
-  "linha_fina": "Brasil tem 10,4 milhões de empreendedoras; pelo Fampe, o Sebrae dá aval integral a negócios liderados por mulheres.",
-  "categoria": "comercio",
-  "texto": "<p>Nesta quinta-feira (19), Dia Internacional do Empreendedorismo Feminino, os números mostram que as mulheres ocupam cada vez mais espaço nos negócios, mas ainda enfrentam mais dificuldade para conseguir crédito. Segundo a PNAD Contínua, do IBGE, o país tem hoje 10,4 milhões de empreendedoras, contra 8,2 milhões em 2014, quando a data foi criada pela ONU.</p>\n<p>Levantamentos do Sebrae apontam que o empreendedorismo feminino cresceu cerca de 27% em dez anos, enquanto o masculino avançou perto de 11%. Mesmo assim, segundo a diretora de Administração e Finanças do Sebrae, Margarete Coelho, as mulheres pagam cerca de 4% a mais de juros, enfrentam mais exigências e respondem por menos de 26% do crédito concedido, apesar de serem mais adimplentes.</p>\n<p>Para reduzir essa diferença, o Sebrae passou a garantir 100% dos empréstimos de negócios liderados por mulheres por meio do Fundo de Aval das Micro e Pequenas Empresas (Fampe). A iniciativa ajudou a destravar mais de R$ 1 bilhão em crédito para empreendedoras em 2025 e 2026. A instituição também oferece consultoria, mentoria e o programa Sebrae Delas, presente em todos os estados.</p>\n<p>Pesquisa da Associação Brasileira de Empresas de Vendas Diretas (Abevd) mostra ainda que 5,3 milhões de mulheres são nanoempreendedoras, categoria criada na reforma tributária para quem fatura até R$ 55 mil por ano, como quem vende doces, semijoias ou atende como manicure.</p>\n<p>Para a empreendedora de Santa Luzia e da região que quer crédito, o caminho é procurar o Sebrae Minas ou uma instituição financeira credenciada ao Fampe e pedir a garantia do fundo. Em Minas, o BDMG também tem linha especial para mulheres.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/101313_90.jpg",
-  "credito_foto": "Reprodução/Correio Braziliense",
-  "fonte": "Correio Braziliense",
-  "resumos": ""
- },
- {
   "id": "101826_a-19",
   "data": "2026-11-19T07:19:36-03:00",
   "titulo": "Noroeste, Pampulha e Barreiro seguem em alerta de deslizamento em quinta de chuva em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/221401_49.jpg",
   "credito_foto": "Gustavo Aleixo/Cruzeiro",
   "fonte": "Terra",
+  "resumos": ""
+ },
+ {
+  "id": "224500_israel",
+  "data": "2026-11-20T23:07:44-03:00",
+  "titulo": "Preso é diagnosticado com Covid no Presídio de Santa Luzia e companheiros de cela são isolados",
+  "linha_fina": "Homem de 56 anos foi levado à UPA São Benedito e teve a infecção confirmada; outros presos da mesma cela também apresentaram sintomas.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Um homem de 56 anos que está preso no Presídio de Santa Luzia, no bairro Palmital, foi diagnosticado com Covid-19 nesta sexta-feira (20). Segundo informações apuradas pelo Portal ONE News, ele foi preso por tráfico de drogas e deu entrada na unidade há oito dias.</p><p>O preso começou a apresentar sintomas da doença nesta semana. Como o estado de saúde dele piorou, ele foi levado nesta sexta-feira à UPA São Benedito, onde fez exames que confirmaram a infecção pelo coronavírus.</p><p>Ele dividia a cela com outros 14 presos. Parte deles também apresentou sintomas da Covid, e por isso os envolvidos foram isolados dentro da unidade.</p><p>Ainda segundo as informações recebidas pelo Portal, as condições do presídio favorecem a transmissão do vírus entre os presos e também entre os servidores: a unidade, que tem hoje cerca de 130 presos, enfrenta superlotação, pouca ventilação e alta rotatividade de pessoas. A possibilidade é de que o presídio seja interditado se novos casos forem confirmados.</p><p>O caso acontece em meio à alta da Covid na Grande BH. Nesta semana, a Prefeitura de Santa Luzia voltou a exigir o uso de máscara no Hospital Municipal, nas UPAs e nas UBSs. O Portal ONE News procura a Secretaria de Estado de Justiça e Segurança Pública (Sejusp) e a Polícia Penal para comentar a situação, e o espaço segue aberto.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/224500_israel.jpg",
+  "credito_foto": "Reprodução/Google Street View",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
