@@ -1,17 +1,5 @@
 [
  {
-  "id": "211655_29",
-  "data": "2026-11-19T18:20:07-03:00",
-  "titulo": "Prefeitura de Confins revê contratos e discute plano para conter gastos após decreto de contingenciamento",
-  "linha_fina": "Secretaria de Administração se reuniu com assessoria para alinhar medidas do decreto publicado na semana passada.",
-  "categoria": "politica",
-  "texto": "<p>A Prefeitura de Confins, na Região Metropolitana de Belo Horizonte, está revisando contratos e discutindo novas medidas para controlar as despesas do município. Na segunda-feira (16), o secretário municipal de Administração, Paulo Hélio, se reuniu com representantes da empresa Sigma Tecnologia e Assessoria Ltda. para alinhar as estratégias do plano de contingenciamento financeiro adotado pelo Executivo.</p><p>Segundo a administração municipal, o encontro faz parte de uma série de agendas voltadas à avaliação dos contratos vigentes e à busca de alternativas que permitam aplicar melhor os recursos disponíveis. A proposta é fortalecer os mecanismos de eficiência fiscal e adequar os gastos às diretrizes definidas pela gestão.</p><p>As discussões seguem o Decreto de Contingenciamento de Gastos, publicado pela Prefeitura na semana anterior, que orienta as medidas adotadas para controlar as despesas e manter o equilíbrio das contas públicas.</p><p>De acordo com a Prefeitura, a iniciativa integra o planejamento administrativo do município e busca garantir uma gestão responsável do dinheiro público, com acompanhamento dos compromissos financeiros e uso eficiente do orçamento.</p><p>Confins não é a única cidade da região a adotar medidas de contenção neste fim de ano. Prefeituras vizinhas do Vetor Norte, como Santa Luzia e Vespasiano, também publicaram decretos de corte de gastos nas últimas semanas, diante da pressão sobre as contas municipais.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/211655_29.jpg",
-  "credito_foto": "Divulgação/Prefeitura de Confins",
-  "fonte": "Jornal Panorama Minas",
-  "resumos": ""
- },
- {
   "id": "211650_160",
   "data": "2026-11-19T18:20:53-03:00",
   "titulo": "Carreta tomba na BR-381 em Brumadinho, espalha carga pela pista e provoca fila de 6 km",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/161914_hao.jpg",
   "credito_foto": "Reprodução/Itatiaia",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "162300_tado",
+  "data": "2026-11-21T16:23:23-03:00",
+  "titulo": "Minas já investiu R$ 220 milhões contra a seca no Norte e nos vales do Jequitinhonha e do Mucuri",
+  "linha_fina": "Programa Encontro das Águas atendeu mais de 796 mil pessoas em 258 cidades com cisternas, carros-pipa, cartões humanitários e kits de abastecimento",
+  "categoria": "minas-gerais",
+  "texto": "<p>O Governo de Minas já aplicou mais de R$ 220 milhões em projetos para reduzir os danos da seca no Norte de Minas e nos vales do Jequitinhonha e do Mucuri, segundo balanço da Coordenadoria Estadual de Defesa Civil (Cedec).</p><p>O dinheiro faz parte do programa Encontro das Águas, braço operacional do Plano Estadual de Enfrentamento à Seca e Estiagem, que vai até 2031. De acordo com o Estado, mais de 796 mil pessoas de 258 cidades foram atendidas, tanto com medidas de urgência, como transporte e distribuição de água potável e os cartões humanitários do SOS Águas, quanto com ações permanentes, como cisternas para guardar água da chuva e kits de abastecimento e de energia solar.</p><p>Dos R$ 600 milhões previstos para a primeira edição do programa, mais de R$ 220 milhões já foram investidos em 13 projetos de várias secretarias, com 163.820 itens entregues. Até dezembro, a previsão é destinar mais R$ 69 milhões e comprar quase 20 mil itens, para atender 167 cidades.</p><p>Uma das beneficiadas é a moradora Sônia Eleny Carvalho Santos, da comunidade de Fazenda Onça, em Bocaiúva, que recebeu uma cisterna de 16 mil litros. Ela conta que antes faltava água para beber, cozinhar, lavar roupa e tomar banho, e que agora a família consegue manter a rotina dentro de casa.</p><p>Para o coordenador estadual de Defesa Civil, coronel Paulo Roberto Bermudes Rezende, a ideia é ir além da ajuda humanitária e deixar estruturas que tornem as comunidades do semiárido mais preparadas para conviver com a estiagem.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/162300_tado.jpg",
+  "credito_foto": "Cedec/Divulgação",
+  "fonte": "Agência Minas",
   "resumos": ""
  }
 ]
