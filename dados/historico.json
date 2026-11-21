@@ -61822,5 +61822,47 @@
   "fonte": "Redes sociais do prefeito",
   "arte": "artes/2026-11-21/124500_upa.jpg",
   "media_id": "17922744720466082"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "12:41",
+  "id": "122306_9",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Rouco há quase um mês, Lula diz que faz fono duas vezes por dia e que exames não acharam nada",
+  "titulo_orig": "Lula diz que faz fono duas vezes ao dia para recuperar a voz",
+  "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-faz-fono-duas-vezes-ao-dia-para-recuperar-a-voz/",
+  "fonte": "Poder360",
+  "arte": "artes/2026-11-21/122306_9.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "12:41",
+  "id": "122338_109",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula estuda fundir os ministérios da Justiça e dos Direitos Humanos no novo mandato",
+  "titulo_orig": "Planalto estuda fusão de ministérios da Justiça e Direitos Humanos | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/planalto-estuda-fusao-de-ministerios-da-justica-e-direitos-humanos/",
+  "fonte": "CNN Brasil",
+  "arte": "artes/2026-11-21/122338_109.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "12:50",
+  "id": "122216_138",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Gestão com apoio do Sebrae faz região de São Gotardo virar referência em hortifrúti em Minas",
+  "titulo_orig": "Com apoio do Sebrae Minas, São Gotardo cresce como referência em hortifrúti | Rede globo",
+  "link": "https://redeglobo.globo.com/mg/tvintegracao/especial-publicitario/sebrae-minas/noticia/com-apoio-do-sebrae-minas-sao-gotardo-cresce-como-referencia-em-hortifruti.ghtml",
+  "fonte": "Globo",
+  "arte": "artes/2026-11-21/122216_138.jpg",
+  "media_id": "18081589934771743"
  }
 ]
