@@ -61668,5 +61668,19 @@
   "fonte": "Faça sua denúncia",
   "link": "denuncia:8947",
   "arte": "videos/2026-11-21/denuncia_8947.mp4"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "12:28",
+  "id": "122145_0",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Bilhete deixado em ônibus queimado em BH ameaça novos ataques e cobra o governador eleito",
+  "titulo_orig": "Ônibus é incendiado no Alto Caiçaras, em BH, e 190 ficam sem energia | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/21/onibus-e-incendiado-em-bh-e-deixa-cerca-de-190-clientes-sem-energia.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-21/122145_0.jpg",
+  "media_id": "17959508007268808"
  }
 ]
