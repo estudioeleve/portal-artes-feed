@@ -62214,5 +62214,33 @@
   "fonte": "Patrocínio Online",
   "arte": "artes/2026-11-21/141812_81.jpg",
   "media_id": "17897115492437560"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "14:39",
+  "id": "143808_1",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula diz que falou por mais de 1h30 com Trump, Xi e Putin e sugeriu que os três se reunissem",
+  "titulo_orig": "Lula diz que falou por 1h30 com Trump, Xi e Putin e sugeriu reunião",
+  "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-falou-mais-de-1h30-com-trump-xi-e-putin-e-sugeriu-encontro/",
+  "fonte": "Poder360",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "14:39",
+  "id": "143815_28",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Governo federal prepara protocolo para combater casamento infantil e identificar uniões de crianças",
+  "titulo_orig": "Governo Federal prepara novas ações para combater casamento infantil - A Crítica de Campo Grande",
+  "link": "https://acritica.net/justica/direitos-humanos/governo-tera-novas-acoes-para-combater-casamento-infantil/",
+  "fonte": "A Crítica de Campo Grande",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
