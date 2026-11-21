@@ -1,17 +1,5 @@
 [
  {
-  "id": "182356_66",
-  "data": "2026-11-19T15:30:37-03:00",
-  "titulo": "Festival Kizomba, que seria nesta sexta em Betim, é adiado por causa da previsão de mais chuva",
-  "linha_fina": "Evento do Dia da Consciência Negra seria na Arca Betim; nova data e local ainda serão definidos.",
-  "categoria": "betim",
-  "texto": "<p>O 18º Festival de Cultura Brasileira Kizomba, que seria realizado nesta sexta-feira (20), feriado do Dia Nacional da Consciência Negra, foi adiado por causa da possibilidade de mais chuvas em Betim, na Grande BH. A decisão foi anunciada pela organização nas redes sociais.</p><p>Segundo a Associação Cultural Afro-Brasileira Betim Cor Brazil, responsável pelo evento, a prioridade é garantir a segurança de artistas, público, expositores, trabalhadores e demais participantes. Como a celebração acontece em espaço aberto, a entidade afirma que é preciso assegurar condições adequadas para as atividades.</p><p>A edição deste ano estava prevista para as 10h às 17h, na Arca Betim, com entrada gratuita. O tema escolhido foi \"Gurufim\", uma homenagem à tradição cultural afro-brasileira ligada à despedida, à memória e à celebração da vida de quem já partiu. A programação também reconheceria personalidades que ajudaram a construir o Movimento Negro em Betim e a fundar a associação, que atua há mais de 25 anos no município.</p><p>Estavam previstos desfile de moda afro, feira de empreendedores, troca de livros de literatura negra, apresentações culturais e shows com Celso Moretti e Banda Barraco de Aluguel, Letícia Reis e Grupo Feijoada Completa e Bloco Uaixé, com samba, axé, MPB, reggae e hip-hop. O festival também teria batalhas de slam, hip-hop e poesia.</p><p>A nova data e o novo local da programação ainda serão definidos e devem ser divulgados pela organização nos próximos dias.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/182356_66.jpg",
-  "credito_foto": "Reprodução/O Tempo Betim",
-  "fonte": "O Tempo Betim",
-  "resumos": ""
- },
- {
   "id": "182156_23",
   "data": "2026-11-19T15:30:37-03:00",
   "titulo": "Robótica de alunos de escolas públicas de Caeté conquista prêmio nos Estados Unidos",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/122450_78.jpg",
   "credito_foto": "Foto: Rafael Terra/BSOP",
   "fonte": "ge",
+  "resumos": ""
+ },
+ {
+  "id": "123900_corpo",
+  "data": "2026-11-21T12:38:40-03:00",
+  "titulo": "Moradores relatam corpo carbonizado perto de campo no Jardim dos Comerciários, em BH",
+  "linha_fina": "Segundo moradores, corpo de um homem estaria abaixo do córrego perto do campo Nova Iorque; PM e Bombeiros estão no local.",
+  "categoria": "venda-nova",
+  "texto": "<p>Moradores do bairro Jardim dos Comerciários, na região de Venda Nova, em Belo Horizonte, relataram neste sábado (21) que um corpo carbonizado foi encontrado perto do campo Nova Iorque.</p>\n<p>Segundo as primeiras informações passadas por moradores que estão no local, ainda não confirmadas oficialmente, o corpo estaria logo abaixo do córrego que passa próximo ao campo e aparentemente seria de um homem.</p>\n<p>Imagens enviadas ao Portal ONE News mostram viaturas da Polícia Militar e do Corpo de Bombeiros na rua de acesso ao campo, com a área isolada por fita e militares no barranco às margens do córrego.</p>\n<p>Até a última atualização, a identidade da vítima, a causa da morte e as circunstâncias do caso não haviam sido informadas pelas autoridades. Casos como este costumam ser encaminhados à perícia da Polícia Civil, responsável pela investigação.</p>\n<p>O Portal ONE News segue apurando as informações e atualiza esta matéria assim que houver confirmação oficial.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/123900_corpo.jpg",
+  "credito_foto": "Foto: Reprodução/Moradores",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
