@@ -1,39 +1,38 @@
 [
  {
-  "id": 8057,
-  "protocolo": "OC-2026-8057",
+  "id": 8947,
+  "protocolo": "OC-2026-8947",
   "instagram_formato": "reels",
   "midia_tipo": "video",
-  "relato": "População pede atenção urgente. Bairro Moreira. Devido o muro caiu com a ultima chuva forte e fechou o atalho do bairro",
-  "anonima": true,
-  "nome": "",
+  "relato": "Vila da luz as margens da br 381\r\nVim aqui até a Vila da Luz, às margens da BR-381, para mostrar a situação que cada dia mais está preocupante. E vereadores de Belo Horizonte, ninguém vem aqui tentar ajudar famílias que, além de correr risco dos acidentes aqui também, não tem dignidade quanto à moradia. Fica aí o registro.",
+  "anonima": false,
+  "nome": "Fabrício Bom Pastor",
   "cidade": null,
   "bairro": null,
-  "moldura": "Portal Luziense",
-  "titulo": "Muro desaba após chuva forte e fecha atalho no bairro Moreira, em Santa Luzia",
+  "moldura": "Portal ONE News",
+  "titulo": "Morador mostra famílias em situação precária na Vila da Luz, às margens da BR-381, em BH",
   "data": null,
   "extra": {
-   "editoria": "Denúncia · Moreira",
+   "editoria": "Denúncia · Belo Horizonte",
    "tipo": "denuncia",
    "tipo_nome": "Denúncia",
    "cabecalho": "📢 DENÚNCIA DO LEITOR",
-   "assinatura": "",
-   "local": "Bairro moreira enfrente o VESP rua Modestino moreira enfrente o clube Vesp",
+   "assinatura": "Denúncia feita por Fabrício Bom Pastor",
+   "local": "",
    "posicionamento": "",
    "foto_url": "",
    "videos_url": [
-    "https://portalonenews.com.br/wp-content/uploads/2026/11/20261119_101629.mp4",
-    "https://portalonenews.com.br/wp-content/uploads/2026/11/20261119_100806.mp4",
-    "https://portalonenews.com.br/wp-content/uploads/2026/11/20261119_100530.mp4"
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-21-at-11.58.34.mp4",
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/13647713-0e9a-448e-a21f-c3ca21e40861.mov"
    ],
-   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-8057-1795187532-site.png",
-   "materia_url": "https://portalonenews.com.br/santa-luzia/muro-desaba-apos-chuva-forte-e-fecha-atalho-no-bairro-moreira-em-santa-luzia/",
+   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-8947-1795274017-site.png",
+   "materia_url": "https://portalonenews.com.br/denuncias/morador-mostra-familias-em-situacao-precaria-na-vila-da-luz-as-margens-da-br-381-em-bh/",
    "instagram": "pendente"
   },
-  "videos": 3,
-  "arquivo": "videos/2026-11-20/denuncia_8057.mp4",
-  "duracao": 38.2,
-  "quadro": "fotos/denuncias/8057_quadro.jpg",
+  "videos": 2,
+  "arquivo": "videos/2026-11-21/denuncia_8947.mp4",
+  "duracao": 30.1,
+  "quadro": "fotos/denuncias/8947_quadro.jpg",
   "acao": "create_video_post"
  }
 ]
