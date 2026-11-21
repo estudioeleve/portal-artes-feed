@@ -60520,5 +60520,19 @@
   "fonte": "Home - Observo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "22:28",
+  "id": "221322_17",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Terremoto de magnitude 6,7 atinge o centro do Peru e faz moradores deixarem as casas em Lima",
+  "titulo_orig": "Peru registra terremoto de magnitude 6,7; tremor foi sentido em Lima | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/20/peru-registra-terremoto-de-magnitude-67-tremor-foi-sentido-em-lima.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-20/221322_17.jpg",
+  "media_id": "17914659990574450"
  }
 ]
