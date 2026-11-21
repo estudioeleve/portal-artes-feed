@@ -1,17 +1,5 @@
 [
  {
-  "id": "211650_160",
-  "data": "2026-11-19T18:20:53-03:00",
-  "titulo": "Carreta tomba na BR-381 em Brumadinho, espalha carga pela pista e provoca fila de 6 km",
-  "linha_fina": "Acidente foi por volta das 6h30 no km 525, sentido São Paulo; motorista não se feriu e faixa da direita foi bloqueada.",
-  "categoria": "regiao-metropolitana",
-  "texto": "<p>O tombamento de uma carreta provocou cerca de 6 quilômetros de congestionamento na BR-381, em Brumadinho, na Região Metropolitana de Belo Horizonte, na manhã desta quinta-feira (19). O acidente aconteceu por volta das 6h30, na altura do km 525, no sentido São Paulo.</p><p>Com o tombamento, parte da carga transportada caiu sobre a pista. Segundo a concessionária Motiva MinasSP, responsável pelo trecho, o motorista não se feriu e recusou ser levado para uma unidade de saúde.</p><p>Para permitir a retirada do material, a faixa da direita foi bloqueada, e os veículos que seguiam em direção a São Paulo passaram a circular apenas pela faixa da esquerda. A redução da capacidade da pista levou à formação de uma fila de aproximadamente 6 quilômetros.</p><p>As equipes de operação e resgate da concessionária sinalizaram a área, organizaram o fluxo de veículos, orientaram os motoristas e fizeram a limpeza da pista atingida pela carga. O trabalho também incluiu o apoio para a remoção da carreta e a liberação da faixa interditada.</p><p>A concessionária orientou os motoristas a reduzir a velocidade ao se aproximar do local e a respeitar a sinalização. O alerta vale ainda mais neste feriado prolongado da Consciência Negra, quando o movimento nas rodovias que cortam a Grande BH deve aumentar.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/211650_160_b.jpg",
-  "credito_foto": "Reprodução/BH 24 Horas",
-  "fonte": "BH 24 Horas",
-  "resumos": ""
- },
- {
   "id": "211642_59",
   "data": "2026-11-19T18:21:46-03:00",
   "titulo": "Sem ar-condicionado e sem janelas, ônibus do Move Metropolitano circula de portas abertas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/095001_israel.jpg",
   "credito_foto": "Polícia Militar",
   "fonte": "Polícia Militar (35º BPM)",
+  "resumos": ""
+ },
+ {
+  "id": "final-sula-aovivo",
+  "data": "2026-11-21T19:13:40-03:00",
+  "titulo": "AO VIVO: Atlético x Boca Juniors pela final da Sul-Americana",
+  "linha_fina": "Galo escalado, manto da decisão e bastidores em Barranquilla; acompanhe a cobertura especial do Portal ONE News",
+  "categoria": "atletico",
+  "texto": "<p><strong>AO VIVO</strong> — O Portal ONE News faz a cobertura especial da final da CONMEBOL Sul-Americana entre Atlético e Boca Juniors, neste sábado (21), às 19h30 (de Brasília), no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia. Acompanhe também lance a lance no Instagram @portalonenews.</p>\n<h2>Galo escalado</h2>\n<p>O técnico Eduardo Domínguez definiu o Atlético com Éverson; Natanael, Ruan, Vitão, Renan Lodi e Kauã Pascini; Kevin Castaño, Mamady Cissé, Fred e Bernard; Tomás Cuello. Sem centroavante de ofício, Bernard deve atuar mais adiantado. Alan Franco, suspenso, está fora.</p>\n<h2>O manto da decisão</h2>\n<p>O Galo entra em campo com o tradicional uniforme preto e branco. A novidade é um patrocinador exclusivo para esta partida, depois da saída das casas de apostas, que eram patrocinadoras master do Atlético e de outros clubes do Brasil.</p>\n<h2>Chegada e aquecimento</h2>\n<p>O elenco atleticano já chegou ao Roberto Meléndez e o time está em campo no aquecimento. O Atlético busca o título inédito da Sul-Americana, depois de perder a final do ano passado para o Lanús. O Boca, campeão em 2004 e 2005, tenta o tricampeonato.</p>\n<p><em>Esta matéria é atualizada durante o jogo.</em></p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/final-sula-aovivo.jpg",
+  "credito_foto": "Foto: Divulgação/Atlético",
+  "fonte": "",
   "resumos": ""
  }
 ]
