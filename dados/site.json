@@ -1,17 +1,5 @@
 [
  {
-  "id": "211642_59",
-  "data": "2026-11-19T18:21:46-03:00",
-  "titulo": "Sem ar-condicionado e sem janelas, ônibus do Move Metropolitano circula de portas abertas",
-  "linha_fina": "Passageiro registrou a situação na linha 518R, entre Contagem e a Estação Vilarinho; DER-MG vai notificar o consórcio.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Passageiros da linha 518R do Move Metropolitano, que liga a Cidade Industrial, em Contagem, à Estação Vilarinho, em Venda Nova, Belo Horizonte, enfrentaram calor e desconforto na tarde desta quinta-feira (19). Um usuário que fez todo o trajeto denunciou que o ônibus de prefixo 50151 circulava com as portas abertas por causa de uma falha no ar-condicionado.</p><p>O veículo é do modelo que não tem janelas, e a ventilação depende apenas do sistema de refrigeração. Sem ele, a saída encontrada foi rodar com as portas abertas. A situação foi gravada pelo passageiro, que pediu para não ser identificado.</p><p>Ele chamou o ônibus de \"carroça\" e reclamou do valor da passagem, de mais de R$ 8, para viajar num coletivo sem ar, sem janela e em mau estado de conservação, num dia de calor forte na capital.</p><p>Em nota, o Departamento de Estradas de Rodagem de Minas Gerais (DER-MG), responsável pelas linhas do Move Metropolitano, informou que vai notificar o consórcio que opera a 518R. O ônibus também vai passar por vistoria, e as irregularidades encontradas serão convertidas em infrações, conforme o regulamento do transporte coletivo metropolitano.</p><p>O órgão afirmou que mantém fiscalização rotineira nas linhas e também age a partir das reclamações enviadas pelos passageiros. As queixas podem ser registradas na Ouvidoria-Geral do Estado pelo telefone 162, pelo WhatsApp (31) 3915-2022, pelo aplicativo MGApp ou pelo site ouvidoriageral.mg.gov.br.</p><p>O Sindicato das Empresas de Transporte de Passageiros Metropolitano (Sintram) foi procurado pela imprensa e ainda não havia se manifestado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/211642_59.jpg",
-  "credito_foto": "Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "211702_0",
   "data": "2026-11-19T18:21:46-03:00",
   "titulo": "Minas apresenta na COP31, na Turquia, ações para conciliar produção rural e preservação ambiental",
@@ -4794,6 +4782,18 @@
   "linha_fina": "Galo escalado, manto da decisão e bastidores em Barranquilla; acompanhe a cobertura especial do Portal ONE News",
   "categoria": "atletico",
   "texto": "<p><strong>AO VIVO</strong> — O Portal ONE News faz a cobertura especial da final da CONMEBOL Sul-Americana entre Atlético e Boca Juniors, neste sábado (21), às 19h30 (de Brasília), no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia. Acompanhe também lance a lance no Instagram @portalonenews.</p>\n<h2>Galo escalado</h2>\n<p>O técnico Eduardo Domínguez definiu o Atlético com Éverson; Natanael, Ruan, Vitão, Renan Lodi e Kauã Pascini; Kevin Castaño, Mamady Cissé, Fred e Bernard; Tomás Cuello. Sem centroavante de ofício, Bernard deve atuar mais adiantado. Alan Franco, suspenso, está fora.</p>\n<h2>O manto da decisão</h2>\n<p>O Galo entra em campo com o tradicional uniforme preto e branco. A novidade é um patrocinador exclusivo para esta partida, depois da saída das casas de apostas, que eram patrocinadoras master do Atlético e de outros clubes do Brasil.</p>\n<h2>Chegada e aquecimento</h2>\n<p>O elenco atleticano já chegou ao Roberto Meléndez e o time está em campo no aquecimento. O Atlético busca o título inédito da Sul-Americana, depois de perder a final do ano passado para o Lanús. O Boca, campeão em 2004 e 2005, tenta o tricampeonato.</p>\n<p><em>Esta matéria é atualizada durante o jogo.</em></p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/final-sula-aovivo.jpg",
+  "credito_foto": "Foto: Divulgação/Atlético",
+  "fonte": "",
+  "resumos": ""
+ },
+ {
+  "id": "final-sula-gol-boca-16",
+  "data": "2026-11-21T19:48:38-03:00",
+  "titulo": "Boca abre o placar contra o Atlético na final da Sul-Americana",
+  "linha_fina": "Ascacíbar marca aos 16 minutos do primeiro tempo, após cobrança de escanteio, em Barranquilla",
+  "categoria": "atletico",
+  "texto": "<p>O Boca Juniors abriu o placar contra o Atlético aos 16 minutos do primeiro tempo da final da CONMEBOL Sul-Americana, neste sábado (21), no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia. Santiago Ascacíbar aproveitou a cobrança de escanteio e finalizou de dentro da área.</p><p>Atlético 0x1 Boca Juniors. Acompanhe o placar ao vivo aqui no site e lance a lance no Instagram @portalonenews.</p>",
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/final-sula-aovivo.jpg",
   "credito_foto": "Foto: Divulgação/Atlético",
   "fonte": "",
