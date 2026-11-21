@@ -1,17 +1,5 @@
 [
  {
-  "id": "121245_17",
-  "data": "2026-11-19T09:20:48-03:00",
-  "titulo": "Soledade de Minas troca alimentos por passagens do Trem de Natal; veja quanto vale cada item",
-  "linha_fina": "Troca será na segunda-feira (23), às 19h, na Estação Ferroviária; o passeio sai de São Lourenço em 4 de dezembro.",
-  "categoria": "minas-gerais",
-  "texto": "<p>A Prefeitura de Soledade de Minas, no Sul do estado, vai trocar alimentos não perecíveis por passagens do Trem de Natal. A troca será na segunda-feira (23), às 19h, na Estação Ferroviária da cidade, e tudo o que for arrecadado vai para famílias em situação de vulnerabilidade social do município.</p>\n<p>Cada alimento vale uma quantidade de passagens: cinco quilos de arroz dão direito a uma passagem; dois quilos de feijão, a duas; um quilo de café, a uma; cinco quilos de açúcar, a uma; dois quilos de macarrão, a quatro; 900 ml de óleo, a duas; e 400 gramas de achocolatado, a duas.</p>\n<p>Os produtos precisam estar lacrados, na embalagem original, dentro da validade e em bom estado. Não serão aceitos feijão-fradinho nem feijão descascado ou quebrado.</p>\n<p>Pessoas com deficiência, pessoas com Transtorno do Espectro Autista (TEA), idosos a partir de 60 anos e gestantes terão prioridade na fila. O acompanhante de pessoa com deficiência ou com TEA pode ficar na fila junto, mas cada um precisa levar seus alimentos para trocar.</p>\n<p>O passeio do Trem de Natal está marcado para sexta-feira, 4 de dezembro, com saída às 19h da Estação de São Lourenço. A prefeitura vai oferecer ônibus saindo de Soledade de Minas às 17h30 até a estação, só na ida.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/121245_17.jpg",
-  "credito_foto": "Reprodução/Itatiaia",
-  "fonte": "Itatiaia",
-  "resumos": ""
- },
- {
   "id": "121401_43",
   "data": "2026-11-19T09:20:49-03:00",
   "titulo": "PM prende homem de 57 anos suspeito de agredir mulher em Divinópolis após denúncia na Delegacia da Mulher",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/061643_0.jpg",
   "credito_foto": "Reprodução/TV Globo",
   "fonte": "g1 Minas",
+  "resumos": ""
+ },
+ {
+  "id": "062254_8",
+  "data": "2026-11-21T06:23:06-03:00",
+  "titulo": "Líder invicto da Superliga, Cruzeiro enfrenta o Vôlei São José neste sábado, às 16h",
+  "linha_fina": "Time mineiro venceu os seis jogos que fez e soma 17 pontos; partida em São José dos Campos tem transmissão da ge TV.",
+  "categoria": "esporte",
+  "texto": "<p>O Cruzeiro entra em quadra neste sábado (21/11), às 16h, para enfrentar o Vôlei São José, na Farma Conde Arena, em São José dos Campos (SP), pela quinta rodada da Superliga Masculina de vôlei. A partida terá transmissão ao vivo da ge TV.</p><p>O time celeste chega como líder invicto da competição. Em seis jogos disputados, o Cruzeiro venceu todos e soma 17 pontos. Na última segunda-feira (16/11), a equipe derrotou o Suzano por 3 sets a 1, jogando em casa.</p><p>Do outro lado, o Vôlei São José vive bom momento. O time paulista vem de duas vitórias seguidas, sobre Montes Claros e Norde Vôlei, e ocupa a quinta colocação da tabela, com sete pontos. A equipe da casa tenta ser a primeira a vencer o Cruzeiro nesta Superliga.</p><p>Os ingressos estão à venda: arquibancada a R$ 30 (R$ 15 a meia solidária), frisas a R$ 40 e cadeiras dentro da quadra a R$ 80.</p><p>No mesmo dia, mais tarde, o futebol do Atlético decide a Copa Sul-Americana contra o Boca Juniors, às 19h30, em Barranquilla, na Colômbia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/062254_8.jpg",
+  "credito_foto": "Elvis Henrique Garcia/Vôlei São José",
+  "fonte": "ge",
   "resumos": ""
  }
 ]
