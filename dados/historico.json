@@ -60422,5 +60422,19 @@
   "fonte": "Gazeta do Povo",
   "arte": "artes/2026-11-20/211415_24.jpg",
   "media_id": "17921255295464481"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "22:17",
+  "id": "222000_israel",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Praça da Liberdade testa as luzes do Natal da Mineiridade, com mais de 1,5 milhão de pontos de LED",
+  "titulo_orig": "",
+  "link": "israel:222000_natal_mineiridade",
+  "fonte": "O Tempo",
+  "arte": "artes/2026-11-20/222000_israel.jpg",
+  "media_id": "18012638687779409"
  }
 ]
