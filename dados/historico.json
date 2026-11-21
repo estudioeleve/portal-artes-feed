@@ -62424,5 +62424,61 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-21/151400_207.jpg",
   "media_id": "18016627284003615"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "16:22",
+  "id": "161713_33",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Quatro cafeterias de BH entram na lista das 50 melhores do Brasil, e a mais bem colocada fica em 28º",
+  "titulo_orig": "BH tem quatro cafeterias entre as 50 melhores do Brasil e pode ampliar turismo de cafés especiais | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/agro/bh-tem-quatro-cafeterias-entre-as-50-melhores-do-brasil-e-pode-ampliar-turismo-de-cafes-especiais/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-21/161713_33.jpg",
+  "media_id": "18135381563497246"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "16:22",
+  "id": "161910_-mg",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Batida de frente na MG-410 mata três pessoas e deixa dois feridos em Presidente Olegário",
+  "titulo_orig": "Colisão frontal na MG-410 deixa três mortos e dois feridos em Presidente Olegário-MG | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/colisao-frontal-na-mg-410-deixa-tres-mortos-e-dois-feridos-em-presidente-olegario-mg/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "16:22",
+  "id": "161912_cre",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Terremoto de magnitude 6,7 deixa 15 feridos no Peru e assusta moradores no Acre",
+  "titulo_orig": "Terremoto de magnitude 6,7 deixa 15 feridos no Peru, assusta moradores e é sentido no Acre | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/mundo/terremoto-de-magnitude-67-deixa-15-feridos-no-peru-assusta-moradores-e-e-sentido-no-acre/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "16:22",
+  "id": "161914_hao",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Estudante de medicina de 24 anos é morto a tiros ao descer do carro para socorrer vítimas de acidente no Maranhão",
+  "titulo_orig": "Estudante de medicina é morto com tiro na cabeça ao tentar socorrer vítimas de acidente no Maranhão | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/nordeste/ma/estudante-de-medicina-e-morto-com-tiro-na-cabeca-ao-tentar-socorrer-vitimas-de-acidente-no-maranhao/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
