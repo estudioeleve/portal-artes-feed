@@ -64370,5 +64370,19 @@
   "fonte": "Gazeta do Povo",
   "arte": "artes/2026-11-22/181521_15.jpg",
   "media_id": "17994405357071168"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "18:32",
+  "id": "181517_62",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Tempestades danificam mais de 250 casas no Paraná e tornado atinge Manoel Ribas",
+  "titulo_orig": "Tempestades no Paraná deixam mais de 250 casas danificadas",
+  "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestades-no-parana-deixam-mais-de-250-casas-danificadas",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-22/181517_62.jpg",
+  "media_id": "18402746497207076"
  }
 ]
