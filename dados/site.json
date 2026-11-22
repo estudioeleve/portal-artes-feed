@@ -1,17 +1,5 @@
 [
  {
-  "id": "101724_33",
-  "data": "2026-11-20T10:21:01-03:00",
-  "titulo": "Quase 90% das usinas eólicas do Brasil têm algum alerta socioambiental, aponta levantamento",
-  "linha_fina": "Plataforma Farol das Eólicas cruza 1.748 parques com terras indígenas, quilombos, áreas protegidas e rotas de aves.",
-  "categoria": "brasil",
-  "texto": "<p>Um levantamento inédito do Instituto Internacional Arayara aponta que 89,4% dos empreendimentos eólicos terrestres do Brasil apresentam algum fator de sensibilidade socioambiental.</p><p>O monitoramento abrange 1.748 parques eólicos, entre usinas em operação, em construção ou em planejamento, distribuídos por 13 estados, a maioria no Nordeste. Juntos, eles somam 60,6 gigawatts de capacidade, o equivalente a mais de quatro vezes a potência instalada da usina de Itaipu. Desse total, 1.175 usinas já estão em funcionamento, com pouco mais de 36 gigawatts.</p><p>Os dados fazem parte da plataforma Farol das Eólicas, lançada nesta quinta-feira (19) durante a 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), em Antalya, na Turquia.</p><p>Entre os fatores de sensibilidade identificados estão a sobreposição ou a proximidade das usinas com territórios indígenas, quilombolas e de outras comunidades tradicionais, unidades de conservação, áreas de preservação da biodiversidade, habitats de espécies ameaçadas, zonas de concentração de aves migratórias e residências rurais e urbanas.</p><p>A plataforma cruza a localização das usinas com esses territórios e permite consultar cada empreendimento. A proposta é dar transparência ao setor e apoiar o planejamento de novos projetos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/101724_33.jpg",
-  "credito_foto": "Ari Versiani/PAC/Divulgação",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "101729_42",
   "data": "2026-11-20T10:21:01-03:00",
   "titulo": "Pessoas negras são 45% dos novos servidores federais nos últimos quatro anos, aponta relatório",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/173815_4.jpg",
   "credito_foto": "Reprodução/Por Dentro de Tudo",
   "fonte": "Por Dentro de Tudo",
+  "resumos": ""
+ },
+ {
+  "id": "173843_5",
+  "data": "2026-11-22T17:39:00-03:00",
+  "titulo": "Petrobras divulga nesta segunda plano de negócios até 2031; mercado espera até US$ 120 bilhões em investimentos",
+  "linha_fina": "Plano 2027-2031 deve mirar autossuficiência em diesel e Margem Equatorial; custos de arrendamento preocupam investidores",
+  "categoria": "comercio",
+  "texto": "<p>A Petrobras divulga nesta segunda-feira (23), depois do fechamento do mercado, o Plano de Negócios 2027-2031. A expectativa é que o Conselho de Administração aprove investimentos totais entre US$ 115 bilhões e US$ 120 bilhões, acima dos US$ 109 bilhões previstos no plano anterior, para 2026-2030, segundo apuração da Broadcast, da Agência Estado.</p><p>O novo planejamento deve incluir a meta de autossuficiência na produção de diesel, tema reforçado pela presidente da estatal, Magda Chambriard, ao longo de 2026, e avanços na Margem Equatorial, nova fronteira de exploração no Norte do país, onde a companhia já confirmou três descobertas de petróleo.</p><p>O mercado também quer saber como a empresa vai equilibrar investimentos, custos de arrendamento de plataformas e navios e a distribuição de dividendos. No início de novembro, a Petrobras elevou a estimativa de gastos com arrendamentos neste ano de US$ 10 bilhões para algo entre US$ 11 bilhões e US$ 11,5 bilhões, por causa do aumento da produção e da aceleração de projetos de exploração e produção. Para 2027, esse custo pode chegar a US$ 13 bilhões.</p><p>A estatal também revisou para cima as projeções de investimento de 2026 na carteira de projetos em implantação, que passaram de US$ 19,4 bilhões para uma faixa entre US$ 24 bilhões e US$ 25,5 bilhões. Segundo a empresa, a mudança não significa aumento do custo total dos projetos.</p><p>Para 2027, a Petrobras já sinalizou a conclusão da plataforma P-83, em Búzios, o avanço na construção das unidades de Atapu e Sépia e a entrada em operação das plataformas P-80, P-82 e P-83.</p><p>Para o comerciante e o consumidor, o plano é acompanhado de perto porque as decisões da estatal sobre produção de diesel e refino influenciam o preço dos combustíveis e, por consequência, o custo do frete e dos produtos nas lojas.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/173843_5.jpg",
+  "credito_foto": "Reprodução/Petrobras",
+  "fonte": "Broadcast/Estadão",
   "resumos": ""
  }
 ]
