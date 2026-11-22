@@ -64440,5 +64440,33 @@
   "fonte": "www.em.com.br",
   "arte": "artes/2026-11-22/181839_html.jpg",
   "media_id": "17915792052564434"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "19:16",
+  "id": "191441_ares",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "PM prende trio com revólver, crack, cocaína e droga sintética no bairro Altinópolis, em Valadares",
+  "titulo_orig": "Trio é preso com revólver, crack, cocaína e droga sintética em Governador Valadares ",
+  "link": "https://www.otempo.com.br/cidades/2026/11/22/trio-e-preso-com-revolver-crack-cocaina-e-droga-sintetica-em-governador-valadares",
+  "fonte": "www.otempo.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "19:16",
+  "id": "191337_31",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ESPORTE",
+  "titulo": "Carlão Maratonista vence de novo em BH e chega à sétima vitória seguida na categoria membro superior",
+  "titulo_orig": "Carlão Maratonista conquista mais um título em Belo Horizonte e chega à sétima vitória consecutiva - Jornal Folha de Condeúba",
+  "link": "https://folhadecondeuba.com.br/carlao-maratonista-conquista-mais-um-titulo-em-belo-horizonte-e-chega-a-setima-vitoria-consecutiva/",
+  "fonte": "Jornal Folha de Condeúba",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
