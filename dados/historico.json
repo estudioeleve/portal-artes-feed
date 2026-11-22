@@ -62690,5 +62690,19 @@
   "fonte": "Hoje em Dia",
   "arte": "artes/2026-11-21/222034_279.jpg",
   "media_id": "18234785044331348"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "22:47",
+  "id": "222047_243",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Estudo mostra que mosquitos com Wolbachia reduziram em 69% a dengue em crianças de BH",
+  "titulo_orig": "Mosquitos geneticamente modificados reduzem dengue em 69% em BH | G1",
+  "link": "https://g1.globo.com/google/amp/saude/noticia/2026/11/21/cientistas-apresentam-evidencias-de-que-mosquitos-geneticamente-modificados-podem-combater-a-dengue.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-21/222047_243.jpg",
+  "media_id": "17953886916084767"
  }
 ]
