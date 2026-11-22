@@ -63516,5 +63516,19 @@
   "fonte": "Rádio Metrópole",
   "arte": "artes/2026-11-22/111707_17.jpg",
   "media_id": "18059372576801833"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "11:52",
+  "id": "111703_204",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fim da guerra fiscal deve mudar onde as empresas instalam fábricas e galpões no Brasil",
+  "titulo_orig": "Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões ",
+  "link": "https://www.estadao.com.br/amp/economia/fim-de-beneficio-fiscal-nos-estados-faz-empresas-repensarem-localizacao-de-fabricas-e-galpoes/",
+  "fonte": "Estadão",
+  "arte": "artes/2026-11-22/111703_204.jpg",
+  "media_id": "18033540854689865"
  }
 ]
