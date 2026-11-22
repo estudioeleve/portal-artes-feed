@@ -1,17 +1,5 @@
 [
  {
-  "id": "001312_7",
-  "data": "2026-11-19T21:16:14-03:00",
-  "titulo": "Peça \"A Contadora de Filmes\" volta a BH com entrada gratuita nos dias 27 e 28 de novembro",
-  "linha_fina": "Monólogo de Myriam Nacif, baseado no romance de Hernán Rivera Letelier, será apresentado no Teatro Raul Belém Machado, no Alípio de Melo.",
-  "categoria": "entretenimento",
-  "texto": "<p>O monólogo \"A Contadora de Filmes\", do Grupo Atrás do Pano, volta aos palcos de Belo Horizonte com entrada gratuita. As apresentações serão na sexta-feira (27/11), com tradução em Libras, e no sábado (28/11), às 20h, no Teatro Raul Belém Machado, no bairro Alípio de Melo, em Belo Horizonte.</p>\n<p>O espetáculo é o primeiro trabalho solo da atriz Myriam Nacif, fundadora do grupo. A peça é baseada no romance do escritor chileno Hernán Rivera Letelier e conta a história de Maria Margarida, uma menina que vive num vilarejo cercado por minas de salitre, no deserto do Chile. Numa comunidade operária pobre, ela reconta os filmes que vê no cinema para a família e os vizinhos, e transforma a imaginação em forma de sobreviver às dificuldades do dia a dia.</p>\n<p>Para preparar a montagem, a equipe viajou ao Chile em 2019, visitou antigas vilas salitreiras e se encontrou com o autor, que autorizou a adaptação. A dramaturgia é de Francisco Falabella Rocha e a direção, de Fábio Furtado. A trilha sonora é de Rafael Martini, os figurinos e a cenografia são de Paulo Thielmann e a iluminação, de Ciro Thielmann e Jésus Lataliza, que recria no palco o clima das antigas salas de projeção.</p>\n<p>A apresentação faz parte da Mostra Atrás do Pano. A peça tem cerca de 60 minutos e classificação indicativa de 14 anos.</p>\n<p><strong>Serviço</strong><br>\"A Contadora de Filmes\"<br>Quando: 27 e 28 de novembro, às 20h<br>Onde: Teatro Raul Belém Machado (Rua Leonil Prata, 53, Alípio de Melo, BH)<br>Entrada gratuita, com retirada de ingressos pela plataforma Sympla<br>Classificação: 14 anos</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/001312_7.jpg",
-  "credito_foto": "Divulgação/SouBH",
-  "fonte": "SouBH",
-  "resumos": ""
- },
- {
   "id": "001317_29",
   "data": "2026-11-19T21:16:14-03:00",
   "titulo": "Banco Central amplia acesso de cooperativas de crédito ao mercado aberto a partir de 30 de novembro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/062710_nte.jpg",
   "credito_foto": "Divulgação/Sebrae Minas",
   "fonte": "Agência Sebrae de Notícias",
+  "resumos": ""
+ },
+ {
+  "id": "071822_21",
+  "data": "2026-11-22T07:18:45-03:00",
+  "titulo": "Novo teto do MEI pode render economia de até R$ 9,5 mil por ano ao prestador de serviço; veja a conta",
+  "linha_fina": "Limite sobe para R$ 110 mil em 2027 e R$ 140 mil em 2028; simulação compara MEI com microempresa e mostra quem ganha mais",
+  "categoria": "comercio",
+  "texto": "<p>O aumento do limite de faturamento do Microempreendedor Individual (MEI) pode significar uma economia de até R$ 9.507,12 por ano em impostos para parte dos prestadores de serviço. A conta é de um estudo da Contabilizei, que comparou quanto um pequeno negócio paga como MEI e quanto pagaria como microempresa no Simples Nacional.</p>\n<p>A mudança vem da Lei Complementar nº 238, sancionada em 21 de outubro. Hoje o MEI pode faturar até R$ 81 mil por ano. O teto passa para R$ 110 mil em 2027 e para R$ 140 mil a partir de 2028. A lei também permite que o microempreendedor tenha dois empregados, e não mais apenas um.</p>\n<p>Na simulação, uma prestadora de serviços que fatura R$ 140 mil por ano gastaria R$ 10.539,72 com tributos e INSS como microempresa do Anexo III do Simples (alíquota de 6%, com pró-labore de um salário mínimo). Como MEI, o custo anual cairia para R$ 1.032,60, com a guia mensal de R$ 86,05. Na faixa de R$ 110 mil, prevista para 2027, a diferença calculada é de R$ 7.707,12.</p>\n<p>A própria consultoria avisa que o número não vale para todo mundo. O cálculo usa valores de 2026, como o salário mínimo de R$ 1.621, para uma faixa de faturamento que só passa a valer em 2028. Também não entram na conta contador, funcionários, licenças e outros custos. Para quem trabalha com comércio e indústria, a vantagem tende a ser menor, porque as alíquotas iniciais do Simples nesses setores são de 4% e 4,5%.</p>\n<p>Outra novidade da lei é o perdão das contribuições previdenciárias do MEI vencidas até 13 de outubro de 2026, com juros e multas. Segundo a Receita Federal, o cancelamento será automático a partir de 1º de janeiro de 2027, na maioria dos casos sem precisar de pedido. ICMS e ISS que estejam na mesma guia continuam devidos, e o que já foi pago não será devolvido.</p>\n<p>Para o pequeno empreendedor de Santa Luzia e da região, a dica é fazer as contas com o contador antes de decidir se continua como MEI ou se muda de enquadramento, levando em conta o faturamento previsto para os próximos anos e o tipo de atividade.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/071822_21.jpg",
+  "credito_foto": "Reprodução/SpaceMoney",
+  "fonte": "SpaceMoney, com estudo da Contabilizei",
   "resumos": ""
  }
 ]
