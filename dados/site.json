@@ -1,17 +1,5 @@
 [
  {
-  "id": "071649_lab",
-  "data": "2026-11-20T07:20:24-03:00",
-  "titulo": "Laboratório em Vespasiano bate recorde mundial ao receber mais de 210 mil amostras em 24 horas",
-  "linha_fina": "Núcleo do Grupo Fleury na Grande BH recebeu 210.749 amostras em um só dia e superou a própria marca, registrada em abril.",
-  "categoria": "vespasiano",
-  "texto": "<p>O Núcleo Técnico Operacional (NTO) do Grupo Fleury em Vespasiano, na Região Metropolitana de Belo Horizonte, estabeleceu um novo recorde mundial ao receber 210.749 amostras de exames laboratoriais em apenas 24 horas. O volume foi registrado no dia 7 de novembro, segundo a Siemens Healthineers, empresa que fornece os equipamentos da linha de automação usada pelo laboratório.</p><p>A marca superou o recorde anterior, que também pertencia à unidade mineira: 205.483 amostras recebidas em um único dia de abril deste ano. Em sete meses, o maior volume diário cresceu em 5.266 tubos.</p><p>O laboratório de Vespasiano recebe material coletado em diferentes regiões do país por meio do Lab-to-Lab Pardini, serviço do Grupo Fleury voltado a laboratórios e hospitais parceiros. São mais de 9,3 mil estabelecimentos conveniados em cerca de 2.200 municípios. Nesse modelo, o paciente faz a coleta na própria cidade e a amostra segue para a unidade especializada quando o laboratório local não tem o equipamento necessário.</p><p>Para o presidente da unidade de negócios Lab-to-Lab Pardini, Roberto Santoro, o recorde mostra que quem faz o exame em uma cidade distante pode ter a mesma rapidez e qualidade no resultado de um grande centro. Ele também destacou a importância da ligação entre o diagnóstico e a atenção primária à saúde, para prevenir doenças e evitar internações.</p><p>Inaugurado em outubro de 2010, o núcleo de Vespasiano usa linhas automatizadas, equipamentos individuais e procedimentos manuais. A área de Microbiologia recebeu R$ 11 milhões em investimentos, ampliou a capacidade em 30% e pode processar até 450 mil exames por mês em 935 metros quadrados.</p><p>A unidade também ganhou uma linha automatizada exclusiva para exames de coagulação e novas plataformas de genética para análise de doenças infecciosas. O Lab-to-Lab Pardini passou a fazer parte do Grupo Fleury em 2023, após a combinação de negócios com o Hermes Pardini, e oferece mais de 9 mil tipos de testes.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/071649_lab.jpg",
-  "credito_foto": "Divulgação/Grupo Fleury",
-  "fonte": "Rede 98",
-  "resumos": ""
- },
- {
   "id": "071702_chuva",
   "data": "2026-11-20T07:20:25-03:00",
   "titulo": "Defesa Civil alerta para até 400 milímetros de chuva na Grande BH nos próximos 15 dias",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/122229_uas.jpg",
   "credito_foto": "Divulgação/Cemig",
   "fonte": "Rádio Educadora",
+  "resumos": ""
+ },
+ {
+  "id": "125500_israel",
+  "data": "2026-11-22T13:05:50-03:00",
+  "titulo": "Prefeito anuncia volta das aulas nesta semana em Santa Luzia após desinfecção das escolas",
+  "linha_fina": "Paulo Bigodinho destacou parceria entre Prefeitura, Câmara e empresa; E.M. Santa Luzia, onde o muro caiu, também volta a funcionar",
+  "categoria": "santa-luzia",
+  "texto": "<p>O prefeito de Santa Luzia, Paulo Bigodinho, afirmou que as aulas nas escolas da rede municipal voltam normalmente nesta semana. O anúncio foi feito em vídeo publicado nas redes sociais do prefeito, depois da conclusão da desinfecção das unidades por causa dos casos de escabiose, a sarna humana.</p>\n<p>No vídeo, o prefeito destacou a parceria que tornou possível a higienização das escolas. Segundo ele, a ação reuniu a Prefeitura, a Câmara Municipal e uma empresa que cooperou fornecendo os produtos usados na desinfecção. A Câmara e a Prefeitura haviam firmado na semana passada um Termo de Cooperação Técnica para higienizar e desinfetar as escolas municipais.</p>\n<p>Paulo Bigodinho também falou sobre a Escola Municipal Santa Luzia, onde parte do muro desabou durante a madrugada, na semana passada, depois de uma chuva forte. O desabamento atingiu duas salas e levou à suspensão das aulas na unidade. De acordo com o prefeito, a escola também volta a funcionar normalmente nesta semana, como ele havia prometido em vídeo gravado na porta da escola no dia da queda do muro.</p>\n<p>Na época, ninguém estava na escola, porque o desabamento aconteceu de madrugada. A Defesa Civil isolou a área e máquinas da Prefeitura retiraram os restos do muro nos dias seguintes.</p>\n<p>A suspensão das aulas e a desinfecção das escolas fizeram parte das medidas adotadas pela Secretaria Municipal de Educação depois da confirmação de casos de escabiose na cidade. A orientação aos pais e responsáveis é continuar observando as crianças e procurar atendimento de saúde se houver sintomas, como coceira intensa, principalmente à noite, e lesões na pele.</p>\n<p>O Portal ONE News segue acompanhando a volta às aulas e a situação das escolas de Santa Luzia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/125500_israel.jpg",
+  "credito_foto": "Reprodução/redes sociais do prefeito Paulo Bigodinho",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
