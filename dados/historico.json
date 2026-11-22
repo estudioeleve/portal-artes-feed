@@ -62564,5 +62564,47 @@
   "fonte": "Rede 98",
   "arte": "artes/2026-11-21/221552_195.jpg",
   "media_id": "18446748082195430"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "22:19",
+  "id": "221839_98",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Enchente isola família e oito pessoas aguardam resgate na zona rural de Aimorés, no Vale do Rio Doce",
+  "titulo_orig": "Bombeiros realizam resgate devido a enchente na zona rural de Aimorés",
+  "link": "https://www.otempo.com.br/cidades/2026/11/21/bombeiros-realizam-resgate-devido-a-enchente-na-zona-rural-de-aimores",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "22:19",
+  "id": "221848_112",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Moradores de 27 bairros de Barbacena estão sem água há quase três dias por causa da chuva",
+  "titulo_orig": "Falta de água em Barbacena: 27 bairros estão sem abastecimento | G1",
+  "link": "https://g1.globo.com/google/amp/mg/zona-da-mata/noticia/2026/11/21/moradores-de-27-bairros-de-barbacena-enfrentam-desabastecimento-de-agua-ha-quase-tres-dias.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "22:19",
+  "id": "221627_41",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fim de ano deve abrir 530 mil vagas temporárias no país, e um em cada cinco contratados pode ser efetivado",
+  "titulo_orig": "Mais de 500 mil vagas temporárias devem ser abertas no fim do ano | G1",
+  "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/fim-de-ano-deve-abrir-530-mil-vagas-temporarias-20percent-dos-trabalhadores-podem-ser-efetivados.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
