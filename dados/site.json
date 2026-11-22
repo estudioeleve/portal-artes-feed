@@ -1,17 +1,5 @@
 [
  {
-  "id": "101604_162",
-  "data": "2026-11-20T10:21:00-03:00",
-  "titulo": "Minas prepara PPPs de saneamento para cerca de 200 cidades que ficaram fora da Copasa privatizada",
-  "linha_fina": "Codemge deve ajudar municípios não atendidos pela companhia; projetos com o governo federal ainda estão no início.",
-  "categoria": "minas-gerais",
-  "texto": "<p>O Governo de Minas Gerais trabalha na estruturação de Parcerias Público-Privadas (PPPs) para ampliar os serviços de saneamento nos municípios que não são atendidos pela Copasa, companhia de saneamento privatizada em 2026.</p><p>Segundo o diretor de Concessões e Parcerias da Companhia de Desenvolvimento de Minas Gerais (Codemge), Gabriel Fajardo, a estatal deve ajudar a viabilizar esses projetos. A declaração foi feita durante o programa Conexão Infra, da CNN Brasil, nesta quinta-feira (19).</p><p>A Copasa não é responsável pelo saneamento de aproximadamente 200 cidades mineiras. A estratégia do Estado é atender também esses municípios, com a regionalização do serviço. Uma das possibilidades é usar o programa Cidade Parceira, da Codemge, para fechar parcerias com as prefeituras.</p><p>Além das ações estaduais, Minas desenvolve projetos com o governo federal por meio do Programa de Parcerias de Investimentos (PPI). Entre as frentes citadas estão a gestão de resíduos sólidos e iniciativas ligadas à bacia do Rio Doce. Esses trabalhos, porém, ainda estão em fase inicial.</p><p>Ainda não há prazo divulgado para o lançamento dos editais das novas parcerias.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/101604_162.jpg",
-  "credito_foto": "Divulgação/CNN",
-  "fonte": "CNN Brasil",
-  "resumos": ""
- },
- {
   "id": "101637_74",
   "data": "2026-11-20T10:21:00-03:00",
   "titulo": "Novo procurador-geral de Justiça de Minas, Carlos Eduardo Ferreira Pinto, toma posse na segunda (23)",
@@ -4796,6 +4784,18 @@
   "texto": "<p>O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), voltou a repudiar neste domingo (22) as ameaças feitas contra ele em uma carta deixada na cena de um incêndio a ônibus no bairro Alto Caiçaras, na Região Noroeste de Belo Horizonte, na noite de sexta-feira (20).</p><p>O bilhete era endereçado a Cleitinho e ao secretário de Estado de Justiça e Segurança Pública, Rogério Greco, e trazia reivindicações ligadas ao sistema prisional. Segundo a Polícia Militar, o ônibus da linha 4107 (Alto Caiçaras–Serra) estava no ponto final quando foi atacado por dois homens encapuzados.</p><p>Em vídeo publicado nas redes sociais, o senador ligou o ataque ao anúncio da nova cúpula da segurança do próximo governo. \"Foi só anunciar agora meu chefe de Estado-Maior e meu comandante-geral, que vai assumir a partir do ano que vem, pra gente combater as organizações criminosas. Eles incendiaram o ônibus e deram um recado pra mim. Eu não vou acatar o pedido de vocês\", disse.</p><p>Cleitinho afirmou que os autores pediram \"televisão, visita e privilégios\" e respondeu que vai \"arrumar um cabo de enxada\" para colocar os presos para trabalhar. \"Então não tem privilégio. E comigo não tem negociata. Eu não negocio com vagabundo. Não adianta vir com ameaça. Eu não tenho medo de ameaça\", declarou.</p><p>O governador eleito também disse acreditar que os responsáveis serão presos. Ele assume o governo de Minas em janeiro de 2027. O caso do ônibus incendiado segue sendo investigado pelas polícias.</p>",
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/171700_18.jpg",
   "credito_foto": "Reprodução/Itatiaia",
+  "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "171957_65",
+  "data": "2026-11-22T17:21:59-03:00",
+  "titulo": "Faixas de campeão da Sul-Americana feitas antes da final do Galo vão parar no lixo em BH",
+  "linha_fina": "Material foi produzido antecipadamente para comemorar o título que não veio; Atlético perdeu para o Boca por 2 a 0",
+  "categoria": "atletico",
+  "texto": "<p>Centenas de faixas comemorativas com a frase \"Clube Atlético Mineiro 2026 - Campeão Sul-Americana\" foram encontradas neste domingo (22) dentro de sacos de lixo deixados em uma calçada nas imediações da Arena MRV, em Belo Horizonte.</p><p>O material havia sido produzido antecipadamente para uma eventual comemoração do título continental. O Atlético, porém, perdeu a final da Copa Sul-Americana para o Boca Juniors por 2 a 0, no sábado (21), no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia.</p><p>As imagens do descarte foram publicadas pelo perfil @meu_bairro_aparecida, no Instagram, e repercutiram entre torcedores nas redes sociais.</p><p>Cerca de 10 mil torcedores acompanharam a decisão em telões instalados na esplanada da Arena MRV, em parceria com a Disney.</p><p>Na final, o Boca dominou boa parte do jogo e marcou com Ascacíbar e Merentiel, um gol em cada tempo. Com o resultado, o clube argentino chegou ao tricampeonato e se isolou como maior campeão da competição. O Galo ficou com o vice pelo segundo ano seguido: em 2025, perdeu a final para o Lanús, também da Argentina.</p><p>Agora o Atlético volta as atenções para o Campeonato Brasileiro. Nas três rodadas finais, o time luta por uma vaga na Libertadores de 2027.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/171957_65.jpg",
+  "credito_foto": "Reprodução/Instagram @meu_bairro_aparecida",
   "fonte": "Rádio Itatiaia",
   "resumos": ""
  }
