@@ -63586,5 +63586,47 @@
   "fonte": "Prefeitura de Santa Luzia",
   "arte": "artes/2026-11-22/125500_israel.jpg",
   "media_id": "18134821975760051"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "13:21",
+  "id": "131723_111",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Mosquito com bactéria Wolbachia reduziu em 68% as infecções por dengue em BH",
+  "titulo_orig": "Mosquito com Wolbachia reduz em 68% os casos de dengue em BH",
+  "link": "https://tvsimbrasil.com.br/mg/belo-horizonte/saude/noticia/2026/11/22/mosquito-wolbachia-reduz-68-casos-dengue-bh",
+  "fonte": "TV Sim Brasil",
+  "arte": "artes/2026-11-22/131723_111.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "13:21",
+  "id": "131718_62",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "SABARÁ",
+  "titulo": "Festival da Jabuticaba de Sabará encerra 40ª edição neste domingo com corrida, mountain bike e música",
+  "titulo_orig": "Festival da Jabuticaba encerra 40ª edição com provas de corrida, mountain bike e trekking em Sabará - BH 24 Horas",
+  "link": "https://bh24horas.com.br/entretenimento/eventos/festival-da-jabuticaba-encerra-40a-edicao-com-provas-de-corrida-mountain-bike-e-trekking-em-sabara/",
+  "fonte": "BH 24 Horas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "13:21",
+  "id": "131742_83",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Dois jovens ficam gravemente feridos após moto sair da pista na chuva e cair em canaleta na MG-164, em Camacho",
+  "titulo_orig": "Dois jovens ficam gravemente feridos em acidente de moto em Camacho; condutor não tinha habilitação - Portal Gerais",
+  "link": "https://portalgerais.com/dois-jovens-ficam-gravemente-feridos-em-acidente-de-moto-camacho-condutor-nao-tinha-habilitacao/",
+  "fonte": "Portal Gerais",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
