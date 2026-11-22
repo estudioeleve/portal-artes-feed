@@ -1,17 +1,5 @@
 [
  {
-  "id": "232802_195",
-  "data": "2026-11-19T20:28:33-03:00",
-  "titulo": "Com a compra do EPA, Supermercados BH tem lojas a poucos metros umas das outras em vários bairros da capital",
-  "linha_fina": "No Padre Eustáquio, cinco unidades da rede ficam próximas; especialista explica por que a estratégia ocupa território, mas divide clientes.",
-  "categoria": "comercio",
-  "texto": "<p>A expansão do Supermercados BH em Belo Horizonte tem chamado a atenção pela quantidade de lojas da rede em uma mesma região, em alguns casos a poucos metros umas das outras. No bairro Padre Eustáquio, na região Noroeste, cinco unidades ficam bem próximas. Entre duas delas, na Rua Padre Eustáquio, a distância é de cerca de 450 metros.</p><p>A concentração também aparece em bairros como Caiçara, Coração Eucarístico e Castelo. O cenário é resultado da compra das lojas do Grupo DMA, dono das bandeiras EPA Supermercados e Mineirão. Desde o fim de outubro, depois que o Conselho Administrativo de Defesa Econômica (Cade) autorizou o negócio, as unidades começaram a mudar de bandeira, e em muitas regiões passou a ser possível encontrar duas lojas da mesma rede praticamente lado a lado.</p><p>Segundo o professor de estratégia de negócios e marketing de varejo Gustavo de Rezende Jardim, a prática não é exclusiva dos supermercados: redes de farmácias também concentram unidades para ocupar território e dificultar a entrada de concorrentes. Ele explica que a decisão de manter ou fechar uma loja depende principalmente da rentabilidade e do potencial de consumo de cada região, e que lojas muito próximas costumam ser avaliadas em conjunto, como um grupo.</p><p>De acordo com o especialista, lojas de formatos diferentes atendem públicos diferentes: as menores, de vizinhança, atraem quem mora perto, enquanto as maiores recebem clientes de regiões mais distantes. Por outro lado, unidades próximas acabam disputando os mesmos consumidores e dividindo o dinheiro que as famílias do bairro gastam no mês. Quando o faturamento de uma loja não cobre as despesas, a permanência dela pode ser revista.</p><p>Para o pequeno comerciante de bairro, como mercearias, padarias e sacolões, a chegada de grandes redes reforça a importância de apostar no que o atendimento de vizinhança tem de diferente: produtos frescos, entrega, atendimento próximo e preços competitivos em itens do dia a dia.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/232802_195.jpg",
-  "credito_foto": "Divulgação",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "001250_26",
   "data": "2026-11-19T21:16:14-03:00",
   "titulo": "Após protesto na Estação Oiapoque, Sintram diz que pode ajustar viagens das linhas do Morro Alto",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/061811_3.jpg",
   "credito_foto": "Felipe Couri/Tribuna de Minas",
   "fonte": "Tribuna de Minas",
+  "resumos": ""
+ },
+ {
+  "id": "062603_-bh",
+  "data": "2026-11-22T06:26:42-03:00",
+  "titulo": "Natal da Mineiridade abre com túnel de sinos iluminados e Fábrica do Noel na Praça da Liberdade",
+  "linha_fina": "Com o tema \"Minas: a Casa do Brasil\", decoração tem sinos que tocam todo dia das 19h às 23h; Fábrica do Noel fica aberta até 23 de dezembro",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A Praça da Liberdade e o Palácio da Liberdade, em Belo Horizonte, ganharam a iluminação especial de fim de ano na noite deste sábado (21 de novembro), na abertura oficial do Natal da Mineiridade 2026. A cerimônia foi promovida pela Secretaria de Estado de Cultura e Turismo (Secult-MG), pela Fundação Clóvis Salgado e pela Cemig, em parceria com a Copasa.</p>\n<p>Com o tema \"Minas: a Casa do Brasil\", a edição deste ano destaca diferentes aspectos da identidade mineira, da ancestralidade à gastronomia, e tem proposta educativa: em cada canteiro, totens e códigos QR explicam o significado da decoração. Na entrada da Alameda da Travessia, sinos que representam Maria e José tocam todos os dias, das 19h às 23h, reproduzindo os badalos festivos de São João del-Rei.</p>\n<p>Antes do acendimento das luzes, foi aberta a Fábrica do Noel, principal novidade desta edição, no interior do Palácio da Liberdade. O circuito lúdico simula uma linha de produção para receber cartinhas e entregar presentes, com árvore de Natal gigante, pilhas de caixas e a poltrona do Papai Noel. O espaço fica aberto à visitação até 23 de dezembro.</p>\n<p>Segundo o secretário de Cultura e Turismo, Leônidas Oliveira, a expectativa é de crescimento de 15% no público, puxado também pela adesão do interior: mais de 600 municípios participam do projeto neste ano, contra 450 na edição anterior.</p>\n<p>A Cemig espera que o Palácio receba cerca de 3 mil pessoas por fim de semana, sua capacidade máxima, e que a praça chegue a 10 mil visitantes. Ao lado do prédio verde do Iepha-MG, foi montado um novo espaço com área de descanso para crianças e uma árvore de 11,5 metros. A programação inclui ainda apresentações no coreto, com Papai Noel, cortejos e corais de várias cidades.</p>\n<p>Na primeira noite, a praça já atraiu moradores e turistas que aproveitam o fim de ano na capital.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/062603_-bh.jpg",
+  "credito_foto": "Lorena Vieira/Itatiaia",
+  "fonte": "Itatiaia",
   "resumos": ""
  }
 ]
