@@ -63474,5 +63474,19 @@
   "fonte": "Diário do Nordeste",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "11:23",
+  "id": "111655_3",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Reforma do Código Civil fica para 2027: Senado prevê parecer geral até maio e tem 893 emendas",
+  "titulo_orig": "Senado encaminha reforma do Código Civil para 2027 com novos debates",
+  "link": "https://revistaoeste.com/politica/senado-encaminha-reforma-do-codigo-civil-para-2027-com-novos-debates/",
+  "fonte": "Revista Oeste",
+  "arte": "artes/2026-11-22/111655_3.jpg",
+  "media_id": "18191982022414870"
  }
 ]
