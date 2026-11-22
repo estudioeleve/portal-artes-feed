@@ -1,17 +1,5 @@
 [
  {
-  "id": "221258_66",
-  "data": "2026-11-19T19:17:49-03:00",
-  "titulo": "Samba do Piolho faz roda beneficente no domingo no Bom Repouso, em Betim, e troca entrada por 1 kg de alimento",
-  "linha_fina": "Projeto do sambista Warlen Costa, o Piolho, quer arrecadar 100 cestas básicas para famílias indicadas pela comunidade.",
-  "categoria": "betim",
-  "texto": "<p>Música e solidariedade se encontram neste domingo (22) no bairro Bom Repouso, em Betim, na Grande BH. A partir das 13h, o Bar do Vitão recebe o projeto Samba do Piolho, uma roda de samba beneficente que arrecada alimentos para famílias em situação de vulnerabilidade. Para participar, basta doar 1 quilo de alimento não perecível.</p><p>O evento será na Rua José de Sales Pinto, que ficará fechada para receber o público. O projeto foi criado há cinco anos pelo sambista Warlen Costa Azevedo, o Piolho, e pela esposa, Luciana. Com 20 anos de carreira no samba, o músico já fez três edições da ação em Ibirité e uma em Contagem. Agora, com apoio de amigos e comerciantes, a iniciativa chega a Betim.</p><p>Segundo a organização, as edições anteriores arrecadaram cerca de 300 cestas básicas. A meta deste domingo é chegar a 100 cestas. As famílias atendidas são indicadas pela própria comunidade, principalmente nas regiões do Citrolândia e do PTB. Depois do evento, os alimentos são organizados e entregues com ajuda de agentes comunitários.</p><p>A roda terá músicos voluntários de Betim, com Piolho no vocal e no violão, acompanhado por repique, cavaquinho, pandeiro, reco-reco e marcação, além de participações especiais de outros sambistas da região.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/221258_66.jpg",
-  "credito_foto": "Divulgação/O Tempo Betim",
-  "fonte": "O Tempo Betim",
-  "resumos": ""
- },
- {
   "id": "221325_113",
   "data": "2026-11-19T19:17:49-03:00",
   "titulo": "Minas lança plano para ampliar a presença de mulheres na liderança do campo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/222038_236.jpg",
   "credito_foto": "Divulgação/Santa Casa BH",
   "fonte": "Prefeitura de Betim",
+  "resumos": ""
+ },
+ {
+  "id": "221517_43",
+  "data": "2026-11-21T22:30:25-03:00",
+  "titulo": "Governo federal reconhece calamidade em Tupanciretã (RS), e temporais já afetam quase 20 mil pessoas no estado",
+  "linha_fina": "Reconhecimento libera ações de ministérios para ajuda humanitária, limpeza e reconstrução; balanço tem três mortes, 60 feridos e mais de 7,1 mil casas destelhadas",
+  "categoria": "brasil",
+  "texto": "<p>O governo federal reconheceu neste sábado (21) o estado de calamidade pública em Tupanciretã, na região central do Rio Grande do Sul, cidade mais atingida pela tempestade com granizo e ventos fortes da madrugada de sexta-feira (20). O reconhecimento sumário foi anunciado pelo ministro da Integração e do Desenvolvimento Regional, Waldez Góes, depois de visitar as áreas afetadas, e será publicado no Diário Oficial da União.</p><p>A medida já tinha sido homologada pelo governo gaúcho. Com ela, ministérios e órgãos federais podem usar suas políticas específicas para apoiar a resposta ao desastre. Segundo o governo, as primeiras prioridades são a ajuda humanitária, a limpeza da cidade, a recuperação das moradias e a reconstrução da infraestrutura. União, Estado e Prefeitura começaram a montar planos de trabalho conjuntos para acelerar o atendimento.</p><p>De acordo com o balanço da Secretaria Nacional de Proteção e Defesa Civil, atualizado às 13h deste sábado, os temporais atingiram 33 municípios gaúchos e 19.663 pessoas. Foram registradas três mortes, uma delas ainda em apuração, 60 feridos, 74 desalojados e 50 desabrigados. Mais de 7,1 mil casas tiveram o telhado danificado.</p><p>Em Tupanciretã, a tempestade também atingiu seis unidades da rede de assistência social: um Cras, um Creas, duas instituições de longa permanência para idosos e duas unidades de acolhimento de crianças e adolescentes. O Ministério do Desenvolvimento e Assistência Social integra a comitiva federal para garantir a continuidade desses serviços.</p><p>A Força Nacional do SUS já enviou profissionais à cidade para reforçar o atendimento de saúde.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/221517_43.jpg",
+  "credito_foto": "Volmer Perez/Secom",
+  "fonte": "Secom/Governo Federal e Agência Gov",
   "resumos": ""
  }
 ]
