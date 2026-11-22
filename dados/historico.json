@@ -63012,5 +63012,47 @@
   "fonte": "SpaceMoney",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "08:18",
+  "id": "081439_eira",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Motociclista morre e garupa fica em estado grave após acidente com carro e carreta cegonheira na BR-381, em São Gonçalo do Rio Abaixo",
+  "titulo_orig": "Homem morre e outro fica gravemente ferido em acidente com moto, carro e cegonheira na BR-381",
+  "link": "https://plox.com.br/noticia/22/11/2026/acidente-br-381-moto-carro-cegonheira",
+  "fonte": "plox.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "08:18",
+  "id": "081631_html",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "WhatsApp começa a testar agendamento de mensagens no celular e no computador; veja como funciona",
+  "titulo_orig": "WhatsApp começa a testar agendamento de mensagens no celular e na web",
+  "link": "https://www.em.com.br/tecnologia/2026/11/7541226-whatsapp-comeca-a-testar-agendamento-de-mensagens-no-celular-e-na-web.html",
+  "fonte": "www.em.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "08:18",
+  "id": "081633_o-22",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Juiz de Fora recebe neste domingo o 3º Encontro de Congadas, com mais de 16 guardas de Minas",
+  "titulo_orig": "Congadas de diferentes regiões de Minas se encontram em Juiz de Fora neste domingo (22)",
+  "link": "https://www.radiocatedraljf.com.br/post/congadas-de-diferentes-regi%C3%B5es-de-minas-se-encontram-em-juiz-de-fora-neste-domingo-22",
+  "fonte": "www.radiocatedraljf.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
