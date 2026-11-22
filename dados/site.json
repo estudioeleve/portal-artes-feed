@@ -1,17 +1,5 @@
 [
  {
-  "id": "081754_gra",
-  "data": "2026-11-20T08:19:24-03:00",
-  "titulo": "Feriado da Consciência Negra em BH tem Zé Ramalho, Orquestra Ouro Preto, stand-up e programação do Novembro Negro",
-  "linha_fina": "Data cai numa sexta-feira e garante fim de semana prolongado; veja opções de shows, teatro e cultura na capital.",
-  "categoria": "entretenimento",
-  "texto": "<p>O Dia da Consciência Negra, nesta sexta-feira (20), garante um fim de semana prolongado para muita gente, e Belo Horizonte tem programação variada para quem fica na cidade, com shows, espetáculos e atividades do Novembro Negro.</p>\n<p>A data homenageia Zumbi dos Palmares, uma das principais lideranças da resistência contra a escravidão no Brasil, e é dedicada à reflexão sobre o racismo e à valorização da cultura afro-brasileira. O 20 de novembro se tornou feriado nacional em 2023, com a Lei 14.759; antes, a folga dependia de leis estaduais e municipais.</p>\n<p>Um dos destaques é o show de Zé Ramalho no Arena Hall, nesta sexta, às 21h, com abertura dos portões às 19h. No espetáculo \"Show dos Sucessos\", o cantor apresenta músicas como \"Chão de Giz\", \"Avôhai\", \"Frevo Mulher\" e \"Admirável Gado Novo\". Os ingressos estão à venda pelo Sympla e na bilheteria.</p>\n<p>Também nesta sexta, a Orquestra Ouro Preto apresenta \"Mineiridades\", às 20h30, no Grande Teatro Cemig, no Palácio das Artes. O repertório passa pela música feita em Minas, do período barroco aos clássicos do Clube da Esquina. Os ingressos custam a partir de R$ 25, no Sympla.</p>\n<p>Para quem prefere rir, o humorista mineiro Thiago Bobs apresenta o stand-up \"O Predestinado\", às 20h, no Teatro de Câmara do Cine Theatro Brasil, com histórias pessoais e situações do dia a dia.</p>\n<p>A agenda do Novembro Negro, promovida pela Prefeitura de Belo Horizonte, segue com atividades culturais em vários pontos da cidade ao longo do mês. A previsão é de chuva no feriado, por isso vale levar guarda-chuva e conferir com antecedência o funcionamento de cada local.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/081754_gra.jpg",
-  "credito_foto": "Imagem: Divulgação/Prefeitura de Belo Horizonte",
-  "fonte": "SouBH",
-  "resumos": ""
- },
- {
   "id": "081817_html",
   "data": "2026-11-20T08:19:24-03:00",
   "titulo": "Acidente com três veículos deixa quatro feridos na MG-105, entre Prudente de Morais e Funilândia",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/151757_20.jpg",
   "credito_foto": "Agência Brasil",
   "fonte": "Revista Oeste",
+  "resumos": ""
+ },
+ {
+  "id": "151556_2",
+  "data": "2026-11-22T15:21:32-03:00",
+  "titulo": "Novo teto do MEI, de R$ 130 mil e dois empregados, vai a votação na Câmara nesta terça",
+  "linha_fina": "Projeto eleva o limite anual de R$ 81 mil para R$ 130 mil; depois da comissão, texto ainda passa pelo Plenário",
+  "categoria": "comercio",
+  "texto": "<p>A comissão especial da Câmara dos Deputados que analisa o aumento do limite de faturamento do microempreendedor individual (MEI) vota nesta terça-feira (24), às 15h30, o parecer do relator, deputado Jorge Goetten (Republicanos-SC), sobre o Projeto de Lei Complementar 108/2021.</p>\n<p>O texto eleva a receita bruta anual permitida ao MEI de R$ 81 mil para R$ 130 mil, o que representa uma média de cerca de R$ 10,8 mil por mês, contra R$ 6.750 hoje. O projeto também autoriza a contratação de até dois empregados, o dobro do que a regra atual permite.</p>\n<p>Para o pequeno empreendedor, a mudança pode ser decisiva: pela regra em vigor, quem fatura acima de R$ 81 mil no ano precisa deixar a categoria e migrar para o Simples Nacional, com mais obrigações e custos. Com o novo teto, essa fronteira fica mais distante.</p>\n<p>Por enquanto, porém, nada muda. O DAS-MEI continua com o mesmo valor e o limite segue em R$ 81 mil até que o projeto seja aprovado nas duas Casas e sancionado. A orientação é que quem está perto do teto acompanhe o faturamento acumulado do ano, já que o limite é anual.</p>\n<p>O PLP 108/2021 foi apresentado em agosto de 2021, já passou pelo Senado e tramita na Câmara, onde aguardava deliberação. Depois da votação na comissão especial, segue para o Plenário. Se os deputados mudarem o texto aprovado pelos senadores, a proposta volta ao Senado antes de ir à sanção. Ainda não há data para a votação em Plenário.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/151556_2.jpg",
+  "credito_foto": "Pixabay/Pexels",
+  "fonte": "Agência Câmara",
   "resumos": ""
  }
 ]
