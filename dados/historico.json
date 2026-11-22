@@ -62858,5 +62858,33 @@
   "fonte": "www.otempo.com.br",
   "arte": "artes/2026-11-22/061525_empo.jpg",
   "media_id": "18130628344943831"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "06:19",
+  "id": "061759_76",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Brasil atrai R$ 560 bilhões em projetos de data centers de IA, mas incentivo ainda espera decreto",
+  "titulo_orig": "Brasil mira hub de data centers de IA, mas trava no Congresso",
+  "link": "https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/22/brasil-mira-hub-data-centers-ia-trava-congresso",
+  "fonte": "TV Sim Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "06:19",
+  "id": "061811_3",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Obra de drenagem na época de chuva: Prefeitura de Juiz de Fora explica por que não para os serviços",
+  "titulo_orig": "Chuvas podem comprometer obras de drenagem em Juiz de Fora? Especialista responde",
+  "link": "https://tribunademinas.com.br/noticias/cidade/22-11-2026/editada-chuvas-podem-comprometer-obras-de-drenagem-especialista-responde.html",
+  "fonte": "Tribuna de Minas",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
