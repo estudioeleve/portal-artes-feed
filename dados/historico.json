@@ -64230,5 +64230,19 @@
   "fonte": "Correio de Minas",
   "arte": "artes/2026-11-22/171709_90.jpg",
   "media_id": "17878157427593315"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "18:01",
+  "id": "171703_29",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Falha em sistema da Delta faz EUA suspenderem decolagens no maior aeroporto do país",
+  "titulo_orig": "Agência de aviação dos EUA suspende voos de companhia aérea após falha em sistema | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/22/suspensao-temporaria-voos-companhia-aerea-eua-falha-em-sistema.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-22/171703_29.jpg",
+  "media_id": "18109249925363562"
  }
 ]
