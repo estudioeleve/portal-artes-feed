@@ -1,17 +1,5 @@
 [
  {
-  "id": "081817_html",
-  "data": "2026-11-20T08:19:24-03:00",
-  "titulo": "Acidente com três veículos deixa quatro feridos na MG-105, entre Prudente de Morais e Funilândia",
-  "linha_fina": "Entre as vítimas está um menino; um homem ficou preso às ferragens de um Ford Ka e foi retirado pelos bombeiros.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Um acidente envolvendo três veículos deixou quatro pessoas feridas na tarde desta quinta-feira (19), na rodovia MG-105, entre Prudente de Morais e Funilândia, na Região Central de Minas Gerais, perto de Sete Lagoas.</p>\n<p>A ocorrência foi registrada por volta das 15h15 e mobilizou equipes do Corpo de Bombeiros, do Serviço de Atendimento Móvel de Urgência (Samu) e uma ambulância do município de Prudente de Morais.</p>\n<p>Entre as vítimas estão dois homens, uma mulher e um menino. Segundo os bombeiros, três delas, incluindo a criança, já tinham sido socorridas por uma unidade do Samu quando os militares chegaram ao local. Elas tinham escoriações pelo corpo.</p>\n<p>A quarta vítima, um homem que estava em um Ford Ka, ficou presa às ferragens. Os bombeiros fizeram o desencarceramento para retirá-lo do carro. Ele reclamava de dores em uma das pernas, que tinha sinais de fratura, e foi levado para atendimento hospitalar pela ambulância de Prudente de Morais.</p>\n<p>As causas do acidente não foram informadas. A pista ficou parcialmente ocupada durante o atendimento, e a orientação para quem passa pela região no feriado é redobrar a atenção, principalmente com a pista molhada pela chuva.</p>\n<p>A MG-105 liga cidades do entorno de Sete Lagoas e é usada por moradores de municípios vizinhos da região metropolitana, como Matozinhos e Pedro Leopoldo, no caminho para a região central do estado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/081817_html.jpg",
-  "credito_foto": "Foto: Divulgação/CBMMG",
-  "fonte": "Estado de Minas, com informações do Corpo de Bombeiros",
-  "resumos": ""
- },
- {
   "id": "081820_html",
   "data": "2026-11-20T08:19:24-03:00",
   "titulo": "PM lança operação com 60 policiais no Buritis para conter roubos e furtos nas compras de fim de ano",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/151556_2.jpg",
   "credito_foto": "Pixabay/Pexels",
   "fonte": "Agência Câmara",
+  "resumos": ""
+ },
+ {
+  "id": "152906_inas",
+  "data": "2026-11-22T15:29:23-03:00",
+  "titulo": "Enchente arranca ponte e arrasta carro e moto em Aimorés; oito moradores passam a noite ilhados",
+  "linha_fina": "Grupo isolado em Alto Capim, na zona rural, aguardava resgate com aeronave da PM neste domingo (22)",
+  "categoria": "minas-gerais",
+  "texto": "<p>Oito pessoas passaram a noite de sábado (21) para domingo (22) ilhadas na zona rural de Aimorés, no Vale do Rio Doce, depois que as fortes chuvas provocaram uma enchente e cortaram o acesso a comunidades da região. O grupo está no povoado de Alto Capim, perto de São Sebastião da Vala, e o resgate foi programado para a manhã deste domingo com o apoio do helicóptero Pegasus, da Polícia Militar.</p>\n<p>Segundo o Corpo de Bombeiros, os moradores estão abrigados em local seguro e não correm risco imediato. As equipes conseguiram fazer contato com todos eles. A operação reúne militares do Pelotão de Bombeiros de Resplendor, a PM e as Defesas Civis municipal e estadual.</p>\n<p>Os bombeiros começaram a atuar por volta das 5h55 de sábado. Primeiro, uma família ficou isolada às margens do Córrego de Todos os Santos e precisou ser retirada pela guarnição. Mais adiante, na mesma estrada, as equipes encontraram os outros moradores sem condições de deixar a área.</p>\n<p>Vídeos gravados por moradores mostram a força da enxurrada na Estrada do Vermelha. Em um deles, um homem aponta o lugar onde ficava uma ponte, arrancada pela água, e conta que um carro, uma moto e outros bens da família foram levados pela correnteza.</p>\n<p>Na divisa com o Espírito Santo, uma pequena barragem se rompeu na comunidade de São Domingos de Ibicaba, em Afonso Cláudio (ES). De acordo com os bombeiros mineiros, o rompimento aconteceu em território capixaba e não causou a inundação em Aimorés, provocada pela chuva na própria região. Do lado capixaba, uma casa desabou e duas pessoas foram arrastadas: uma mulher foi salva por moradores, e o marido dela, de 72 anos, era procurado pelas equipes de resgate.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/152906_inas.jpg",
+  "credito_foto": "Reprodução/Redes sociais/O Tempo",
+  "fonte": "O Tempo",
   "resumos": ""
  }
 ]
