@@ -63530,5 +63530,47 @@
   "fonte": "Estadão",
   "arte": "artes/2026-11-22/111703_204.jpg",
   "media_id": "18033540854689865"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "12:24",
+  "id": "122116_49",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Leitura abre vagas temporárias de fim de ano em oito shoppings de BH; veja como enviar currículo",
+  "titulo_orig": "Leitura abre vagas temporárias de fim de ano em oito shoppings de BH",
+  "link": "https://pordentrodetudo.com.br/leitura-abre-vagas-temporarias-de-fim-de-ano-em-oito-shoppings-de-bh/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "artes/2026-11-22/122116_49.jpg",
+  "media_id": "18116919344167528"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "12:24",
+  "id": "122218_31",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "BBC Travel lista 20 destinos para viajar em 2027, com Madagascar, ritual raro no Japão e Copa feminina no Brasil",
+  "titulo_orig": "Os 20 melhores destinos de viagem em 2027 | G1",
+  "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/22/os-20-melhores-destinos-de-viagem-em-2027.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "12:24",
+  "id": "122229_uas",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Cemig desliga energia no Centro de Ipatinga das 9h às 16h deste domingo para obra na rede; veja as ruas",
+  "titulo_orig": "Cemig realiza desligamento programado no Centro de Ipatinga neste domingo (22); confira as ruas",
+  "link": "https://radioeducadoramg.com.br/cemig-realiza-desligamento-programado-no-centro-de-ipatinga-neste-domingo-22-confira-as-ruas/",
+  "fonte": "radioeducadoramg.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
