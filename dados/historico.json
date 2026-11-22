@@ -62942,5 +62942,33 @@
   "fonte": "Brasil de Fato",
   "arte": "artes/2026-11-22/061401_8.jpg",
   "media_id": "18110091124957126"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "06:35",
+  "id": "061356_48",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Black Friday: cliente usa IA para achar ofertas, e lojas mudam o jeito de vender para aparecer",
+  "titulo_orig": "‘Chat, encontra uma pechincha?’: veja como lojas on-line adaptam ofertas da Black Friday às buscas com IA",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaldYZXVPZHFxcVcySVExc3dyMUtCaXJZdFVlNF9sY0xjUnBuSFBTUVVzUUVTci13YkJTdmpTbFVBUG1zZWZlMjAtT1g2YURsdmFEeWpxcUdGMFNDeGRlRFAyNFFCeWJmVlZjVWwzMkx6WEVSLS1fb1VnUDdtNVFXLVpyRVg5eUFvNzdieHVmbkJSUEM1VWVzaFZQdUl1Q1VneFo4aTFMZF9hNU80cW9rdTBZLU84UjdmTm4wdkpiRC1nSUQ4N2pzcW04aVpHVVhsanBnY0hrMV95SktvY2FZOGF1dFRZSU5wRS1QaG9qRkc4RGJ3ekdTUDRITGLSAYsCQVVfeXFMTm1mRzk4ZjluRTYxbm9fYmt0Y1lJM2RkTFEybkFCYWtESHlyM0M4cDVBLS02VWhJak00S2xRMEFvRXpNN2lQSG1zR0gyNC1KTHdRTTI0MGJDTGhiN0VJSHRpRktGb2JHbFFCN0c4UWtpZTJ5azRlSzY0SlhfZHJCLXRQTjdHRE9uVkRQZkV3aVkxMHZROFlFaVJBMWJzNTZjRC13VWcyME5WVzJ3OFo3NVI2STdLV0RDOHNtYk16UEhQdVA3dTFYS2hfQXJfb1NVVmstVXgweUprQm1zR1Fxak92U3IyS1JySmlSWnUwaW92aGtKcUZZeVhRUEZVc0xQLTBUOWJ6OWZCWnJn?oc=5",
+  "fonte": "O GLOBO",
+  "arte": "artes/2026-11-22/061356_48.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "06:44",
+  "id": "062603_-bh",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Natal da Mineiridade abre com túnel de sinos iluminados e Fábrica do Noel na Praça da Liberdade",
+  "titulo_orig": "Praça e Palácio da Liberdade ganham iluminação especial e abrem o Natal da Mineiridade 2026 em BH | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/praca-e-palacio-da-liberdade-ganham-iluminacao-especial-e-abrem-o-natal-da-mineiridade-2026-em-bh/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "artes/2026-11-22/062603_-bh.jpg",
+  "media_id": "17978775777174874"
  }
 ]
