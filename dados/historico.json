@@ -63320,5 +63320,19 @@
   "fonte": "Terra",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "10:20",
+  "id": "101636_9",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Cafés de Carmo do Paranaíba levam primeiro lugar em prêmio do Cerrado Mineiro em Uberlândia",
+  "titulo_orig": "Cafés de Carmo do Paranaíba conquistam destaque no Prêmio Região do Cerrado Mineiro - Tribuna Informa",
+  "link": "https://tribunainforma.com.br/cafes-de-carmo-do-paranaiba-conquistam-destaque-no-premio-regiao-do-cerrado-mineiro/",
+  "fonte": "Tribuna Informa",
+  "arte": "artes/2026-11-22/101636_9.jpg",
+  "media_id": "18039631538659140"
  }
 ]
