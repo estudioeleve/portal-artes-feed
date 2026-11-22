@@ -1,17 +1,5 @@
 [
  {
-  "id": "211714_202",
-  "data": "2026-11-19T18:21:46-03:00",
-  "titulo": "Câmara de Pedro Leopoldo aprova programa de incentivo à publicação de livros de autores da cidade",
-  "linha_fina": "Projeto aprovado por unanimidade prevê apoio à edição, impressão e divulgação de obras de escritores locais.",
-  "categoria": "pedro-leopoldo",
-  "texto": "<p>A Câmara Municipal de Pedro Leopoldo aprovou por unanimidade, na reunião ordinária de segunda-feira (16), o Projeto de Lei nº 127/2026, que cria o Programa Municipal de Incentivo à Publicação de Autores de Pedro Leopoldo.</p><p>A proposta tem o objetivo de promover, valorizar e incentivar a produção literária e intelectual de escritores que nasceram ou moram no município, ampliando as chances de publicação e facilitando o acesso da população às obras produzidas na cidade.</p><p>Segundo o texto, o programa também quer preservar a memória, a história, a cultura e a identidade pedroleopoldense, estimular a formação de novos leitores e escritores e fortalecer o livro como ferramenta de educação e desenvolvimento social.</p><p>Entre as ações previstas estão o apoio à edição, revisão, diagramação, projeto gráfico e impressão de livros, tanto inéditos quanto reedições. O projeto inclui ainda o incentivo à divulgação das obras, o apoio a feiras, encontros, mostras e bienais, a disponibilização dos livros nas bibliotecas públicas municipais e parcerias com editoras, universidades e entidades culturais.</p><p>Poderão participar autores naturais de Pedro Leopoldo ou que comprovem residência no município, com obras próprias, individuais ou coletivas. Com a aprovação na Câmara, o projeto segue para sanção do Executivo municipal.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/211714_202.jpg",
-  "credito_foto": "Reprodução/Mega Cidade",
-  "fonte": "Mega Cidade",
-  "resumos": ""
- },
- {
   "id": "211721_42",
   "data": "2026-11-19T18:21:47-03:00",
   "titulo": "Deputada Andréia de Jesus propõe criar a Bancada Negra na Assembleia de Minas",
@@ -4794,6 +4782,18 @@
   "linha_fina": "Gol saiu logo no início do segundo tempo, após cruzamento de Sebastián Villa",
   "categoria": "atletico",
   "texto": "<p>O Boca Juniors ampliou o placar contra o Atlético logo no começo do segundo tempo da final da CONMEBOL Sul-Americana, em Barranquilla. Aos 48 minutos, Miguel Merentiel finalizou de dentro da área após cruzamento de Sebastián Villa: Atlético 0x2 Boca.</p><p>No intervalo, o técnico Eduardo Domínguez colocou Ángelo Preciado, Thiago Borbas e Igor Gomes nos lugares de Natanael, Kauã Pascini e Mamady Cissé. Acompanhe o placar ao vivo aqui no site.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/final-sula-aovivo.jpg",
+  "credito_foto": "Foto: Divulgação/Atlético",
+  "fonte": "",
+  "resumos": ""
+ },
+ {
+  "id": "final-sula-fim-boca-campeao",
+  "data": "2026-11-21T21:27:36-03:00",
+  "titulo": "Boca vence o Atlético por 2 a 0 e é campeão da Copa Sul-Americana",
+  "linha_fina": "Ascacíbar e Merentiel marcaram em Barranquilla; Galo perde a segunda final seguida da competição",
+  "categoria": "atletico",
+  "texto": "<p>O Boca Juniors venceu o Atlético por 2 a 0 neste sábado (21), no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia, e conquistou a CONMEBOL Sul-Americana 2026. É o terceiro título do clube argentino na competição, depois de 2004 e 2005.</p><p>Santiago Ascacíbar abriu o placar aos 16 minutos do primeiro tempo, após cobrança de escanteio. Logo no início do segundo tempo, aos 48 minutos, Miguel Merentiel ampliou após cruzamento de Sebastián Villa.</p><p>O técnico Eduardo Domínguez mexeu no intervalo, com as entradas de Ángelo Preciado, Thiago Borbas e Igor Gomes, e o Atlético passou a ter mais posse de bola, mas não conseguiu reagir. O Galo perde a segunda final seguida da Sul-Americana: no ano passado, foi derrotado pelo Lanús.</p>",
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/final-sula-aovivo.jpg",
   "credito_foto": "Foto: Divulgação/Atlético",
   "fonte": "",
