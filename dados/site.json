@@ -1,17 +1,5 @@
 [
  {
-  "id": "122255_77",
-  "data": "2026-11-20T12:26:47-03:00",
-  "titulo": "Salão de BH é condenado a indenizar funcionária por frase racista: 'cabelo ruim é igual bandido'",
-  "linha_fina": "TRT-3 reconheceu discriminação racial em comentário de prestador de serviços e fixou indenização de R$ 7 mil por danos morais.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>A 7ª Turma do Tribunal Regional do Trabalho da 3ª Região (TRT-3), em Minas Gerais, manteve a condenação de um salão de beleza de Belo Horizonte por um comentário racista feito a uma funcionária, mas reduziu a indenização por danos morais de R$ 20 mil para R$ 7 mil. O colegiado também manteve a rescisão indireta do contrato de trabalho.</p><p>Segundo o processo, durante o expediente um prestador de serviços do estabelecimento disse à trabalhadora: \"Hoje você está bonita, porque seu cabelo está preso. Cabelo ruim é igual bandido, só fica bonito preso\". As empresas não negaram a frase, mas alegaram que comentários do tipo eram feitos em tom de brincadeira e dirigidos também a outras funcionárias.</p><p>A dona do salão afirmou que advertiu o prestador verbalmente e que os profissionais parceiros eram orientados a conhecer e assinar um código de conduta. Na primeira instância, a 44ª Vara do Trabalho de Belo Horizonte reconheceu o dano moral e fixou a indenização em R$ 20 mil. A trabalhadora recorreu pedindo R$ 50 mil, e as empresas pediram a anulação da condenação.</p><p>O relator, desembargador Fernando Rios Neto, concluiu que a declaração configurou discriminação racial e ultrapassou os limites de uma brincadeira. \"As ofensas revelam-se ofensivas e discriminatórias, ultrapassando os limites do razoável, pelo que são inaceitáveis em qualquer ambiente de trabalho\", escreveu.</p><p>Na decisão, o magistrado destacou que o empregador tem o dever de garantir um ambiente de trabalho livre de discriminação, inclusive em relação à conduta de prestadores de serviço. Ele citou a Constituição Federal, a Convenção 111 da Organização Internacional do Trabalho e a Convenção Interamericana contra o Racismo, e lembrou que, em casos de ofensa discriminatória, o dano moral decorre da própria conduta, sem necessidade de provar sofrimento psicológico.</p><p>O fato de o autor da frase já ter feito comentários semelhantes a outras trabalhadoras reforçou a responsabilidade das empresas.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/122255_77.jpg",
-  "credito_foto": "Foto: Reprodução/Migalhas",
-  "fonte": "Migalhas / TRT-3",
-  "resumos": ""
- },
- {
   "id": "122302_37",
   "data": "2026-11-20T12:26:47-03:00",
   "titulo": "Ataque dos houthis atinge o prédio mais alto da Arábia Saudita, sede do fundo soberano, em Riad",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/191337_31.jpg",
   "credito_foto": "Reprodução/Jornal Folha de Condeúba",
   "fonte": "Jornal Folha de Condeúba",
+  "resumos": ""
+ },
+ {
+  "id": "191822_ador",
+  "data": "2026-11-22T19:19:06-03:00",
+  "titulo": "Bombeiros resgatam seis moradores, entre eles um bebê, após deslizamento em Salvador",
+  "linha_fina": "Terreno cedeu e abriu cratera no corredor de acesso às casas no bairro IAPI; cinco famílias ficaram desalojadas, sem feridos.",
+  "categoria": "brasil",
+  "texto": "<p>Seis moradores, entre eles um bebê de sete meses, foram resgatados pelo Corpo de Bombeiros na manhã deste domingo (22) depois que um deslizamento de terra deixou as casas sem saída no bairro IAPI, em Salvador. Ninguém ficou ferido, mas ao menos cinco famílias ficaram desalojadas.</p>\n<p>De acordo com o Corpo de Bombeiros Militar da Bahia (CBMBA), parte do terreno cedeu e abriu uma cratera em um corredor de concreto que dá acesso aos imóveis. Com o caminho interrompido, os moradores ficaram ilhados dentro das casas, sem conseguir sair.</p>\n<p>As imagens divulgadas pela corporação mostram os militares usando escadas apoiadas no muro das casas durante o resgate dos cinco adultos e do bebê.</p>\n<p>A Defesa Civil de Salvador (Codesal) também foi chamada ao local. Os técnicos removeram partes instáveis do terreno, retiraram escombros e terra e instalaram uma lona de 15 metros por 8 metros para proteger a área atingida e evitar novos deslizamentos com a chuva.</p>\n<p>As famílias desalojadas devem receber orientação da Defesa Civil sobre o retorno às casas, que depende da avaliação de risco da área. Em situações de emergência, a população pode acionar os Bombeiros pelo telefone 193 e a Defesa Civil pelo 199.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/191822_ador.jpg",
+  "credito_foto": "Reprodução/CBMBA",
+  "fonte": "Farol da Bahia",
   "resumos": ""
  }
 ]
