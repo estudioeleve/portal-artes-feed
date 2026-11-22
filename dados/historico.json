@@ -62634,5 +62634,33 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "artes/2026-11-21/221548_146.jpg",
   "media_id": "17915107905560196"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "22:30",
+  "id": "221403_63",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Após ônibus queimado com bilhete em BH, Cleitinho diz que dará autonomia total à PM contra facções a partir de 2027",
+  "titulo_orig": "Cleitinho promete autonomia à PM contra facções após ataque a ônibus em BH",
+  "link": "https://www.em.com.br/politica/2026/11/7542225-cleitinho-promete-autonomia-a-pm-contra-faccoes-apos-ataque-a-onibus-em-bh.html",
+  "fonte": "Estado de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "22:30",
+  "id": "222038_236",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BETIM",
+  "titulo": "Carreta da Santa Casa chega a Betim com 960 consultas de oftalmologia, óculos grátis e 360 ultrassons",
+  "titulo_orig": "Carreta da Santa Casa chega a Betim com ultrassonografias, consultas oftalmológicas e doação de óculos para pacientes",
+  "link": "https://portalagita.com.br/carreta-da-santa-casa-chega-a-betim-com-ultrassonografias-consultas-oftalmologicas-e-doacao-de-oculos-para-pacientes/",
+  "fonte": "Portal Agita",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
