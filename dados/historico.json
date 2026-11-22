@@ -63824,5 +63824,19 @@
   "fonte": "No Ataque",
   "arte": "artes/2026-11-22/141821_33.jpg",
   "media_id": "18436810351145640"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "14:46",
+  "id": "141832_3",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Incêndio em fábrica de doces na Indonésia deixa mortos e pelo menos 50 pessoas desaparecidas",
+  "titulo_orig": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-22/141832_3.jpg",
+  "media_id": "17883443766554480"
  }
 ]
