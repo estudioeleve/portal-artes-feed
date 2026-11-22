@@ -63068,5 +63068,33 @@
   "fonte": "www.itatiaia.com.br",
   "arte": "artes/2026-11-22/081441_-bh.jpg",
   "media_id": "18144296401623638"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "08:20",
+  "id": "081944_vida",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "França tem sexto fim de semana seguido de protestos contra o custo de vida, mas adesão cai",
+  "titulo_orig": "Manifestações na França reúnem 150 mil pessoas neste sábado (21) contra a alta do custo de vida",
+  "link": "https://www.otempo.com.br/mundo/2026/11/21/manifestacoes-na-franca-reunem-150-mil-pessoas-neste-sabado-21-contra-a-alta-do-custo-de-vida",
+  "fonte": "www.otempo.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "08:20",
+  "id": "081946_026",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Crédito difícil e custos altos apertam produtores de batata; consumo de pré-frita e chips abre espaço",
+  "titulo_orig": "Crise no crédito e custos elevados desafiam produtores de batata em 2026 | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/agro/crise-no-credito-e-custos-elevados-desafiam-produtores-de-batata-em-2026/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
