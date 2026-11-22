@@ -1,17 +1,5 @@
 [
  {
-  "id": "001250_26",
-  "data": "2026-11-19T21:16:14-03:00",
-  "titulo": "Após protesto na Estação Oiapoque, Sintram diz que pode ajustar viagens das linhas do Morro Alto",
-  "linha_fina": "Passageiros de Vespasiano reclamam da demora dos ônibus 500C, 501C e 503H; sindicato das empresas promete verificar intervalos.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O Sindicato das Empresas de Transporte de Passageiros Metropolitano (Sintram) informou que pode fazer ajustes \"operacionais\" nas viagens das linhas que atendem o Terminal Morro Alto, em Vespasiano, depois do protesto que travou a Estação Oiapoque do Move, no Hipercentro de Belo Horizonte, no fim da tarde desta quinta-feira (19/11).</p>\n<p>A manifestação foi motivada pela demora dos ônibus das linhas 500C, 501C e 503H, que ligam o Morro Alto à capital. Os passageiros bloquearam a rua Oiapoque, montaram uma barreira e chegaram a queimar materiais no local. O ato foi chamado de \"Fora Saritur\". A Polícia Militar foi acionada para acompanhar a situação.</p>\n<p>Em nota, o Sintram disse que deslocou veículos de outras operações para reforçar o atendimento durante o protesto e que reconhece as reclamações dos usuários. Segundo a entidade, as queixas sobre os intervalos entre as viagens serão verificadas com as empresas responsáveis, para identificar a necessidade de ajustes na operação e na manutenção dos ônibus. O sindicato afirmou ainda que vai acompanhar a regularidade dos horários, as condições dos veículos e a qualidade do atendimento.</p>\n<p>A Estação Oiapoque recebe as linhas do Move Metropolitano que saem do Terminal Morro Alto e também a 510C (Terminal Vilarinho/Belo Horizonte). Várias linhas intermunicipais param em pontos próximos, o que faz da estação um dos principais pontos de embarque de quem mora no Vetor Norte da Grande BH.</p>\n<p>O dia foi marcado por outras reclamações sobre o transporte coletivo. Um passageiro denunciou que um ônibus da linha 518R, do Move Metropolitano, circulava de portas abertas por falta de ar-condicionado e de janelas. Já os motoristas de ônibus de Belo Horizonte fizeram mais um ato por reajuste salarial e prometem novas manifestações semanais, com a próxima prevista para o dia 27 de novembro.</p>\n<p>Até a publicação desta matéria, não havia prazo definido para as mudanças nas viagens das linhas do Morro Alto.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-19/001250_26.jpg",
-  "credito_foto": "Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "001312_7",
   "data": "2026-11-19T21:16:14-03:00",
   "titulo": "Peça \"A Contadora de Filmes\" volta a BH com entrada gratuita nos dias 27 e 28 de novembro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/062603_-bh.jpg",
   "credito_foto": "Lorena Vieira/Itatiaia",
   "fonte": "Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "062710_nte",
+  "data": "2026-11-22T06:28:00-03:00",
+  "titulo": "Sebrae Minas abre nesta segunda semana gratuita para preparar o pequeno negócio para o Natal",
+  "linha_fina": "Negócios em Foco vai de 23 a 27 de novembro, na sede do Sebrae em BH, com oficinas de finanças, crédito, vendas, redes sociais e IA",
+  "categoria": "comercio",
+  "texto": "<p>Com a chegada do fim do ano, período decisivo para o comércio e os serviços, o Sebrae Minas preparou uma semana de capacitação para quem empreende em Belo Horizonte e na região. O Negócios em Foco acontece de 23 a 27 de novembro, na sede do Sebrae Minas, na capital, com conteúdos práticos, conexões e oportunidades. A programação é gratuita, com exceção de algumas atividades específicas, e as inscrições são feitas pela Sympla.</p>\n<p>Segundo a analista do Sebrae Minas Lohana Velloso, a ideia é atender aos diferentes desafios dos pequenos negócios, com atividades para segmentos específicos e conteúdos que servem a empresas de qualquer área, principalmente em finanças, marketing, inovação e vendas, para que os participantes fechem o ano mais preparados para crescer.</p>\n<p>Na segunda-feira (23), a manhã é dedicada ao setor de beleza, com workshop para salões, lojas de cosméticos, maquiagem e tranças. À tarde, o FinFestival – Virada Financeira trata de gestão financeira, organização do negócio e acesso ao crédito, incluindo o Fundo de Aval às Micro e Pequenas Empresas (Fampe), com participação do economista Pablo Spyer.</p>\n<p>Na terça (24), a programação aborda marketing, inovação, inteligência artificial e negócios, e à tarde há um evento para o setor moveleiro. Na quarta (25), o destaque é o Moda Brechó Show, sobre brechós e economia circular, com palestra do consultor de imagem Arlindo Grund; à tarde, o Maturidades Sebrae é voltado a empreendedores com 60 anos ou mais, e à noite o Sebrae Delas reúne mulheres empreendedoras.</p>\n<p>Na quinta (26), a manhã é voltada aos negócios de saúde e bem-estar (evento pago). À tarde, oficinas e palestras simultâneas tratam de presença digital para MEI no WhatsApp e no Instagram, oratória, vendas em lojas virtuais, planejamento de conteúdo com ChatGPT, prospecção de clientes sem tráfego pago e técnicas de venda, além de uma palestra da Jucemg sobre registro empresarial.</p>\n<p>Na sexta (27), a semana termina com o Digitalize BH 2026, evento sobre marketing digital, comércio eletrônico e inovação. A programação completa e as inscrições estão disponíveis na página do evento na Sympla.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/062710_nte.jpg",
+  "credito_foto": "Divulgação/Sebrae Minas",
+  "fonte": "Agência Sebrae de Notícias",
   "resumos": ""
  }
 ]
