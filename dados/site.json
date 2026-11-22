@@ -1,17 +1,5 @@
 [
  {
-  "id": "061909_93",
-  "data": "2026-11-20T06:22:35-03:00",
-  "titulo": "Biblioteca comunitária de Santa Luzia reúne autores negros e empresta livros de graça",
-  "linha_fina": "Kilombo Literário, aberto em abril na Casa Mirantes, tem acervo de autores negros, indígenas, quilombolas e periféricos, contação de histórias e empréstimo gratuito.",
-  "categoria": "santa-luzia",
-  "texto": "<p>Em Santa Luzia, na Região Metropolitana de Belo Horizonte, uma biblioteca comunitária vem levando leitura gratuita para perto de quem mora longe do Centro. O Kilombo Literário, aberto em abril deste ano, funciona na Casa Mirantes, imóvel que abriga diferentes iniciativas sociais, e se apresenta como um espaço afrocentrado e aberto às diversidades.</p>\n<p>O acervo reúne obras de autores negros, indígenas, quilombolas e periféricos. A biblioteca é um dos espaços de leitura da Grande BH lembrados neste 20 de novembro, Dia Nacional de Zumbi e da Consciência Negra, em reportagem do jornal Estado de Minas sobre livrarias, sebos e bibliotecas que mantêm a literatura negra em destaque o ano inteiro.</p>\n<p>A coordenadora Poliana Ramos conta que o projeto nasceu de uma demanda da própria vizinhança. A região já teve outras bibliotecas no passado, mas nenhuma permaneceu ativa. Segundo ela, a comunidade abraçou a ideia por entender que é necessário levar essas histórias e esse protagonismo para dentro do bairro por meio dos livros.</p>\n<p>A bibliotecária Mayara de Oliveira conheceu o projeto pelas redes sociais, foi à inauguração e se ofereceu como voluntária. A partir do acervo pessoal que Poliana já tinha, as duas multiplicaram os títulos com uma rede de contatos. Hoje, a maior parte dos livros chega por doação de moradores e de outras bibliotecas.</p>\n<p>No espaço acontecem contações de histórias, e crianças e adultos podem pegar livros emprestados de graça para ler em casa. Para Mayara, descentralizar o acesso é fundamental, porque o equipamento público mais próximo fica distante, no Centro de Santa Luzia.</p>\n<p>Entre as indicações da equipe estão o infantil \"E foi assim que eu e a Escuridão ficamos amigas\", do rapper Emicida, lançado em 2020, e o clássico \"Quarto de Despejo\", de Carolina Maria de Jesus, ambos disponíveis no acervo do Kilombo Literário.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/061909_93.jpg",
-  "credito_foto": "Jair Amaral/EM/D.A Press",
-  "fonte": "Estado de Minas",
-  "resumos": ""
- },
- {
   "id": "061610_22",
   "data": "2026-11-20T06:22:36-03:00",
   "titulo": "Imagem sacra do século 18 furtada há 40 anos volta para capela de Caeté, na Grande BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/101807_38.jpg",
   "credito_foto": "Divulgação/MIDR",
   "fonte": "Terra",
+  "resumos": ""
+ },
+ {
+  "id": "103026_5",
+  "data": "2026-11-22T10:31:14-03:00",
+  "titulo": "Black Friday: vendas por afiliados crescem 3,2 vezes e cliente conquistado na data gasta mais",
+  "linha_fina": "Levantamento da Rakuten Advertising divulgado pela CNDL mostra que comprador do pico de fim de ano tem valor 88% maior ao longo do tempo",
+  "categoria": "comercio",
+  "texto": "<p>As vendas feitas por meio de marketing de afiliados, quando parceiros, influenciadores e sites de ofertas indicam produtos e ganham comissão, crescem 3,2 vezes durante a Black Friday e a Cyber Week em relação a meses comuns. No mercado em geral, a alta da demanda no mesmo período é de 2,2 vezes. Os dados são de uma análise da Rakuten Advertising divulgada pela Confederação Nacional de Dirigentes Lojistas (CNDL).</p>\n<p>O estudo, chamado \"O Panorama Completo\", cruzou dados da rede de afiliados da empresa com painéis de terceiros e informações de CRM de marcas. Uma das conclusões contraria a ideia de que a Black Friday só atrai cliente de ocasião: os consumidores conquistados nos picos de fim de ano têm valor ao longo do tempo (o chamado LTV) 88% maior do que os conquistados em períodos comuns.</p>\n<p>Segundo a diretora de parcerias com publishers da Rakuten Advertising, Bruna Nobre, a disputa pelo consumidor não acontece só dentro da loja, mas nos lugares onde as pessoas descobrem produtos, comparam ofertas e buscam recomendações antes de comprar.</p>\n<p>O levantamento também aponta que a queda nas vendas depois de dezembro, que pode chegar a 65% em relação ao pico, é um ajuste natural do calendário de consumo. Por isso, marcas que cortam toda a divulgação logo após as festas podem perder clientes que ainda estão decidindo a compra.</p>\n<p>Para o pequeno lojista, a lição é aproveitar parcerias com influenciadores locais, grupos de ofertas e indicações de clientes nesta Black Friday, que acontece no dia 27 de novembro, e manter o contato com quem comprou pela primeira vez para garantir novas vendas no Natal e no início do ano.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/103026_5.jpg",
+  "credito_foto": "Shutterstock/CNDL",
+  "fonte": "CNDL",
   "resumos": ""
  }
 ]
