@@ -63852,5 +63852,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-22/151531_28.jpg",
   "media_id": "18171480019479651"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "15:19",
+  "id": "151546_170",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Justiça eleva para R$ 160 mil indenização à família de idoso morto após ser atropelado por ônibus em Poços de Caldas",
+  "titulo_orig": "Atropelamento em Poços de Caldas: empresa pagará R$ 160 mil | G1",
+  "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/22/empresa-de-onibus-tera-que-pagar-r-160-mil-a-familia-de-idoso-morto-apos-atropelamento-em-mg.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "15:19",
+  "id": "151757_20",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Entidades do comércio e serviços lançam manifesto contra alta de impostos e pedem corte de gastos ao governo",
+  "titulo_orig": "Comércio e serviços reagem à alta de impostos e cobram corte de gastos",
+  "link": "https://revistaoeste.com/politica/comercio-e-servicos-reagem-a-alta-de-impostos-e-cobram-corte-de-gastos/",
+  "fonte": "Revista Oeste",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

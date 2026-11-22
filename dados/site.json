@@ -1,29 +1,5 @@
 [
  {
-  "id": "081240_77",
-  "data": "2026-11-20T08:19:23-03:00",
-  "titulo": "Governo de Minas quer novas PPPs para ampliar o metrô de BH e integrar tarifas com a Grande BH",
-  "linha_fina": "Diretor da Codemge diz que o fim do contrato atual, em 2028, abre espaço para planejar a expansão dos trilhos na região metropolitana.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O governo de Minas Gerais quer estruturar novas parcerias público-privadas (PPPs) para ampliar o metrô de Belo Horizonte e melhorar a integração do transporte público na região metropolitana. A intenção foi apresentada por Gabriel Fajardo, diretor de Concessões e Parcerias da Companhia de Desenvolvimento de Minas Gerais (Codemge), em entrevista ao programa Conexão Infra, da CNN Brasil, nesta quinta-feira (19).</p>\n<p>Segundo Fajardo, o estado ainda não tem projetos de PPP voltados à expansão do metrô, mas pretende avançar nesse modelo, seguindo experiências de outros estados. A ideia é ampliar a estrutura existente e criar soluções que liguem a capital aos municípios vizinhos.</p>\n<p>O ponto de partida, de acordo com o diretor, é a privatização da antiga CBTU em Minas, concluída em 2023. O contrato previu investimentos nas linhas 1 e 2, mas o governo quer discutir novas possibilidades de expansão por meio de parcerias.</p>\n<p>Outro desafio citado é a falta de integração tarifária entre Belo Horizonte e as cidades da Grande BH. Hoje, a ausência de um sistema integrado dificulta a conexão entre metrô, ônibus municipais e linhas metropolitanas, o que pesa no bolso de quem mora em cidades como Santa Luzia, Vespasiano e Ribeirão das Neves e trabalha na capital.</p>\n<p>Para Fajardo, o fim do contrato atual do metrô, previsto para 2028, abre uma janela para planejar uma nova etapa do transporte sobre trilhos e avançar na integração com a região metropolitana, a terceira maior do país.</p>\n<p>O diretor não detalhou quais trechos ou projetos teriam prioridade nem apresentou cronograma para as novas parcerias. A expansão do metrô é uma reivindicação antiga dos moradores da Grande BH, que convivem com uma única linha em operação plena e com estações saturadas nos horários de pico.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/081240_77.jpg",
-  "credito_foto": "Foto: Divulgação/CNN Brasil",
-  "fonte": "CNN Brasil",
-  "resumos": ""
- },
- {
-  "id": "081753_mbro",
-  "data": "2026-11-20T08:19:23-03:00",
-  "titulo": "Chuva de novembro já passa da média histórica em oito das dez regionais de BH",
-  "linha_fina": "Regional Oeste lidera, com 291,6 mm (123,6% da média); Pampulha segue com alerta de risco de deslizamento.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Novembro ainda não terminou, mas a chuva acumulada no mês já ultrapassou a média histórica em oito das dez regionais de Belo Horizonte. Em algumas áreas da capital, o volume supera em mais de 20% o esperado para o mês inteiro, e a previsão é de mais chuva nos próximos dias.</p>\n<p>Segundo levantamento da Defesa Civil atualizado às 5h30 desta sexta-feira (20), a Regional Oeste concentra o maior volume, com 291,6 milímetros, o equivalente a 123,6% da média histórica de novembro, que é de 236 milímetros, conforme a série do Instituto Nacional de Meteorologia (Inmet) entre 1991 e 2020.</p>\n<p>Na sequência aparecem as regionais Nordeste, com 284,6 mm (120,6%); Pampulha, com 279,2 mm (118,3%); Barreiro, com 271,7 mm (115,1%); Noroeste, com 269,6 mm (114,2%); Centro-Sul, com 264,2 mm (111,9%); Venda Nova, com 252,4 mm (106,9%); e Norte, com 237,2 mm (100,5%). A Regional Leste soma 225,6 mm (95,6%), e o Hipercentro tem o menor volume, 170,4 mm (72,2%).</p>\n<p>Na Pampulha, o alerta da Defesa Civil para risco de deslizamentos e desmoronamentos de terra segue em vigor até esta sexta. Com o solo encharcado, a capacidade de sustentação do terreno diminui, o que aumenta a chance de movimentação de terra em encostas, morros e áreas próximas a barrancos.</p>\n<p>A orientação é ficar atento a sinais como rachaduras em paredes e no chão, inclinação de árvores e postes, trincas no terreno e água barrenta escorrendo pelas encostas. Diante desses sinais, a recomendação é sair do imóvel e acionar a Defesa Civil pelo 199 ou os Bombeiros pelo 193.</p>\n<p>A previsão para esta sexta é de céu nublado a parcialmente nublado, com pancadas de chuva, raios e rajadas de vento. O fim de semana também deve ser chuvoso, com possibilidade de chuva moderada a forte no sábado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/081753_mbro.jpg",
-  "credito_foto": "Foto: Reprodução/O Tempo",
-  "fonte": "O Tempo, com dados da Defesa Civil de BH",
-  "resumos": ""
- },
- {
   "id": "081754_gra",
   "data": "2026-11-20T08:19:24-03:00",
   "titulo": "Feriado da Consciência Negra em BH tem Zé Ramalho, Orquestra Ouro Preto, stand-up e programação do Novembro Negro",
@@ -4797,6 +4773,30 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/151531_28.jpg",
   "credito_foto": "Imagens cedidas/Itatiaia",
   "fonte": "Rádio Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "151546_170",
+  "data": "2026-11-22T15:19:44-03:00",
+  "titulo": "Justiça eleva para R$ 160 mil indenização à família de idoso morto após ser atropelado por ônibus em Poços de Caldas",
+  "linha_fina": "TJMG aumentou de R$ 30 mil para R$ 80 mil o valor para cada familiar; acidente foi em agosto de 2023",
+  "categoria": "minas-gerais",
+  "texto": "<p>A empresa de ônibus Auto Omnibus Floramar terá de pagar R$ 160 mil de indenização por danos morais ao filho e à companheira de um idoso de 76 anos que morreu depois de ser atropelado por um coletivo em Poços de Caldas, no Sul de Minas. A decisão é da 21ª Câmara Cível do Tribunal de Justiça de Minas Gerais (TJMG) e foi divulgada na quinta-feira (19).</p>\n<p>O atropelamento aconteceu em agosto de 2023. Segundo o processo, o idoso conversava no meio da rua quando o ônibus fez uma conversão à esquerda. Ao tentar voltar para a calçada, ele foi atingido. A vítima teve fraturas nas costelas e uma contusão pulmonar grave, ficou mais de um mês internada na Santa Casa da cidade e morreu no fim de setembro daquele ano, em decorrência de um choque séptico pulmonar.</p>\n<p>Na primeira instância, a família tinha conseguido indenização de R$ 30 mil para cada parente. Os dois lados recorreram: os familiares pediram aumento do valor, e a empresa contestou a condenação, alegando culpa exclusiva da vítima, que estaria no meio da pista numa curva com pouca visibilidade. A defesa também afirmou que o ônibus estava a 32 km/h e que doenças anteriores do idoso teriam contribuído para a morte.</p>\n<p>Os desembargadores entenderam que houve culpa dos dois lados: o idoso foi imprudente ao permanecer na pista, mas o motorista deveria ter redobrado a atenção ao fazer a curva num trecho de visibilidade reduzida. Com isso, o valor foi elevado para R$ 80 mil por familiar.</p>\n<p>O relator, desembargador Monteiro de Castro, rejeitou o argumento de que doenças preexistentes causaram a morte, já que o laudo de necropsia apontou as complicações do atropelamento como causa do óbito. O voto foi acompanhado pela desembargadora Luziene Barbosa Lima e pelo juiz convocado Sidnei Ponce.</p>\n<p>Procurado, o advogado da empresa informou que não vai se manifestar publicamente sobre a decisão neste momento.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/151546_170.jpg",
+  "credito_foto": "Juarez Rodrigues/TJMG",
+  "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "151757_20",
+  "data": "2026-11-22T15:19:44-03:00",
+  "titulo": "Entidades do comércio e serviços lançam manifesto contra alta de impostos e pedem corte de gastos ao governo",
+  "linha_fina": "Unecs critica pacote fiscal aprovado no Senado, que a Câmara deve votar na segunda (23), e projetos sobre dividendos",
+  "categoria": "comercio",
+  "texto": "<p>A União Nacional de Entidades do Comércio e Serviços (Unecs), que reúne associações dos setores de varejo, supermercados, farmácias, materiais de construção e serviços, divulgou um manifesto contra as medidas de aumento de impostos em análise no Congresso e pediu que o governo federal priorize a redução de despesas para equilibrar as contas públicas.</p>\n<p>No documento, assinado pelo presidente da entidade, Leonardo Miguel Severini, a Unecs diz defender o equilíbrio fiscal, mas afirma que o ajuste não pode depender apenas da criação de tributos ou do aumento da carga sobre quem produz, investe e gera empregos. Entre as alternativas citadas estão a revisão de programas considerados ineficientes, o combate ao desperdício e a modernização da administração pública.</p>\n<p>O principal alvo é o PLP 299/2026, aprovado pelo Senado na quarta-feira (18) e que deve ser votado pela Câmara nesta segunda-feira (23). As entidades contestam a ampliação, de 10% para 20%, do corte linear de benefícios tributários federais e a possibilidade de restringir temporariamente a compensação de créditos tributários, mecanismo que permite às empresas abater débitos com créditos que têm a receber. Para a Unecs, a limitação pode obrigar negócios a desembolsar dinheiro para pagar impostos que poderiam ser compensados.</p>\n<p>O manifesto também critica três projetos apresentados na Câmara na semana passada, que tratam da tributação de lucros e dividendos, do aumento do Imposto de Renda sobre juros sobre capital próprio e da cobrança sobre rendimentos de aplicações financeiras.</p>\n<p>Para o pequeno e médio lojista, o debate merece atenção: mudanças em créditos tributários e benefícios fiscais podem afetar o caixa das empresas em plena temporada de Black Friday e Natal. A votação na Câmara está prevista para segunda-feira e, se houver alterações, o texto pode voltar ao Senado.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/151757_20.jpg",
+  "credito_foto": "Agência Brasil",
+  "fonte": "Revista Oeste",
   "resumos": ""
  }
 ]
