@@ -63194,5 +63194,33 @@
   "fonte": "Catu Acontece",
   "arte": "artes/2026-11-22/091554_119.jpg",
   "media_id": "18138142282732291"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "09:19",
+  "id": "091922_-app",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "MG App passa de 9 milhões de usuários e já reúne 223 serviços, de resultado de doação de sangue a transferência de veículo",
+  "titulo_orig": "Balanço 2023-2026: Governo de Minas amplia digitalização de serviços e disponibiliza mais de 220 funcionalidades no MG App",
+  "link": "https://www.agenciaminas.mg.gov.br/noticia/balanco-2023-2026-governo-de-minas-amplia-digitalizacao-de-servicos-e-disponibiliza-mais-de-220-funcionalidades-no-mg-app",
+  "fonte": "www.agenciaminas.mg.gov.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "09:20",
+  "id": "092000_agem",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Motorista avança parada obrigatória, bate em carro parado e fica ferido no bairro São Joaquim, em Contagem",
+  "titulo_orig": "Motorista fica ferido após avançar parada obrigatória e bater em carro em Contagem",
+  "link": "https://www.otempo.com.br/cidades/2026/11/22/motorista-fica-ferido-apos-avancar-parada-obrigatoria-e-bater-em-carro-em-contagem",
+  "fonte": "www.otempo.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
