@@ -65672,5 +65672,19 @@
   "fonte": "g1.globo.com",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "10:32",
+  "id": "101924_105",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "CONTAGEM",
+  "titulo": "Fábrica de Contagem produz a locomotiva de número mil e emprega cerca de 600 pessoas",
+  "titulo_orig": "Wabtec produz locomotiva de número mil na fábrica de Contagem - Tecnologística",
+  "link": "https://www.tecnologistica.com.br/noticias/equipamentos/22144/wabtec-produz-locomotiva-de-numero-mil-na-fabrica-de-contagem/",
+  "fonte": "Tecnologística",
+  "arte": "artes/2026-11-23/101924_105.jpg",
+  "media_id": "18131935195830061"
  }
 ]
