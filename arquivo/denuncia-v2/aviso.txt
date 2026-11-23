@@ -1,0 +1,2 @@
+<p class="erro-envio" id="erro-envio" hidden></p>
+    <div class="tipo-aviso" id="tipo-aviso">Você está enviando uma <b>DENÚNCIA</b></div>

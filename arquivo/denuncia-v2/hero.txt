@@ -1,0 +1,9 @@
+<div class="tipo-tabs" role="tablist" aria-label="O que você quer enviar">
+    <button type="button" class="tipo-tab" data-tipo="denuncia" role="tab">Denúncia<small>um problema, algo errado</small></button>
+    <button type="button" class="tipo-tab" data-tipo="pauta" role="tab">Sugestão de pauta<small>uma ideia de matéria</small></button>
+  </div>
+  <section class="dc-hero">
+    <div class="kicker" id="dc-kicker">Faça sua denúncia</div>
+    <h1 id="dc-h1">Viu algo que chamou sua atenção?</h1>
+    <p id="dc-p">Conte pra nossa redação — por texto, áudio, foto ou vídeo. A gente avalia e, se fizer sentido, vira matéria no portal.</p>
+  </section>

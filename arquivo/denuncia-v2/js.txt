@@ -1,0 +1,269 @@
+    /* ===== envio de fotos e vídeos (23/11/2026): até 3 arquivos, cada um sobe sozinho em partes de 4 MB,
+       com barra de progresso e nova tentativa automática; foto é reduzida no celular antes de subir ===== */
+    var MAXARQ = 3, PARTE = 4 * 1024 * 1024, MAXTAM = 1024 * 1024 * 1024;
+    var drop = document.getElementById('drop'), fileInput = document.getElementById('file-input'), fileList = document.getElementById('file-list');
+    var limiteMsg = document.getElementById('limite-msg');
+    var itens = [], fila = Promise.resolve(), querEnviar = false, nonceAtual = DC_NONCE;
+
+    function pegarNonce(){
+      var fd = new FormData(); fd.append('action', 'po_denuncia_nonce');
+      return fetch(DC_AJAX_URL, { method: 'POST', body: fd, credentials: 'same-origin' })
+        .then(function(r){ return r.json(); })
+        .then(function(j){ if (j && j.success && j.data && j.data.nonce) nonceAtual = j.data.nonce; })
+        .catch(function(){});
+    }
+    pegarNonce();
+
+    function novoToken(){ var s = '', c = 'abcdefghijklmnopqrstuvwxyz0123456789'; for (var i = 0; i < 28; i++) s += c.charAt(Math.floor(Math.random() * 36)); return s; }
+    function ehImagem(f){ return /^image\//.test(f.type || '') || /\.(jpe?g|png|webp|heic|heif|gif)$/i.test(f.name || ''); }
+    function tamTxt(b){ return b >= 1048576 ? (b / 1048576).toFixed(b >= 104857600 ? 0 : 1).replace('.', ',') + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB'; }
+    function ativos(){ return itens.filter(function(i){ return !i.removido; }); }
+    function pendentes(){ return ativos().filter(function(i){ return i.status !== 'ok' && i.status !== 'erro'; }).length; }
+    function comErro(){ return ativos().filter(function(i){ return i.status === 'erro'; }).length; }
+
+    /* foto: reduz para no máximo 2048 px e JPEG (sobe em segundos; também resolve foto HEIC do iPhone) */
+    function comprimir(f){
+      return new Promise(function(ok){
+        if (!ehImagem(f) || /gif/i.test(f.type || '')) return ok(f);
+        var url, img = new Image(), fim = false;
+        var t = setTimeout(function(){ if (!fim){ fim = true; ok(f); } }, 15000);
+        function sai(x){ if (fim) return; fim = true; clearTimeout(t); try { URL.revokeObjectURL(url); } catch(e){} ok(x); }
+        img.onload = function(){
+          try {
+            var w = img.naturalWidth, h = img.naturalHeight, e = Math.min(1, 2048 / Math.max(w, h));
+            if (!w || !h) return sai(f);
+            if (e === 1 && f.size < 1500000 && /jpe?g/i.test(f.type || '')) return sai(f);
+            var c = document.createElement('canvas'); c.width = Math.round(w * e); c.height = Math.round(h * e);
+            c.getContext('2d').drawImage(img, 0, 0, c.width, c.height);
+            c.toBlob(function(b){
+              if (!b || b.size < 2000 || b.size >= f.size) return sai(f);
+              var nome = (f.name || 'foto').replace(/\.[^.]+$/, '') + '.jpg';
+              try { sai(new File([b], nome, { type: 'image/jpeg' })); } catch(er){ b.name = nome; sai(b); }
+            }, 'image/jpeg', 0.86);
+          } catch(er){ sai(f); }
+        };
+        img.onerror = function(){ sai(f); };
+        try { url = URL.createObjectURL(f); img.src = url; } catch(er){ sai(f); }
+      });
+    }
+
+    function enviarParte(it, idx, total, tent){
+      return new Promise(function(ok, falha){
+        var ini = idx * PARTE, pedaco = it.blob.slice(ini, Math.min(it.blob.size, ini + PARTE));
+        var fd = new FormData();
+        fd.append('action', 'po_denuncia_parte'); fd.append('nonce', nonceAtual); fd.append('token', it.token);
+        fd.append('idx', idx); fd.append('total', total); fd.append('tamanho', it.blob.size); fd.append('nome', it.nome);
+        fd.append('parte', pedaco, 'parte');
+        var x = new XMLHttpRequest();
+        x.open('POST', DC_AJAX_URL); x.timeout = 180000;
+        x.upload.onprogress = function(e){ if (e.lengthComputable){ it.pct = Math.min(99, Math.round((ini + e.loaded) / it.blob.size * 100)); desenhar(); } };
+        x.onload = function(){
+          var j = null; try { j = JSON.parse(x.responseText); } catch(er){}
+          if (j && j.success) return ok(j.data);
+          if (j && j.data && j.data.fatal) return falha({ fatal: 1, msg: j.data.mensagem });
+          if (x.status === 403 || x.responseText === '-1') return pegarNonce().then(function(){ falha('nonce'); });
+          falha('erro');
+        };
+        x.onerror = function(){ falha('rede'); };
+        x.ontimeout = function(){ falha('tempo'); };
+        x.send(fd);
+      }).catch(function(m){
+        if (m && m.fatal) throw m;
+        if (it.removido) throw { msg: 'removido' };
+        if (tent < 6) return new Promise(function(r){ setTimeout(r, 2000 * (tent + 1)); }).then(function(){ return enviarParte(it, idx, total, tent + 1); });
+        throw { msg: 'A internet caiu no meio do envio. Toque em "tentar de novo".' };
+      });
+    }
+
+    function subir(it){
+      if (it.removido) return;
+      it.status = 'preparando'; it.pct = 0; desenhar();
+      return comprimir(it.file).then(function(b){
+        if (it.removido) return;
+        it.blob = b; it.nome = b.name || it.file.name || 'arquivo'; it.token = novoToken(); it.status = 'enviando'; desenhar();
+        var total = Math.max(1, Math.ceil(b.size / PARTE)), idx = 0;
+        function prox(){
+          if (it.removido) return;
+          if (idx >= total){ it.status = 'ok'; it.pct = 100; desenhar(); return; }
+          return enviarParte(it, idx, total, 0).then(function(){ idx++; return prox(); });
+        }
+        return prox();
+      }).catch(function(m){
+        if (it.removido) return;
+        it.status = 'erro'; it.erro = (m && m.msg) || 'Não deu pra enviar este arquivo. Toque em "tentar de novo".'; desenhar();
+      });
+    }
+    function enfileirar(it){ it.status = 'fila'; fila = fila.then(function(){ return subir(it); }); desenhar(); }
+
+    function adicionar(lista){
+      limiteMsg.hidden = true;
+      var vagas = MAXARQ - ativos().length, sobrou = 0;
+      Array.prototype.forEach.call(lista, function(f){
+        if (vagas <= 0){ sobrou++; return; }
+        if (f.size > MAXTAM){ limiteMsg.textContent = 'O arquivo "' + f.name + '" passa de 1 GB. Mande um vídeo mais curto.'; limiteMsg.hidden = false; return; }
+        var it = { file: f, nome: f.name, pct: 0, status: 'fila' };
+        try { if (ehImagem(f)) it.thumb = URL.createObjectURL(f); } catch(e){}
+        itens.push(it); vagas--; enfileirar(it);
+      });
+      if (sobrou){ limiteMsg.textContent = 'Você pode mandar até 3 fotos ou vídeos por envio.'; limiteMsg.hidden = false; }
+      desenhar();
+    }
+
+    function desenhar(){
+      fileList.innerHTML = '';
+      ativos().forEach(function(it){
+        var row = document.createElement('div'); row.className = 'file-row';
+        var th;
+        if (it.thumb){ th = document.createElement('img'); th.src = it.thumb; th.alt = ''; th.onerror = function(){ th.style.visibility = 'hidden'; }; }
+        else { th = document.createElement('span'); th.textContent = ehImagem(it.file) ? 'FOTO' : 'VÍDEO'; }
+        th.className = 'th';
+        var info = document.createElement('div'); info.className = 'info';
+        var nm = document.createElement('span'); nm.className = 'nm'; nm.textContent = it.nome + ' · ' + tamTxt((it.blob || it.file).size);
+        var bar = document.createElement('div'); bar.className = 'bar' + (it.status === 'ok' ? ' ok' : '');
+        var fill = document.createElement('i'); fill.style.width = (it.status === 'ok' ? 100 : (it.pct || 0)) + '%'; bar.appendChild(fill);
+        var st = document.createElement('span'); st.className = 'st';
+        if (it.status === 'fila') st.textContent = 'na fila para enviar…';
+        else if (it.status === 'preparando') st.textContent = 'preparando…';
+        else if (it.status === 'enviando') st.textContent = 'enviando… ' + (it.pct || 0) + '%';
+        else if (it.status === 'ok'){ st.textContent = 'enviado ✓'; st.className = 'st ok'; }
+        else { st.textContent = it.erro; st.className = 'st erro'; }
+        info.appendChild(nm); info.appendChild(bar); info.appendChild(st);
+        var ac = document.createElement('div'); ac.className = 'acoes';
+        if (it.status === 'erro'){
+          var tb = document.createElement('button'); tb.type = 'button'; tb.textContent = 'tentar de novo';
+          tb.addEventListener('click', function(){ enfileirar(it); }); ac.appendChild(tb);
+        }
+        var rb = document.createElement('button'); rb.type = 'button'; rb.textContent = '✕'; rb.setAttribute('aria-label', 'remover');
+        rb.addEventListener('click', function(){ it.removido = true; desenhar(); }); ac.appendChild(rb);
+        row.appendChild(th); row.appendChild(info); row.appendChild(ac);
+        fileList.appendChild(row);
+      });
+      var n = ativos().length;
+      drop.style.display = n >= MAXARQ ? 'none' : '';
+      document.getElementById('drop-tit').textContent = n ? 'Adicionar outra foto ou vídeo' : 'Toque para adicionar foto ou vídeo';
+      document.getElementById('drop-sub').textContent = n ? ('pode mandar mais ' + (MAXARQ - n) + ' (máximo 3)') : 'até 3 arquivos — pode adicionar um de cada vez';
+      if (querEnviar && pendentes() === 0){
+        querEnviar = false;
+        if (comErro()){ liberarBotao(); mostrarErro('Um arquivo não foi enviado. Toque em "tentar de novo" ou remova o arquivo e envie de novo.'); }
+        else finalizar();
+      } else if (querEnviar){
+        submitBtn.textContent = 'Terminando de enviar os arquivos (' + (ativos().length - pendentes()) + ' de ' + ativos().length + ')…';
+      }
+    }
+
+    drop.addEventListener('click', function(){ fileInput.click(); });
+    fileInput.addEventListener('change', function(){ adicionar(fileInput.files); try { fileInput.value = ''; } catch(e){} });
+    ['dragover','dragenter'].forEach(function(ev){ drop.addEventListener(ev, function(e){ e.preventDefault(); drop.classList.add('over'); }); });
+    ['dragleave','drop'].forEach(function(ev){ drop.addEventListener(ev, function(e){ e.preventDefault(); drop.classList.remove('over'); }); });
+    drop.addEventListener('drop', function(e){ if (e.dataTransfer && e.dataTransfer.files) adicionar(e.dataTransfer.files); });
+    window.addEventListener('beforeunload', function(e){ if (pendentes() > 0){ e.preventDefault(); e.returnValue = ''; } });
+
+    var idCredito = document.getElementById('id-credito'), idAnonimo = document.getElementById('id-anonimo');
+    var creditoFields = document.getElementById('credito-fields');
+    function syncId(){ creditoFields.classList.toggle('show', idCredito.checked); }
+    idCredito.addEventListener('change', syncId);
+    idAnonimo.addEventListener('change', syncId);
+
+    var form = document.getElementById('tip-form'), done = document.getElementById('done');
+    var novoEnvio = document.getElementById('novo-envio'), erroEnvio = document.getElementById('erro-envio');
+    var submitBtn = form.querySelector('.submit');
+    var protocoloEl = document.getElementById('protocolo-num');
+
+    /* ===== tipo do envio: denúncia ou sugestão de pauta ===== */
+    var TXT = {
+      denuncia: { kicker: 'Faça sua denúncia', h1: 'Viu algo que chamou sua atenção?',
+        p: 'Conte pra nossa redação — por texto, áudio, foto ou vídeo. A gente avalia e, se fizer sentido, vira matéria no portal.',
+        ph: 'Descreva o que está acontecendo e onde foi. Ou toque no microfone e fale — a gente escreve pra você.',
+        aviso: 'Você está enviando uma <b>DENÚNCIA</b>', btn: 'Enviar denúncia',
+        ok: 'Recebemos a sua denúncia', okp: 'A redação do Portal ONE News vai avaliar e, se virar matéria, você pode acompanhar no site e no Instagram do portal.' },
+      pauta: { kicker: 'Sugestão de pauta', h1: 'Tem uma história que merece virar notícia?',
+        p: 'Sugira um assunto pra nossa redação: um evento, uma pessoa, um projeto, uma conquista ou algo do seu bairro. A gente avalia e pode virar matéria no portal.',
+        ph: 'Conte qual é a sua sugestão de pauta: o assunto, onde acontece e com quem a gente pode falar. Ou toque no microfone e fale.',
+        aviso: 'Você está enviando uma <b>SUGESTÃO DE PAUTA</b>', btn: 'Enviar sugestão de pauta',
+        ok: 'Recebemos a sua sugestão de pauta', okp: 'A redação do Portal ONE News vai avaliar a sua sugestão e, se virar matéria, você pode acompanhar no site e no Instagram do portal.' }
+    };
+    var tipoAtual = /[?&]tipo=(pauta|sugestao)/i.test(location.search) || /sugest/i.test(location.hash) ? 'pauta' : 'denuncia';
+    function aplicarTipo(t){
+      tipoAtual = t; var x = TXT[t];
+      document.getElementById('dc-kicker').textContent = x.kicker;
+      document.getElementById('dc-h1').textContent = x.h1;
+      document.getElementById('dc-p').textContent = x.p;
+      document.getElementById('tipo-aviso').innerHTML = x.aviso;
+      relatoTexto.placeholder = x.ph;
+      if (!querEnviar) submitBtn.textContent = x.btn;
+      Array.prototype.forEach.call(document.querySelectorAll('.tipo-tab'), function(b){
+        var on = b.getAttribute('data-tipo') === t; b.classList.toggle('on', on); b.setAttribute('aria-selected', on ? 'true' : 'false');
+      });
+    }
+    Array.prototype.forEach.call(document.querySelectorAll('.tipo-tab'), function(b){
+      b.addEventListener('click', function(){ aplicarTipo(b.getAttribute('data-tipo')); });
+    });
+    aplicarTipo(tipoAtual);
+
+    function mostrarErro(msg){ erroEnvio.textContent = msg; erroEnvio.hidden = false; window.scrollTo({ top: form.offsetTop - 70, behavior: 'smooth' }); }
+    function liberarBotao(){ submitBtn.disabled = false; submitBtn.textContent = TXT[tipoAtual].btn; }
+
+    function finalizar(tent){
+      var fd = new FormData();
+      fd.append('action', 'po_denuncia_enviar');
+      fd.append('nonce', nonceAtual);
+      fd.append('tipo', tipoAtual);
+      fd.append('relato', relatoTexto.value.trim());
+      fd.append('local', document.getElementById('local').value.trim());
+      fd.append('identidade', idCredito.checked ? 'credito' : 'anonimo');
+      fd.append('nome', document.getElementById('nome').value.trim());
+      fd.append('insta', document.getElementById('insta').value.trim());
+      fd.append('site_web', document.getElementById('site_web').value);
+      ativos().forEach(function(it){ if (it.status === 'ok') fd.append('arquivos[]', it.token); });
+      submitBtn.disabled = true; submitBtn.textContent = 'Enviando…';
+      fetch(DC_AJAX_URL, { method: 'POST', body: fd, credentials: 'same-origin' })
+        .then(function(r){ return r.text(); })
+        .then(function(txt){
+          var res = null; try { res = JSON.parse(txt); } catch(e){}
+          if (res && res.success){
+            liberarBotao();
+            protocoloEl.textContent = 'Protocolo ' + res.data.protocolo;
+            done.querySelector('h2').textContent = TXT[tipoAtual].ok;
+            done.querySelector('p').textContent = TXT[tipoAtual].okp;
+            form.style.display = 'none';
+            done.classList.add('show');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            return;
+          }
+          if (!tent && (txt === '-1' || (res && res.data && res.data.mensagem === 'nonce'))) return pegarNonce().then(function(){ finalizar(1); });
+          liberarBotao();
+          mostrarErro((res && res.data && res.data.mensagem && res.data.mensagem !== 'nonce') ? res.data.mensagem : 'Não deu pra enviar agora, tenta de novo em alguns minutos.');
+        })
+        .catch(function(){
+          if (!tent) return setTimeout(function(){ finalizar(1); }, 2500);
+          liberarBotao(); mostrarErro('Sem conexão no momento — tenta de novo em alguns minutos. Seus arquivos já estão guardados.');
+        });
+    }
+
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      erroEnvio.hidden = true;
+      var relato = relatoTexto.value.trim();
+      if (!relato && ativos().length === 0){
+        mostrarErro(tipoAtual === 'pauta' ? 'Escreva (ou fale) a sua sugestão de pauta antes de enviar.' : 'Escreva (ou fale) o relato, ou envie uma foto/vídeo antes de enviar.');
+        return;
+      }
+      if (comErro()){ mostrarErro('Um arquivo não foi enviado. Toque em "tentar de novo" ou remova o arquivo.'); return; }
+      submitBtn.disabled = true;
+      if (pendentes() > 0){ querEnviar = true; desenhar(); return; }
+      finalizar();
+    });
+
+    novoEnvio.addEventListener('click', function(){
+      form.reset();
+      itens.forEach(function(i){ i.removido = true; }); itens = []; desenhar();
+      if (ouvindo && reconhecedor) reconhecedor.stop();
+      micStatus.classList.remove('erro');
+      if (SpeechRec) micStatus.textContent = 'toque no microfone pra falar em vez de escrever';
+      syncId();
+      aplicarTipo(tipoAtual);
+      form.style.display = '';
+      done.classList.remove('show');
+    });
+
+    syncId();

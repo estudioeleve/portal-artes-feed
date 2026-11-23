@@ -1,0 +1,8 @@
+<legend>Fotos ou vídeos <span style="font-weight:500;color:var(--ink-soft)">(até 3, opcional)</span></legend>
+      <div class="drop" id="drop">
+        <strong id="drop-tit">Toque para adicionar foto ou vídeo</strong>
+        <p id="drop-sub">até 3 arquivos — pode adicionar um de cada vez</p>
+      </div>
+      <input type="file" id="file-input" accept="image/*,video/*" multiple hidden>
+      <div class="files" id="file-list"></div>
+      <p class="limite-msg" id="limite-msg" hidden></p>

@@ -1,0 +1,171 @@
+
+/* === Denúncias v2 (Israel, 23/11/2026): até 3 fotos/vídeos por envio, cada arquivo sobe em partes de 4 MB
+   (não trava mais em vídeo grande nem em internet fraca), foto reduzida no celular, e aba "Sugestão de pauta".
+   O envio antigo (po_denuncia_submit) continua funcionando para quem estiver com a página velha aberta. === */
+function po_dc_mimes() {
+	return array( 'jpg' => 'image/jpeg', 'jpeg' => 'image/jpeg', 'png' => 'image/png', 'webp' => 'image/webp', 'gif' => 'image/gif',
+		'heic' => 'image/heic', 'heif' => 'image/heif', 'mp4' => 'video/mp4', 'm4v' => 'video/mp4', 'mov' => 'video/quicktime',
+		'3gp' => 'video/3gpp', 'webm' => 'video/webm', 'avi' => 'video/x-msvideo', 'mkv' => 'video/x-matroska' );
+}
+function po_dc_tmp_dir() {
+	$up = wp_upload_dir();
+	$d  = trailingslashit( $up['basedir'] ) . 'dc-tmp';
+	if ( ! is_dir( $d ) ) wp_mkdir_p( $d );
+	if ( ! file_exists( $d . '/.htaccess' ) ) {
+		@file_put_contents( $d . '/.htaccess', "Require all denied\nDeny from all\n" );
+		@file_put_contents( $d . '/index.php', "<?php\n// silencio\n" );
+	}
+	return $d;
+}
+function po_dc_limpar( $dir ) {
+	foreach ( array_merge( (array) glob( $dir . '/*.part' ), (array) glob( $dir . '/*.json' ) ) as $f ) {
+		if ( $f && @filemtime( $f ) < time() - DAY_IN_SECONDS ) @unlink( $f );
+	}
+}
+function po_dc_token( $t ) { $t = preg_replace( '/[^a-z0-9]/', '', strtolower( (string) $t ) ); return strlen( $t ) >= 20 && strlen( $t ) <= 40 ? $t : ''; }
+
+add_action( 'wp_ajax_nopriv_po_denuncia_nonce', 'po_dc_nonce' );
+add_action( 'wp_ajax_po_denuncia_nonce', 'po_dc_nonce' );
+function po_dc_nonce() {
+	nocache_headers();
+	wp_send_json_success( array( 'nonce' => wp_create_nonce( 'po_denuncia' ) ) );
+}
+
+add_action( 'wp_ajax_nopriv_po_denuncia_parte', 'po_dc_parte' );
+add_action( 'wp_ajax_po_denuncia_parte', 'po_dc_parte' );
+function po_dc_parte() {
+	if ( ! check_ajax_referer( 'po_denuncia', 'nonce', false ) ) wp_send_json_error( array( 'mensagem' => 'nonce' ), 403 );
+	$tok   = po_dc_token( $_POST['token'] ?? '' );
+	$idx   = isset( $_POST['idx'] ) ? (int) $_POST['idx'] : -1;
+	$total = isset( $_POST['total'] ) ? (int) $_POST['total'] : 0;
+	$tam   = isset( $_POST['tamanho'] ) ? (int) $_POST['tamanho'] : 0;
+	$nome  = sanitize_file_name( wp_unslash( $_POST['nome'] ?? 'arquivo' ) );
+	$ext   = strtolower( pathinfo( $nome, PATHINFO_EXTENSION ) );
+	if ( ! $tok || $idx < 0 || $total < 1 || $idx >= $total || $total > 300 ) wp_send_json_error( array( 'mensagem' => 'Envio inválido, escolha o arquivo de novo.', 'fatal' => 1 ) );
+	if ( ! isset( po_dc_mimes()[ $ext ] ) ) wp_send_json_error( array( 'mensagem' => 'Esse tipo de arquivo não é aceito. Mande foto ou vídeo.', 'fatal' => 1 ) );
+	if ( $tam > 1073741824 ) wp_send_json_error( array( 'mensagem' => 'Arquivo muito grande (máximo 1 GB).', 'fatal' => 1 ) );
+	if ( empty( $_FILES['parte']['tmp_name'] ) || UPLOAD_ERR_OK !== $_FILES['parte']['error'] ) wp_send_json_error( array( 'mensagem' => 'a parte não chegou' ) );
+	$dir = po_dc_tmp_dir();
+	if ( 0 === $idx ) po_dc_limpar( $dir );
+	$arq  = $dir . '/' . $tok . '.part';
+	$info = $dir . '/' . $tok . '.json';
+	$st = file_exists( $info ) ? json_decode( (string) file_get_contents( $info ), true ) : null;
+	if ( ! is_array( $st ) ) $st = array( 'feitas' => 0 );
+	if ( $idx < (int) $st['feitas'] ) wp_send_json_success( array( 'feitas' => (int) $st['feitas'] ) ); // a mesma parte chegou de novo (reenvio): já está gravada
+	if ( $idx !== (int) $st['feitas'] ) wp_send_json_error( array( 'mensagem' => 'parte fora de ordem' ) );
+	$in  = @fopen( $_FILES['parte']['tmp_name'], 'rb' );
+	$out = @fopen( $arq, 0 === $idx ? 'wb' : 'ab' );
+	if ( ! $in || ! $out ) wp_send_json_error( array( 'mensagem' => 'não deu pra gravar' ) );
+	stream_copy_to_stream( $in, $out );
+	fclose( $in ); fclose( $out );
+	clearstatcache();
+	if ( filesize( $arq ) > 1073741824 ) { @unlink( $arq ); @unlink( $info ); wp_send_json_error( array( 'mensagem' => 'Arquivo muito grande (máximo 1 GB).', 'fatal' => 1 ) ); }
+	file_put_contents( $info, wp_json_encode( array( 'feitas' => $idx + 1, 'total' => $total, 'nome' => $nome, 'tam' => $tam ) ) );
+	wp_send_json_success( array( 'feitas' => $idx + 1 ) );
+}
+
+/* passa o arquivo já montado para a pasta de uploads e cria o anexo (sem carregar o vídeo na memória) */
+function po_dc_anexar( $arq, $nome, $post_id ) {
+	require_once ABSPATH . 'wp-admin/includes/image.php';
+	require_once ABSPATH . 'wp-admin/includes/file.php';
+	require_once ABSPATH . 'wp-admin/includes/media.php';
+	$nome = sanitize_file_name( $nome );
+	$ext  = strtolower( pathinfo( $nome, PATHINFO_EXTENSION ) );
+	$mapa = po_dc_mimes();
+	if ( ! isset( $mapa[ $ext ] ) ) { @unlink( $arq ); return 0; }
+	$mime = $mapa[ $ext ];
+	if ( 0 === strpos( $mime, 'image/' ) && ! in_array( $ext, array( 'heic', 'heif' ), true ) && false === @getimagesize( $arq ) ) { @unlink( $arq ); return 0; }
+	$up = wp_upload_dir();
+	$final = wp_unique_filename( $up['path'], $nome );
+	$dest  = trailingslashit( $up['path'] ) . $final;
+	if ( ! @rename( $arq, $dest ) ) {
+		if ( ! @copy( $arq, $dest ) ) return 0;
+		@unlink( $arq );
+	}
+	@chmod( $dest, 0644 );
+	$aid = wp_insert_attachment( array(
+		'post_mime_type' => $mime,
+		'post_title'     => preg_replace( '/\.[^.]+$/', '', $final ),
+		'post_status'    => 'inherit',
+	), $dest, $post_id );
+	if ( ! $aid || is_wp_error( $aid ) ) return 0;
+	wp_update_attachment_metadata( $aid, wp_generate_attachment_metadata( $aid, $dest ) );
+	return $aid;
+}
+
+add_action( 'wp_ajax_nopriv_po_denuncia_enviar', 'po_dc_enviar' );
+add_action( 'wp_ajax_po_denuncia_enviar', 'po_dc_enviar' );
+function po_dc_enviar() {
+	if ( ! check_ajax_referer( 'po_denuncia', 'nonce', false ) ) wp_send_json_error( array( 'mensagem' => 'nonce' ), 403 );
+	/* campo-isca: só bot preenche */
+	if ( ! empty( $_POST['site_web'] ) ) wp_send_json_success( array( 'protocolo' => 'OC-' . wp_date( 'Y' ) . '-0000' ) );
+	@set_time_limit( 300 );
+	$tipo   = ( isset( $_POST['tipo'] ) && 'pauta' === $_POST['tipo'] ) ? 'pauta' : 'denuncia';
+	$relato = isset( $_POST['relato'] ) ? sanitize_textarea_field( wp_unslash( $_POST['relato'] ) ) : '';
+	$local  = isset( $_POST['local'] ) ? sanitize_text_field( wp_unslash( $_POST['local'] ) ) : '';
+	$identidade = ( isset( $_POST['identidade'] ) && 'credito' === $_POST['identidade'] ) ? 'credito' : 'anonimo';
+	$nome  = sanitize_text_field( wp_unslash( $_POST['nome'] ?? '' ) );
+	$insta = sanitize_text_field( wp_unslash( $_POST['insta'] ?? '' ) );
+
+	$dir = po_dc_tmp_dir();
+	$prontos = array();
+	foreach ( array_slice( array_unique( array_filter( array_map( 'po_dc_token', (array) ( $_POST['arquivos'] ?? array() ) ) ) ), 0, 3 ) as $t ) {
+		$arq = $dir . '/' . $t . '.part'; $info = $dir . '/' . $t . '.json';
+		if ( ! file_exists( $arq ) || ! file_exists( $info ) ) continue;
+		$st = json_decode( (string) file_get_contents( $info ), true );
+		if ( is_array( $st ) && (int) $st['feitas'] === (int) $st['total'] ) $prontos[] = array( $arq, $info, (string) $st['nome'] );
+	}
+	if ( '' === $relato && ! $prontos ) {
+		wp_send_json_error( array( 'mensagem' => 'pauta' === $tipo ? 'Escreva (ou fale) a sua sugestão de pauta antes de enviar.' : 'Escreva (ou fale) o relato, ou envie uma foto/vídeo antes de enviar.' ) );
+	}
+
+	$autores  = get_users( array( 'role' => 'administrator', 'number' => 1, 'fields' => 'ID' ) );
+	$autor_id = $autores ? $autores[0] : 1;
+	$rotulo   = 'pauta' === $tipo ? 'Sugestão de pauta' : 'Denúncia';
+	$post_id  = wp_insert_post( array(
+		'post_type'    => 'po_denuncia',
+		'post_status'  => 'publish',
+		'post_title'   => $rotulo . ( $local ? ' · ' . $local : '' ) . ' · ' . wp_date( 'd/m/Y H:i' ),
+		'post_content' => $relato,
+		'post_author'  => $autor_id,
+	), true );
+	if ( is_wp_error( $post_id ) ) wp_send_json_error( array( 'mensagem' => 'Não deu pra salvar agora, tenta de novo em alguns minutos.' ) );
+
+	update_post_meta( $post_id, 'dc_tipo', $tipo );
+	update_post_meta( $post_id, 'dc_local', $local );
+	update_post_meta( $post_id, 'dc_identidade', $identidade );
+	if ( 'credito' === $identidade ) {
+		update_post_meta( $post_id, 'dc_nome', $nome );
+		update_post_meta( $post_id, 'dc_insta', $insta );
+	}
+
+	$total_anexos = 0; $capa = false;
+	foreach ( $prontos as $p ) {
+		$aid = po_dc_anexar( $p[0], $p[2], $post_id );
+		@unlink( $p[1] );
+		if ( ! $aid ) continue;
+		$total_anexos++;
+		if ( ! $capa && wp_attachment_is_image( $aid ) ) { set_post_thumbnail( $post_id, $aid ); $capa = true; }
+	}
+	$protocolo = 'OC-' . wp_date( 'Y' ) . '-' . str_pad( $post_id, 4, '0', STR_PAD_LEFT );
+	update_post_meta( $post_id, 'dc_protocolo', $protocolo );
+
+	$para = get_option( 'po_denuncia_email', get_option( 'admin_email' ) );
+	if ( $para ) {
+		$quem  = 'credito' === $identidade ? ( $nome ?: 'Se identificou, sem nome' ) . ( $insta ? " ({$insta})" : '' ) : 'Anônimo';
+		$corpo  = ( 'pauta' === $tipo ? 'Chegou uma SUGESTÃO DE PAUTA pelo site.' : 'Chegou uma DENÚNCIA pelo site.' ) . "\n\n";
+		$corpo .= "Protocolo: {$protocolo}\nOnde: " . ( $local ?: '—' ) . "\nQuem mandou: {$quem}\nAnexos: {$total_anexos}\n\n";
+		$corpo .= "Relato:\n" . ( $relato ?: '(sem texto — ver anexos)' ) . "\n\n";
+		$corpo .= 'Ver no painel: ' . admin_url( 'post.php?post=' . $post_id . '&action=edit' ) . "\n";
+		wp_mail( $para, '[Portal ONE News] ' . ( 'pauta' === $tipo ? 'Nova sugestão de pauta' : 'Nova denúncia' ) . ' recebida · ' . $protocolo, $corpo );
+	}
+	wp_send_json_success( array( 'protocolo' => $protocolo ) );
+}
+/* quando a página da denúncia muda, limpa o cache do LiteSpeed uma vez, para todo mundo pegar a página nova */
+add_action( 'init', function () {
+	$m = (int) @filemtime( get_template_directory() . '/page-denuncia.php' );
+	if ( (int) get_option( 'po_dc_v2_cache' ) === $m ) return;
+	update_option( 'po_dc_v2_cache', $m );
+	do_action( 'litespeed_purge_all' );
+} );
+/* === fim Denúncias v2 === */
