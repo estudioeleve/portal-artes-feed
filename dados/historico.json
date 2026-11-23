@@ -66260,5 +66260,19 @@
   "fonte": "Portal UAI",
   "arte": "artes/2026-11-23/132145_62.jpg",
   "media_id": "17904984153607368"
+ },
+ {
+  "id": "denuncia_9512",
+  "data": "2026-11-23",
+  "hora": "13:54",
+  "media_id": "18088629101710384",
+  "titulo": "Denúncia do leitor 9512",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:9512",
+  "arte": ""
  }
 ]
