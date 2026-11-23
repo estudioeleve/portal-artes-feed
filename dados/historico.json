@@ -65504,5 +65504,19 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "09:28",
+  "id": "091700_israel",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA · SÃO BENEDITO",
+  "titulo": "Morador diz que rua consta como asfaltada na Prefeitura, mas segue sem asfalto em Santa Luzia",
+  "titulo_orig": "",
+  "link": "israel:denuncia-rua-piata",
+  "fonte": "Denúncia do leitor (Peterson)",
+  "arte": "dados/reels/den-israel-piata.mp4",
+  "media_id": "18108447407526190"
  }
 ]
