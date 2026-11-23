@@ -64734,5 +64734,47 @@
   "fonte": "www.itatiaia.com.br",
   "arte": "artes/2026-11-22/221848_-22.jpg",
   "media_id": "17923227390452334"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "22:29",
+  "id": "222752_html",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Minas fica sob alerta de chuva até 3 de dezembro; Triângulo pode acumular quase 300 milímetros",
+  "titulo_orig": "Chuvas no Triângulo Mineiro: Alerta de 300 mm e risco de alagamento | G1",
+  "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/22/triangulo-mineiro-tem-alerta-para-chuvas-intensas-e-cidades-acumulam-quase-300-milimetros-ate-o-fim-de-novembro.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "22:29",
+  "id": "222756_html",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "PM apreende quatro armas e leva 13 pessoas à delegacia após tiros em festa na zona rural de Araguari",
+  "titulo_orig": "Festa em Araguari termina com 4 armas apreendidas e 13 na delegacia | G1",
+  "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/22/festa-na-zona-rural-de-araguari-termina-com-4-armas-apreendidas-e-13-pessoas-na-delegacia.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "22:29",
+  "id": "222800_html",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Três homens procurados são presos com pistola, revólver e coletes balísticos em Coronel Fabriciano",
+  "titulo_orig": "Prisão em Coronel Fabriciano: Suspeitos de homicídio são detidos | G1",
+  "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/22/tres-homens-sao-presos-com-armas-coletes-balisticos-e-veiculo-furtado-em-coronel-fabriciano.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
