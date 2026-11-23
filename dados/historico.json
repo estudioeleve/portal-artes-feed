@@ -64832,5 +64832,33 @@
   "fonte": "g1.globo.com",
   "arte": "artes/2026-11-22/223604_html.jpg",
   "media_id": "18000833013112043"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "23:16",
+  "id": "231347_7",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Temporal de mais de 60 mm alaga avenidas e provoca enxurradas em Juiz de Fora neste domingo",
+  "titulo_orig": "Juiz de Fora tem chuva de 60 mm ao longo deste domingo (22)",
+  "link": "https://folhajf.com.br/chuva-juiz-de-fora-22-11/",
+  "fonte": "Folha JF",
+  "arte": "artes/2026-11-22/231347_7.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "23:16",
+  "id": "231443_dai",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Mulher morre atropelada na BR-040 em Carandaí, no sentido Belo Horizonte",
+  "titulo_orig": "Mulher morre após atropelamento na BR-040 em Carandaí - Carandai Online",
+  "link": "https://carandaionline.com.br/mulher-morre-apos-atropelamento-na-br-040-em-carandai/",
+  "fonte": "carandaionline.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
