@@ -1,17 +1,5 @@
 [
  {
-  "id": "171654_46",
-  "data": "2026-11-20T17:19:06-03:00",
-  "titulo": "PSD recorre ao STF e pede nova votação para governador do Rio antes da diplomação",
-  "linha_fina": "Partido de Eduardo Paes quer que votos anulados de Garotinho contem para definir se haveria segundo turno; Douglas Ruas foi eleito no 1º turno.",
-  "categoria": "politica",
-  "texto": "<p>O PSD recorreu ao Supremo Tribunal Federal (STF) contra a decisão do ministro Cristiano Zanin que negou o pedido do partido para restabelecer o segundo turno da eleição para governador do Rio de Janeiro. No recurso, apresentado na quinta-feira (19), a legenda pede que Zanin reveja a decisão e autorize uma nova votação, em data a ser definida pelo Tribunal Superior Eleitoral (TSE). Se o ministro mantiver a negativa, o partido quer que o caso seja levado ao plenário da Corte.</p>\n<p>A disputa envolve a exclusão dos votos de Anthony Garotinho (Republicanos). Sem esses votos no cálculo, Douglas Ruas (PL) passou de 49,27% para 50,88% dos votos válidos e foi declarado eleito no primeiro turno, sem precisar enfrentar Eduardo Paes (PSD) numa segunda votação.</p>\n<p>O PSD defende que os votos dados a Garotinho continuem na conta usada para definir se há segundo turno, mesmo com a candidatura rejeitada. Para o partido, quem votou em um candidato que estava na urna fez uma escolha diferente da de quem anulou o voto.</p>\n<p>Garotinho disputou a eleição enquanto aguardava o julgamento de um recurso para liberar a candidatura. Em 8 de outubro, o TSE confirmou que ele não poderia concorrer porque estava com os direitos políticos suspensos, em razão de uma condenação por irregularidades na administração pública, e determinou a anulação dos votos.</p>\n<p>Ao negar o primeiro pedido do PSD, na semana passada, Zanin entendeu que o partido tentava obter no Supremo, por meio de uma ação separada, uma mudança que ainda poderia ser buscada por recursos no próprio processo eleitoral, já que havia pedidos de esclarecimento pendentes no TSE. O partido quer uma definição antes da diplomação dos eleitos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/171654_46.jpg",
-  "credito_foto": "Divulgação/UNE",
-  "fonte": "Hora do Povo",
-  "resumos": ""
- },
- {
   "id": "172006_58",
   "data": "2026-11-20T17:20:30-03:00",
   "titulo": "Dois soldados de El Salvador morrem em explosão durante missão contra gangues no Haiti",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/090800_israel.jpg",
   "credito_foto": "Reprodução/Instagram Paulo Bigodinho",
   "fonte": "Prefeitura de Santa Luzia",
+  "resumos": ""
+ },
+ {
+  "id": "091700_israel",
+  "data": "2026-11-23T09:17:30-03:00",
+  "titulo": "Morador diz que rua consta como asfaltada na Prefeitura, mas segue sem asfalto em Santa Luzia",
+  "linha_fina": "Segundo o leitor, moradores da Rua Piatã, no São Benedito, pedem o asfaltamento há anos; vídeo mostra calçamento irregular e remendos.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Moradores da Rua Piatã, no bairro São Benedito, em Santa Luzia, pedem há anos o asfaltamento da via. Segundo o leitor Peterson, que mora na rua e enviou a denúncia ao Portal ONE News, nos registros da Prefeitura a rua já consta como asfaltada, mas a realidade é bem diferente.</p><p>De acordo com o morador, a Rua Piatã tem apenas um quarteirão pequeno. No vídeo enviado por ele, é possível ver que o trecho segue com calçamento de pedra irregular, com remendos de asfalto em alguns pontos, desgaste e falhas ao longo da via.</p><p>\"Tem anos que os moradores estamos pedindo pra asfaltar a rua. Consta na prefeitura que já está asfaltada. Mas a realidade é bem diferente\", relatou Peterson, que pediu ajuda do Portal para levar a reclamação adiante.</p><p>O espaço está aberto para a Prefeitura de Santa Luzia esclarecer por que a rua aparece como asfaltada nos registros e se há previsão de obra no local.</p><p>Viu algo errado no seu bairro? Faça sua denúncia em portalonenews.com.br/denuncia.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/091700_israel.jpg",
+  "credito_foto": "Reprodução/vídeo do leitor",
+  "fonte": "Denúncia do leitor",
   "resumos": ""
  }
 ]
