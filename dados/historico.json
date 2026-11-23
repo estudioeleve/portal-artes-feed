@@ -67128,5 +67128,33 @@
   "fonte": "www.agenciaminas.mg.gov.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "18:27",
+  "id": "181053_52",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Câmara dá até 16/12 para a PBH explicar o que fez contra enchentes e deslizamentos",
+  "titulo_orig": "Prefeitura de BH tem menos de um mês para explicar ações contra enchentes",
+  "link": "https://bhaz.com.br/sem-categoria/prefeitura-de-bh-tem-menos-de-um-mes-para-explicar-acoes-contra-enchentes/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-23/181053_52.jpg",
+  "media_id": "17954841747343328"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "18:27",
+  "id": "181040_32",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Fecomércio: só 43% dos lojistas mineiros esperam vender mais no Natal; dívida das famílias preocupa",
+  "titulo_orig": "Comerciantes de Minas estão menos otimistas com as vendas de Natal neste ano - Diário do Comércio",
+  "link": "https://diariodocomercio.com.br/economia/vendas-natal-minas-gerais-2026-otimismo-comercio/",
+  "fonte": "Diário do Comércio",
+  "arte": "artes/2026-11-23/181040_32.jpg",
+  "media_id": "x"
  }
 ]
