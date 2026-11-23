@@ -1,17 +1,5 @@
 [
  {
-  "id": "091806_41",
-  "data": "2026-11-21T09:21:31-03:00",
-  "titulo": "Título da Sul-Americana pode render R$ 52,2 milhões a mais ao Atlético na final contra o Boca",
-  "linha_fina": "Galo já acumulou R$ 14,5 milhões em prêmios e pode chegar a R$ 66,7 milhões se vencer em Barranquilla.",
-  "categoria": "atletico",
-  "texto": "<p>A final da Copa Sul-Americana deste sábado (21) vale muito mais do que a taça para o Atlético. O Galo enfrenta o Boca Juniors às 19h30 (horário de Brasília), no Estádio Metropolitano, em Barranquilla, na Colômbia, e pode encerrar a campanha com uma premiação total de R$ 66,7 milhões.</p>\n<p>Como entrou na competição desde a fase de grupos, o Atlético foi somando prêmios da Conmebol a cada etapa. Foram R$ 1,6 milhão pela participação na primeira fase e mais R$ 1,9 milhão pelas três vitórias no grupo. Depois, o clube recebeu R$ 3,1 milhões nas oitavas de final, R$ 3,7 milhões pela vaga nas quartas e R$ 4,2 milhões ao eliminar o City Torque na semifinal. Até aqui, o total é de R$ 14,5 milhões.</p>\n<p>Se ficar com o título, o Galo recebe mais R$ 52,2 milhões, valor pago ao campeão. O Boca Juniors, que veio da Libertadores e entrou na Sul-Americana a partir dos playoffs, também tem premiação acumulada no torneio.</p>\n<p>Em campo, o Atlético busca o primeiro título da Sul-Americana. O clube foi finalista da Libertadores em 2024 e da própria Sul-Americana em 2025, mas perdeu as duas decisões. O Boca tenta a terceira conquista do torneio e um título internacional que não vem desde 2008.</p>\n<p>O Portal ONE News acompanha a decisão com placar ao vivo na página do Atlético no site.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/091806_41.jpg",
-  "credito_foto": "Daniela Veiga/Atlético",
-  "fonte": "Terra",
-  "resumos": ""
- },
- {
   "id": "091917_45",
   "data": "2026-11-21T09:21:32-03:00",
   "titulo": "União Europeia propõe imposto de 3% sobre receitas de big techs para bancar orçamento até 2034",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/162435_63.jpg",
   "credito_foto": "Arte/Congresso em Foco",
   "fonte": "Congresso em Foco",
+  "resumos": ""
+ },
+ {
+  "id": "171300_israel",
+  "data": "2026-11-23T17:11:04-03:00",
+  "titulo": "Metrô BH muda horário, e Linha 2 para das 18h às 23h de hoje entre Nova Suíça e Amazonas",
+  "linha_fina": "Interrupção que seria das 9h às 14h foi remarcada após intercorrência na madrugada; vans fazem o trajeto a cada 15 minutos.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>O Metrô BH informou que a interrupção programada na Linha 2 foi remarcada. Por causa de uma intercorrência que impossibilitou a realização das atividades planejadas para a madrugada desta segunda-feira (23), a parada que estava prevista para as 9h às 14h foi ajustada.</p><p>Com a mudança, o serviço será interrompido nesta segunda-feira (23), das 18h às 23h, na Linha 2, no trecho entre as estações Nova Suíça e Amazonas.</p><p>Como alternativa, durante esse período, o atendimento aos passageiros será feito por vans, com intervalo de 15 minutos entre as viagens. Segundo a concessionária, colaboradores do Metrô BH estarão de prontidão nas estações para orientar quem passar pelo trecho.</p><p>A Linha 1 não terá impacto e funciona normalmente.</p><p>A recomendação é que quem usa a Linha 2 no fim da tarde e à noite se programe com antecedência, já que o horário coincide com a volta para casa de muitos trabalhadores.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/171300_israel.jpg",
+  "credito_foto": "Divulgação/Metrô BH",
+  "fonte": "Metrô BH",
   "resumos": ""
  }
 ]
