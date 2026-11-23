@@ -64678,5 +64678,47 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-22/221337_30.jpg",
   "media_id": "18043452449839004"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "22:20",
+  "id": "221850_-497",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Carreta carregada com adubo tomba na MGC-497 após falha nos freios no Triângulo Mineiro",
+  "titulo_orig": "Motorista perde o controle da direção e carreta tomba na MGC-497",
+  "link": "https://www.otempo.com.br/cidades/2026/11/22/motorista-perde-o-controle-da-direcao-e-carreta-tomba-na-mgc-497",
+  "fonte": "www.otempo.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "22:20",
+  "id": "221759_34",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Bolsa Família será pago no primeiro dia do calendário em Tupanciretã, cidade gaúcha destruída por temporal",
+  "titulo_orig": "Bolsa Família será antecipado em cidade do RS em Dezembro",
+  "link": "https://www.acheconcursos.com.br/beneficios-sociais/bolsa-familia-sera-antecipado-em-cidade-do-rs-em-dezembro-94806",
+  "fonte": "Ache Concursos",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "22:20",
+  "id": "221939_0",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Defesa Civil Nacional eleva nível de alerta para laranja e monitora chuvas em seis estados, incluindo Minas",
+  "titulo_orig": "Técnicos de plantão agilizam socorro em municípios afetados pela chuva",
+  "link": "https://www.gov.br/mdr/pt-br/noticias/tecnicos-de-plantao-agilizam-socorro-em-municipios-afetados-pela-chuva",
+  "fonte": "www.gov.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
