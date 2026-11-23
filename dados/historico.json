@@ -64860,5 +64860,33 @@
   "fonte": "carandaionline.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_9418",
+  "data": "2026-11-23",
+  "hora": "06:29",
+  "media_id": "18246071671316079",
+  "titulo": "Denúncia do leitor 9418",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:9418",
+  "arte": ""
+ },
+ {
+  "id": "denuncia_9404",
+  "data": "2026-11-23",
+  "hora": "06:32",
+  "media_id": "18139899229647099",
+  "titulo": "Denúncia do leitor 9404",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:9404",
+  "arte": ""
  }
 ]
