@@ -1,17 +1,5 @@
 [
  {
-  "id": "122145_0",
-  "data": "2026-11-21T12:26:46-03:00",
-  "titulo": "Bilhete deixado em ônibus queimado em BH ameaça novos ataques e cobra o governador eleito",
-  "linha_fina": "Mensagem entregue ao motorista no Alto Caiçaras fala de presídios; fogo atingiu a rede elétrica e deixou cerca de 190 clientes sem luz.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O bilhete entregue ao motorista do ônibus incendiado na manhã deste sábado (21) no bairro Alto Caiçaras, na Região Noroeste de Belo Horizonte, trazia ameaças de novos ataques a coletivos na capital e no interior de Minas. A informação foi apurada pelo Corpo de Bombeiros no local.</p>\n<p>Segundo os militares, dois homens entraram no veículo da linha 4107, que estava no ponto final, na Rua Expedicionário Misael de Freitas, entregaram a mensagem ao motorista e, em seguida, atearam fogo no ônibus. Os suspeitos fugiram. Não houve feridos.</p>\n<p>De acordo com os bombeiros, o texto reclama da falta de estrutura nos presídios e traz reivindicações. A mensagem foi dirigida ao governador eleito, Cleitinho Azevedo, e a outras autoridades. A Secretaria de Estado de Justiça e Segurança Pública (Sejusp) informou que teve acesso à carta e que acompanha o caso.</p>\n<p>O calor das chamas atingiu a rede elétrica próxima. Segundo a Cemig, cerca de 190 clientes ficaram sem energia, e a previsão era de que o fornecimento fosse restabelecido ainda na tarde de sábado. Equipes da companhia foram enviadas para os reparos.</p>\n<p>Três viaturas do 3º Batalhão de Bombeiros combateram o fogo e fizeram o resfriamento do veículo. Depois, foi identificado óleo derramado na via. A Superintendência de Mobilidade (Sumob) aplicou serragem na pista para reduzir o risco de acidentes e informou que as circunstâncias do incêndio serão apuradas pelos órgãos de segurança.</p>\n<p>As polícias Civil e Militar ainda não haviam detalhado a investigação até a última atualização. Ninguém havia sido preso.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/122145_0.jpg",
-  "credito_foto": "Foto: Redes sociais/Reprodução g1",
-  "fonte": "g1 Minas",
-  "resumos": ""
- },
- {
   "id": "122216_138",
   "data": "2026-11-21T12:26:46-03:00",
   "titulo": "Gestão com apoio do Sebrae faz região de São Gotardo virar referência em hortifrúti em Minas",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/191335_202.jpg",
   "credito_foto": "Foto: Divulgação via O Tempo Betim",
   "fonte": "O Tempo Betim",
+  "resumos": ""
+ },
+ {
+  "id": "193600_israel",
+  "data": "2026-11-23T19:37:24-03:00",
+  "titulo": "Farmácia do São Benedito vai voltar ao endereço de origem após reforma, diz prefeito",
+  "linha_fina": "Enquanto a obra não termina, a farmácia segue funcionando provisoriamente no Posto Catumbi, com atendimento normal.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A farmácia que atende os moradores do bairro São Benedito, em Santa Luzia, vai voltar ao endereço de origem assim que a reforma do espaço for concluída. A informação foi divulgada pelo prefeito Paulo Bigodinho nas redes sociais nesta segunda-feira (23).</p><p>Atualmente, a farmácia funciona de forma provisória no Posto Catumbi. Segundo o prefeito, as obras vão ser feitas no imóvel onde a unidade funcionava anteriormente, no São Benedito, com o objetivo de deixar o local mais adequado e preparado para atender a população.</p><p>Enquanto a reforma não termina, os atendimentos continuam normalmente no Posto Catumbi. Os moradores que retiram medicamentos na farmácia devem continuar procurando a unidade provisória.</p><p>\"Seguimos trabalhando para melhorar os serviços de saúde e oferecer mais conforto e qualidade no atendimento aos nossos munícipes\", afirmou o prefeito na publicação.</p><p>A Prefeitura não informou a data de início das obras nem a previsão de conclusão da reforma. O Portal ONE News vai acompanhar o andamento e o retorno da farmácia ao bairro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/193600_israel.jpg",
+  "credito_foto": "Foto: Reprodução/Redes sociais @paulobigodinho_",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
