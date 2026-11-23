@@ -65070,5 +65070,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-23/063728_1.jpg",
   "media_id": "18143049037624467"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "07:24",
+  "id": "072212_bro",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Atenção, empresário: DAS do Simples Nacional de outubro vence hoje, adiado pelo feriado do dia 20",
+  "titulo_orig": "Simples Nacional: pagamentos e declarações que vencem em novembro",
+  "link": "https://jornalcontabil.com.br/noticia/simples-nacional-pagamentos-e-declaracoes-que-vencem-em-novembro/",
+  "fonte": "jornalcontabil.com.br",
+  "arte": "artes/2026-11-23/072212_bro.jpg",
+  "media_id": "17907523890405691"
  }
 ]
