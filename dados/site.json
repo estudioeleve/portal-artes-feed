@@ -1,17 +1,5 @@
 [
  {
-  "id": "131922_60",
-  "data": "2026-11-20T13:24:47-03:00",
-  "titulo": "Homem é morto a tiros no Morro das Pedras, em BH, e família suspeita de disputa entre facções",
-  "linha_fina": "Vítima foi encontrada caída na Avenida Silva Lobo, no Bairro São Jorge II, na noite de quinta-feira; ninguém foi preso.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Um homem foi morto a tiros na noite de quinta-feira (19) no Bairro São Jorge II, parte do Aglomerado Morro das Pedras, na Região Oeste de Belo Horizonte. A família suspeita que o crime tenha ligação com uma disputa entre facções criminosas.</p><p>Segundo a Polícia Militar, a ocorrência foi registrada por volta das 23h15, na Avenida Silva Lobo. Quando os militares chegaram, encontraram a vítima caída no chão, com ferimentos provocados por disparos de arma de fogo.</p><p>Um tio do homem contou aos policiais que ouviu os tiros e saiu de casa para ver o que tinha acontecido, quando encontrou o sobrinho baleado. Ele disse que não viu quem atirou e não soube passar características dos autores.</p><p>O pai da vítima relatou à PM acreditar que o filho foi morto por integrantes de uma facção rival à que ele pertenceria. A hipótese, no entanto, não foi confirmada pelas autoridades e deve ser investigada pela Polícia Civil.</p><p>A perícia constatou ferimentos no braço, na perna, no peito e no rosto. De acordo com a PM, o homem tinha passagens por roubo, tráfico de drogas e fuga do sistema prisional. Não havia câmeras de segurança no local.</p><p>Até a última atualização, nenhum suspeito tinha sido localizado. A autoria e a motivação do homicídio serão investigadas pela Polícia Civil.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-20/131922_60.jpg",
-  "credito_foto": "PMMG",
-  "fonte": "Estado de Minas",
-  "resumos": ""
- },
- {
   "id": "132042_247",
   "data": "2026-11-20T13:24:47-03:00",
   "titulo": "'Caí de cabeça e me deram um chute': vendedor de 57 anos relata agressão em assalto na Afonso Pena",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/211809_mbia.jpg",
   "credito_foto": "Arquivo pessoal/Reprodução O Tempo",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "212122_nas",
+  "data": "2026-11-22T21:22:15-03:00",
+  "titulo": "Black Friday desta sexta: 73% dos mineiros vão comprar e gasto médio passa de R$ 1 mil",
+  "linha_fina": "Pesquisa da FCDL-MG mostra Pix em alta, mais gente na loja física e 46% já de olho nos presentes de Natal",
+  "categoria": "comercio",
+  "texto": "<p>A Black Friday desta sexta-feira (27) deve atrair mais consumidores em Minas Gerais do que no ano passado. Pesquisa da Federação das Câmaras de Dirigentes Lojistas de Minas Gerais (FCDL-MG) aponta que 73,2% dos entrevistados pretendem aproveitar as promoções, contra 67,1% em 2025. O gasto médio previsto é de R$ 1.030,77 por consumidor, e 75,6% dizem que vão aumentar o consumo.</p>\n<p>Para o lojista, alguns números chamam a atenção. A preferência pela loja física dobrou: 22% dos entrevistados querem comprar presencialmente, ante 11% no levantamento anterior. Ainda assim, a compra só pela internet segue na frente, com 58,5%, e 19,5% pretendem usar os dois canais.</p>\n<p>No pagamento, o cartão de crédito parcelado continua liderando, com 37,5%, mas perdeu espaço (era 53,7%). O Pix dobrou de participação, de 13,4% para 27,1%, seguido pelo crédito à vista (22,9%), pelo débito (10,4%) e pelo dinheiro (2,1%). Ter o Pix disponível e bem sinalizado no caixa pode fazer diferença nas vendas.</p>\n<p>Eletrônicos e calçados lideram a intenção de gasto, com 13,7% cada. Em seguida aparecem vestuário, supermercados e cosméticos e perfumaria, com 12,7% cada, viagens (9,8%) e farmácias (8,8%). A data, portanto, abre espaço para negócios de vários segmentos, inclusive os de bairro.</p>\n<p>A pesquisa também mostra que 46,3% dos consumidores pretendem comprar presentes de Natal durante a Black Friday, o que antecipa parte do movimento de dezembro. E 73,2% vão esperar o dia oficial, enquanto 26,8% devem aproveitar as promoções antecipadas.</p>\n<p>Segundo o economista da FCDL-MG Vinícius Carlos Silva, a data se consolidou como oportunidade de concentrar compras e buscar preços melhores antes das despesas de fim de ano, mas exige planejamento: o consumidor compara preços e condições de pagamento, e o comerciante precisa oferecer desconto real e atendimento ágil.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/212122_nas.jpg",
+  "credito_foto": "Reprodução/Portal MPA",
+  "fonte": "FCDL-MG / Portal MPA",
   "resumos": ""
  }
 ]
