@@ -65924,5 +65924,19 @@
   "fonte": "Maior Viagem",
   "arte": "artes/2026-11-23/112052_85.jpg",
   "media_id": "18110790392268415"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "12:11",
+  "id": "112049_55",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Anvisa manda recolher xampu anticaspa em barra vendido com indicação para uso em crianças",
+  "titulo_orig": "Anvisa manda recolher xampu anticaspa para crianças",
+  "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-xampu-anticaspa-para-criancas",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-23/112049_55.jpg",
+  "media_id": "17899708656418861"
  }
 ]
