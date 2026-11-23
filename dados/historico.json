@@ -65700,5 +65700,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-23/101929_148.jpg",
   "media_id": "18122687930051013"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "10:49",
+  "id": "101935_134",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Reforma Tributária: qualquer empresa com CNPJ já pode entrar no teste da CBS na Receita Federal",
+  "titulo_orig": "Receita amplia participação em piloto da CBS para todas as empresas",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-23/101935_134.jpg",
+  "media_id": "17951031900075194"
  }
 ]
