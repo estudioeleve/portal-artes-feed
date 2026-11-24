@@ -68178,5 +68178,47 @@
   "fonte": "Diário do Comércio",
   "arte": "artes/2026-11-24/061333_10.jpg",
   "media_id": "18457124671120174"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "07:17",
+  "id": "071050_2",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Corpo é achado em cova em Matozinhos; suspeito de mandar matar é preso em Santa Luzia",
+  "titulo_orig": "Traficantes encomendam morte em Matozinhos; vítima é esfaqueada e tem pernas quebradas para caber em cova | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/traficantes-encomendam-morte-em-matozinhos-vitima-e-esfaqueada-e-tem-pernas-quebradas-para-caber-em-cova/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-24/071050_2.jpg",
+  "media_id": "18107455994019402"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "07:17",
+  "id": "071323_126",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ajuste fiscal corta pela metade repasse da Lei Kandir aos estados e limita gastos com exportação e Previdência",
+  "titulo_orig": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
+  "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
+  "fonte": "Portal da Câmara dos Deputados",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "07:17",
+  "id": "071310_143",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Ataque a navios russos na Líbia e drones no Báltico: os sinais de que a guerra na Ucrânia está se espalhando",
+  "titulo_orig": "Os sinais de que a guerra na Ucrânia está se expandindo no mundo | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/24/da-alemanha-a-costa-da-africa-os-sinais-de-que-a-guerra-na-ucrania-esta-se-expandindo-no-mundo.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
