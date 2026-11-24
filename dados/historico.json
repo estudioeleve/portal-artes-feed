@@ -68584,5 +68584,19 @@
   "fonte": "Portal Lago Sul",
   "arte": "artes/2026-11-24/101049_27.jpg",
   "media_id": "18082874336398667"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "10:28",
+  "id": "101033_2",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Três trabalhadores morrem eletrocutados ao instalar padrão de energia em fazenda de MG",
+  "titulo_orig": "Três homens morrem após receberem descarga elétrica durante instalação de poste em MG",
+  "link": "https://bhaz.com.br/noticias/minas-gerais/tres-homens-morrem-eletrocutados-fazenda-mg/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-24/101033_2.jpg",
+  "media_id": "17923223721244973"
  }
 ]
