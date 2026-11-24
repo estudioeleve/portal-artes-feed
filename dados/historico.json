@@ -68934,5 +68934,33 @@
   "fonte": "G1",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "12:18",
+  "id": "121833_98",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Municípios mineradores se reúnem em BH para discutir perdas com a reforma tributária e o novo licenciamento",
+  "titulo_orig": "Em BH, encontro de municípios mineradores debate impactos da reforma tributária e licenciamento ambiental | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/politica/em-bh-encontro-de-municipios-mineradores-debate-impactos-da-reforma-tributaria-e-licenciamento-ambiental/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "12:18",
+  "id": "121837_125",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Divinópolis terá Natal Iluminado de R$ 600 mil bancado por emenda e patrocínio, em parceria com a CDL",
+  "titulo_orig": "Natal Iluminado 2026 terá R$ 600 mil de investimento em Divinópolis",
+  "link": "https://portalgerais.com/natal-iluminado-2026-reune-600-mil-em-investimentos-e-patrocinios-em-divinopolis/",
+  "fonte": "Portal Gerais",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
