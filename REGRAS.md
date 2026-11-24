@@ -30,6 +30,9 @@
   4. POST da imagem: `curl -s -X POST -H "Content-Type: image/jpeg" --data-binary @capa.jpg "https://portalonenews.com.br/wp-json/portalone/v1/denuncias/<id>/capa?chave=<CHAVE>"`. O site põe de capa na matéria sozinho. Erro: anote em `dados/erros.txt`.
 - Não grave o print nem a chave no repositório.
 
+## 🤝 COLLAB TAMBÉM PELO WINDSOR (Israel, 24/11/2026 18h54: "não será possível as collabs pelo robô?")
+- Quando o painel da Eleve der "too many actions" ou outro ERRO, publique pelo Windsor **COM a collab**: nas ações create_image_post, create_carousel_post e create_video_post, passe `collaborators` com o @ do portal (luziense → portaluziense; comercio → portallcomercio; politica → portallpolitica; one → sem collab; lista em robo/collabs.json). Nunca publique moldura Luziense, Comércio ou Política sem a collab. Anote em dados/erros.txt "Windsor COM collaborators=@...".
+
 ## ✅ DENÚNCIA APROVADA SAI SEMPRE — NÃO SEGURAR (Israel, 24/11/2026 15h39; substitui as regras antigas de "segurar")
 - Não segure nem deixe de postar denúncia aprovada por causa de telefone, endereço, número de casa, placa ou nome no relato. Poste com o relato na íntegra. Única exceção: relato que exponha criança ou adolescente (não posta no Instagram e anota em dados/erros.txt).
 
