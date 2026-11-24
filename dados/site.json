@@ -1,17 +1,5 @@
 [
  {
-  "id": "081946_026",
-  "data": "2026-11-22T08:20:12-03:00",
-  "titulo": "Crédito difícil e custos altos apertam produtores de batata; consumo de pré-frita e chips abre espaço",
-  "linha_fina": "Análise do Cepea/Esalq aponta caixa comprometido após preços baixos do ciclo anterior e juros elevados na safra 2026/27",
-  "categoria": "comercio",
-  "texto": "<p>Os produtores de batata enfrentam um ano difícil para financiar a produção. Segundo análise do Centro de Estudos Avançados em Economia Aplicada (Cepea), da Esalq/USP, publicada na revista Hortifruti Brasil, a restrição ao crédito, os juros altos e os insumos mais caros pressionam a rentabilidade na safra das águas 2026/27.</p><p>De acordo com o estudo, os preços baixos do ciclo anterior reduziram o dinheiro disponível para o plantio deste ano. Na safra de inverno, já encerrada, o custo elevado do financiamento, a alta dos insumos e o clima desfavorável aumentaram os custos de produção. Com o caixa comprometido, os bataticultores passaram a depender mais de recursos financiados, num momento de menor oferta de crédito.</p><p>Ao mesmo tempo, o consumo de batata no Brasil está mudando. O Cepea avalia os três principais destinos do produto: o mercado in natura, a batata pré-frita congelada e os chips. Os industrializados ganham espaço, o que abre oportunidades, mas exige matéria-prima adequada, fornecimento regular e preço competitivo.</p><p>No mercado de batata fresca, segundo os pesquisadores, a valorização depende cada vez mais da qualidade, da apresentação e de informações sobre o uso de cada tipo na cozinha. O aumento do consumo, porém, não garante sozinho mais produção nacional nem melhor rentabilidade para quem planta.</p><p>Para o comércio, como sacolões, mercearias, restaurantes e lanchonetes, o cenário de custo maior no campo pode se refletir no preço de reposição nos próximos meses, o que reforça a importância de acompanhar as cotações e negociar com fornecedores.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/081946_026.jpg",
-  "credito_foto": "Reprodução/Itatiaia",
-  "fonte": "Rádio Itatiaia, com análise do Cepea/Esalq-USP",
-  "resumos": ""
- },
- {
   "id": "082106_36",
   "data": "2026-11-22T08:21:33-03:00",
   "titulo": "Casa Belloni: casarão tombado no Centro de BH tem café, bistrô e galeria com entrada gratuita; veja horários",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/111303_107.jpg",
   "credito_foto": "Gustavo Moreno/STF",
   "fonte": "Jurinews",
+  "resumos": ""
+ },
+ {
+  "id": "112533_156",
+  "data": "2026-11-24T11:26:01-03:00",
+  "titulo": "Open Finance: nova ferramenta vai permitir transferências automáticas entre contas do mesmo dono em bancos diferentes",
+  "linha_fina": "Solução lançada pela Iniciador permite a bancos e fintechs criar serviços como reposição automática de saldo e proteção contra o cheque especial.",
+  "categoria": "brasil",
+  "texto": "<p>Correntistas devem poder, em breve, organizar o dinheiro que têm em bancos diferentes, programar transferências entre as próprias contas e se proteger do cheque especial de forma automática. As novas funções do Open Finance começam a ser oferecidas pelo Iniciador Actions, ferramenta lançada nesta terça-feira (24) pela empresa Iniciador.</p><p>A solução é voltada a bancos e fintechs, que poderão usá-la para criar serviços para os clientes. Entre as possibilidades estão transferências recorrentes entre contas do mesmo titular, reposição automática de saldo quando uma conta fica abaixo de um limite, uso de recursos de outra instituição para evitar o cheque especial, concentração de valores espalhados e arredondamento de compras para guardar pequenas quantias.</p><p>As operações são feitas por Pix, diretamente entre as instituições financeiras, e dependem de autorização prévia do cliente. A Iniciador, autorizada pelo Banco Central como iniciadora de transação de pagamento, não fica com a guarda do dinheiro.</p><p>A ferramenta também permite que as instituições usem assistentes de inteligência artificial para desenvolver os novos serviços. Segundo o cofundador e diretor de produto da empresa, Gustavo Bresler, o Open Finance já tem quase 290 milhões de contas conectadas, contra 22 milhões em 2022.</p><p>Hoje, segundo ele, um banco tradicional leva de seis meses a um ano para desenvolver um novo serviço no Open Finance. A promessa é reduzir esse tempo para algumas horas, o que pode acelerar a chegada das novidades ao consumidor.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/112533_156.jpg",
+  "credito_foto": "Marcello Casal Jr./Agência Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]

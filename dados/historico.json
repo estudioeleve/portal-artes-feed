@@ -68766,5 +68766,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-24/111113_54.jpg",
   "media_id": "18354474598252452"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "11:26",
+  "id": "112533_156",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Open Finance: nova ferramenta vai permitir transferências automáticas entre contas do mesmo dono em bancos diferentes",
+  "titulo_orig": "Nova ferramenta do Open Finance automatizará repasses entre bancos",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/nova-ferramenta-do-open-finance-automatizara-repasses-entre-bancos",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
