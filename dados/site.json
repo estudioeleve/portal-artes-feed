@@ -1,17 +1,5 @@
 [
  {
-  "id": "081520_2027",
-  "data": "2026-11-22T08:18:08-03:00",
-  "titulo": "Economistas preveem alimentos mais caros no início de 2027; arroz e carne já estão subindo",
-  "linha_fina": "Dólar alto, fim do subsídio ao diesel, nova escala de trabalho e El Niño pressionam preços; alta deve ser maior no 1º trimestre",
-  "categoria": "comercio",
-  "texto": "<p>Os preços dos alimentos devem subir com mais força no início de 2027, segundo economistas ouvidos pelo jornal O Tempo. A previsão é de aceleração principalmente no primeiro trimestre, num cenário de renda das famílias comprometida com dívidas e de desaceleração da economia.</p><p>Um dos principais fatores é o dólar. Desde o fim de outubro, a moeda americana subiu quase 20% e ronda R$ 5,90, o que encarece commodities agrícolas como milho, soja, trigo e carne bovina, além dos combustíveis. Se o patamar se mantiver, o efeito deve aparecer com mais força depois da virada do ano, quando indústria e comércio renovam seus estoques.</p><p>Outros pontos pesam no custo. O governo anunciou o fim do subsídio à importação do diesel, o que deve elevar o litro em mais de R$ 0,40, e a maior parte dos alimentos é transportada por caminhões no país. A mudança da escala 6x1 para a 5x2, prevista para meados de dezembro, deve aumentar em 8,6% os custos com pessoal no setor de transporte, segundo a Confederação Nacional do Transporte (CNT). Há ainda os efeitos do El Niño sobre as lavouras, com estoques baixos de produtos básicos.</p><p>Para André Braz, coordenador dos índices de preços da Fundação Getulio Vargas (FGV), o viés para a inflação de alimentos é de alta. Ele explica que os aumentos, antes concentrados nos produtos in natura, começam a atingir itens relevantes da cesta, como arroz e carne. Segundo o economista, é possível esperar alguma estabilização depois dos primeiros meses do ano.</p><p>Para o pequeno comerciante, especialmente supermercados, mercearias, padarias e restaurantes, a previsão pede planejamento: negociar com fornecedores, acompanhar os preços de reposição e avaliar compras antecipadas de itens não perecíveis antes da virada do ano podem ajudar a proteger a margem nos primeiros meses de 2027.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/081520_2027.jpg",
-  "credito_foto": "Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "081521_idos",
   "data": "2026-11-22T08:18:08-03:00",
   "titulo": "Minas fecha 2026 com só 3 dos 6 hospitais regionais prometidos inaugurados; 2 ficam para 2027",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/111232_118.jpg",
   "credito_foto": "Divulgação/Fábio Scremin",
   "fonte": "Diário do Comércio/Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "111240_145",
+  "data": "2026-11-24T11:15:27-03:00",
+  "titulo": "Por que o alerta de chuva da Defesa Civil chega ao celular de quem está em bairro sem chuva em BH",
+  "linha_fina": "Aviso considera trajetos pela cidade; Prefeitura de BH pede autorização para disparar alertas direto, sem passar pelo Estado.",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Moradores de Belo Horizonte têm recebido alertas de chuva forte no celular mesmo quando o tempo está firme no próprio bairro. Segundo a Defesa Civil, isso não significa falha do sistema: o aviso leva em conta não só onde a pessoa está, mas também os trajetos que ela pode fazer pela cidade.</p><p>A capital tem características que fazem a chuva cair de forma desigual. Uma tempestade pode provocar alagamentos e ventania em alguns bairros enquanto outras regiões ficam secas. Por isso, os alertas buscam avisar tanto quem está nas áreas de risco quanto quem pode precisar passar por elas, como motoristas de aplicativo, condutores de ônibus e pais que levam os filhos à escola.</p><p>As mensagens são enviadas pelo Defesa Civil Alerta, sistema do Governo Federal que usa a tecnologia cell broadcast. Não é preciso fazer cadastro: os celulares compatíveis que estão na área recebem o aviso, que pode ser preventivo, antes de qualquer ocorrência.</p><p>Hoje, quando a Defesa Civil municipal identifica risco, precisa enviar as informações ao Governo de Minas, que registra os dados no sistema federal e pede o disparo. A Prefeitura de BH pediu autorização para emitir os alertas diretamente, o que deixaria o processo mais rápido. O pedido ainda está em análise no Governo Federal.</p><p>A orientação é acompanhar os avisos antes de sair de casa, principalmente quando houver risco de alagamento, enxurrada e ventos fortes, e nunca atravessar ruas ou córregos com água em movimento.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/111240_145.jpg",
+  "credito_foto": "Reprodução/SouBH",
+  "fonte": "SouBH",
   "resumos": ""
  }
 ]
