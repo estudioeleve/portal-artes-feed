@@ -69788,5 +69788,19 @@
   "fonte": "Portal ONE News",
   "arte": "",
   "media_id": "18116746214168118"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "17:11",
+  "id": "164000_israel",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "",
+  "titulo": "Viatura da PM atropela três mulheres e uma criança durante perseguição em Nilópolis (RJ)",
+  "titulo_orig": "",
+  "link": "israel:164000_israel",
+  "fonte": "",
+  "arte": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/01fc52d792859bc175486ffa1e07660d3859ffad/videos/2026-11-24/1640_viatura_atropela_nilopolis.mp4",
+  "media_id": "18115930685235492"
  }
 ]

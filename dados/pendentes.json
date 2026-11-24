@@ -165,17 +165,6 @@
   "url_arte": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/artes/2026-11-17/021535_255.jpg"
  },
  {
-  "id": "164000_israel",
-  "bloco": "brasil",
-  "portal": "one",
-  "pedido_israel": true,
-  "acao": "create_video_post",
-  "video": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/01fc52d792859bc175486ffa1e07660d3859ffad/videos/2026-11-24/1640_viatura_atropela_nilopolis.mp4",
-  "thumb_offset": 6000,
-  "titulo": "Viatura da PM atropela três mulheres e uma criança durante perseguição em Nilópolis (RJ)",
-  "legenda": "⚠️ Três mulheres e uma criança foram atropeladas por uma viatura da Polícia Militar na manhã desta terça-feira (24), em Nilópolis, na Baixada Fluminense (RJ).\n\nSegundo a PM, durante uma perseguição a suspeitos, um carro de passeio tentou desviar de uma moto em fuga e bateu na viatura, que perdeu o controle, invadiu a calçada e atingiu as pedestres e a estrutura de uma loja. As imagens mostram o grupo conversando na calçada pouco antes do impacto; a criança usava uniforme escolar.\n\nAs quatro vítimas foram levadas para a UPA de Cabuís e para o Hospital Adão Pereira Nunes, em Duque de Caxias. Dois policiais também se feriram.\n\nUm dos suspeitos foi preso com um rádio transmissor e 317 embalagens de drogas.\n\n#PortalONENews #Nilópolis #RioDeJaneiro #Polícia\n\nFonte do vídeo: Reprodução/Redes sociais\nMatéria completa no nosso portal: www.portalonenews.com.br"
- },
- {
   "id": "163000_israel",
   "bloco": "rmbh",
   "portal": "one",
