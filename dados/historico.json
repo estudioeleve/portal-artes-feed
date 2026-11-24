@@ -69816,5 +69816,19 @@
   "fonte": "Faça sua denúncia",
   "link": "denuncia:10158",
   "arte": ""
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "17:16",
+  "id": "163000_israel",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "",
+  "titulo": "Lagoa Santa reforça alerta e pede que pais confiram a vacina contra a Covid das crianças",
+  "titulo_orig": "",
+  "link": "israel:163000_israel",
+  "fonte": "",
+  "arte": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/01fc52d792859bc175486ffa1e07660d3859ffad/videos/2026-11-24/1630_vacina_covid_lagoa_santa.mp4",
+  "media_id": "18033795947922028"
  }
 ]
