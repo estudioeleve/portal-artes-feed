@@ -715,3 +715,4 @@
 2026-11-24 16:30 161629_103 (Nova Lima Acender das Luzes) foi ao site por engano, duplicando 152701_38 da rodada anterior; tirado do site.json, mas pode ter sido publicado no site antes: conferir e apagar a matéria repetida.
 2026-11-24 16:35 162500_israel (guardas cobram secretário de Segurança na Câmara de Santa Luzia, pedido do Israel): Reels Luziense pelo Windsor SEM COLLAB @portaluziense (media 18116746214168118)
 2026-11-24 16:36 LIMITE DO INSTAGRAM: Windsor recusou (100 de 100 posts nas últimas 24 h). Pedidos do Israel prontos e já no site, Instagram em dados/pendentes.json: 164000_israel (viatura atropela em Nilópolis, moldura nova reels_horizontal.html) e 163000_israel (vacina Covid em Lagoa Santa). Postar assim que liberar.
+2026-11-24 16:39 LIMITE 100/24h do Instagram: 161538_31 (Academia de Chefs Sebrae, Comércio) já no site; Instagram em dados/pendentes.json (collab @portallcomercio).
