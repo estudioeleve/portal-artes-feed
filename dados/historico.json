@@ -68024,5 +68024,61 @@
   "fonte": "Jornal Diário de Contagem",
   "arte": "artes/2026-11-24/061318_129.jpg",
   "media_id": "18129131431992798"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:17",
+  "id": "061335_43",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Rússia estaria prestes a colocar bomba atômica em órbita, diz investigação da imprensa alemã",
+  "titulo_orig": "Rússia está prestes a posicionar bomba atômica no espaço, diz imprensa | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/24/russia-esta-prestes-a-posicionar-bomba-atomica-no-espaco-diz-imprensa-alema.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:17",
+  "id": "061341_91",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Forte Orange, fortaleza holandesa de 1631 em Pernambuco, será concedida à iniciativa privada por 30 anos",
+  "titulo_orig": "Governo lança edital para conceder Forte Orange à iniciativa privada | G1",
+  "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/24/forte-orange-fortaleza-de-1631-em-itamaraca-sera-concedida-a-iniciativa-privada-por-30-anos-e-pode-ganhar-restaurantes.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:17",
+  "id": "061345_42",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Vila chinesa de 2 mil anos adota nome de cidade de filme e passa a receber 6 milhões de turistas por ano",
+  "titulo_orig": "A cidade real que adotou nome de filme e recebe milhões de turistas  | G1",
+  "link": "https://g1.globo.com/fantastico/noticia/2026/11/24/a-cidade-real-que-adotou-nome-da-ficcao-e-virou-destino-de-conto-de-fadas.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:17",
+  "id": "061350_13",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ajuste fiscal aprovado: o que muda (e o que não muda) no bolso do brasileiro",
+  "titulo_orig": "Correio do Povo Penedo - Câmara aprova ajuste fiscal: veja o que pode mudar no bolso do brasileiro",
+  "link": "https://correiodopovo-al.com.br/noticia/2026/11/24/camara-aprova-ajuste-fiscal-veja-o-que-pode-mudar-no-bolso-do-brasileiro",
+  "fonte": "Correio do Povo Penedo",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
