@@ -69214,5 +69214,47 @@
   "fonte": "Portal Gerais",
   "arte": "artes/2026-11-24/131554_138.jpg",
   "media_id": "17917015128473995"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "14:16",
+  "id": "141028_38",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Sargento reformado da PM suspeito de matar ex-companheira em Matozinhos é preso",
+  "titulo_orig": "Sargento da PM suspeito de matar cabeleireira é preso em Pedro Leopoldo horas após o crime | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/sargento-da-pm-suspeito-de-matar-cabeleireira-e-preso-em-pedro-leopoldo-horas-apos-o-crime/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "artes/2026-11-24/141028_38.jpg",
+  "media_id": "18383385157215910"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "14:16",
+  "id": "141037_201",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Policial militar de folga saca arma e agride motociclista em briga de trânsito em Manhuaçu",
+  "titulo_orig": "PM saca arma e agride homem durante briga de trânsito em MG | G1",
+  "link": "https://g1.globo.com/google/amp/mg/vales-mg/noticia/2026/11/24/video-policial-militar-saca-arma-e-agride-homem-durante-briga-de-transito-em-mg.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "14:16",
+  "id": "141416_76",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "SAÚDE",
+  "titulo": "Cidade de São Paulo encerra transmissão de sarampo após três meses sem novos casos",
+  "titulo_orig": "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
+  "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/cidade-de-sao-paulo-encerra-transmissao-de-casos-importados-de-sarampo",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
