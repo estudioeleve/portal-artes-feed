@@ -70068,5 +70068,33 @@
   "fonte": "Mega Cidade",
   "arte": "artes/2026-11-24/181406_12.jpg",
   "media_id": "17920443108494364"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "18:18",
+  "id": "181753_13",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Mendonça revoga prisão de três investigados na Operação Sem Desconto, que apura fraude no INSS",
+  "titulo_orig": "STF revoga prisão de investigados na Operação Sem Desconto ",
+  "link": "https://noticias.stf.jus.br/postsnoticias/stf-revoga-prisao-deinvestigados-na-operacao-sem-desconto/",
+  "fonte": "stf noticias",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "18:18",
+  "id": "181804_30",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Huawei é condenada nos EUA por enganar bancos sobre negócios no Irã e roubar segredos comerciais",
+  "titulo_orig": "Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda | G1",
+  "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/chinesa-huawei-e-condenada-nos-eua.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
