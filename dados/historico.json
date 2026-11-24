@@ -69802,5 +69802,19 @@
   "fonte": "",
   "arte": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/01fc52d792859bc175486ffa1e07660d3859ffad/videos/2026-11-24/1640_viatura_atropela_nilopolis.mp4",
   "media_id": "18115930685235492"
+ },
+ {
+  "id": "denuncia_10158",
+  "data": "2026-11-24",
+  "hora": "17:13",
+  "media_id": "17973479393961410",
+  "titulo": "Denúncia do leitor 10158",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:10158",
+  "arte": ""
  }
 ]

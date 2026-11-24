@@ -717,3 +717,5 @@
 2026-11-24 16:36 LIMITE DO INSTAGRAM: Windsor recusou (100 de 100 posts nas últimas 24 h). Pedidos do Israel prontos e já no site, Instagram em dados/pendentes.json: 164000_israel (viatura atropela em Nilópolis, moldura nova reels_horizontal.html) e 163000_israel (vacina Covid em Lagoa Santa). Postar assim que liberar.
 2026-11-24 16:39 LIMITE 100/24h do Instagram: 161538_31 (Academia de Chefs Sebrae, Comércio) já no site; Instagram em dados/pendentes.json (collab @portallcomercio).
 2026-11-24 16:41 denúncia 10158 (OC-2026-10158): título e texto enviados ao site; Instagram não postado — painel: 'too many actions' (2x); Windsor: limite de 100 posts em 24h atingido. Sai na próxima rodada.
+2026-11-24 17:13 denúncia 10158 (cavalos no São Benedito): painel too many actions (2x) -> Windsor create_carousel_post com collaborators=portaluziense (media 17973479393961410)
+2026-11-24 17:13 164000_israel (Nilópolis, pendente) saiu pelo Windsor (media 18115930685235492)
