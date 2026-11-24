@@ -68094,5 +68094,33 @@
   "fonte": "DComercio",
   "arte": "artes/2026-11-24/061305_8.jpg",
   "media_id": "18119388452121982"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:27",
+  "id": "062618_5",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "Matozinhos recebe nesta terça a 5ª edição do espetáculo \"Alice no País do Entrelaços\"",
+  "titulo_orig": "Matozinhos recebe espetáculo \"Alice no País do Entrelaços\" nesta terça-feira",
+  "link": "https://pordentrodetudo.com.br/matozinhos-recebe-espetaculo-alice-no-pais-do-entrelacos-nesta-terca-feira/",
+  "fonte": "Por Dentro de Tudo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:27",
+  "id": "062627_16",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Moto furtada em Ribeirão das Neves é achada com chassi adulterado no Vale do Jequitinhonha; suspeito é preso",
+  "titulo_orig": "Polícia Militar prende homem e recupera motocicleta furtada com sinais identificadores adulterados em Turmalina - Rede Gazeta de Comunicação",
+  "link": "https://gazetanm.com.br/policia-militar-prende-homem-e-recupera-motocicleta-furtada-com-sinais-identificadores-adulterados-em-turmalina/",
+  "fonte": "gazetanm.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
