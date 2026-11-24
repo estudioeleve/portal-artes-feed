@@ -222,6 +222,11 @@
 ## 🖼️ VÁRIAS FOTOS = CARROSSEL, SEMPRE (Israel, 21/11/2026 ~13h05: "Quando eu te mandar várias fotos, você sempre faz carrossel, você nunca sai do padrão")
 - Notícia que o Israel manda com **2 ou mais fotos** sai **sempre em carrossel** no Instagram: uma arte com moldura (etiqueta + título em 3 linhas) para **cada foto**, a melhor primeiro (`create_carousel_post`, ou painel com várias `--imagem`). Nunca escolher uma foto só. Em 21/11 a reforma da UPA do São Benedito saiu com uma foto só, ele apagou e mandou postar de novo em carrossel.
 
+## 🎞️ VÍDEO HORIZONTAL NO REELS: MOLDURA NOVA COM O VÍDEO NA LARGURA TODA (Israel, 24/11/2026 ~16h20)
+- Vídeo horizontal (câmera de segurança, TV, print de transmissão) que vai para o Reels: **moldura com a identidade do ONE News e o vídeo ocupando a largura inteira (1080 px), sem sobra nas laterais**; não precisa ocupar a altura. Ele mandou de exemplo o layout do Sudeste Agora (logo no alto, vídeo no meio, título em caixas brancas, barra do site).
+- Modelo: `robo/modelo/reels_horizontal.html?ed=...&ti=...&vy=470&vh=<altura do vídeo em 1080 de largura>&cr=<crédito>` (fundo azul ONE, logo grande no alto, vídeo de `vy` a `vy+vh`, etiqueta vermelha, título em caixas brancas, barra "Acesse: www.portalonenews.com.br"). Montagem: `[0:v]scale=1080:<vh>,pad=1080:1920:0:<vy>` + overlay do PNG (Playwright, `omitBackground`) + `encerramento.py`. Primeiro uso: `videos/2026-11-24/1640_viatura_atropela_nilopolis.mp4`.
+- Continua valendo: vídeo que já chega na vertical recebe só a moldura de Reels padrão por cima.
+
 ## ⚡ NOTÍCIA QUE O ISRAEL MANDA NA CONVERSA SAI NA HORA (Israel, 05/11/2026)
 - **"Portal Luziense" (ou Política, Comércio) quer dizer a moldura, não outra conta** (Israel, 10/11/2026): tudo é postado no **@portalonenews**, inclusive vídeo para Reels (`create_video_post`).
 - "Notícias que eu te mandar aqui você pode postar na hora, não precisa colocar em programação." Publique assim que preparar, **sem esperar o intervalo entre posts**. Se ele disser "só no site", vai só no site, também na hora; senão, Instagram e site. Continuam valendo as regras de moldura, título, foto e legenda.
