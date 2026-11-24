@@ -69116,5 +69116,47 @@
   "fonte": "www.agenciaminas.mg.gov.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "13:22",
+  "id": "131909_175",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "ALMG debate nesta quarta ampliar a telemedicina no SUS para reduzir filas e viagens de pacientes do interior",
+  "titulo_orig": "Comissão debate ampliação da telemedicina no SUS - Assembleia Legislativa de Minas Gerais",
+  "link": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Comissao-debate-ampliacao-da-telemedicina-no-SUS/",
+  "fonte": "Portal da Assembleia Legislativa de Minas Gerais",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "13:22",
+  "id": "131923_247",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Sesi Museu de Artes e Ofícios abre em dezembro a exposição Simpoiésis, de Gustavo Torrezan, no Centro de BH",
+  "titulo_orig": "Sesi Museu de Artes e Ofícios recebe exposição Simpoiésis em Belo Horizonte",
+  "link": "https://www.rcwtv.com.br/noticia/sesi-museu-de-artes-e-oficios-recebe-exposicao-simpoiesis-em-belo-horizonte",
+  "fonte": "RCWTV",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "13:22",
+  "id": "131937_296",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Bombardeiros russos entram em zona de defesa aérea da Coreia do Sul e moradores de ilha recebem alerta",
+  "titulo_orig": "Voo de aviões militares russos causa alerta na Coreia do Sul | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/24/bombardeiros-russos-coreia-do-sul.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
