@@ -1,17 +1,5 @@
 [
  {
-  "id": "061811_3",
-  "data": "2026-11-22T06:19:29-03:00",
-  "titulo": "Obra de drenagem na época de chuva: Prefeitura de Juiz de Fora explica por que não para os serviços",
-  "linha_fina": "Secretária de Obras diz que interromper as intervenções atrasaria os projetos; professor da UFJF alerta para riscos em escavações com solo encharcado",
-  "categoria": "minas-gerais",
-  "texto": "<p>Durante o período chuvoso, é comum que moradores de Juiz de Fora, na Zona da Mata, questionem por que a Prefeitura mantém obras de drenagem justamente quando a cidade enfrenta chuvas frequentes. A Secretaria de Obras e um especialista da Universidade Federal de Juiz de Fora (UFJF) explicaram como funcionam essas intervenções e quais cuidados elas exigem.</p>\n<p>Segundo a secretária de Obras, Bruna Rocha, os trabalhos são programados levando em conta a chance de chuva ao longo do ano. A estiagem favorece a produtividade, mas parar as obras nos meses chuvosos comprometeria o andamento dos projetos. Por isso, as equipes adaptam ritmo e horários para aproveitar os períodos de tempo seco.</p>\n<p>Em fevereiro, diante do grande volume de chuva, a Prefeitura suspendeu temporariamente serviços não essenciais e deslocou máquinas para retirar barreiras e atender áreas prioritárias. Os trabalhos foram retomados na semana seguinte.</p>\n<p>O professor de engenharia Jordan de Souza, da UFJF, explica que a saturação do solo reduz sua resistência e pode causar instabilidade em escavações. A entrada de água e sedimentos também prejudica etapas como a instalação de galerias, os aterros e as concretagens, e pode exigir limpeza, recompactação ou até a reconstrução de partes da obra. Para ele, o essencial é que o planejamento leve em conta as chuvas e preveja medidas provisórias de segurança.</p>\n<p>Um dos episódios que mais geraram dúvidas foi o arrastamento de tubulações pelo Rio Paraibuna na chuva de 7 de novembro, que circulou nas redes sociais. Segundo a secretária, os tubos não faziam parte da drenagem definitiva: eram estruturas provisórias, usadas para desviar a água e permitir o trabalho em trechos secos, e foram planejadas para ceder em caso de sobrecarga, evitando o represamento.</p>\n<p>A Prefeitura afirma que reforçou as estruturas e mudou a metodologia da obra no Bairro Industrial. Com o avanço da instalação das aduelas, os tubos deixaram de ser usados e o desvio passou a ser feito no próprio rio, em um trecho rebaixado.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/061811_3.jpg",
-  "credito_foto": "Felipe Couri/Tribuna de Minas",
-  "fonte": "Tribuna de Minas",
-  "resumos": ""
- },
- {
   "id": "062603_-bh",
   "data": "2026-11-22T06:26:42-03:00",
   "titulo": "Natal da Mineiridade abre com túnel de sinos iluminados e Fábrica do Noel na Praça da Liberdade",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/101319_44.jpg",
   "credito_foto": "Foto: Jam Sta Rosa/AFP (via g1)",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "104600_israel",
+  "data": "2026-11-24T10:45:23-03:00",
+  "titulo": "É nesta quinta (26): Santa Luzia faz a abertura oficial do 21º Circuito de Presépios",
+  "linha_fina": "Lançamento será às 19h, no Teatro Municipal Antônio Roberto de Almeida; a Secretaria de Cultura e Turismo convida a população.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Prefeitura de Santa Luzia, por meio da Secretaria Municipal de Cultura e Turismo, faz nesta quinta-feira (26) a abertura oficial do 21º Circuito de Presépios de Santa Luzia. O lançamento será às 19h, no Teatro Municipal Antônio Roberto de Almeida.</p>\n<p>O circuito é uma das tradições natalinas mais conhecidas da cidade. A cada fim de ano, presépios montados por moradores, igrejas, grupos e instituições passam a fazer parte de um roteiro que pode ser visitado pela população e por turistas, especialmente no Centro Histórico.</p>\n<p>Segundo a Secretaria de Cultura e Turismo, o projeto celebra a fé, a cultura, a memória e o espírito do Natal, valorizando os presépios e as manifestações populares que fazem parte da identidade cultural de Santa Luzia. A pasta convidou a imprensa e a comunidade para prestigiar o lançamento e ajudar a divulgar a nova edição.</p>\n<p>Chegando à 21ª edição, o circuito mantém viva uma tradição que atravessa gerações de famílias luzienses, que todos os anos se dedicam a montar cenas do nascimento de Jesus com peças artesanais, iluminação e decoração próprias. Muitos presépios ficam abertos à visitação nas próprias casas dos moradores.</p>\n<p>A programação completa do circuito, com os endereços dos presépios participantes e os horários de visitação, deve ser divulgada pela Prefeitura a partir da abertura oficial. O Portal ONE News acompanha o lançamento e traz as novidades da edição deste ano.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/104600_israel.jpg",
+  "credito_foto": "Foto: Divulgação/Prefeitura de Santa Luzia",
+  "fonte": "Secretaria Municipal de Cultura e Turismo de Santa Luzia",
   "resumos": ""
  }
 ]
