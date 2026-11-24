@@ -1,17 +1,5 @@
 [
  {
-  "id": "141821_33",
-  "data": "2026-11-22T14:19:28-03:00",
-  "titulo": "Atlético vai pagar passagens de avião para torcedores que foram de kombi de BH até Barranquilla",
-  "linha_fina": "Trio viajou 17 dias de kombi até a final da Sul-Americana; clube também vai custear o transporte do veículo de volta a Minas",
-  "categoria": "atletico",
-  "texto": "<p>Os três atleticanos que viajaram 17 dias de kombi de Belo Horizonte até Barranquilla, na Colômbia, para assistir à final da Copa Sul-Americana, vão voltar ao Brasil de avião. O Atlético se ofereceu para pagar as passagens aéreas de Igor Batista, Daniel Marques e Emerson Coelho e também o transporte da kombi de volta a Minas Gerais.</p><p>A novidade foi anunciada pelo próprio Igor, em um vídeo publicado no Instagram. Havia preocupação entre os torcedores com o retorno do trio depois de uma viagem longa e cansativa. O roteiro de ida incluiu uma travessia de balsa a partir de Santarém, no Pará, e a passagem pela Venezuela antes da chegada à Colômbia.</p><p>No vídeo, Igor contou que recebeu uma ligação de Domenico Bhering, dirigente do clube, com a oferta. \"Confortem seus corações, que os nossos estão confortados agora. Eles se disponibilizaram a pagar nossa passagem de avião e o transporte da minha joia por contêiner, por cegonheira\", disse. Ele também agradeceu publicamente ao Atlético e aos envolvidos na ajuda.</p><p>A aventura dos três torcedores ganhou repercussão nas redes antes da decisão. Dentro de campo, porém, o resultado não foi o esperado: o Galo teve atuação abaixo do que se esperava e perdeu por 2 a 0 para o Boca Juniors, no sábado (21), ficando com o vice-campeonato.</p><p>Agora, o Atlético volta as atenções para o Campeonato Brasileiro, em que busca uma vaga na Libertadores de 2027. O próximo compromisso é contra o Corinthians, na quarta-feira, às 20h, na Arena MRV.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-22/141821_33.jpg",
-  "credito_foto": "Reprodução/No Ataque",
-  "fonte": "O Tempo/No Ataque",
-  "resumos": ""
- },
- {
   "id": "141825_11",
   "data": "2026-11-22T14:19:28-03:00",
   "titulo": "Câmara de BH faz audiência nesta segunda para discutir prevenção e estragos das chuvas na capital",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/143523_16.jpg",
   "credito_foto": "Reprodução/Câmara Municipal de Mariana",
   "fonte": "Itatiaia",
+  "resumos": ""
+ },
+ {
+  "id": "143651_nte",
+  "data": "2026-11-24T14:37:02-03:00",
+  "titulo": "Black Friday: 52,1% dos consumidores de BH pretendem comprar; roupas e calçados lideram a lista, diz Fecomércio",
+  "linha_fina": "Pesquisa mostra que 58,1% vão antecipar presentes de Natal e que promoção real e atendimento pesam na escolha da loja.",
+  "categoria": "comercio",
+  "texto": "<p>A Black Friday deste ano deve levar às compras 52,1% dos consumidores de Belo Horizonte que conhecem a data, segundo a Pesquisa de Intenção de Consumo da Fecomércio MG. Roupas, calçados e acessórios lideram as intenções de compra, seguidos por perfumaria e cosméticos, eletrônicos e eletrodomésticos.</p>\n<p>A data já está consolidada na capital: 92,4% dos entrevistados disseram conhecer a Black Friday. Entre os que pretendem comprar, 24% devem ir só às lojas físicas, 21% vão concentrar as compras na internet e 7,1% pretendem usar os dois canais.</p>\n<p>No ranking dos produtos mais desejados, roupas, calçados e acessórios aparecem com 38,7% das menções. Perfumaria e cosméticos vêm em segundo, com 25,7%, seguidos de eletrônicos (19,4%) e eletrodomésticos (13,1%). Alimentação e móveis somam 9,9% cada.</p>\n<p>A pesquisa também mostra a força da data para o Natal: 58,1% dos consumidores que vão aproveitar a Black Friday pretendem comprar presentes ou itens natalinos, e 46,6% admitem levar produtos que não estavam nos planos se encontrarem bons descontos.</p>\n<p>As promoções são o principal estímulo para 45,8% dos entrevistados. Em seguida aparecem a variedade de marcas e produtos (29,4%), o atendimento diferenciado (26,2%) e a facilidade de pagamento (15,8%). A confiança ainda é um ponto de atenção: 27,2% associam a data a descontos maquiados, mas 86,2% de quem comprou em lojas físicas no ano passado considerou os descontos reais, índice que chegou a 88,3% no comércio virtual.</p>\n<p>Para o lojista, o recado é claro. Segundo a economista da Fecomércio MG Fernanda Gonçalves, a competitividade não está só no desconto, mas em oferecer condições realmente atrativas, variedade e uma experiência de compra à altura da expectativa. Entre quem comprou on-line no ano passado, 72,3% compararam preços antes e 84,3% checaram a reputação da loja, o que reforça a importância de preço transparente e boa avaliação dos clientes.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/143651_nte.jpg",
+  "credito_foto": "Paulo Pinto/Agência Brasil",
+  "fonte": "Fecomércio MG e Cenário Minas",
   "resumos": ""
  }
 ]
