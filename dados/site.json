@@ -1,17 +1,5 @@
 [
  {
-  "id": "151421_210",
-  "data": "2026-11-21T15:19:51-03:00",
-  "titulo": "Festival da Jabuticaba em Sabará tem previsão de pancadas de chuva no sábado e no domingo",
-  "linha_fina": "Evento vai até domingo (22) no Centro Histórico, com parte da estrutura coberta; organização espera 200 mil visitantes",
-  "categoria": "sabara",
-  "texto": "<p>Quem pretende ir ao 40º Festival da Jabuticaba, em Sabará, na Região Metropolitana de Belo Horizonte, neste fim de semana, deve levar o guarda-chuva. A previsão indica pancadas de chuva e trovoadas isoladas à tarde e à noite deste sábado (21), e o tempo instável continua no domingo (22), último dia do evento.</p>\n<p>Segundo o Instituto Nacional de Meteorologia (Inmet), a temperatura em Sabará neste sábado varia entre mínima de 20°C e máxima de cerca de 31°C. O céu fica nublado a partir da tarde.</p>\n<p>O festival começou na quinta-feira (19) no Centro Histórico da cidade e reúne gastronomia, produtos artesanais, apresentações musicais e atividades ligadas à fruta símbolo do município. Parte da programação acontece em espaço coberto.</p>\n<p>São cerca de 30 estandes com produtos feitos a partir da jabuticaba, como geleias, molhos, vinhos e licores. A expectativa é que 200 mil visitantes passem pela cidade ao longo dos quatro dias de evento.</p>\n<p>O festival é organizado pela Associação dos Produtores e Derivados da Jabuticaba de Sabará (Asprodejas), com apoio da Prefeitura. Todo o estado de Minas Gerais está sob aviso do Inmet de possibilidade de tempestade até a noite de domingo, com risco de ventos fortes e granizo.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/151421_210.jpg",
-  "credito_foto": "Reprodução/Redes Sociais",
-  "fonte": "Rádio Itatiaia",
-  "resumos": ""
- },
- {
   "id": "151540_171",
   "data": "2026-11-21T15:19:51-03:00",
   "titulo": "Dois meses após queda de helicóptero que matou o cantor Rick, causa do acidente segue sem resposta",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/232037_197.jpg",
   "credito_foto": "Priscila Zambotto/Getty Images via Exame",
   "fonte": "Exame",
+  "resumos": ""
+ },
+ {
+  "id": "233040_91",
+  "data": "2026-11-23T23:30:54-03:00",
+  "titulo": "Garotinho quebra o silêncio após Rosinha anunciar fim do casamento de 45 anos: \"Nem todo amor que termina foi um erro\"",
+  "linha_fina": "Ex-governadores do Rio se separam; Rosinha comunicou o término no domingo, citando caminhos divergentes e pedindo respeito à privacidade.",
+  "categoria": "politica",
+  "texto": "<p>O ex-governador do Rio de Janeiro Anthony Garotinho se pronunciou nesta segunda-feira (23) sobre o fim do casamento com a também ex-governadora Rosinha Garotinho, depois de quase 45 anos de união. A separação foi anunciada por Rosinha no domingo (22).</p><p>Ao comunicar o término, Rosinha citou caminhos divergentes e pediu respeito à privacidade da família. O casal construiu juntos uma longa trajetória política e familiar: os dois governaram o estado do Rio de Janeiro e tiveram forte atuação na política de Campos dos Goytacazes, no Norte Fluminense.</p><p>Um dia depois, Garotinho publicou nas redes sociais um texto reflexivo, sem citar diretamente a ex-mulher nem os motivos da separação. \"Nem todo amor que termina foi um erro\", escreveu logo no início da mensagem.</p><p>Na publicação, o ex-governador defendeu que o fim de um relacionamento não significa necessariamente fracasso e que algumas relações chegam ao fim depois de cumprirem uma etapa na vida das pessoas. Segundo ele, o distanciamento pode ajudar a compreender situações que pareciam difíceis de aceitar durante a convivência.</p><p>O texto também falou sobre amadurecimento emocional e sobre os aprendizados que permanecem mesmo depois de uma separação.</p><p>Até a publicação desta matéria, nenhum dos dois havia detalhado como fica a relação daqui para frente. O casal tem filhos que também seguiram carreira na política fluminense.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/233040_91.jpg",
+  "credito_foto": "Reprodução/Contigo via Terra",
+  "fonte": "Terra",
   "resumos": ""
  }
 ]
