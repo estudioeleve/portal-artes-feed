@@ -708,3 +708,4 @@
 2026-11-24 15:20 denúncia 10082 (Reels Luziense): painel ERRO (jsDelivr: mídia ERROR; raw: too many actions) -> saiu pelo Windsor SEM COLLAB @portaluziense (create_video_post não aceita collaborators) (media 18121664195081835)
 2026-11-24 15:21 denúncia 10078 (Reels Luziense): painel too many actions -> Windsor SEM COLLAB @portaluziense (media 18097906565170553)
 2026-11-24 15:23 denúncia 10072 (Reels Luziense): painel bloqueado -> Windsor SEM COLLAB @portaluziense (media 18020720528745552)
+2026-11-24 15:24 denúncia 9990 (OC-2026-9990, sugestão de pauta, cadelinhas Cleide e Tereza no Asteca): titulada e publicada no site, mas NÃO postada no Instagram porque o relato traz número de telefone (regra B3). Israel decide (postar com o relato cortado ou só site).
