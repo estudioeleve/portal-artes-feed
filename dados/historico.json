@@ -68080,5 +68080,19 @@
   "fonte": "Correio do Povo Penedo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:25",
+  "id": "061305_8",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "MEI vai poder contratar dois funcionários, mas custo pode levar quase metade do faturamento",
+  "titulo_orig": "MEI poderá contratar dois funcionários... mas vale a pena?",
+  "link": "https://agenciadcnews.com.br/publicacao/s/mei-podera-contratar-dois-funcionarios-mas-vale-a-pena",
+  "fonte": "DComercio",
+  "arte": "artes/2026-11-24/061305_8.jpg",
+  "media_id": "18119388452121982"
  }
 ]
