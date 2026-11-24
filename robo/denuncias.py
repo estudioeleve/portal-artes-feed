@@ -96,12 +96,21 @@ def montar_varios(i,arqs,saida):
   except Exception as e:
     print(i,'AVISO: não consegui transcrever os vídeos (',e,') - montei do jeito antigo, um pedaço do meio de cada vídeo')
     return juntar_videos(arqs,saida)
-  if falta:
+  if falta and sum(_dur(a_) for a_ in arqs)>120:
     print(i,'VÁRIOS VÍDEOS: leia',' e '.join(f'{p_}/falas.txt' for p_ in falta),'| grave o escolha.json em cada pasta e rode o preparar de novo')
     return None
   partes=[]
+  # (24/11/2026) se os vídeos somados cabem em 2 min, entram INTEIROS (ninguém tem a fala cortada); só corta quando passa disso
+  inteiro=sum(_dur(a_) for a_ in arqs)<=120
   for k,arq in enumerate(arqs):
-    pk=f'{pasta}/v{k+1}';esc=json.load(open(f'{pk}/escolha.json'));out=f'{pk}/parte.mp4'
+    pk=f'{pasta}/v{k+1}';esc=json.load(open(f'{pk}/escolha.json')) if os.path.exists(f'{pk}/escolha.json') else {};out=f'{pk}/parte.mp4'
+    if inteiro or esc.get('inteiro'):
+      pi=f'{pk}/inteiro';os.makedirs(pi,exist_ok=True)
+      json.dump([{'n':1,'ini':0.0,'fim':_dur(arq)}],open(f'{pi}/falas.json','w'));json.dump({'frases':[1]},open(f'{pi}/escolha.json','w'))
+      import shutil
+      for f_ in ('rosto.json','a16.wav'):
+        if os.path.exists(f'{pk}/{f_}'): shutil.copy(f'{pk}/{f_}',f'{pi}/{f_}')
+      subprocess.run([sys.executable,f'{R}/robo/video_longo.py','montar',arq,pi,out],check=True);partes.append(out);continue
     if esc.get('frases'):
       subprocess.run([sys.executable,f'{R}/robo/video_longo.py','montar',arq,pk,out],check=True);partes.append(out)
     elif esc.get('imagem'):

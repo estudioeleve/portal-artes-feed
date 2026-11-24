@@ -112,14 +112,43 @@ def _trilha_rosto(ros, dur):
     return f
 
 
+def _energia(wav, passo=0.02):
+    import wave
+    try:
+        w = wave.open(wav); x = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768
+    except Exception:
+        return None
+    n = int(16000 * passo); k = len(x) // n
+    e = np.sqrt((x[:k * n].reshape(k, n) ** 2).mean(1) + 1e-12)
+    db = 20 * np.log10(e)
+    return db, passo, np.percentile(db, 20)   # piso de ruído do vídeo
+
+
+def _borda(voz, ini, fim):
+    """recua o começo até onde a voz começa (até 0,8 s antes) e estende o fim até a voz acabar (até 1,2 s depois)"""
+    if voz is None:
+        return max(0, ini - 0.35), fim + 0.5
+    db, p, piso = voz; lim = piso + 8; tot = len(db)
+    i = int(ini / p)
+    j = i
+    while j > 0 and i - j < 0.8 / p and (db[j - 1] > lim or db[max(0, j - 5):j].max() > lim): j -= 1
+    f = int(fim / p)
+    g = f
+    while g < tot - 1 and g - f < 1.2 / p and db[g:g + 8].max() > lim: g += 1
+    return max(0, j * p - 0.15), min(tot * p, g * p + 0.3)
+
+
 def montar(video, pasta, saida):
     import cv2
     frases = {x['n']: x for x in json.load(open(f'{pasta}/falas.json'))}
     esc = json.load(open(f'{pasta}/escolha.json'))['frases']
     # trechos = frases escolhidas, com folga de 0,15 s; frases seguidas viram um trecho só
     tre = []
+    voz = _energia(f'{pasta}/a16.wav')
     for n in esc:
-        a, b = frases[n]['ini'] - 0.15, frases[n]['fim'] + 0.25
+        # (24/11/2026) o Whisper marca o começo da fala atrasado e o fim adiantado: usa o volume do áudio para
+        # começar quando a voz realmente começa e só cortar depois que a pessoa termina de falar
+        a, b = _borda(voz, frases[n]['ini'], frases[n]['fim'])
         if tre and a - tre[-1][1] < 0.6: tre[-1][1] = b
         else: tre.append([max(0, a), b])
     tot = sum(b - a for a, b in tre)
