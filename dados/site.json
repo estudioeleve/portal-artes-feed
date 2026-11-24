@@ -4786,5 +4786,17 @@
   "credito_foto": "Reprodução/Prefeitura de Lagoa Santa",
   "fonte": "Prefeitura de Lagoa Santa",
   "resumos": ""
+ },
+ {
+  "id": "164000_israel",
+  "data": "2026-11-24T16:35:36-03:00",
+  "titulo": "Viatura da PM atropela três mulheres e uma criança durante perseguição em Nilópolis (RJ)",
+  "linha_fina": "Segundo a PM, o carro oficial foi atingido por outro veículo no cruzamento e invadiu a calçada; um suspeito foi preso com drogas.",
+  "categoria": "brasil",
+  "texto": "<p>Três mulheres e uma criança foram atropeladas por uma viatura da Polícia Militar na manhã desta terça-feira (24), em Nilópolis, na Baixada Fluminense. Segundo a corporação, o veículo perdeu o controle e invadiu a calçada depois de ser atingido por um carro de passeio durante uma perseguição policial. A viatura ainda bateu na estrutura de um estabelecimento comercial.</p><p>Imagens de uma câmera de segurança mostram as três mulheres e a criança, que usava uniforme escolar e estava de costas para a rua, conversando na calçada pouco antes de serem atingidas pelo veículo desgovernado.</p><p>De acordo com a PM, a ocorrência começou quando equipes do 20º BPM (Mesquita) faziam uma operação para retirar barricadas na comunidade da Chatuba, em Mesquita. Os policiais viram três suspeitos armados: dois fugiram de moto e o terceiro, a pé. A perseguição seguiu até o cruzamento das ruas João Pessoa e Pedro Álvares Cabral, já em Nilópolis, onde o motorista de um carro particular tentou desviar da moto e acabou batendo na viatura, que foi lançada contra a calçada.</p><p>As quatro pessoas atropeladas foram levadas para a UPA de Cabuís e para o Hospital Municipalizado Adão Pereira Nunes, em Duque de Caxias. Dois policiais que estavam na viatura também se feriram e foram levados ao Hospital Geral de Nova Iguaçu. Não havia atualização sobre o estado de saúde dos feridos.</p><p>Durante o cerco, um dos suspeitos foi preso. Com ele, os policiais apreenderam um rádio transmissor e 317 embalagens de drogas, com crack, cocaína e maconha.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/164000_israel.jpg",
+  "credito_foto": "Reprodução/Redes sociais",
+  "fonte": "Sudeste Agora",
+  "resumos": ""
  }
 ]

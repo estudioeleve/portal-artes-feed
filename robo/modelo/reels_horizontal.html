@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset=utf8><style>
+/* Moldura de Reels para VÍDEO HORIZONTAL (Israel, 24/11/2026): fundo com a identidade do ONE News,
+   logo no alto, o vídeo ocupa a LARGURA TODA (1080 px, sem sobra nas laterais) na faixa do meio,
+   título em caixas brancas embaixo e barra do site. A faixa do vídeo fica transparente (o ffmpeg põe o vídeo por baixo).
+   uso: reels_horizontal.html?ed=...&ti=...&vy=<topo do vídeo>&vh=<altura do vídeo>&cr=<crédito> */
+@font-face{font-family:RB;font-weight:700;src:url(../fonts/roboto-latin-700-normal.woff2)}
+@font-face{font-family:RB;font-weight:700;src:url(../fonts/roboto-latin-ext-700-normal.woff2);unicode-range:U+0100-024F}
+@font-face{font-family:PP;font-weight:400;src:url(../fonts/poppins-latin-400-normal.woff2)}
+@font-face{font-family:PP;font-weight:700;src:url(../fonts/poppins-latin-700-normal.woff2)}
+*{margin:0;box-sizing:border-box}html,body{background:transparent}
+.s{position:relative;width:1080px;height:1920px;overflow:hidden}
+.bg{position:absolute;left:0;right:0;background:radial-gradient(120% 60% at 15% 10%,#1B4FD8 0%,#00238A 38%,#06153E 100%)}
+.bg::after{content:'';position:absolute;inset:0;background:repeating-linear-gradient(135deg,rgba(255,255,255,.035) 0 2px,transparent 2px 22px)}
+.top{top:0}.bot{bottom:0}
+.logo{position:absolute;left:0;right:0;top:120px;display:flex;justify-content:center;align-items:flex-end;gap:16px}
+.logo img{display:block;filter:drop-shadow(0 4px 10px rgba(0,0,0,.35))}
+.slogan{position:absolute;left:0;right:0;top:300px;text-align:center;color:#C9D6FF;font:400 30px PP;letter-spacing:.18em;text-transform:uppercase}
+.linha{position:absolute;left:0;right:0;height:8px;background:linear-gradient(90deg,#4F8BFF,#fff,#4F8BFF)}
+.ed{position:absolute;left:60px;display:inline-block;background:#E01D0D;color:#fff;font:700 38px/1 RB;letter-spacing:-.02em;padding:14px 22px;text-transform:uppercase}
+.ti{position:absolute;left:44px;right:44px;font:700 62px/1.36 RB;letter-spacing:-.035em;color:#06153E}
+.ti span{background:#fff;box-decoration-break:clone;-webkit-box-decoration-break:clone;padding:4px 18px;border-radius:4px}
+.cr{position:absolute;right:28px;color:rgba(255,255,255,.85);font:400 22px PP;text-shadow:0 1px 3px #000}
+.rod{position:absolute;left:0;right:0;bottom:230px;height:110px;background:linear-gradient(90deg,#00238A,#1B4FD8);display:flex;align-items:center;justify-content:center;gap:18px;color:#fff;font:400 40px PP}
+.rod b{font-weight:700}
+</style></head><body><section class="s" id="arte">
+<div class="bg top" id="bgt"></div><div class="bg bot" id="bgb"></div>
+<div class="logo"><img src="portal.png" style="height:120px"><img src="one.png" style="height:74px"><img src="news.png" style="height:74px"></div>
+<div class="slogan">a notícia que importa</div>
+<div class="linha" id="l1"></div><div class="linha" id="l2"></div>
+<div class="cr" id="cr"></div>
+<div class="ed" id="ed">BRASIL</div>
+<div class="ti" id="ti"><span id="tx">Título</span></div>
+<div class="rod">Acesse: <b>www.portalonenews.com.br</b></div>
+</section><script>
+const q=new URLSearchParams(location.search);const vy=+(q.get('vy')||560),vh=+(q.get('vh')||594);
+bgt.style.height=vy+'px';bgb.style.top=(vy+vh)+'px';bgb.style.height=(1920-vy-vh)+'px';
+l1.style.top=(vy-8)+'px';l2.style.top=(vy+vh)+'px';
+cr.style.top=(vy+vh-38)+'px';cr.textContent=q.get('cr')||'';
+ed.style.top=(vy+vh+60)+'px';ti.style.top=(vy+vh+150)+'px';
+if(q.get('ed'))ed.textContent=q.get('ed');if(q.get('ti'))tx.textContent=q.get('ti');
+let fs=62;while(ti.offsetHeight>fs*1.36*4+10&&fs>44){fs-=2;ti.style.fontSize=fs+'px'}
+document.body.dataset.linhas=Math.round(ti.offsetHeight/(fs*1.36));
+</script></body></html>

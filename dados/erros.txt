@@ -713,3 +713,4 @@
 2026-11-24 16:12 161000_israel (Câmara de Vespasiano aprova Secretaria de Comunicação, pedido do Israel): Reels Política pelo Windsor SEM COLLAB @portallpolitica (painel bloqueado nesta sessão; create_video_post do Windsor não aceita collab) (media 17872439124652410)
 2026-11-24 16:12 painel: too many actions (denúncia 9990 saiu pelo Windsor, sem collab)
 2026-11-24 16:30 161629_103 (Nova Lima Acender das Luzes) foi ao site por engano, duplicando 152701_38 da rodada anterior; tirado do site.json, mas pode ter sido publicado no site antes: conferir e apagar a matéria repetida.
+2026-11-24 16:35 162500_israel (guardas cobram secretário de Segurança na Câmara de Santa Luzia, pedido do Israel): Reels Luziense pelo Windsor SEM COLLAB @portaluziense (media 18116746214168118)
