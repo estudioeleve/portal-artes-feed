@@ -69256,5 +69256,47 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "14:17",
+  "id": "141650_60",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Bancos centrais de países de língua portuguesa criam rede permanente de cooperação",
+  "titulo_orig": "BCs de países de língua portuguesa criam rede de cooperação",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bcs-de-paises-de-lingua-portuguesa-criam-rede-de-cooperacao",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "14:17",
+  "id": "141656_168",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lula sanciona lei que garante R$ 115 milhões a Roraima por gastos com migrantes venezuelanos",
+  "titulo_orig": "Lula sanciona lei que garante R$ 115 milhões a Roraima  | G1",
+  "link": "https://g1.globo.com/google/amp/rr/roraima/noticia/2026/11/24/lula-sanciona-lei-que-garante-r-115-milhoes-a-rr-para-custear-impacto-da-migracao-venezuelana.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "14:17",
+  "id": "141703_124",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "GDF decreta ponto facultativo nos dias das posses de Lula e Celina Leão, em janeiro",
+  "titulo_orig": "GDF determina ponto facultativo nos dias de posse de Lula e Celina | G1",
+  "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/24/gdf-determina-ponto-facultativo-nos-dias-de-posse-de-lula-e-celina-leao.ghtml",
+  "fonte": "G1",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
