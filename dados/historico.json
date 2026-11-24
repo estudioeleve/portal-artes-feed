@@ -67730,5 +67730,33 @@
   "fonte": "Estado de Minas",
   "arte": "artes/2026-11-23/221400_197.jpg",
   "media_id": "18404934577202447"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "22:20",
+  "id": "221910_366",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "PM abre seleção para 16 vagas no Colégio Tiradentes de Patrocínio; salário é de R$ 1.920,55",
+  "titulo_orig": "Polícia Militar abre processo seletivo para 16 vagas administrativas no Colégio Tiradentes em Patrocínio | Clube Noticia - Notícias de Patos de Minas e região",
+  "link": "https://clubenoticia.com.br/policia-militar-abre-processo-seletivo-para-16-vagas-administrativas-no-colegio-tiradentes-em-patrocinio/",
+  "fonte": "Clube Notícia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "22:20",
+  "id": "221943_143",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "VIRALIZOU",
+  "titulo": "Mímico famoso de parque dos EUA veste camisa do XV de Piracicaba e vídeo passa de 1 milhão de visualizações",
+  "titulo_orig": "Viraliza vídeo de mímico famoso dos EUA com camisa de time brasileiro  | Ge",
+  "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/noticia/2026/11/23/mimico-famoso-de-parques-dos-eua-coloca-a-camisa-do-xv-de-piracicaba-e-video-viraliza.ghtml",
+  "fonte": "ge.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
