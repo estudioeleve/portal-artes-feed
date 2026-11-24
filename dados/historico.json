@@ -68150,5 +68150,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-24/061312_34.jpg",
   "media_id": "18052515839821233"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "06:52",
+  "id": "061329_120",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo Lula estuda projeto para limitar supersalários que passam de R$ 100 mil por mês",
+  "titulo_orig": "Governo Federal avalia limitar supersalários no funcionalismo",
+  "link": "https://www.correiodamanha.com.br/economia/funcionalismo-publico/2026/11/337017-governo-federal-avalia-limitar-supersalarios-no-funcionalismo.html",
+  "fonte": "www.correiodamanha.com.br",
+  "arte": "artes/2026-11-24/061329_120.jpg",
+  "media_id": "18084554837709635"
  }
 ]
