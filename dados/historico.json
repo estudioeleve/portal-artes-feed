@@ -69606,5 +69606,19 @@
   "fonte": "Portal ONE News",
   "arte": "",
   "media_id": "17872439124652410"
+ },
+ {
+  "id": "denuncia_9990",
+  "data": "2026-11-24",
+  "hora": "16:12",
+  "media_id": "17872102755659309",
+  "titulo": "Denúncia do leitor 9990",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:9990",
+  "arte": ""
  }
 ]
