@@ -67912,5 +67912,33 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-23/231040_6.jpg",
   "media_id": "17993085402118262"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "23:20",
+  "id": "232029_264",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Rastreador de bicicleta furtada em BH leva PM a casa em Contagem, e homem que pagou R$ 600 por ela é preso",
+  "titulo_orig": "Homem paga R$ 600 sabendo que bicicleta era furtada e é preso após PM rastrear veículo",
+  "link": "https://www.otempo.com.br/cidades/2026/11/23/homem-paga-r-600-sabendo-que-bicicleta-era-furtada-e-e-preso-apos-pm-rastrear-veiculo",
+  "fonte": "O Tempo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "23:20",
+  "id": "232037_197",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Governo Lula reduz previsão do PIB de 2027 para 1,8% e vê inflação no teto da meta, de 4,5%",
+  "titulo_orig": "Governo Lula reduz expectativa do PIB e prevê inflação maior em 2026 e 2027",
+  "link": "https://exame.com/economia/governo-lula-reduz-expectativa-do-pib-e-preve-inflacao-maior-em-2026-e-2027/",
+  "fonte": "Exame",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]

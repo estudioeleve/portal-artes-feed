@@ -1,17 +1,5 @@
 [
  {
-  "id": "151330_23",
-  "data": "2026-11-21T15:19:51-03:00",
-  "titulo": "Homem é flagrado andando de patinete elétrico entre os carros no Anel Rodoviário, em BH",
-  "linha_fina": "Flagrante foi na noite de sexta-feira, no sentido BH Shopping; novas regras da PBH proíbem patinete em vias acima de 60 km/h",
-  "categoria": "belo-horizonte",
-  "texto": "<p>Um homem foi flagrado andando de patinete elétrico no meio dos carros no Anel Rodoviário, em Belo Horizonte, na noite de sexta-feira (20). A cena foi registrada por volta das 20h, no sentido BH Shopping, por uma motorista que passava pelo local.</p>\n<p>Nas imagens, o condutor aparece de capacete, mas circulando pelas pistas da rodovia de forma arriscada. Em determinado momento, ele quase esbarra em um carro que mudava de faixa. Depois, segue para as pistas do meio, passando entre os veículos. \"Não viu o carro, olha lá. Agora ele vai para o meio da pista. Tem que parar, não pode isso não\", diz a autora do vídeo.</p>\n<p>A Prefeitura de Belo Horizonte publicou no Diário Oficial do Município, na terça-feira (17), novas regras para o uso de bicicletas elétricas, patinetes e outros equipamentos autopropelidos nas vias da capital.</p>\n<p>Pelas normas, nas vias com velocidade máxima acima de 60 km/h é proibida a circulação de ciclomotores, bicicletas elétricas e equipamentos de mobilidade individual autopropelidos, caso dos patinetes. Nas vias com limite entre 40 km/h e 60 km/h, os ciclomotores podem circular pelo bordo direito da pista, mas bicicletas elétricas e patinetes continuam proibidos.</p>\n<p>O Anel Rodoviário é uma das vias mais perigosas da capital, com tráfego intenso de carretas e caminhões, e concentra grande número de acidentes graves ao longo do ano.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-21/151330_23.jpg",
-  "credito_foto": "Reprodução/BHAZ",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "151421_210",
   "data": "2026-11-21T15:19:51-03:00",
   "titulo": "Festival da Jabuticaba em Sabará tem previsão de pancadas de chuva no sábado e no domingo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/231231_7.jpg",
   "credito_foto": "Umbú Produtora/Divulgação",
   "fonte": "Diário de Contagem",
+  "resumos": ""
+ },
+ {
+  "id": "232037_197",
+  "data": "2026-11-23T23:20:59-03:00",
+  "titulo": "Governo Lula reduz previsão do PIB de 2027 para 1,8% e vê inflação no teto da meta, de 4,5%",
+  "linha_fina": "Boletim MacroFiscal da Fazenda cita juros altos por mais tempo, crédito mais caro e risco do El Niño; para 2026, inflação esperada sobe para 5,3%.",
+  "categoria": "brasil",
+  "texto": "<p>O governo federal reduziu a previsão de crescimento da economia brasileira para 2027 e elevou a expectativa de inflação. A projeção para o Produto Interno Bruto (PIB) caiu de 2,3% para 1,8%, enquanto a estimativa para o IPCA, o índice oficial de inflação, subiu de 3,8% para 4,5%, exatamente o teto da meta.</p><p>Os números estão no Boletim MacroFiscal divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica (SPE), do Ministério da Fazenda, e atualizam as projeções feitas em setembro.</p><p>A revisão representa um corte de 0,5 ponto percentual no crescimento esperado e uma alta de 0,7 ponto na inflação prevista para 2027. Segundo a equipe econômica, o cenário reflete a perspectiva de juros elevados por mais tempo, o encarecimento do crédito e os possíveis efeitos do fenômeno climático El Niño sobre a produção agropecuária.</p><p>Para 2026, os indicadores também foram revistos. A previsão de crescimento do PIB passou de 2% para 1,9%, e a inflação esperada subiu de 4,9% para 5,3%.</p><p>Se a projeção se confirmar, a inflação de 2026 ficará 0,8 ponto percentual acima do limite de 4,5% da meta, o que obriga o Banco Central a explicar formalmente o descumprimento.</p><p>Para o consumidor e para o pequeno empresário, o recado é de um cenário de preços ainda pressionados e crédito caro nos próximos meses, o que exige cautela com dívidas e planejamento nas compras de fim de ano.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/232037_197.jpg",
+  "credito_foto": "Priscila Zambotto/Getty Images via Exame",
+  "fonte": "Exame",
   "resumos": ""
  }
 ]
