@@ -720,3 +720,4 @@
 2026-11-24 17:13 denúncia 10158 (cavalos no São Benedito): painel too many actions (2x) -> Windsor create_carousel_post com collaborators=portaluziense (media 17973479393961410)
 2026-11-24 17:13 164000_israel (Nilópolis, pendente) saiu pelo Windsor (media 18115930685235492)
 2026-11-24 17:25 161538_31 (Academia de Chefs Sebrae, Comércio, pendente) saiu pelo Windsor COM collaborators=@portallcomercio (painel bloqueado nesta sessão) (media 18098457161253477)
+2026-11-24 17:34 171354_32 (comissão ônibus Câmara BH, Política) saiu pelo Windsor COM collaborators=@portallpolitica (painel bloqueado nesta sessão) (media 18117495928863909)
