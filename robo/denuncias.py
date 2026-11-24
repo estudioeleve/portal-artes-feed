@@ -70,6 +70,45 @@ def juntar_videos(arqs,saida,total=45.0,minimo=4.0,maximo=15.0):
                   '-c:v','libx264','-preset','veryfast','-crf','18','-c:a','aac','-b:a','160k',saida],check=True)
   return saida
 
+MULTI='/tmp/den_multi'   # transcrições dos vídeos (fora do repositório, que é público)
+
+def concatenar(partes,saida):
+  fc=''.join(f'[{k}:v][{k}:a]' for k in range(len(partes)))+f'concat=n={len(partes)}:v=1:a=1[v][a]'
+  ent=[]
+  for p_ in partes: ent+=['-i',p_]
+  subprocess.run(['ffmpeg','-y','-loglevel','error',*ent,'-filter_complex',fc,'-map','[v]','-map','[a]',
+                  '-c:v','libx264','-preset','veryfast','-crf','18','-c:a','aac','-b:a','160k','-movflags','+faststart',saida],check=True)
+  return saida
+
+def montar_varios(i,arqs,saida):
+  """Vários vídeos -> um Reels com as falas principais de cada um.
+  1ª vez: transcreve cada vídeo (MULTI/<id>/v1, v2, v3: falas.txt) e para, pedindo o escolha.json de cada pasta.
+  escolha.json: {"frases":[n,...]} = frases a manter, em ordem | {"frases":[],"imagem":true} = vídeo sem fala,
+  entra um pedaço de 6 s do meio com o som ambiente | {"frases":[]} = deixa o vídeo de fora.
+  Se a transcrição não funcionar, volta ao jeito antigo (um pedaço do meio de cada vídeo) e avisa."""
+  pasta=f'{MULTI}/{i}';falta=[]
+  try:
+    for k,arq in enumerate(arqs):
+      pk=f'{pasta}/v{k+1}'
+      if not os.path.exists(f'{pk}/falas.json'):
+        subprocess.run([sys.executable,f'{R}/robo/video_longo.py','analisar',arq,pk],check=True)
+      if not os.path.exists(f'{pk}/escolha.json'): falta.append(pk)
+  except Exception as e:
+    print(i,'AVISO: não consegui transcrever os vídeos (',e,') - montei do jeito antigo, um pedaço do meio de cada vídeo')
+    return juntar_videos(arqs,saida)
+  if falta:
+    print(i,'VÁRIOS VÍDEOS: leia',' e '.join(f'{p_}/falas.txt' for p_ in falta),'| grave o escolha.json em cada pasta e rode o preparar de novo')
+    return None
+  partes=[]
+  for k,arq in enumerate(arqs):
+    pk=f'{pasta}/v{k+1}';esc=json.load(open(f'{pk}/escolha.json'));out=f'{pk}/parte.mp4'
+    if esc.get('frases'):
+      subprocess.run([sys.executable,f'{R}/robo/video_longo.py','montar',arq,pk,out],check=True);partes.append(out)
+    elif esc.get('imagem'):
+      juntar_videos([arq],out,total=6.0,minimo=2.0,maximo=6.0);partes.append(out)
+  if not partes: raise RuntimeError(f'{i}: nenhum trecho escolhido nos vídeos')
+  return concatenar(partes,saida)
+
 def preparar(url):
   from PIL import Image
   hoje=datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).strftime('%Y-%m-%d')
@@ -102,8 +141,11 @@ def preparar(url):
         vids=[u for u in (d.get('videos_url') or []) if u] or [d.get('video_url') or d['midia_url']]
         a=baixar(d['arte_reels'],f'{tmp}/{i}_arte.png')
         if len(vids)>1:
-          # Vários vídeos (Israel, 18/11/2026): um Reels só, com um pedaço de cada um, em sequência, corte seco.
-          v=juntar_videos([baixar(u,f'{tmp}/{i}_video{k}') for k,u in enumerate(vids)],f'{tmp}/{i}_juntos.mp4')
+          # Vários vídeos (Israel, 24/11/2026): o robô OUVE cada vídeo e monta um Reels só com as FALAS PRINCIPAIS
+          # de cada um (frases inteiras, nunca cortando fala no meio), enquadrando quem fala. Ver "VÁRIOS VÍDEOS" no REGRAS.md.
+          arqs=[baixar(u,f'{tmp}/{i}_video{k}') for k,u in enumerate(vids)]
+          v=montar_varios(i,arqs,f'{tmp}/{i}_juntos.mp4')
+          if not v: continue
           it['videos']=len(vids)
         else:
           v=baixar(vids[0],f'{tmp}/{i}_video')
