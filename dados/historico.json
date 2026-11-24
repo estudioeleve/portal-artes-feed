@@ -69998,5 +69998,61 @@
   "fonte": "Mega Cidade",
   "arte": "artes/2026-11-24/171358_30.jpg",
   "media_id": "18018647933976517"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "18:16",
+  "id": "181421_129",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Enxurrada azul assusta moradores do Concórdia, em BH; Copasa diz que era tinta levada pela chuva",
+  "titulo_orig": "Enxurrada azul chama a atenção de moradores no bairro Concórdia, em BH",
+  "link": "https://pordentrodeminas.com.br/noticias/gerais/2026/11/enxurrada-azul-chama-a-atencao-de-moradores-no-bairro-concordia-em-bh/",
+  "fonte": "Por Dentro de Minas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "18:16",
+  "id": "181436_5",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "DNIT interdita totalmente a Ponte Torta, na BR-265, em Carmo do Rio Claro, de 30 de novembro a 18 de dezembro",
+  "titulo_orig": "DNIT alerta para interdição total da Ponte Torta, na BR-265/MG, de 30 de novembro a 18 de dezembro",
+  "link": "https://www.gov.br/dnit/pt-br/central-de-conteudos/noticias-alerta-de-servicos/dnit-alerta-para-interdicao-total-da-ponte-torta-na-br-265-mg-de-30-de-novembro-a-18-de-dezembro",
+  "fonte": "www.gov.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "18:16",
+  "id": "181440_39",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo de Minas rebate vice eleito Falcão e mantém previsão de rombo de R$ 10,5 bilhões para 2027",
+  "titulo_orig": "Governo de Minas rebate vice eleito sobre rombo para 2027",
+  "link": "https://www.n3news.com.br/2026/11/governo-de-minas-rebate-vice-eleito-sobre-rombo-para-2027",
+  "fonte": "www.n3news.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "18:16",
+  "id": "181447_170",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Crânio é retirado de sepultura em cemitério de Perdões, no Sul de Minas, e Polícia Civil abre inquérito",
+  "titulo_orig": "Crânio é retirado de sepultura e caso mobiliza polícia em cidade no interior de MG | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/cranio-e-retirado-de-sepultura-e-caso-mobiliza-policia-em-cidade-no-interior-de-mg/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
