@@ -679,3 +679,4 @@
 2026-11-23 22:42 - Rodada de denúncias: A e C vazias; B com 7626 e 9406 (seguem seguradas para o Israel decidir: endereço com número no relato; 7626 também com relato repetido/embaralhado). Não postadas nem marcadas.
 2026-11-23 22:57 - 7626 e 9406 postadas no Instagram a pedido do Israel (Windsor, sem collab; painel 'too many actions'). Israel avisou que eram denúncias antigas e pediu para apagar do site: o robô não tem como apagar matéria do site (a API só tem titulo/postada/capa) — apagar pelo WordPress.
 2026-11-23 23:29 painel: too many actions em 231047_44 (Bolsonaro pneumonia) -> saiu pelo Windsor SEM COLLAB @portallpolitica
+2026-11-23 23:47 painel bloqueado (too many actions) em 231312_279 (13º lojista) -> saiu pelo Windsor SEM COLLAB @portallcomercio
