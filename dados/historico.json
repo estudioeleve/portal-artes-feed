@@ -67926,5 +67926,19 @@
   "fonte": "Exame",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "23:29",
+  "id": "231047_44",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Bolsonaro é diagnosticado com pneumonia e segue internado na UTI, sem previsão de alta",
+  "titulo_orig": "Bolsonaro é diagnosticado com pneumonia e continuará internado",
+  "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/bolsonaro-e-diagnosticado-com-pneumonia-e-continuara-internado",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-23/231047_44.jpg",
+  "media_id": "18103990463059888"
  }
 ]
