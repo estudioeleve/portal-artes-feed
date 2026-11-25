@@ -772,3 +772,4 @@
 25/11/2026 19:28 painel: too many actions (API Meta sem chave); 192326_39 saiu pelo Windsor (moldura one, sem collab necessária)
 25/11/2026 19:36 192536_51 saiu pelo Windsor COM collaborators=@portallpolitica (painel bloqueado: too many actions)
 25/11/2026 20:30 202254_198 (Santa Luzia, PF ex-secretário) painel bloqueado (too many actions) -> Windsor COM collaborators=@portaluziense (media 18128268157907146)
+25/11/2026 20:39 203019_sta (Black Friday CDL, Comércio) painel bloqueado -> Windsor COM collaborators=@portallcomercio (media 18076110020765393)
