@@ -71902,5 +71902,19 @@
   "fonte": "Terra",
   "arte": "artes/2026-11-25/091429_24.jpg",
   "media_id": "18084292802373179"
+ },
+ {
+  "id": "denuncia_10462",
+  "data": "2026-11-25",
+  "hora": "09:42",
+  "media_id": "17970368301078051",
+  "titulo": "Denúncia do leitor OC-2026-10462 (Frimisa, sem áudio a pedido do Israel)",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:10462",
+  "arte": "dados/reels/den-10462.mp4"
  }
 ]
