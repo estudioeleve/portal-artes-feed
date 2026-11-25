@@ -1,17 +1,5 @@
 [
  {
-  "id": "201505_264",
-  "data": "2026-11-23T20:18:20-03:00",
-  "titulo": "Bloco Quando Come Se Lambuza anuncia corrida de rua com trio elétrico na Avenida dos Andradas",
-  "linha_fina": "Prova terá percursos de 5 km e 10 km em 25 de abril de 2027, com programação de Carnaval depois da largada.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O bloco Quando Come Se Lambuza, um dos maiores coletivos do Carnaval de Belo Horizonte, anunciou nesta segunda-feira (23) que vai promover uma corrida de rua com programação carnavalesca na capital mineira. O evento está previsto para o dia 25 de abril de 2027, na Avenida dos Andradas.</p>\n<p>A prova terá dois percursos, de 5 km e de 10 km. Depois da corrida, os participantes poderão aproveitar uma programação festiva, com trio elétrico, show e apresentação do próprio bloco, levando o clima da folia para fora do período de Carnaval.</p>\n<p>Detalhes como valor e abertura das inscrições, kit do atleta, horário de largada e trajeto completo ainda serão divulgados pela organização.</p>\n<p>O Quando Come Se Lambuza, conhecido pela sigla QCSL, surgiu em 2014, durante a comemoração do aniversário de seu fundador, André Álvares. Ele já atuava como mestre de bateria em outros blocos e decidiu organizar uma festa de pré-carnaval para celebrar a data.</p>\n<p>Conhecido pelo apelido de Melado, o empresário procurava um nome para a festa quando um amigo lembrou do ditado popular \"quem nunca comeu melado, quando come se lambuza\". A brincadeira deu nome ao evento, que foi divulgado nas redes sociais e surpreendeu ao reunir mais de mil pessoas no bairro Santa Efigênia.</p>\n<p>De lá para cá, o bloco cresceu e passou a arrastar multidões pelas ruas da cidade, tornando-se uma das marcas do Carnaval de BH. A corrida é mais uma aposta do coletivo para movimentar o público ao longo do ano, unindo esporte e festa.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/201505_264.jpg",
-  "credito_foto": "Foto: Reprodução/BHAZ",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "201508_29",
   "data": "2026-11-23T20:18:20-03:00",
   "titulo": "Atlético se reapresenta com escolta armada na porta da Cidade do Galo após vice da Sul-Americana",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/192556_130.jpg",
   "credito_foto": "Dani Ferreira/Divulgação",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "192939_141",
+  "data": "2026-11-25T19:29:52-03:00",
+  "titulo": "Comissão da Câmara aprova carga mínima de duas horas semanais de filosofia e sociologia no ensino médio",
+  "linha_fina": "Projeto exige as disciplinas em todas as séries, com professores licenciados na área; texto segue para o plenário e depois para o Senado.",
+  "categoria": "educacao",
+  "texto": "<p>A Comissão de Educação da Câmara dos Deputados aprovou nesta quarta-feira (25) o projeto de lei que torna obrigatória a oferta de filosofia e sociologia em todas as séries do ensino médio, com carga mínima de duas horas semanais, em média, para cada disciplina.</p>\n<p>As duas matérias viraram optativas com a implantação do Novo Ensino Médio, em 2017. Em julho de 2024, a Lei 14.945 voltou a exigir a oferta, mas não definiu carga horária mínima, lacuna que, segundo especialistas, travava na prática a volta das disciplinas às salas de aula.</p>\n<p>O PL 1466/2026 também exige que os professores tenham licenciatura específica na área. A relatora, deputada Maria do Rosário (PT-RS), afirmou que filosofia e sociologia favorecem a análise crítica da realidade, a formação ética e a consciência social.</p>\n<p>O texto teve apoio de mais de 420 entidades ligadas à educação e foi aprovado sem votos contrários. Agora, segue para o plenário da Câmara e, se aprovado, vai ao Senado.</p>\n<p>Durante a votação, a deputada Luciene Cavalcante (PSOL-SP) lembrou que cerca de 30% das questões dos principais vestibulares e do Enem envolvem conteúdos das duas áreas. As disciplinas já haviam deixado de ser obrigatórias durante a ditadura militar, voltaram a ser exigidas em 2008 e se tornaram optativas novamente em 2017.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/192939_141.jpg",
+  "credito_foto": "Lula Marques/Agência Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
