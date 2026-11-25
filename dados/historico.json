@@ -70894,5 +70894,33 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-24/221129_4.jpg",
   "media_id": "18136514794815422"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "22:19",
+  "id": "221930_153",
+  "bloco": "minas",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Governo de Minas propõe 2023 como ano-base do teto de gastos exigido pelo Propag",
+  "titulo_orig": "O que diz substitutivo ao teto de gastos do Propag enviado pelo governo à ALMG",
+  "link": "https://ofator.com.br/informacao/o-que-diz-substitutivo-ao-teto-de-gastos-do-propag-enviado-pelo-governo-a-almg/",
+  "fonte": "O Fator",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "22:19",
+  "id": "221934_159",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "PSD pode ter pelo menos três ministérios no próximo governo Lula, e Kassab é cotado para Cidades",
+  "titulo_orig": "PSD pode ter pelo menos três ministérios no governo Lula | Blogs | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/blogs/edilene-lopes/politica/psd-pode-ter-pelo-menos-tres-ministerios-no-governo-lula/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
