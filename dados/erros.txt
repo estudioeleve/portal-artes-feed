@@ -763,3 +763,4 @@
 2026-11-25 17:19 171151_218 (IFMG Santa Luzia, Luziense): painel 'too many actions' -> Windsor COM collaborators=@portaluziense (media 17962738104267109)
 2026-11-25 17:36 171210_208 (baixo risco, Comércio): painel bloqueado (too many actions) -> Windsor COM collaborators=@portallcomercio (media 17972820930190186)
 2026-11-25 17:53 171306_108 (passe livre ALMG, Política): painel bloqueado -> Windsor COM collaborators=@portallpolitica (media 18149552581582960)
+2026-11-25 17:54 175400_israel (vacinação São Benedito, pedido do Israel, Luziense): Windsor COM collaborators=@portaluziense (media 18120974758791854)
