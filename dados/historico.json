@@ -72910,5 +72910,33 @@
   "fonte": "Jornal Voz Ativa",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "18:23",
+  "id": "182316_59",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "SAÚDE",
+  "titulo": "Senado aprova lei que oficializa a Força Nacional do SUS, que atuou em Mariana e Brumadinho; texto vai à sanção",
+  "titulo_orig": "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção",
+  "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao",
+  "fonte": "Senado",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "18:23",
+  "id": "182322_214",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "CCJ do Senado aprova registro obrigatório de motéis no Cadastur, o que abre acesso a crédito e programas do Turismo",
+  "titulo_orig": "CCJ aprova registro de motéis como meio de hospedagem no Ministério do Turismo",
+  "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/ccj-aprova-registro-de-moteis-como-meio-de-hospedagem-no-ministerio-do-turismo",
+  "fonte": "Senado",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
