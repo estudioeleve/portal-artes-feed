@@ -73288,5 +73288,33 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-25/202254_198.jpg",
   "media_id": "18128268157907146"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "20:31",
+  "id": "203129_153",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Baile da Kingdom comemora 5 anos com line-up só de mulheres e de graça no Viaduto Santa Tereza neste sábado",
+  "titulo_orig": "Baile da Kingdom gratuito com line feminino abre exposição no Viaduto Santa Tereza",
+  "link": "https://bhaz.com.br/noticias/baile-da-kingdom-gratuito-exposicao-bh/",
+  "fonte": "bhaz.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "20:31",
+  "id": "203134_172",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "BH ensina oito cidades mineiras, entre elas São José da Lapa, a fiscalizar fumaça preta de veículos",
+  "titulo_orig": "Referência no combate à poluição veicular, Fiscalização da PBH capacita oito municípios mineiros",
+  "link": "https://prefeitura.pbh.gov.br/noticias/referencia-no-combate-poluicao-veicular-fiscalizacao-da-pbh-capacita-oito-municipios",
+  "fonte": "Prefeitura de Belo Horizonte",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
