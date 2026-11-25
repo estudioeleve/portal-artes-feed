@@ -1,17 +1,5 @@
 [
  {
-  "id": "081917_para",
-  "data": "2026-11-23T08:22:24-03:00",
-  "titulo": "PF identifica seis dos nove migrantes africanos achados mortos em barco à deriva no Pará",
-  "linha_fina": "Piroga saiu da Mauritânia rumo às Ilhas Canárias em janeiro de 2024, perdeu motor e leme e cruzou cerca de 4 mil km até o litoral de Bragança.",
-  "categoria": "brasil",
-  "texto": "<p>Peritos da Polícia Federal identificaram 6 dos 9 corpos encontrados em um barco à deriva no litoral de Bragança, no Pará, em abril de 2024. As vítimas eram migrantes africanos, da Mauritânia e do Mali, que tentavam chegar à Espanha. O trabalho foi feito em parceria com a agência Associated Press e com o Fantástico, da TV Globo, que exibiu reportagem sobre o caso no domingo (22).</p><p>A embarcação, uma piroga artesanal de pesca, partiu da cidade portuária de Nouadhibou, no norte da Mauritânia, em 23 de janeiro de 2024. O destino eram as Ilhas Canárias, arquipélago espanhol na costa africana, por uma rota usada por migrantes em busca de trabalho na Europa.</p><p>No caminho, o barco perdeu o motor e o leme e ficou sem controle. Levado por ventos e correntes, percorreu cerca de 4 mil quilômetros pelo Atlântico durante quase três meses. Pescadores paraenses o avistaram em 13 de abril de 2024: oito corpos estavam dentro da piroga e um nono boiava ao lado.</p><p>Para chegar aos nomes, os investigadores cruzaram pistas achadas no barco, como documentos, anotações à mão e celulares danificados, com registros de desaparecidos na África. Uma jornalista da AP e um perito odontolegal da PF viajaram à Mauritânia e percorreram mais de 1.500 quilômetros para coletar amostras de saliva de parentes e comparar o DNA. Ao todo, foram ouvidas 35 pessoas de 29 famílias, seguindo protocolos da Interpol.</p><p>Para as famílias, que passaram mais de dois anos sem notícias, a confirmação trouxe uma resposta. Um dos pais ouvidos pela reportagem disse que, embora dolorosa, a notícia permitiu enfim encerrar a espera. Três corpos ainda não foram identificados.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/081917_para.jpg",
-  "credito_foto": "Reprodução/TV Globo",
-  "fonte": "O Tempo e g1",
-  "resumos": ""
- },
- {
   "id": "081744_90",
   "data": "2026-11-23T08:22:24-03:00",
   "titulo": "Nikolas tenta influenciar eleição da Câmara de BH, mas dois vereadores do PL resistem",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/231207_0.jpg",
   "credito_foto": "Reprodução/Redes Sociais (via Jornal da Região)",
   "fonte": "Jornal da Região",
+  "resumos": ""
+ },
+ {
+  "id": "231201_26",
+  "data": "2026-11-24T23:13:49-03:00",
+  "titulo": "Fachin autoriza pai de Vorcaro a deixar presídio em Contagem para fazer exames médicos",
+  "linha_fina": "Henrique Vorcaro, preso na Nelson Hungria, vai fazer exames sob escolta; prisão preventiva continua valendo.",
+  "categoria": "regiao-metropolitana",
+  "texto": "<p>O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, autorizou nesta terça-feira (24) que Henrique Moura Vorcaro, pai de Daniel Vorcaro, ex-controlador do Banco Master, deixe o Complexo Penitenciário Nelson Hungria, em Contagem, na Grande BH, para fazer exames médicos. A informação foi publicada pelo g1.</p><p>A autorização vale para os exames complementares prescritos pelo médico que acompanha Henrique Vorcaro, caso ainda estejam pendentes. A prisão preventiva dele continua em vigor. Pela decisão, a direção do presídio deve organizar o deslocamento sob escolta e informar ao Supremo, em até 24 horas, o que foi feito para cumprir a ordem.</p><p>De acordo com a defesa, Henrique Vorcaro foi levado a uma Unidade de Pronto Atendimento (UPA) em 10 de agosto com sintomas de uma possível crise de diverticulite, inflamação na parede do intestino grosso. Ele voltou ao presídio com antibióticos e analgésicos e, segundo os advogados, teve melhora aparente.</p><p>Os advogados afirmam que pediram à direção da unidade uma consulta com o médico que já o acompanhava, por causa do histórico de crises. Nesse meio tempo, o médico prescreveu exames complementares em 21 de agosto, e a defesa pediu ao STF, três dias depois, que autorizasse a saída para fazê-los.</p><p>A Procuradoria-Geral da República (PGR) disse que a avaliação médica anexada ao processo não apontava urgência, mas se manifestou a favor da saída, desde que respeitadas as regras de segurança do presídio.</p><p>Na decisão, Fachin registrou que o Supremo pediu à direção da Nelson Hungria, em 5 de novembro, informações sobre o estado de saúde do preso, o atendimento prestado, os remédios e as providências para os exames. O pedido foi repetido nos dias 18 e 23 e, segundo o ministro, continuava sem resposta quando ele autorizou a saída.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/231201_26.jpg",
+  "credito_foto": "Reprodução/Redes sociais (via g1)",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
