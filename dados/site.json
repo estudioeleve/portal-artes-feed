@@ -1,17 +1,5 @@
 [
  {
-  "id": "112052_85",
-  "data": "2026-11-23T11:25:25-03:00",
-  "titulo": "Rede Gurumê vai abrir seu primeiro restaurante em BH em 2027, no rooftop do Botânico Shopping",
-  "linha_fina": "Restaurante de culinária japonesa contemporânea terá 180 lugares no Belvedere, com vista para a Serra do Curral.",
-  "categoria": "comercio",
-  "texto": "<p>Belo Horizonte vai receber no primeiro semestre de 2027 a primeira unidade do Gurumê na capital mineira. O restaurante de gastronomia japonesa contemporânea vai ocupar o rooftop do Botânico Shopping, no bairro Belvedere, região Centro-Sul.</p><p>O espaço terá capacidade para 180 pessoas e vista para a Serra do Curral. Hoje, a rede tem mais de dez restaurantes no Rio de Janeiro, em Niterói, em São Paulo e em Brasília.</p><p>A cozinha é comandada pelos chefs executivos Daiti Ieda e Renato Araújo, com cardápio de pratos frios e quentes, receitas reinterpretadas e criações próprias.</p><p>Antes da inauguração, a equipe de Belo Horizonte vai passar por um mês de treinamento intensivo, envolvendo profissionais da cozinha, do salão e do bar. A chegada de uma rede de fora reforça o movimento de novos investimentos no setor de bares e restaurantes da capital, que deve abrir vagas de trabalho com a nova unidade.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/112052_85.jpg",
-  "credito_foto": "Divulgação",
-  "fonte": "Maior Viagem",
-  "resumos": ""
- },
- {
   "id": "112049_55",
   "data": "2026-11-23T11:25:25-03:00",
   "titulo": "Anvisa manda recolher xampu anticaspa em barra vendido com indicação para uso em crianças",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/071219_15.jpg",
   "credito_foto": "Reprodução/Instagram",
   "fonte": "O Globo",
+  "resumos": ""
+ },
+ {
+  "id": "071830_17",
+  "data": "2026-11-25T07:20:44-03:00",
+  "titulo": "Autor do massacre de Fort Hood pede à Justiça para suspender execução por fuzilamento marcada para 3 de dezembro",
+  "linha_fina": "Nidal Hasan matou 13 pessoas em base militar dos EUA em 2009; se executado, será o primeiro fuzilado pelo Exército americano desde 1945.",
+  "categoria": "mundo",
+  "texto": "<p>Nidal Hasan, ex-major do Exército dos Estados Unidos condenado à morte pelo massacre de 2009 na base militar de Fort Hood, no Texas, pediu na terça-feira (24) a um tribunal federal a suspensão da sua execução por fuzilamento, marcada para 3 de dezembro. A informação consta de documentos obtidos por agências de notícias internacionais.</p>\n<p>O pedido foi apresentado a um tribunal federal em Topeka, no Kansas. Hasan, que era psiquiatra militar, quer adiar a execução enquanto prepara a argumentação para contestar a condenação com base em fundamentos constitucionais. O juiz Anthony Mattivi marcou uma audiência para analisar o pedido na manhã desta quarta-feira (25).</p>\n<p>Se a execução for confirmada, Hasan será a primeira pessoa executada por um pelotão de fuzilamento militar nos Estados Unidos desde 1945.</p>\n<p>O caso voltou ao noticiário americano no início de outubro, quando o governo Donald Trump anunciou planos de transmitir a execução ao vivo pela internet. O secretário de Defesa, Pete Hegseth, chegou a dizer que a execução seria \"pública\", o que provocou críticas dentro e fora do país sobre a possibilidade de transformar a pena de morte em espetáculo.</p>\n<p>Depois de dias de debate, Trump cancelou a transmissão, mas autorizou a presença de algumas testemunhas.</p>\n<p>No ataque de novembro de 2009, Hasan matou 13 pessoas, 12 delas soldados, e feriu outras 30 na base de Fort Hood, um dos piores ataques já registrados dentro de uma instalação militar americana.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/071830_17.jpg",
+  "credito_foto": "Bell County Sheriff's Office/Reuters",
+  "fonte": "g1",
   "resumos": ""
  }
 ]
