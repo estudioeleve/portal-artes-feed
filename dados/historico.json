@@ -72308,5 +72308,33 @@
   "fonte": "Senado",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "12:23",
+  "id": "122301_50",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ministro do Planejamento diz que novas medidas fiscais vão preservar gastos sociais, por ordem de Lula",
+  "titulo_orig": "Premissa de Lula é não afetar gastos sociais, diz ministro do Planejamento sobre novas medidas",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/premissa-de-lula-e-nao-afetar-gastos-sociais-diz-ministro-do-planejamento-sobre-novas-medidas.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "12:23",
+  "id": "122306_62",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Lei Benício: Senado aprova regras de segurança no atendimento de crianças em hospitais, e projeto vai à Câmara",
+  "titulo_orig": "Regras de segurança no atendimento pediátrico vão à Câmara",
+  "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/regras-de-seguranca-no-atendimento-pediatrico-vao-a-camara",
+  "fonte": "Senado",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
