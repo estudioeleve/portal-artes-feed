@@ -1,17 +1,5 @@
 [
  {
-  "id": "162143_70",
-  "data": "2026-11-23T16:24:11-03:00",
-  "titulo": "Minas Reurb: Governo de Minas faz audiências públicas de regularização fundiária em cinco cidades",
-  "linha_fina": "Encontros em Campo do Meio, Cônego Marinho, Lontra, Igaratinga e Arcos apresentaram o programa às famílias beneficiadas.",
-  "categoria": "minas-gerais",
-  "texto": "<p>O Governo de Minas, por meio da Secretaria de Desenvolvimento Econômico (Sede-MG), fez em dez dias uma série de audiências públicas sobre o programa Minas Reurb, de regularização fundiária urbana, em cinco municípios do estado.</p><p>Os encontros foram em Campo do Meio (9/11), no Sul de Minas; Cônego Marinho (10/11) e Lontra (11/11), no Norte; Igaratinga (17/11) e Arcos (18/11), no Centro-Oeste. Em média, houve uma audiência a cada dois dias.</p><p>Participaram moradores de Núcleos Urbanos Informais indicados pelas prefeituras. A audiência pública é um dos requisitos do programa e faz parte da etapa de identificação do núcleo e instauração da Reurb.</p><p>A regularização fundiária permite que famílias que vivem em áreas sem documentação recebam o título do imóvel, o que dá segurança jurídica, valoriza a moradia e facilita o acesso a crédito e a serviços públicos.</p><p>Segundo a Sede-MG, as audiências servem para explicar às famílias como o programa funciona, quais documentos são necessários e quais são os próximos passos até a entrega dos títulos.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/162143_70.jpg",
-  "credito_foto": "Ana Torres/Sede-MG",
-  "fonte": "Sede-MG",
-  "resumos": ""
- },
- {
   "id": "162152_176",
   "data": "2026-11-23T16:24:11-03:00",
   "titulo": "Comércio de Patrocínio terá horário estendido no Natal, com lojas abertas até 22h antes da data",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/161404_190.jpg",
   "credito_foto": "Foto: Reprodução/Diário do Comércio",
   "fonte": "Diário do Comércio",
+  "resumos": ""
+ },
+ {
+  "id": "161348_92",
+  "data": "2026-11-25T16:19:17-03:00",
+  "titulo": "Defesa Civil de Pedro Leopoldo discute impactos do El Niño em encontro da Granbel",
+  "linha_fina": "Reunião com municípios da Grande BH tratou de riscos de chuva intensa e estiagem e de estratégias de prevenção",
+  "categoria": "pedro-leopoldo",
+  "texto": "<p>A Defesa Civil de Pedro Leopoldo participou de uma reunião promovida pela Associação dos Municípios da Região Metropolitana de Belo Horizonte (Granbel) para discutir o fenômeno climático El Niño e os possíveis reflexos dele ao longo dos próximos meses.</p>\n<p>O encontro reuniu representantes de diferentes cidades e profissionais de Defesa Civil, que trataram dos impactos que o fenômeno pode provocar, principalmente em relação aos riscos de chuvas intensas e de períodos de estiagem.</p>\n<p>O coordenador municipal da Defesa Civil representou Pedro Leopoldo. Também participaram o prefeito de Florestal e vice-presidente da Granbel, Wagner dos Santos; o coronel Godinho, presidente do Fórum de Defesa Civil da Granbel e coordenador da Defesa Civil de Sabará; e Suellen Reis, coordenadora da Defesa Civil de Betim.</p>\n<p>Segundo a Prefeitura de Pedro Leopoldo, a participação reforça a importância da integração entre os municípios, da troca de informações técnicas e do planejamento antecipado para enfrentar eventos climáticos. A ideia é fortalecer as ações de prevenção, monitoramento e preparação.</p>\n<p>O período chuvoso já provocou ocorrências em várias cidades da Grande BH nas últimas semanas. Em situações de risco, como alagamentos, deslizamentos ou queda de árvores, a orientação é acionar a Defesa Civil pelo 199 ou o Corpo de Bombeiros pelo 193.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/161348_92.jpg",
+  "credito_foto": "Foto: Reprodução/Prefeitura de Pedro Leopoldo",
+  "fonte": "Prefeitura de Pedro Leopoldo",
   "resumos": ""
  }
 ]
