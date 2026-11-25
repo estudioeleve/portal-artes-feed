@@ -71258,5 +71258,19 @@
   "fonte": "Diário do Comércio",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "06:26",
+  "id": "061116_19",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Rua do bairro Vista Alegre, em BH, vai ganhar o nome do gari Laudemir, morto a tiros em 2025",
+  "titulo_orig": "Rua de BH ganha nome de gari assassinado no Bairro Vista Alegre",
+  "link": "https://rede98.com.br/noticias/bh-regiao/rua-de-bh-ganha-nome-de-gari-assassinado-no-bairro-vista-alegre/",
+  "fonte": "Rede 98",
+  "arte": "artes/2026-11-25/061116_19.jpg",
+  "media_id": "18110059361128138"
  }
 ]
