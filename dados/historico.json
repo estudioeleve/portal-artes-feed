@@ -71692,5 +71692,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-25/081134_2.jpg",
   "media_id": "18438634054198153"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "08:53",
+  "id": "081152_133",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Globo confirma estreia de \"Avenida Brasil 2\" para 25 de janeiro, noite do aniversário de São Paulo",
+  "titulo_orig": "Outro Canal: Globo define estreia de 'Avenida Brasil 2' para noite do aniversário de São Paulo",
+  "link": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/globo-define-estreia-de-avenida-brasil-2-para-noite-do-aniversario-de-sao-paulo.shtml",
+  "fonte": "UOL",
+  "arte": "artes/2026-11-25/081152_133.jpg",
+  "media_id": "18137839723663745"
  }
 ]
