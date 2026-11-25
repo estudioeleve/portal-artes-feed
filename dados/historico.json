@@ -71482,5 +71482,19 @@
   "fonte": "Brasil do Trecho",
   "arte": "artes/2026-11-25/071420_22.jpg",
   "media_id": "18472015282140983"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "07:46",
+  "id": "071225_67",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ministros do STF pressionam por novo sorteio do pedido de Vorcaro que caiu com Nunes Marques",
+  "titulo_orig": "Ministros do STF pressionam por nova distribuição de pedido de Vorcaro sobre relatoria do Master entregue a Nunes Marques",
+  "link": "https://oglobo.globo.com/politica/noticia/2026/11/25/ministros-do-stf-pressionam-por-nova-distribuicao-de-pedido-de-vorcaro-sobre-relatoria-do-master-entregue-a-nunes-marques.ghtml",
+  "fonte": "O GLOBO",
+  "arte": "artes/2026-11-25/071225_67.jpg",
+  "media_id": "18136095652744457"
  }
 ]
