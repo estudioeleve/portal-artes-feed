@@ -1,17 +1,5 @@
 [
  {
-  "id": "211137_46",
-  "data": "2026-11-23T21:15:15-03:00",
-  "titulo": "Ministério da Saúde começa a repassar R$ 200 milhões a 893 maternidades filantrópicas do SUS",
-  "linha_fina": "Valor sai em parcela única ainda este ano e varia de R$ 100 mil a R$ 400 mil, conforme o número de partos pelo SUS.",
-  "categoria": "saude",
-  "texto": "<p>O Ministério da Saúde informou que iniciou o repasse de R$ 200 milhões a maternidades de hospitais filantrópicos que atendem pacientes do Sistema Único de Saúde (SUS). Ao todo, 893 instituições serão beneficiadas.</p>\n<p>Os recursos têm como objetivo ampliar o atendimento a gestantes, puérperas e recém-nascidos. O valor será pago em parcela única ainda este ano, por meio do Fundo Nacional de Saúde (FNS), que envia o dinheiro aos fundos estaduais, distrital e municipais, responsáveis pela transferência às maternidades.</p>\n<p>A divisão leva em conta o número de partos feitos pelo SUS no ano passado. Instituições com 2 mil partos ou mais recebem R$ 400 mil; de 1 mil a 1.999 partos, R$ 300 mil; de 750 a 999, R$ 200 mil; e de 500 a 749, R$ 100 mil.</p>\n<p>O repasse faz parte do programa Agora Tem Especialistas, que prevê R$ 1 bilhão para Santas Casas e hospitais filantrópicos. Os R$ 800 milhões restantes serão pagos em duas parcelas, pelos serviços prestados por essas unidades, como cirurgias, internações, consultas, exames e tratamentos especializados.</p>\n<p>Segundo o ministério, um dos objetivos do programa é oferecer mais atendimentos especializados e reduzir a fila de espera por consultas, exames e cirurgias. Em 2025, as instituições filantrópicas receberam R$ 62,3 bilhões do SUS, quase três vezes o valor que seria pago apenas com base na Tabela SUS.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/211137_46.jpg",
-  "credito_foto": "Reuters/Jorge Silva",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "211033_31",
   "data": "2026-11-23T21:16:10-03:00",
   "titulo": "PM apreende 188 kg de flor de maconha avaliados em R$ 13 milhões no Triângulo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/202458_204.jpg",
   "credito_foto": "Getty Images via BBC",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "203019_sta",
+  "data": "2026-11-25T20:31:11-03:00",
+  "titulo": "Black Friday: consumidor de BH pretende gastar quase R$ 3 mil e a maioria quer pagar à vista",
+  "linha_fina": "Pesquisa da CDL/BH mostra tíquete médio 13,9% maior; eletrodomésticos lideram e 56,1% vão comprar em loja física.",
+  "categoria": "comercio",
+  "texto": "<p>Os consumidores de Belo Horizonte que pretendem aproveitar a Black Friday, marcada para esta sexta-feira (27), devem gastar em média R$ 2.936,58 nas compras. A estimativa é de uma pesquisa da Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH) e considera a compra de três produtos por pessoa, com valor médio de R$ 978,86 por item, aumento de 13,9% em relação ao ano passado.</p><p>Segundo o levantamento, 36,5% dos entrevistados pretendem aproveitar as promoções. Os eletrodomésticos lideram a preferência, citados por 39,7%, seguidos pelos eletrônicos (28,8%) e pelas roupas (19,2%).</p><p>A pesquisa também mostra preferência pelo pagamento à vista, escolhido por 56,2% dos participantes. O Pix aparece como a principal forma de pagamento, o que indica uma tendência de compras sem parcelamento.</p><p>Para o vice-presidente da CDL/BH, Fernando Cardoso, a expectativa é positiva, já que todas as principais datas comerciais de 2026 tiveram desempenho superior ao de 2025. Segundo ele, a Black Friday integra o chamado supertrimestre do varejo, que começa no Dia das Crianças e termina no Natal, e tem um dos maiores tíquetes médios do calendário, porque muita gente aproveita para comprar itens de maior valor para uso próprio.</p><p>Apesar do avanço das vendas pela internet, 56,1% dos consumidores pretendem fazer pelo menos parte das compras em lojas físicas, e 89% vão pesquisar preços antes. Para o lojista, a dica é deixar descontos e condições de pagamento bem claros na vitrine e nas redes sociais. A pesquisa ouviu 200 consumidores entre 7 e 9 de outubro, com margem de erro de 6,9 pontos percentuais.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/203019_sta.jpg",
+  "credito_foto": "Ilustrativa/Maravilha News",
+  "fonte": "CDL/BH",
   "resumos": ""
  }
 ]
