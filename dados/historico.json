@@ -72588,5 +72588,19 @@
   "fonte": "R7",
   "arte": "artes/2026-11-25/161249_42.jpg",
   "media_id": "17963858514256103"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "17:00",
+  "id": "161303_55",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Covid volta a subir em BH: cidade soma 837 casos e 13 mortes em 2026, com positividade de 30%",
+  "titulo_orig": "Covid-19: BH soma 13 mortes e mais de 800 casos confirmados neste ano",
+  "link": "https://bhaz.com.br/noticias/bh-ultrapassa-800-casos-de-covid-e-chega-a-13-mortes-neste-ano/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-25/161303_55.jpg",
+  "media_id": "18213640930371837"
  }
 ]
