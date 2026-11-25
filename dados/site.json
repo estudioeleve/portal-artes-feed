@@ -1,17 +1,5 @@
 [
  {
-  "id": "132139_25",
-  "data": "2026-11-23T13:22:21-03:00",
-  "titulo": "Rua Sapucaí vira polo boêmio de BH e bares investem em reforma, cardápio e música ao vivo",
-  "linha_fina": "No bairro Floresta, bares tradicionais renovam espaços e apostam na cozinha mineira para atrair moradores e turistas.",
-  "categoria": "comercio",
-  "texto": "<p>A Rua Sapucaí, no bairro Floresta, consolidou o seu lugar como um dos principais polos boêmios e gastronômicos de Belo Horizonte. Perto do Viaduto Santa Tereza e beneficiada pelas intervenções urbanísticas na região central, a rua recebe um fluxo contínuo de moradores e turistas, e os bares tradicionais do endereço estão investindo para acompanhar esse movimento.</p><p>O Botequim Sapucaí é um dos exemplos. A casa passou por reformas para integrar os salões, agilizar o atendimento e instalar climatização, mas manteve as concorridas mesas na calçada, com vista para os prédios do Centro e para os murais de arte urbana que marcam a paisagem da rua.</p><p>A programação de música ao vivo, com apresentações regulares de choro, samba e MPB, ajuda a atrair quem procura a boemia mineira com mais conforto. No cardápio, a aposta é em ingredientes de Minas e em porções para compartilhar, como torresmo de barriga com molhos agridoces artesanais, bolinhos de mandioca recheados com queijos e carnes desfiadas, pastéis de angu, fígado acebolado com jiló e tábuas de queijos e frios de pequenos produtores.</p><p>O movimento constante de clientes também ajuda a economia da região central, com reflexo em outros negócios do entorno. Para o pequeno empreendedor do setor, o caso mostra a força de combinar estrutura confortável, identidade local e programação fixa para fidelizar o público.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/132139_25.jpg",
-  "credito_foto": "Reprodução/SouBH",
-  "fonte": "SouBH",
-  "resumos": ""
- },
- {
   "id": "132145_62",
   "data": "2026-11-23T13:22:21-03:00",
   "titulo": "Lojista: novembro é a última chance de montar a equipe do Natal sem decidir sob pressão",
@@ -4796,6 +4784,18 @@
   "texto": "<p>O governo de Donald Trump prepara uma nova rodada de tarifas contra 16 parceiros comerciais dos Estados Unidos, entre eles China e União Europeia, sob o argumento de que esses países produzem mercadorias em excesso e prejudicam a indústria americana. O anúncio é esperado ainda nesta semana.</p><p>Nesta quarta-feira (25), a China reagiu. \"A chamada sobrecapacidade é uma questão falsa, e a China se opõe ao uso desse argumento como pretexto para manipulação política\", afirmou o porta-voz do Ministério das Relações Exteriores, Guo Jiakun.</p><p>Segundo a agência Reuters e o jornal The Wall Street Journal, as novas cobranças são uma tentativa de reconstruir parte do tarifaço derrubado pela Suprema Corte americana em fevereiro. A investigação foi aberta em março com base na Seção 301 da Lei de Comércio de 1974 e envolve, além de China e União Europeia, países como Índia, Japão, Coreia do Sul, México e Vietnã. O Brasil não estaria entre os alvos desta vez.</p><p>Os percentuais e os produtos atingidos ainda não foram divulgados. México e Noruega provavelmente não terão novas tarifas de imediato, segundo a Reuters.</p><p>A medida coloca pressão sobre a trégua comercial entre Washington e Pequim, prevista para durar até 10 de janeiro. Pelos termos atuais, as tarifas adicionais do segundo mandato de Trump sobre produtos chineses estão limitadas a 20%.</p>",
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/091625_44.jpg",
   "credito_foto": "Foto: REUTERS/Carlos Barria",
+  "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "092020_27",
+  "data": "2026-11-25T09:20:33-03:00",
+  "titulo": "Suprema Corte do Iraque autoriza envio de tropas às fronteiras em meio a disputa por petróleo com o Curdistão",
+  "linha_fina": "Decisão vem um dia depois de o primeiro-ministro mandar o governo federal assumir passagens de fronteira e campos de petróleo controlados pelos curdos.",
+  "categoria": "mundo",
+  "texto": "<p>A Suprema Corte do Iraque autorizou o país a enviar tropas para as fronteiras internacionais, informou a televisão estatal iraquiana nesta quarta-feira (25). A decisão acontece em meio a uma disputa entre o governo central, em Bagdá, e a região semiautônoma do Curdistão pelo controle do petróleo.</p><p>Na terça-feira (24), o primeiro-ministro Ali al-Zaidi determinou que autoridades federais assumissem as passagens de fronteira administradas pelo Governo Regional do Curdistão (GRC) e orientou o Ministério do Petróleo a gerenciar campos que estavam sob segurança curda em quatro províncias. As ordens vieram depois de uma investigação sobre contrabando de petróleo na estatal North Oil Company.</p><p>A medida reabre uma briga antiga. Bagdá afirma que só a estatal SOMO pode exportar o petróleo bruto do país, mas durante anos o Curdistão exportou de forma independente por um oleoduto que chega ao porto de Ceyhan, na Turquia.</p><p>Em 2023, a Câmara de Comércio Internacional, em Paris, determinou que a Turquia pagasse ao Iraque cerca de 1,5 bilhão de dólares por exportações não autorizadas entre 2014 e 2018. O fluxo pelo oleoduto ficou suspenso por dois anos e meio e só foi retomado em setembro de 2025, com um acordo provisório pelo qual o Curdistão entrega o petróleo à SOMO.</p><p>Em outubro, o volume de petróleo iraquiano enviado a Ceyhan ficou em média em cerca de 370 mil barris por dia, segundo dados turcos. Turquia e Iraque negociam um acordo de longo prazo para o uso do oleoduto.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/092020_27.jpg",
+  "credito_foto": "Foto: Alaa Al-Marjani/Reuters",
   "fonte": "g1",
   "resumos": ""
  }
