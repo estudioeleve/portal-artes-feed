@@ -72168,5 +72168,47 @@
   "fonte": "Valor Econômico",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_10492",
+  "data": "2026-11-25",
+  "hora": "12:12",
+  "media_id": "18134336230793579",
+  "titulo": "Denúncia do leitor OC-2026-10492",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:10492",
+  "arte": "artes/denuncias/2026-11-25/denuncia_10492.jpg"
+ },
+ {
+  "id": "denuncia_9099",
+  "data": "2026-11-25",
+  "hora": "12:14",
+  "media_id": "17940928656408598",
+  "titulo": "Denúncia do leitor 9099",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:9099",
+  "arte": ""
+ },
+ {
+  "id": "denuncia_9098",
+  "data": "2026-11-25",
+  "hora": "12:15",
+  "media_id": "18076878599503504",
+  "titulo": "Denúncia do leitor 9098",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:9098",
+  "arte": ""
  }
 ]
