@@ -72952,5 +72952,19 @@
   "fonte": "Canal MyNews",
   "arte": "artes/2026-11-25/181722_2.jpg",
   "media_id": "17872343121663489"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "18:39",
+  "id": "181734_122",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Temporal arranca telhados, derruba fachada e inunda terminal rodoviário de Coronel Fabriciano",
+  "titulo_orig": "Coronel Fabriciano, no Vale do Aço, tem fortes chuvas e enchente nesta quarta",
+  "link": "https://bhaz.com.br/noticias/coronel-fabriciano-vale-do-aco-fortes-chuvas/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-25/181734_122.jpg",
+  "media_id": "18017153351977683"
  }
 ]
