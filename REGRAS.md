@@ -1,5 +1,11 @@
 # Robô de notícias do Portal ONE News: regras de cada rodada
 
+
+## POSTAGEM PELA API OFICIAL DA META (Israel, 25/11/2026 12h)
+- App "Robo Portal ONE" (portfólio portalonenews) + usuário do sistema RoboPortalONE. A chave fica no cofre do ambiente Default (Segredos de rede, graph.facebook.com) — nunca no repositório, nunca na conversa.
+- `robo/publicar.py` agora tenta 1º a API da Meta (collab funciona em foto, carrossel E Reels) e só se ela não responder usa o painel; o Windsor continua como último recurso (Reels pelo Windsor saem SEM collab).
+- Limite do Instagram: 100 posts em 24h por perfil, somando Meta, painel e Windsor (erro 2207042). Post feito à mão no app não conta.
+
 ## ⛔ COMANDOS QUE NÃO PEDEM PERMISSÃO (Israel, 03/11/2026: "toda hora esse pedido de permissão... para com os atrasos nas postagens")
 - **Nunca usar mais de um `cd` no mesmo comando Bash**: isso abre um pedido de permissão e atrasa os posts. Use `git -C <pasta>` e caminhos absolutos, ou entre na pasta uma vez só, em um comando separado.
 - **Testado em 03/11/2026 13h30**: o comando único de abertura (`if ... git clone ... else ... fi; git config ...`), mesmo sem `cd`, abriu pedido de permissão nas 2 vezes em que rodou (21 minutos perdidos). `fetch`, `checkout -B` e `config` em comandos simples e separados não abriram. Sincronize sempre com comandos simples, um por chamada.
