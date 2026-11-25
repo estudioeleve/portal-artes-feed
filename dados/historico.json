@@ -71874,5 +71874,19 @@
   "fonte": "www.agenciaminas.mg.gov.br",
   "arte": "artes/2026-11-25/091440_12.jpg",
   "media_id": "18049547603831646"
+ },
+ {
+  "id": "denuncia_10373_carrossel",
+  "data": "2026-11-25",
+  "hora": "09:33",
+  "media_id": "18135643777829534",
+  "titulo": "Denúncia do leitor OC-2026-10373 (repost em carrossel com 3 fotos, a pedido do Israel)",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal ONE News",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:10373",
+  "arte": "artes/denuncias/2026-11-25/denuncia_10373_2.jpg"
  }
 ]
