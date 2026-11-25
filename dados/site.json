@@ -1,17 +1,5 @@
 [
  {
-  "id": "081915_tivo",
-  "data": "2026-11-23T08:21:02-03:00",
-  "titulo": "Pais criticam PBH por mudar alunos de escola sem diálogo e tema vai a audiência na Câmara",
-  "linha_fina": "Prefeitura quer separar escolas de anos iniciais e finais em 2027; famílias e sindicato reclamam de falta de conversa. Audiência será na quinta (26).",
-  "categoria": "educacao",
-  "texto": "<p>A reorganização do atendimento nas escolas municipais de Belo Horizonte tem gerado insegurança entre pais de alunos. A Prefeitura (PBH) pretende fazer com que algumas unidades passem a atender somente os anos iniciais do ensino fundamental (1º ao 5º ano), enquanto outras ficariam apenas com os anos finais (6º ao 9º ano), a partir do ano letivo de 2027.</p><p>Para colocar o plano em prática, estudantes estão sendo transferidos de escola. Segundo reportagem de O Tempo, famílias afirmam que foram informadas da mudança por comunicado, sem uma conversa prévia com a comunidade escolar, e temem os efeitos na rotina dos filhos.</p><p>Uma das mães ouvidas pelo jornal, educadora infantil e mãe de três crianças matriculadas na rede, contou que os filhos mais novos, que hoje estudam na mesma escola, ficarão separados no ano que vem. Ela também se diz preocupada com a qualidade do ensino e com a perda da estrutura que a escola atual oferece, como professores de apoio e espaços de lazer adaptados.</p><p>A diretoria do Sindicato dos Trabalhadores em Educação da Rede Pública Municipal de BH (SindRede-BH) critica a medida e afirma que ela faz parte de um processo de desvalorização da rede pública na capital.</p><p>Procurada, a PBH informou que as mudanças têm caráter pedagógico e buscam adequar o atendimento às características e necessidades de cada faixa etária.</p><p>O tema será discutido em uma audiência pública na Câmara Municipal de Belo Horizonte, marcada para a próxima quinta-feira (26). Pais, professores e representantes da Secretaria Municipal de Educação devem participar do debate.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/081915_tivo.jpg",
-  "credito_foto": "Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "081917_para",
   "data": "2026-11-23T08:22:24-03:00",
   "titulo": "PF identifica seis dos nove migrantes africanos achados mortos em barco à deriva no Pará",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/221934_159.jpg",
   "credito_foto": "Carlos Moura/Agência Senado",
   "fonte": "CNN Brasil",
+  "resumos": ""
+ },
+ {
+  "id": "231207_0",
+  "data": "2026-11-24T23:13:40-03:00",
+  "titulo": "Antônio Carlos Arantes recusa convite de Cleitinho e não vai assumir a Secretaria de Governo",
+  "linha_fina": "Deputado do PL diz que a presidência estadual do partido exige dedicação integral; governador eleito segue em busca de nome.",
+  "categoria": "politica",
+  "texto": "<p>O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), vai precisar encontrar outro nome para comandar a Secretaria de Estado de Governo a partir de janeiro de 2027. O deputado estadual Antônio Carlos Arantes (PL), que havia sido convidado para a função, recusou o convite, segundo o Jornal da Região.</p><p>Arantes tomou posse nesta semana como presidente estadual do Partido Liberal e alegou que não conseguiria conciliar o comando da legenda com as atribuições da secretaria. Mesmo assim, disse que continua à disposição do governador eleito para colaborar com a administração.</p><p>\"Fiquei lisonjeado pelo convite do governador e disse a ele que pode contar comigo na Assembleia. Mas falei que não conseguiria assumir a secretaria por causa do meu novo cargo no partido. Ficaria inviável tocar as duas coisas ao mesmo tempo\", declarou o deputado.</p><p>À frente do PL mineiro, Arantes terá a tarefa de organizar e fortalecer o partido nos municípios de olho nas eleições municipais de 2028, trabalho que exige articulação em várias regiões do estado.</p><p>A Secretaria de Estado de Governo é considerada estratégica: é responsável pela articulação política do Executivo, principalmente na relação com a Assembleia Legislativa de Minas Gerais (ALMG), e conduz as negociações com os deputados para a aprovação de projetos de interesse do governo.</p><p>Com a negativa, Cleitinho segue em busca de um nome para a pasta. O deputado estadual Cássio Soares (PSD) aparece entre os cotados, mas ainda avalia os próximos passos.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/231207_0.jpg",
+  "credito_foto": "Reprodução/Redes Sociais (via Jornal da Região)",
+  "fonte": "Jornal da Região",
   "resumos": ""
  }
 ]
