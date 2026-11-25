@@ -71706,5 +71706,19 @@
   "fonte": "UOL",
   "arte": "artes/2026-11-25/081152_133.jpg",
   "media_id": "18137839723663745"
+ },
+ {
+  "id": "denuncia_10373",
+  "data": "2026-11-25",
+  "hora": "09:03",
+  "media_id": "17926403820224984",
+  "titulo": "Denúncia do leitor 10373",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:10373",
+  "arte": ""
  }
 ]
