@@ -71034,5 +71034,47 @@
   "fonte": "Folha de S.Paulo",
   "arte": "artes/2026-11-24/221157_2.jpg",
   "media_id": "18112224362461322"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "23:21",
+  "id": "232057_141",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Caixa de tomate chega a R$ 300 e restaurantes de BH tiram o produto do cardápio para não reajustar preço",
+  "titulo_orig": "Preço do tomate dispara e restaurantes retiram produto do cardápio em BH",
+  "link": "https://bhaz.com.br/noticias/alta-do-tomate-leva-restaurantes-de-bh-a-retirar-item-do-cardapio/",
+  "fonte": "bhaz.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "23:21",
+  "id": "232058_144",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ESPORTE",
+  "titulo": "Pentacampeão Denílson entra como sócio na SAF do Villa Nova, de Nova Lima",
+  "titulo_orig": "Pentacampeão Denílson passa a integrar SAF do Villa Nova",
+  "link": "https://bhaz.com.br/noticias/esportes/pentacampeao-denilson-saf-do-villa-nova/",
+  "fonte": "bhaz.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "23:21",
+  "id": "232102_229",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Cleitinho vai subir ao palco como atração de réveillon em Divinópolis seis dias antes de assumir o governo de Minas",
+  "titulo_orig": "Cleitinho será atração musical de réveillon em Divinópolis antes de assumir governo de MG",
+  "link": "https://tribunademinas.com.br/noticias/politica/24-11-2026/cleitinho-sera-atracao-musical-de-reveillon-em-divinopolis-antes-de-assumir-governo-de-mg.html?amp=1",
+  "fonte": "Tribuna de Minas",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
