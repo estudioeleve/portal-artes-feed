@@ -1,17 +1,5 @@
 [
  {
-  "id": "061309_20",
-  "data": "2026-11-24T06:15:43-03:00",
-  "titulo": "Palácio das Artes completa 55 anos e vai passar pela primeira restauração completa da história",
-  "linha_fina": "Obras começam em 2027 pelo Grande Teatro, com troca de cadeiras, carpete e parte elétrica; demais etapas ainda não têm data.",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O Palácio das Artes, em Belo Horizonte, completa 55 anos em 2026 e vai passar pela primeira restauração integrada da sua história. As intervenções começam em 2027, segundo a Fundação Clóvis Salgado (FCS), responsável pelo complexo cultural, em entrevista ao Diário do Comércio.</p><p>A primeira etapa vai concentrar os trabalhos no Grande Teatro, que recebe cerca de 400 mil pessoas por ano. Estão previstas a substituição das cadeiras, do carpete e das instalações elétricas, além da restauração do piso.</p><p>As fases seguintes incluem intervenções nas galerias, nos espaços de formação artística e nas áreas de circulação do público, além de melhorias acústicas e térmicas e da modernização da cobertura. O projeto também pretende ampliar a integração do Palácio das Artes com o Parque Municipal, recuperando características do projeto original de Oscar Niemeyer.</p><p>Ainda não há cronograma definido para as demais etapas. A fundação informou que as obras poderão exigir o fechamento temporário de alguns espaços e mudanças na circulação de funcionários e visitantes.</p><p>Segundo o presidente da FCS, Yuri Mesquita, o complexo foi pensado ainda nos anos 1940, no mesmo contexto da Pampulha, quando Juscelino Kubitschek, então prefeito de Belo Horizonte, convidou Niemeyer para projetar um teatro que atendesse a uma cidade em crescimento. O Palácio das Artes foi inaugurado no início da década de 1970 e se tornou um dos principais equipamentos culturais de Minas Gerais.</p><p>Além das obras, a fundação aposta em estratégias para atrair novas gerações de público para os espetáculos, exposições e cursos oferecidos no espaço, que fica na Avenida Afonso Pena, no Centro da capital.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/061309_20.jpg",
-  "credito_foto": "Arquivo/FCS",
-  "fonte": "Diário do Comércio",
-  "resumos": ""
- },
- {
   "id": "061312_34",
   "data": "2026-11-24T06:15:43-03:00",
   "titulo": "Palhaços levam riso e música a pacientes de três hospitais da Grande BH a partir desta quarta",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/231250_189.jpg",
   "credito_foto": "Divulgação/PMMG",
   "fonte": "Metrópoles",
+  "resumos": ""
+ },
+ {
+  "id": "231900_93",
+  "data": "2026-11-25T23:19:10-03:00",
+  "titulo": "Gusttavo Lima deposita R$ 70 mil de indenização a homem cujo número aparece na música \"Bloqueado\"",
+  "linha_fina": "Morador de Pernambuco diz que passou a receber ligações e mensagens todos os dias; valor fica em conta judicial até o fim dos recursos.",
+  "categoria": "entretenimento",
+  "texto": "<p>O cantor Gusttavo Lima depositou R$ 70 mil em indenização, por determinação da Justiça, a um homem que teve o número de telefone citado na música \"Bloqueado\". A canção trazia o número exato usado por ele, inclusive com o DDD de Pernambuco, onde mora.</p><p>Segundo o processo, depois do lançamento da música o homem passou a receber ligações e mensagens de WhatsApp todos os dias. Ele afirma que a situação inutilizou o telefone que usava na época e prejudicou o seu trabalho. O nome dele não foi divulgado.</p><p>A ação foi aberta em 2022 na Justiça pernambucana, e o sertanejo foi condenado em 2025 a pagar a indenização. Mesmo com a decisão, a música \"Bloqueado\" continua disponível nas plataformas e segue sendo ouvida por milhares de pessoas.</p><p>Apesar da vitória, o autor da ação ainda não vai receber o dinheiro. A defesa de Gusttavo Lima pediu que o valor fique retido em conta judicial até o julgamento de todos os recursos, quando o processo transitar em julgado.</p><p>O pedido foi aceito pela Justiça de Pernambuco na segunda-feira (23/11), com a concordância da parte que receberá a indenização. \"A parte credora concordou com a manutenção do depósito até o trânsito em julgado. Ante o exposto, determino a suspensão do presente processo até o julgamento definitivo do recurso especial\", diz a decisão.</p><p>As informações foram divulgadas inicialmente pelo site Metrópoles. Até a publicação desta matéria, a assessoria do cantor não havia se manifestado sobre o caso.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/231900_93.jpg",
+  "credito_foto": "Reprodução/Minha Operadora",
+  "fonte": "Minha Operadora",
   "resumos": ""
  }
 ]
