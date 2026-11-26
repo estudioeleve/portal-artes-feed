@@ -76620,5 +76620,33 @@
   "fonte": "G1",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "20:28",
+  "id": "201254_2",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Sargento da PM morre após levar choque elétrico enquanto limpava placas solares em Valadares",
+  "titulo_orig": "Policial militar morre eletrocutado enquanto limpava placas solares em Governador Valadares",
+  "link": "https://bhaz.com.br/noticias/policial-militar-morre-eletrocutado-enquanto-limpava-placas-solares-em-governador-valadares/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-26/201254_2.jpg",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "20:28",
+  "id": "201258_25",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Perdão das dívidas do MEI: veja o que o pequeno empreendedor precisa fazer até 31 de dezembro",
+  "titulo_orig": "Perdão de dívidas do MEI: saiba como funciona o benefício e tire todas as dúvidas | ASN Nacional - Agência Sebrae de Notícias",
+  "link": "https://agenciasebrae.com.br/economia-e-politica/perdao-de-dividas-do-mei-saiba-como-funciona-o-beneficio-e-tire-todas-as-duvidas/",
+  "fonte": "Agência Sebrae de Notícias",
+  "arte": "artes/2026-11-26/201258_25.jpg",
+  "media_id": "18102228950664085"
  }
 ]
