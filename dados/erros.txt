@@ -813,3 +813,4 @@
 26/11/2026 17:07 170600_israel (GER maconha Neves, pedido Israel): site ok; Instagram (Windsor, moldura ONE) recusado pelo limite 100/24h -> pendentes.json (2º, depois da LUOS).
 26/11/2026 17:11 rodada 17h: LUOS 155500_israel tentado de novo (painel too many actions; Windsor COM collaborators=@portaluziense: limite 100/24h). Pendentes seguem na fila.
 26/11/2026 17:15 - Rodada 17h: denúncias A, B e C vazias. Instagram: limite 100/24h (LUOS segue 1º em pendentes.json). Site: 8 só site (Pix Black Week, sósias Cruzeiro Praça Sete, Domínguez/Alexsander, Cemig Mercado Livre, bombeiro Valadares, carga BR-381, BR-040 balança/descanso, RomeiroVia BR-365). Matozinhos preventiva barrada pelo REPETIDO. Santa Luzia MG: nada novo (homônimas).
+26/11/2026 18:10 155500_israel (LUOS, Luziense): painel 'too many actions' -> Windsor COM collaborators=@portaluziense (media 18100209260429016)
