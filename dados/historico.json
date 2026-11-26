@@ -76326,5 +76326,19 @@
   "fonte": "Portal ONE News",
   "arte": "artes/2026-11-26/192000_israel.jpg",
   "media_id": "18644009230058566"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "19:18",
+  "id": "191207_143",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "Temporal alaga ruas de BH, Contagem e Neves, e Defesa Civil emite alerta de granizo e enxurrada",
+  "titulo_orig": "Temporal causa alagamentos na Grande BH; Defesa Civil emite alertas | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/26/defesa-civil-de-bh-emite-alertas-de-granizo-e-chuvas-intensas-com-risco-de-enxurradas.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-26/191207_143.jpg",
+  "media_id": "18107203097636493"
  }
 ]
