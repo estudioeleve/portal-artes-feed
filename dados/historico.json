@@ -73386,5 +73386,19 @@
   "fonte": "Faça sua denúncia",
   "link": "denuncia:10648",
   "arte": ""
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "21:20",
+  "id": "201709_25",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Ministério da Justiça bloqueia quase 4 mil celulares usados por presos em menos de 50 dias",
+  "titulo_orig": "Ministério da Justiça bloqueia 4 mil celulares em presídios",
+  "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ministerio-da-justica-bloqueia-4-mil-celulares-em-presidios",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-25/201709_25.jpg",
+  "media_id": "18098208950181535"
  }
 ]
