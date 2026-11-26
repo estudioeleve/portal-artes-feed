@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>Orçamento · Visto americano</title>
 <meta name="description" content="Responda em 2 minutos e receba seu orçamento para o visto americano.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,6 +11,7 @@
 <style>
 :root{--bg:#ffffff;--card:#f3f6ff;--line:#d9e1f5;--ink:#06070C;--muted:#4a5268;--blue:#3D7BFF;--blue2:#1f5ff0;--err:#d6332a}
 *{box-sizing:border-box;min-width:0}
+html,body{width:100%;max-width:100%;overflow-x:hidden;overscroll-behavior-x:none;touch-action:pan-y;-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Inter Tight",Arial,sans-serif;overflow-x:clip}
 .top{background:#06070C;color:#fff;padding:28px max(5vw,18px) 30px}
 .top .in,.wrap{max-width:640px;margin:0 auto}
@@ -51,7 +52,7 @@ button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line
 <header class="top"><div class="in">
   <div class="brand">Eleve · Consultoria de visto americano</div>
   <h1>Seu orçamento para o <em>visto americano</em></h1>
-  <p>Responda em cerca de 2 minutos. No final, suas respostas vão direto para o nosso WhatsApp e retornamos com o orçamento.</p>
+  <p>Responda em cerca de 2 minutos. Ao enviar, recebemos suas respostas e entramos em contato pelo seu WhatsApp com o orçamento.</p>
 </div></header>
 
 <main class="wrap">
@@ -69,16 +70,13 @@ button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line
 <div id="radios"></div>
 <label class="f"><span>Quer contar mais alguma coisa?<small>Opcional. Ex.: motivo da viagem, dúvidas, data que precisa viajar.</small></span><textarea id="obs"></textarea></label>
 
-<button type="button" id="send">Enviar pelo WhatsApp</button>
+<button type="button" id="send">Enviar respostas</button>
 <div class="msg" id="msg"></div>
 <p class="privacy">Usamos suas respostas só para montar o seu orçamento. Não pedimos documentos nem dados de passaporte nesta etapa.</p>
 
 <section class="done" id="done">
   <h2>Pronto!</h2>
-  <p>O WhatsApp vai abrir com suas respostas. É só tocar em enviar. Se ele não abriu, use o botão abaixo.</p>
-  <button type="button" id="again">Abrir o WhatsApp de novo</button>
-  <button type="button" class="ghost" id="copy">Copiar minhas respostas</button>
-  <div class="msg" id="msg2"></div>
+  <p>Recebemos suas respostas. Em breve entramos em contato pelo seu WhatsApp com o orçamento.</p>
 </section>
 </main>
 
@@ -123,17 +121,28 @@ function texto(){
 }
 const link=()=>`https://wa.me/${ZAP}?text=${encodeURIComponent(texto())}`;
 document.addEventListener('change',e=>{const f=e.target.closest('.f');if(f&&f.classList.contains('bad'))check()});
-$('send').addEventListener('click',()=>{
+const API='https://qivupqhslvwjopzfwlsn.supabase.co/rest/v1/orcamentos_visto';
+const KEY='sb_publishable_60MUzgZXIaE95V5bFleyUg_PwxWGnDt';
+let sending=false;
+$('send').addEventListener('click',async()=>{
+ if(sending)return;
  const first=check();
  if(first){$('msg').textContent='Falta responder algumas perguntas (marcadas em vermelho).';first.scrollIntoView({behavior:'smooth',block:'center'});return}
- $('msg').textContent='';
- $('done').style.display='block';$('done').scrollIntoView({behavior:'smooth'});
- location.href=link();
-});
-$('again').addEventListener('click',()=>{location.href=link()});
-$('copy').addEventListener('click',()=>{
- if(!navigator.clipboard){ $('msg2').textContent='Não foi possível copiar neste aparelho.';return}
- navigator.clipboard.writeText(texto()).then(()=>{$('msg2').textContent='Respostas copiadas. Cole no WhatsApp (31) 99237-1702.'}).catch(()=>{$('msg2').textContent='Não foi possível copiar neste aparelho.'});
+ sending=true;$('send').textContent='Enviando...';$('msg').textContent='';
+ const n=v=>Math.max(0,Math.min(30,parseInt(v||'0',10)||0));
+ const body={nome:val('nome'),whatsapp:val('whats'),cidade:val('cidade'),adultos:n(val('adultos')),menores:n(val('menores')),
+  tipo_visto:pick('tipo'),primeiro_ou_renovacao:pick('fase'),visto_negado:pick('negado'),passaporte:pick('pass'),
+  quando_viaja:pick('quando'),ajuda:pick('ajuda'),atendimento:pick('atend'),como_conheceu:pick('origem')||null,observacoes:val('obs').slice(0,2000)||null};
+ try{
+  const r=await fetch(API,{method:'POST',headers:{'apikey':KEY,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify(body)});
+  if(!r.ok)throw new Error(r.status);
+  $('form').style.display='none';$('radios').style.display='none';
+  document.querySelectorAll('.wrap > .f, #send, .privacy, #msg').forEach(e=>e.style.display='none');
+  $('done').style.display='block';window.scrollTo({top:0,behavior:'smooth'});
+ }catch(e){
+  sending=false;$('send').textContent='Tentar enviar de novo';
+  $('msg').innerHTML='Não conseguimos enviar agora. Tente de novo ou <a href="'+link()+'">mande pelo WhatsApp</a>.';
+ }
 });
 }
 </script>
