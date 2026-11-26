@@ -76242,5 +76242,33 @@
   "fonte": "Prefeitura de Ribeirão das Neves",
   "arte": "artes/2026-11-26/181215_50.jpg",
   "media_id": "17910359466669739"
+ },
+ {
+  "id": "denuncia_11103",
+  "data": "2026-11-26",
+  "hora": "18:46",
+  "media_id": "18343364008272324",
+  "titulo": "Denúncia do leitor OC-2026-11103",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:11103",
+  "arte": "videos/2026-11-26/denuncia_11103.mp4"
+ },
+ {
+  "id": "denuncia_11067",
+  "data": "2026-11-26",
+  "hora": "18:48",
+  "media_id": "18083103392737067",
+  "titulo": "Denúncia do leitor OC-2026-11067",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:11067",
+  "arte": "videos/2026-11-26/denuncia_11067.mp4"
  }
 ]

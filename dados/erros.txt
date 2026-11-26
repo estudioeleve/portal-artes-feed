@@ -814,3 +814,5 @@
 26/11/2026 17:11 rodada 17h: LUOS 155500_israel tentado de novo (painel too many actions; Windsor COM collaborators=@portaluziense: limite 100/24h). Pendentes seguem na fila.
 26/11/2026 17:15 - Rodada 17h: denúncias A, B e C vazias. Instagram: limite 100/24h (LUOS segue 1º em pendentes.json). Site: 8 só site (Pix Black Week, sósias Cruzeiro Praça Sete, Domínguez/Alexsander, Cemig Mercado Livre, bombeiro Valadares, carga BR-381, BR-040 balança/descanso, RomeiroVia BR-365). Matozinhos preventiva barrada pelo REPETIDO. Santa Luzia MG: nada novo (homônimas).
 26/11/2026 18:10 155500_israel (LUOS, Luziense): painel 'too many actions' -> Windsor COM collaborators=@portaluziense (media 18100209260429016)
+26/11/2026 18:46 denúncia 11103 (Reels Luziense): painel 'too many actions' -> Windsor SEM COLLAB @portaluziense (create_video_post não aceita collaborators)
+26/11/2026 18:48 denúncia 11067 (Reels Luziense): Windsor SEM COLLAB @portaluziense
