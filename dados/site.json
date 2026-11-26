@@ -1,17 +1,5 @@
 [
  {
-  "id": "101319_44",
-  "data": "2026-11-24T10:15:08-03:00",
-  "titulo": "Governo Trump negocia com GM e Ford a produção de drones militares, diz jornal americano",
-  "linha_fina": "Segundo o Wall Street Journal, montadoras forneceriam motores, sensores e outras peças; nenhum acordo foi fechado ainda.",
-  "categoria": "mundo",
-  "texto": "<p>O Pentágono está negociando com a General Motors (GM), a Ford e outras fabricantes de veículos para que ajudem a produzir drones militares em grande escala. A informação foi publicada nesta terça-feira (24) pelo jornal norte-americano The Wall Street Journal, com base em pessoas que acompanham as conversas.</p>\n<p>Pelo modelo em discussão, as montadoras não fabricariam os drones inteiros, mas forneceriam peças para os fabricantes, como atuadores, motores, sensores e sistemas de lidar, uma espécie de radar a laser. A GM estuda produzir motores para drones, enquanto autoridades da Defesa se reuniram com dirigentes da Ford, da canadense Magna International e de empresas de outros setores industriais.</p>\n<p>Ainda segundo o jornal, a GM passou a demonstrar mais interesse por projetos militares após pedidos de autoridades do alto escalão da Defesa e também conversa com a RTX e a L3Harris sobre acordos parecidos. No começo deste ano, a montadora já forneceu componentes para os mísseis do sistema antiaéreo Patriot, da Lockheed Martin.</p>\n<p>O movimento acontece durante a guerra dos Estados Unidos contra o Irã, que já dura mais de nove meses e aumentou a procura por drones e mísseis, chegando a causar falta de alguns equipamentos. O governo Trump vem tomando medidas para acelerar a produção militar no país.</p>\n<p>De acordo com o Wall Street Journal, nenhum acordo foi assinado até agora, e a proposta dividiu opiniões entre executivos da indústria automobilística. As montadoras citadas não comentaram a reportagem.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/101319_44.jpg",
-  "credito_foto": "Foto: Jam Sta Rosa/AFP (via g1)",
-  "fonte": "g1",
-  "resumos": ""
- },
- {
   "id": "104600_israel",
   "data": "2026-11-24T10:45:23-03:00",
   "titulo": "É nesta quinta (26): Santa Luzia faz a abertura oficial do 21º Circuito de Presépios",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/082111_anos.jpg",
   "credito_foto": "Ivan Radic/Flickr (CC BY 2.0)",
   "fonte": "Jornal da Cidade Online",
+  "resumos": ""
+ },
+ {
+  "id": "082540_57",
+  "data": "2026-11-26T08:25:49-03:00",
+  "titulo": "José Guimarães volta ao cargo de ministro das Relações Institucionais depois de votar o ajuste fiscal na Câmara",
+  "linha_fina": "Deputado do PT-CE deixou a pasta temporariamente para votar o PLP 299/2026; volta foi publicada em edição extra do Diário Oficial.",
+  "categoria": "politica",
+  "texto": "<p>O deputado federal José Guimarães (PT-CE) voltou ao cargo de ministro da Secretaria de Relações Institucionais, pasta responsável pela articulação política do governo federal com o Congresso. O ato, assinado pelo presidente Luiz Inácio Lula da Silva (PT), foi publicado na quarta-feira (25) em edição extra do Diário Oficial da União.</p><p>Guimarães tinha deixado o ministério temporariamente para reassumir o mandato de deputado e votar, na segunda-feira (23), o projeto de ajuste fiscal do governo na Câmara dos Deputados. A exoneração foi feita apenas para permitir a participação dele nas votações.</p><p>O ministro votou a favor do Projeto de Lei Complementar (PLP) 299 de 2026, que reúne medidas de contenção de despesas, redução de benefícios tributários e mudanças nas regras fiscais. O texto é uma das prioridades da equipe econômica para o fechamento do ano.</p><p>A manobra de exonerar ministros que têm mandato no Congresso para garantir votos em projetos importantes é comum em Brasília e já foi usada por diferentes governos. Depois da votação, os parlamentares costumam ser reconduzidos aos cargos no Executivo, como aconteceu agora.</p><p>Com a volta de Guimarães, a Secretaria de Relações Institucionais retoma o comando das negociações com deputados e senadores nas últimas semanas antes do recesso parlamentar, quando o governo tenta aprovar outros projetos da área econômica.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/082540_57.jpg",
+  "credito_foto": "Reprodução/Poder360",
+  "fonte": "Poder360",
   "resumos": ""
  }
 ]
