@@ -817,3 +817,4 @@
 26/11/2026 18:46 denúncia 11103 (Reels Luziense): painel 'too many actions' -> Windsor SEM COLLAB @portaluziense (create_video_post não aceita collaborators)
 26/11/2026 18:48 denúncia 11067 (Reels Luziense): Windsor SEM COLLAB @portaluziense
 26/11/2026 18:58 - Rodada 18h: denúncias 11103 (escola Baronesa) e 11067 (poste Palmital) tituladas e postadas em Reels pelo Windsor SEM collab; capa C vazia. Instagram: LUOS (COM @portaluziense), GER Neves, Natal Neves, árvore Aglomerado da Serra, pedido Israel cabo dos Bombeiros (carrossel). Atlético/Borbas (181219_29) ficou em pendentes.json (1º). Site: 8 só site + cabo. Santa Luzia MG: nada novo no radar (cobre = Santa Luzia-PB). Painel 'too many actions'; Meta sem chave. faster-whisper instalado na sessão.
+26/11/2026 19:16 192000_israel (GEPAR drogas UPA São Benedito, pedido Israel): painel too many actions -> Windsor COM collaborators=@portaluziense
