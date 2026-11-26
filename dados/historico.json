@@ -75024,5 +75024,19 @@
   "fonte": "BH 24 Horas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "11:24",
+  "id": "111248_5",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Médico suspeito de torturar a namorada e raspar o cabelo dela no ES é preso no Vale do Aço",
+  "titulo_orig": "Médico suspeito de agredir, raspar cabeça e obrigar noiva a comer fios, no ES, é preso no Vale do Aço",
+  "link": "https://bhaz.com.br/noticias/minas-gerais/medico-suspeito-agredir-noiva-es-preso-vale-do-aco/",
+  "fonte": "BHAZ",
+  "arte": "artes/2026-11-26/111248_5.jpg",
+  "media_id": "18114982127230909"
  }
 ]
