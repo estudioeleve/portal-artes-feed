@@ -1,17 +1,5 @@
 [
  {
-  "id": "201206_41",
-  "data": "2026-11-24T20:15:08-03:00",
-  "titulo": "Árvore cai em escola estadual de Itaquera, em São Paulo, e deixa cinco feridos; um aluno teve fratura",
-  "linha_fina": "Sete pessoas foram atingidas na tarde desta terça (24); três alunos foram levados ao hospital e seguem em observação.",
-  "categoria": "brasil",
-  "texto": "<p>A queda de uma árvore na Escola Estadual Professora Maria da Conceição Oliveira Costa, em Itaquera, na zona leste de São Paulo, atingiu sete pessoas na tarde desta terça-feira (24). Cinco ficaram feridas.</p><p>Segundo as informações oficiais, todas as vítimas estavam conscientes e orientadas. Quatro tiveram ferimentos leves, e uma sofreu fratura e foi levada ao Hospital Santa Marcelina de Itaquera. Duas pessoas atingidas não se machucaram.</p><p>Em nota, a Secretaria da Educação do Estado de São Paulo lamentou o ocorrido e informou que a equipe gestora da escola prestou os primeiros atendimentos a cinco alunos e acionou o Samu logo após a queda.</p><p>\"Três alunos foram encaminhados ao hospital, acompanhados de um funcionário. Os responsáveis foram acionados e acompanharam os estudantes, que passaram por avaliação médica e seguem em observação. Outros dois alunos que estavam próximo da árvore não se feriram\", afirmou a secretaria.</p><p>A capital paulista tem enfrentado tempo instável nesta época do ano, com pancadas de chuva e rajadas de vento, condição que aumenta o risco de queda de árvores. Não foi informada a causa da queda na escola.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/201206_41.jpg",
-  "credito_foto": "Paulo Pinto/Agência Brasil",
-  "fonte": "Agência Brasil",
-  "resumos": ""
- },
- {
   "id": "201207_74",
   "data": "2026-11-24T20:15:09-03:00",
   "titulo": "Ninho do Urubu: Justiça do Rio condena dois engenheiros a 8 anos pelo incêndio que matou dez jovens do Flamengo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/184800_israel.jpg",
   "credito_foto": "Reprodução",
   "fonte": "Portal ONE News",
+  "resumos": ""
+ },
+ {
+  "id": "192000_israel",
+  "data": "2026-11-26T19:15:17-03:00",
+  "titulo": "PM prende suspeito com 156 pinos de cocaína e 56 buchas de maconha perto da UPA São Benedito",
+  "linha_fina": "Suspeito tentou fugir a pé ao ver a viatura do GEPAR da 71ª Companhia, mas foi alcançado; celular também foi apreendido.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Uma ação do Grupo Especializado de Policiamento em Áreas de Risco (GEPAR) da 71ª Companhia da Polícia Militar terminou com a apreensão de 156 pinos de cocaína e 56 buchas de maconha nesta quinta-feira (26), no bairro São Benedito, em Santa Luzia, na Grande BH. Um suspeito foi detido.</p>\n<p>De acordo com o boletim de ocorrência da PM, durante uma operação do GEPAR, os militares viram o homem vendendo drogas nas proximidades da UPA São Benedito, uma das unidades de saúde mais movimentadas da cidade.</p>\n<p>Ao perceber a chegada da viatura, o suspeito fugiu a pé. Os policiais fizeram o acompanhamento e conseguiram localizá-lo e abordá-lo pouco depois. Com ele, segundo a PM, estavam as drogas e outros materiais ligados ao tráfico.</p>\n<p>Além dos 156 pinos de cocaína e das 56 buchas de maconha, a guarnição apreendeu um aparelho celular. A foto divulgada pela corporação mostra os pinos azuis enfileirados sobre uma mesa, ao lado das buchas e do telefone.</p>\n<p>A ocorrência foi registrada como tráfico ilícito de drogas pela 71ª Companhia, do 35º Batalhão, responsável pelo policiamento em Santa Luzia. O suspeito e o material foram encaminhados à Polícia Civil.</p>\n<p>A ação faz parte do trabalho de repressão qualificada do GEPAR, que atua em áreas com maior incidência de crimes. A PM reforça que denúncias de tráfico podem ser feitas de forma anônima pelo 181 ou pelo 190.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/192000_israel.jpg",
+  "credito_foto": "Divulgação/PMMG",
+  "fonte": "Polícia Militar de Minas Gerais",
   "resumos": ""
  }
 ]
