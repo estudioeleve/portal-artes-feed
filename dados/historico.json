@@ -73372,5 +73372,19 @@
   "fonte": "Portal ONE News",
   "arte": "",
   "media_id": "17883565956545743"
+ },
+ {
+  "id": "denuncia_10648",
+  "data": "2026-11-25",
+  "hora": "21:13",
+  "media_id": "17950550727359579",
+  "titulo": "Denúncia do leitor 10648",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:10648",
+  "arte": ""
  }
 ]

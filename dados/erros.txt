@@ -773,3 +773,4 @@
 25/11/2026 19:36 192536_51 saiu pelo Windsor COM collaborators=@portallpolitica (painel bloqueado: too many actions)
 25/11/2026 20:30 202254_198 (Santa Luzia, PF ex-secretário) painel bloqueado (too many actions) -> Windsor COM collaborators=@portaluziense (media 18128268157907146)
 25/11/2026 20:39 203019_sta (Black Friday CDL, Comércio) painel bloqueado -> Windsor COM collaborators=@portallcomercio (media 18076110020765393)
+25/11/2026 21:13 denúncia 10648 (Reels, Luziense): painel bloqueado (too many actions; API Meta sem chave) -> Windsor create_video_post SEM collab (Windsor recusa collaborators em vídeo) (media 17950550727359579)
