@@ -1,17 +1,5 @@
 [
  {
-  "id": "121116_33",
-  "data": "2026-11-24T12:16:35-03:00",
-  "titulo": "Galo x Corinthians: quem comprar ingresso até 10h de quarta (25) leva um acompanhante de graça",
-  "linha_fina": "Jogo é nesta quarta, às 20h, na Arena MRV, pela 36ª rodada do Brasileiro; será o 100º jogo do time profissional no estádio.",
-  "categoria": "atletico",
-  "texto": "<p>O Atlético lançou uma promoção para lotar a Arena MRV no jogo contra o Corinthians. Quem garantir ingresso até as 10h desta quarta-feira (25) vai poder levar mais um atleticano ao estádio sem pagar.</p><p>Segundo o clube, os compradores vão receber na quarta, a partir das 11h, um cupom de 100% de desconto para resgatar um ingresso adicional no mesmo setor em que compraram a entrada.</p><p>A partida será disputada nesta quarta-feira, às 20h, pela 36ª rodada do Campeonato Brasileiro, e marca o 100º jogo do time profissional masculino do Atlético na Arena MRV. Até o anúncio, nove mil torcedores já tinham garantido presença.</p><p>Para resgatar o ingresso extra, o torcedor deve acessar o site de ingressos do clube, fazer login, clicar no banner do jogo, escolher a cadeira no mesmo setor, atribuir o ingresso ao CPF de quem vai ao jogo, escolher a opção inteira e inserir o código do cupom no campo de voucher antes de finalizar.</p><p>O clube também informou que os setores Brahma Norte e Inter Oeste estarão fechados nesta partida. Quem comprou ingresso nesses setores será remanejado para o Brahma Leste.</p><p>A promoção é uma tentativa de dar força ao time na reta final do Brasileirão, em que o Galo ainda briga por posições na parte de cima da tabela.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/121116_33.jpg",
-  "credito_foto": "Divulgação/Atlético",
-  "fonte": "Clube Atlético Mineiro",
-  "resumos": ""
- },
- {
   "id": "121107_278",
   "data": "2026-11-24T12:16:35-03:00",
   "titulo": "Simples Nacional tem novas regras para a transição da Reforma Tributária; veja o que muda para o pequeno empresário",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/101259_25.jpg",
   "credito_foto": "Foto: GGT Mar y Puertos via Reuters",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "101232_59",
+  "data": "2026-11-26T10:17:10-03:00",
+  "titulo": "PRF e Guarda de Sabará levam alerta contra violência à mulher a cerca de 600 pessoas na BR-381",
+  "linha_fina": "Operação Alerta Lilás teve apoio da Guarda Civil Municipal e da Prefeitura de Sabará, na Grande BH.",
+  "categoria": "sabara",
+  "texto": "<p>A Polícia Rodoviária Federal (PRF) realizou na manhã desta quarta-feira (25) a Operação Alerta Lilás na BR-381, em Sabará, na Região Metropolitana de Belo Horizonte. Segundo a corporação, a ação alcançou cerca de 600 pessoas com informações sobre a prevenção e o enfrentamento da violência contra a mulher.</p><p>Durante a operação, os policiais abordaram motoristas e usuários da rodovia para entregar material informativo e reforçar a importância da conscientização e da mobilização da sociedade no combate à violência de gênero.</p><p>A iniciativa contou com o apoio da Guarda Civil Municipal (GCM) de Sabará e da Prefeitura, por meio da Coordenadoria de Políticas Públicas para as Mulheres. A ação faz parte das atividades de novembro, mês marcado por campanhas pelo fim da violência contra as mulheres.</p><p>A PRF destacou que o combate a esse tipo de violência é responsabilidade de toda a sociedade e que campanhas de informação ajudam a ampliar o conhecimento sobre o tema e a fortalecer a rede de proteção às vítimas.</p><p>Quem sofre ou presencia violência contra a mulher pode pedir ajuda pelo Ligue 180, a Central de Atendimento à Mulher, que funciona 24 horas e é gratuita, ou acionar a Polícia Militar pelo 190 em casos de emergência. Na rodovia, o telefone da PRF é o 191.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/101232_59.jpg",
+  "credito_foto": "Foto: Reprodução/Real News",
+  "fonte": "Real News, com informações da PRF",
   "resumos": ""
  }
 ]
