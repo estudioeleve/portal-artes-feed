@@ -1,17 +1,5 @@
 [
  {
-  "id": "211126_377",
-  "data": "2026-11-23T21:16:52-03:00",
-  "titulo": "Do brigadeiro na praia à renda principal: empreendedor vende 80 doces por dia e Sebrae dá dicas para começar",
-  "linha_fina": "Artista de Salvador conta como organiza as vendas; gerente do Sebrae diz que dá para abrir o negócio e se preparar no caminho.",
-  "categoria": "comercio",
-  "texto": "<p>Vender brigadeiros nas praias virou a principal fonte de renda do empreendedor e artista Jefferson Faya, de Salvador. A história dele foi contada no último episódio da edição especial do quadro \"Empreendaê\", exibido no sábado (21) pela TV Bahia, dentro da programação do Novembro Negro.</p>\n<p>Segundo Jefferson, o doce garante uma renda mais constante do que os trabalhos com moda e música, que ele mantém em paralelo. Ele produz cerca de 200 brigadeiros por dia, com sabores como café e 100% cacau, e vende em caixas com quatro unidades. \"Eu faço mais ou menos 200 brigadeiros e vendo 20 caixas por dia, em um dia bom\", contou.</p>\n<p>A organização é parte do segredo: produção diária, cardápio enxuto e venda direta ao público em locais de grande circulação, como a orla. É um modelo simples, de baixo custo inicial, comum entre pequenos empreendedores de todo o país, inclusive na Grande BH.</p>\n<p>No encerramento da série, o gerente regional do Sebrae Bahia, Rogério Teixeira, deu orientações para quem quer começar. \"As pessoas, quando se aventuram a abrir um negócio, tendem a abrir primeiro e depois pensar nos detalhes. E não há problema nenhum. Pode começar e, a partir daí, procurar o Sebrae\", disse. Segundo ele, a instituição ajuda a construir um processo de preparação e entendimento do negócio.</p>\n<p>Em Minas, o Sebrae oferece atendimento gratuito e cursos para quem está começando, inclusive sobre formalização como microempreendedor individual (MEI), controle de custos e definição de preços, temas importantes para quem vende comida na rua ou por encomenda, principalmente no fim de ano.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-23/211126_377.jpg",
-  "credito_foto": "Reprodução/TV Bahia",
-  "fonte": "TV Bahia/g1",
-  "resumos": ""
- },
- {
   "id": "211131_16",
   "data": "2026-11-23T21:16:52-03:00",
   "titulo": "Audiência na Câmara de BH cobra drenagem com áreas verdes e cita bacia da Vilarinho, em Venda Nova",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/203134_172.jpg",
   "credito_foto": "Divulgação/PBH",
   "fonte": "Prefeitura de Belo Horizonte",
+  "resumos": ""
+ },
+ {
+  "id": "211000_israel",
+  "data": "2026-11-25T21:09:21-03:00",
+  "titulo": "Craque Neto visita Neymar em Praia Grande e pede desculpas pelas críticas ao camisa 10",
+  "linha_fina": "Encontro no Instituto Projeto Neymar Jr., com o pai do jogador, parece encerrar a troca de farpas entre os dois.",
+  "categoria": "esporte",
+  "texto": "<p>O apresentador e ex-jogador Craque Neto se encontrou com Neymar nesta quarta-feira (25), em um momento que parece ter colocado um ponto final na troca de farpas entre os dois. O encontro aconteceu no Instituto Projeto Neymar Jr., em Praia Grande, no litoral de São Paulo.</p><p>Ídolo do Corinthians, Neto foi recebido pelo camisa 10 do Santos e pelo pai do jogador. Na visita, ele pediu desculpas a Neymar pelos comentários que fez sobre o atacante no programa Os Donos da Bola, que apresenta na TV.</p><p>Nos últimos meses, Neto fez críticas duras ao jogador em seu programa, o que gerou uma série de respostas e alfinetadas entre os dois nas redes sociais e na imprensa.</p><p>Imagens do encontro que circulam nas redes mostram o clima descontraído no instituto, com Neymar recebendo visitantes entre as vitrines com camisas, chuteiras e troféus da carreira. Em um dos momentos, o jogador cumprimenta uma criança emocionada que segura uma bola.</p><p>O Instituto Projeto Neymar Jr. atende crianças e famílias de Praia Grande com atividades esportivas, educacionais e sociais.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/211000_israel.jpg",
+  "credito_foto": "Reprodução/Redes sociais",
+  "fonte": "Portal ONE News",
   "resumos": ""
  }
 ]
