@@ -74226,5 +74226,19 @@
   "fonte": "Conexão 424",
   "arte": "artes/2026-11-26/071321_116.jpg",
   "media_id": "18150774844604836"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "07:45",
+  "id": "071339_84",
+  "bloco": "entretenimento",
+  "portal": "one",
+  "ed": "ENTRETENIMENTO",
+  "titulo": "Cantor lírico afastado dos palcos pela Covid volta e estreia ópera no Theatro Municipal de São Paulo",
+  "titulo_orig": "Cantor que deixou os palcos após contrair Covid volta em ópera no Theatro Municipal",
+  "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/cantor-que-deixou-os-palcos-apos-contrair-covid-volta-em-opera-no-theatro-municipal.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "artes/2026-11-26/071339_84.jpg",
+  "media_id": "18117233459273474"
  }
 ]
