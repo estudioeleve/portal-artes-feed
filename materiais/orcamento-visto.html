@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orçamento · Visto americano</title>
+<meta name="description" content="Responda em 2 minutos e receba seu orçamento para o visto americano.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;600;800;900&family=Instrument+Serif:ital@1&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#ffffff;--card:#f3f6ff;--line:#d9e1f5;--ink:#06070C;--muted:#4a5268;--blue:#3D7BFF;--blue2:#1f5ff0;--err:#d6332a}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Inter Tight",Arial,sans-serif;overflow-x:clip}
+.top{background:#06070C;color:#fff;padding:28px max(5vw,18px) 30px}
+.top .in,.wrap{max-width:640px;margin:0 auto}
+.brand{font-size:13px;color:#7FB0FF;font-weight:600;margin-bottom:10px}
+h1{font-weight:900;font-size:clamp(30px,7vw,42px);line-height:1.05;margin:0 0 10px;letter-spacing:-.02em;text-wrap:balance}
+h1 em{font-family:"Instrument Serif",serif;font-weight:400;color:#7FB0FF}
+.top p{margin:0;color:#c9d2e8}
+.wrap{padding:22px max(5vw,18px) 40px}
+.f{display:block;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin-bottom:12px}
+.f>span,.f legend{display:block;font-weight:800;font-size:16px;margin-bottom:8px;padding:0;line-height:1.3}
+.f small{display:block;font-weight:400;color:var(--muted);font-size:14px;margin-top:2px}
+fieldset.f{margin:0 0 12px;min-inline-size:0}
+fieldset.f legend{float:left;width:100%}
+fieldset.f .opts{clear:both}
+.req{color:var(--blue2)}
+input[type=text],input[type=tel],input[type=number],textarea{width:100%;font:16px "Inter Tight",Arial,sans-serif;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px;min-height:46px}
+textarea{min-height:80px;resize:vertical}
+.two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.two label{font-size:14px;color:var(--muted)}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opts label{display:flex;align-items:center;gap:10px;min-height:46px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:#fff;cursor:pointer;line-height:1.35}
+.opts input{width:20px;height:20px;accent-color:var(--blue);flex:none;margin:0}
+.opts label:has(input:checked){border-color:var(--blue);box-shadow:inset 0 0 0 1px var(--blue);font-weight:600}
+input:focus-visible,textarea:focus-visible,button:focus-visible,.opts label:has(input:focus-visible){outline:2px solid var(--blue);outline-offset:2px}
+.f.bad{border-color:var(--err)}
+.f .em{display:none;color:var(--err);font-size:14px;margin-top:6px}
+.f.bad .em{display:block}
+button{width:100%;min-height:54px;border:0;border-radius:12px;background:var(--blue);color:#fff;font:800 17px "Inter Tight",Arial,sans-serif;cursor:pointer;margin-top:6px}
+button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:15px;min-height:46px}
+.privacy{font-size:13px;color:var(--muted);margin:12px 0 0;text-align:center}
+.done{display:none;text-align:center;padding:30px 0}
+.done h2{font-weight:900;font-size:28px;line-height:1.1;margin:0 0 8px}
+.done p{color:var(--muted);margin:0 0 18px}
+.msg{font-size:14px;color:var(--muted);text-align:center;margin-top:8px;min-height:1em}
+</style>
+</head>
+<body>
+<header class="top"><div class="in">
+  <div class="brand">Eleve · Consultoria de visto americano</div>
+  <h1>Seu orçamento para o <em>visto americano</em></h1>
+  <p>Responda em cerca de 2 minutos. No final, suas respostas vão direto para o nosso WhatsApp e retornamos com o orçamento.</p>
+</div></header>
+
+<main class="wrap">
+<form id="form" novalidate>
+  <label class="f" data-req><span>Nome completo <b class="req">*</b></span><input type="text" id="nome" autocomplete="name"><div class="em">Digite seu nome.</div></label>
+  <label class="f" data-req><span>WhatsApp com DDD <b class="req">*</b></span><input type="tel" id="whats" inputmode="tel" autocomplete="tel" placeholder="(31) 9 0000-0000"><div class="em">Digite seu WhatsApp com DDD.</div></label>
+  <label class="f" data-req><span>Cidade e estado onde mora <b class="req">*</b></span><input type="text" id="cidade" autocomplete="address-level2" placeholder="Ex.: Santa Luzia - MG"><div class="em">Digite sua cidade.</div></label>
+
+  <div class="f" id="f-pessoas" data-req><span>Quantas pessoas vão tirar o visto? <b class="req">*</b><small>Contando você.</small></span>
+    <div class="two">
+      <label>Adultos (18 anos ou mais)<input type="number" id="adultos" min="0" max="30" inputmode="numeric" value="1"></label>
+      <label>Menores de 18 anos<input type="number" id="menores" min="0" max="30" inputmode="numeric" value="0"></label>
+    </div><div class="em">Informe pelo menos 1 pessoa.</div></div>
+</form>
+<div id="radios"></div>
+<label class="f"><span>Quer contar mais alguma coisa?<small>Opcional. Ex.: motivo da viagem, dúvidas, data que precisa viajar.</small></span><textarea id="obs"></textarea></label>
+
+<button type="button" id="send">Enviar pelo WhatsApp</button>
+<div class="msg" id="msg"></div>
+<p class="privacy">Usamos suas respostas só para montar o seu orçamento. Não pedimos documentos nem dados de passaporte nesta etapa.</p>
+
+<section class="done" id="done">
+  <h2>Pronto!</h2>
+  <p>O WhatsApp vai abrir com suas respostas. É só tocar em enviar. Se ele não abriu, use o botão abaixo.</p>
+  <button type="button" id="again">Abrir o WhatsApp de novo</button>
+  <button type="button" class="ghost" id="copy">Copiar minhas respostas</button>
+  <div class="msg" id="msg2"></div>
+</section>
+</main>
+
+<script>
+{
+const ZAP='5531992371702';
+const R=[
+ {id:'tipo',t:'Qual visto você precisa?',o:['Turismo ou negócios','Estudante','Outro','Não sei']},
+ {id:'fase',t:'É o primeiro visto ou renovação?',o:['Primeiro visto','Renovação: o visto venceu há menos de 12 meses','Renovação: o visto venceu há mais de 12 meses','Não sei']},
+ {id:'negado',t:'Alguém do grupo já teve o visto americano negado?',o:['Não','Sim','Não sei']},
+ {id:'pass',t:'Todos têm passaporte válido?',s:'O passaporte precisa valer por pelo menos 6 meses depois da viagem.',o:['Sim, todos têm','Alguém precisa tirar ou renovar','Não sei']},
+ {id:'quando',t:'Quando pretende viajar?',o:['Nos próximos 3 meses','Entre 3 e 6 meses','Daqui a mais de 6 meses','Ainda sem data']},
+ {id:'ajuda',t:'Que tipo de ajuda você quer?',o:['Só o preenchimento do formulário (DS-160)','Formulário e agendamento','Completo: formulário, agendamento e preparação para a entrevista','Quero orientação para decidir']},
+ {id:'atend',t:'Como prefere ser atendido?',o:['Online','Presencial em Santa Luzia - MG','Tanto faz']},
+ {id:'origem',t:'Como conheceu a gente?',o:['Instagram','Indicação de alguém','Outro'],opt:true}
+];
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+$('radios').innerHTML=R.map(q=>`<fieldset class="f" id="f-${q.id}" ${q.opt?'':'data-req'}><legend>${esc(q.t)} ${q.opt?'':'<b class="req">*</b>'}${q.s?`<small>${esc(q.s)}</small>`:''}</legend>
+<div class="opts">${q.o.map((o,i)=>`<label><input type="radio" name="${q.id}" value="${esc(o)}">${esc(o)}</label>`).join('')}</div>
+<div class="em">Escolha uma opção.</div></fieldset>`).join('');
+const val=id=>$(id).value.trim();
+const pick=id=>{const c=document.querySelector(`input[name="${id}"]:checked`);return c?c.value:''};
+function check(){
+ let first=null;const bad=(el,b)=>{el.classList.toggle('bad',b);if(b&&!first)first=el};
+ bad($('nome').closest('.f'),val('nome').length<3);
+ bad($('whats').closest('.f'),val('whats').replace(/\D/g,'').length<10);
+ bad($('cidade').closest('.f'),val('cidade').length<2);
+ const a=parseInt(val('adultos')||'0',10),m=parseInt(val('menores')||'0',10);
+ bad($('f-pessoas'),!(a+m>=1));
+ R.forEach(q=>{if(!q.opt)bad($('f-'+q.id),!pick(q.id))});
+ return first;
+}
+function texto(){
+ const a=parseInt(val('adultos')||'0',10),m=parseInt(val('menores')||'0',10);
+ const L=['*Orçamento - Visto americano*','',
+ `*Nome:* ${val('nome')}`,`*WhatsApp:* ${val('whats')}`,`*Cidade:* ${val('cidade')}`,
+ `*Pessoas:* ${a} adulto(s) e ${m} menor(es) de 18 anos (total ${a+m})`];
+ R.forEach(q=>L.push(`*${q.t}* ${pick(q.id)||'-'}`));
+ if(val('obs'))L.push('',`*Observações:* ${val('obs')}`);
+ return L.join('\n');
+}
+const link=()=>`https://wa.me/${ZAP}?text=${encodeURIComponent(texto())}`;
+document.addEventListener('change',e=>{const f=e.target.closest('.f');if(f&&f.classList.contains('bad'))check()});
+$('send').addEventListener('click',()=>{
+ const first=check();
+ if(first){$('msg').textContent='Falta responder algumas perguntas (marcadas em vermelho).';first.scrollIntoView({behavior:'smooth',block:'center'});return}
+ $('msg').textContent='';
+ $('done').style.display='block';$('done').scrollIntoView({behavior:'smooth'});
+ location.href=link();
+});
+$('again').addEventListener('click',()=>{location.href=link()});
+$('copy').addEventListener('click',()=>{
+ if(!navigator.clipboard){ $('msg2').textContent='Não foi possível copiar neste aparelho.';return}
+ navigator.clipboard.writeText(texto()).then(()=>{$('msg2').textContent='Respostas copiadas. Cole no WhatsApp (31) 99237-1702.'}).catch(()=>{$('msg2').textContent='Não foi possível copiar neste aparelho.'});
+});
+}
+</script>
+</body>
+</html>
