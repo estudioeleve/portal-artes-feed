@@ -1,17 +1,5 @@
 [
  {
-  "id": "181443_112",
-  "data": "2026-11-24T18:16:46-03:00",
-  "titulo": "Justiça declara inimputável ex-sargento da Marinha que matou vizinho a tiros em Betim",
-  "linha_fina": "Laudo apontou doença mental; juiz trocou a prisão preventiva por internação provisória.",
-  "categoria": "betim",
-  "texto": "<p>A Justiça declarou inimputável o terceiro-sargento da reserva da Marinha acusado de matar a tiros o vizinho Carlos Alberto dos Santos, de 61 anos, em Betim, na Região Metropolitana de Belo Horizonte. Com a decisão, ele não poderá ser responsabilizado criminalmente pelo homicídio, mas continuará internado para tratamento psiquiátrico.</p><p>A decisão foi publicada na semana passada pelo juiz Leonardo Cohen Prado, da 3ª Vara Criminal de Betim, após a conclusão de um exame de insanidade mental. Segundo o laudo, o acusado tem uma doença mental que comprometeu a capacidade de avaliar e controlar as próprias ações na época do crime. O perito também apontou alta periculosidade e recomendou internação hospitalar.</p><p>Ao homologar o laudo, o magistrado não concedeu liberdade ao militar. Diante da gravidade do caso, substituiu a prisão preventiva por internação provisória, considerada mais adequada à condição do réu.</p><p>O crime aconteceu em 14 de julho, no bairro Quintas do Godoy. Segundo a polícia, imagens de câmeras de segurança mostram o suspeito se aproximando da picape da vítima logo depois que ela saiu da garagem; em seguida, são ouvidos vários disparos. Carlos Alberto chegou a ser levado ao Hospital Regional de Betim, mas não resistiu.</p><p>De acordo com o processo, o sargento já havia sido interditado judicialmente em 2021, a pedido da própria mãe. Anos antes do crime em Betim, ele também havia matado um homem dentro de um ônibus no Distrito Federal e foi absolvido por inimputabilidade naquele caso.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/181443_112.jpg",
-  "credito_foto": "TJMG/Divulgação",
-  "fonte": "Metrópoles",
-  "resumos": ""
- },
- {
   "id": "181447_170",
   "data": "2026-11-24T18:16:46-03:00",
   "titulo": "Crânio é retirado de sepultura em cemitério de Perdões, no Sul de Minas, e Polícia Civil abre inquérito",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/151200_134.jpg",
   "credito_foto": "Agência Senado",
   "fonte": "Rádio Senado",
+  "resumos": ""
+ },
+ {
+  "id": "155500_israel",
+  "data": "2026-11-26T15:54:53-03:00",
+  "titulo": "Lei de Uso e Ocupação do Solo de Santa Luzia vai à Câmara; entenda por que ela mexe com sua vida",
+  "linha_fina": "Prefeitura conclui o projeto, que define o que pode ser construído em cada bairro; anúncio não detalha mudanças e população pode cobrar debate.",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Prefeitura de Santa Luzia anunciou nas redes sociais que concluiu o projeto da nova Lei de Uso e Ocupação do Solo do município. Segundo a publicação, o texto foi elaborado em conjunto pelas secretarias envolvidas e o próximo passo é entregá-lo ao presidente da Câmara Municipal, para que siga a tramitação legislativa.</p><p>De acordo com a administração municipal, a proposta busca \"proporcionar mais segurança jurídica, desenvolvimento ordenado e planejamento para o crescimento\" da cidade. A publicação, porém, não traz detalhes sobre o conteúdo do projeto, como possíveis mudanças no zoneamento dos bairros, nas regras de construção ou nas áreas de preservação.</p><p><strong>Por que essa lei importa para o morador</strong></p><p>A Lei de Uso e Ocupação do Solo é uma das normas que mais interferem no dia a dia de uma cidade, embora costume receber pouca atenção. É ela que define o que pode funcionar em cada rua e bairro (casas, comércio, serviços ou indústria), a altura máxima dos prédios, o tamanho mínimo dos lotes, a área que precisa ficar livre e permeável em cada terreno, os recuos das construções e as áreas que devem ser protegidas.</p><p>Na prática, essas regras afetam o valor dos imóveis, a chegada de novos empreendimentos, o trânsito, a pressão sobre escolas e postos de saúde e até o risco de alagamentos, já que a impermeabilização do solo e a ocupação de margens de córregos têm relação direta com enchentes. Para quem tem ou quer abrir um comércio, a lei pode determinar se o negócio é permitido naquele endereço. Para quem tem imóvel irregular, pode influenciar as possibilidades de regularização.</p><p><strong>O que a população pode acompanhar</strong></p><p>Por ter esse impacto, especialistas em planejamento urbano costumam defender que projetos desse tipo sejam amplamente debatidos antes da votação. O Estatuto da Cidade (Lei federal 10.257/2001) estabelece a gestão democrática das cidades, com participação da população e de associações na formulação e no acompanhamento de planos e projetos de desenvolvimento urbano, inclusive por meio de debates e audiências públicas.</p><p>Entre as perguntas que os moradores podem fazer à Prefeitura e aos vereadores estão: o que muda no meu bairro? Haverá áreas liberadas para prédios mais altos ou para atividades industriais perto de residências? Como ficam as áreas de risco e as margens de córregos? O texto completo será publicado para consulta? Haverá audiências públicas na Câmara antes da votação?</p><p>O Portal ONE News vai acompanhar a entrega do projeto à Câmara Municipal e a tramitação do texto, e o espaço está aberto para a Prefeitura e os vereadores detalharem o conteúdo da proposta.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/155500_israel.jpg",
+  "credito_foto": "Reprodução/Redes Sociais",
+  "fonte": "Prefeitura de Santa Luzia",
   "resumos": ""
  }
 ]
