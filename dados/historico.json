@@ -74772,5 +74772,47 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "artes/2026-11-26/101256_52.jpg",
   "media_id": "18113096996229270"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "10:23",
+  "id": "102054_54",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Gasolina varia até R$ 1,10 por litro em BH e região; etanol vale mais a pena em parte dos postos",
+  "titulo_orig": "Preços dos combustíveis variam até R$ 1,10 por litro em BH e região metropolitana - Minaspetro",
+  "link": "https://minaspetro.com.br/gasolina-a-r-589-e-etanol-a-r-419-confira-postos-com-precos-mais-baratos-de-bh-e-regiao/",
+  "fonte": "Minaspetro",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "10:23",
+  "id": "102042_1",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Natal de Luz de Contagem começa nesta sexta com oito Vilas do Papai Noel e túnel de luz de 40 metros",
+  "titulo_orig": "Natal de Luz começa nesta sexta-feira em Contagem com oito vilas temáticas e iluminação em 18 espaços - BH 24 Horas",
+  "link": "https://bh24horas.com.br/minas-gerais/natal-de-luz-comeca-nesta-sexta-feira-em-contagem-com-oito-vilas-tematicas-e-iluminacao-em-18-espacos/",
+  "fonte": "BH 24 Horas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "10:23",
+  "id": "101259_25",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Navio com 7 mil toneladas de diesel afunda perto de Ibiza, na Espanha, e um tripulante morre",
+  "titulo_orig": "Navio com 7 mil toneladas de óleo afunda em Ibiza e deixa 1 morto; Espanha tenta evitar 'maré negra' | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/26/navio-com-oleo-afunda-perto-de-ibiza-na-espanha-e-deixa-morto-equipes-tenta-evitar-mare-negra.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-26/101259_25.jpg",
+  "media_id": "SITE"
  }
 ]
