@@ -1,17 +1,5 @@
 [
  {
-  "id": "181440_39",
-  "data": "2026-11-24T18:16:46-03:00",
-  "titulo": "Governo de Minas rebate vice eleito Falcão e mantém previsão de rombo de R$ 10,5 bilhões para 2027",
-  "linha_fina": "Equipe de transição de Cleitinho fala em déficit de até R$ 14 bilhões; Fazenda diz que previsões dos últimos anos não se confirmaram.",
-  "categoria": "politica",
-  "texto": "<p>O Governo de Minas Gerais rebateu as declarações do vice-governador eleito, Luís Eduardo Falcão (Republicanos), e reafirmou que o déficit previsto nas contas do Estado para 2027 é de R$ 10,5 bilhões. A equipe que assume o Palácio Tiradentes em janeiro estima que o rombo pode chegar a R$ 14 bilhões.</p><p>Em nota, a Secretaria de Estado de Fazenda manteve os números do Projeto de Lei Orçamentária de 2027, que prevê receitas de R$ 145 bilhões e despesas de R$ 155,5 bilhões. Segundo a pasta, os valores foram enviados à Assembleia Legislativa com as memórias de cálculo, e a lei orçamentária autoriza gastos, mas não obriga sua realização integral.</p><p>Falcão falou do assunto na segunda-feira (23), durante a posse do novo procurador-geral de Justiça, Carlos Eduardo Ferreira Pinto. Ele afirmou que o déficit real deve subir de R$ 10 bilhões para R$ 14 bilhões e que a diferença ainda está sendo apurada pela equipe de transição do governador eleito Cleitinho Azevedo. \"A transição ainda não foi finalizada, mas me comprometo a trazer esse número\", disse.</p><p>A gestão de Mateus Simões (PSD) recorreu ao histórico para defender sua posição. De acordo com a Fazenda, os déficits previstos nos últimos cinco orçamentos não se confirmaram: em 2024, por exemplo, a previsão era de rombo de R$ 8,1 bilhões e o Estado fechou com superávit de R$ 5,2 bilhões; em 2025, o déficit previsto de R$ 8,6 bilhões virou resultado positivo de R$ 1,1 bilhão.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-24/181440_39.jpg",
-  "credito_foto": "Reprodução/Facebook",
-  "fonte": "N3 News",
-  "resumos": ""
- },
- {
   "id": "181443_112",
   "data": "2026-11-24T18:16:46-03:00",
   "titulo": "Justiça declara inimputável ex-sargento da Marinha que matou vizinho a tiros em Betim",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/151328_41.jpg",
   "credito_foto": "Reprodução/BH 24 Horas",
   "fonte": "BH 24 Horas",
+  "resumos": ""
+ },
+ {
+  "id": "151200_134",
+  "data": "2026-11-26T15:19:28-03:00",
+  "titulo": "CCJ do Senado aprova bafômetro obrigatório em acidentes e blitz e fim da fiança para quem matar ao volante embriagado",
+  "linha_fina": "Projeto de Fabiano Contarato torna inafiançável o homicídio no trânsito sob efeito de álcool ou drogas; se não houver recurso, segue para a Câmara.",
+  "categoria": "politica",
+  "texto": "<p>A Comissão de Constituição e Justiça (CCJ) do Senado aprovou nesta quinta-feira (26) o projeto de lei que torna obrigatório o teste de alcoolemia, o exame clínico ou a perícia para motoristas envolvidos em acidentes de trânsito ou parados em blitz. O texto (PL 1.229/2024) também impede fiança, graça, indulto ou anistia para quem matar ao volante sob efeito de álcool ou drogas.</p><p>Se não houver recurso para votação no Plenário, a proposta segue direto para a análise da Câmara dos Deputados.</p><p>Pelo projeto, o homicídio culposo qualificado pela embriaguez passa a ser crime inafiançável. A proposta determina ainda a prisão em flagrante do motorista embriagado ou drogado que provocar morte no trânsito, mesmo que ele preste socorro imediato à vítima. Hoje, a prestação de socorro evita o flagrante nesses casos.</p><p>O autor, senador Fabiano Contarato (PT-ES), defendeu a obrigação do bafômetro para qualquer motorista abordado em blitz e explicou que só o homicídio comprovado em estado de embriaguez se torna inafiançável. \"Tornar inafiançável não é qualquer crime de trânsito; é apenas o homicídio\", afirmou.</p><p>A obrigação ampla do teste foi criticada pelo senador Carlos Portinho (PL-RJ), que questionou as consequências para quem se recusar a soprar o bafômetro ou tiver bebido pouco. O debate deve continuar na Câmara, onde o texto ainda precisa ser votado antes de ir à sanção.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/151200_134.jpg",
+  "credito_foto": "Agência Senado",
+  "fonte": "Rádio Senado",
   "resumos": ""
  }
 ]
