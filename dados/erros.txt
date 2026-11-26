@@ -798,3 +798,4 @@
 2026-11-26 10:18 rodada 10h: painel da Eleve 'too many actions' (API Meta sem chave neste ambiente); posts saindo pelo Windsor (moldura one, sem collab)
 2026-11-26 10:22 101256_52 (comercio): Windsor COM collaborators=@portallcomercio (painel too many actions)
 2026-11-26 10:43 denúncia 10897 (Pinhões, Luziense): painel 'too many actions' 2x -> Windsor create_carousel_post com collaborators=@portaluziense (4 slides), media 18419316961080817
+2026-11-26 11:32 rodada 11h: denúncias A, B e C vazias. Instagram 4 pelo Windsor (moldura one): pendente 101411_62, jacaré Januária, médico preso Vale do Aço, David Vasco. Dengue 111243_56 só site (FOTO REPETIDA). Site: 8 só site. Santa Luzia MG: nada novo no radar (homônimas).
