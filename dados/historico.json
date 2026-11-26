@@ -73680,5 +73680,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-25/221810_246.jpg",
   "media_id": "18175456138423160"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "22:50",
+  "id": "221427_27",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Black Friday chega com 81,6% das famílias endividadas e juros no maior nível desde 2017",
+  "titulo_orig": "Black Friday chega com 81,6% das famílias brasileiras endividadas",
+  "link": "https://contilnetnoticias.com.br/cotidiano/black-friday-chega-com-816-das-familias-brasileiras-endividadas/",
+  "fonte": "ContilNet Notícias",
+  "arte": "artes/2026-11-25/221427_27.jpg",
+  "media_id": "18573014803076246"
  }
 ]
