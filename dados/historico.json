@@ -73624,5 +73624,33 @@
   "fonte": "Jornal Minas | Home",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "22:24",
+  "id": "222314_122",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Fora dos planos do governo Lula 4, Haddad vai voltar a dar aulas na pós-graduação da USP em 2027",
+  "titulo_orig": "Sem previsão de integrar Lula 4, Haddad dará aulas em pós-graduação da USP em 2027",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/sem-previsao-de-integrar-lula-4-haddad-dara-aulas-em-pos-graduacao-da-usp-em-2027.shtml",
+  "fonte": "Folha de S.Paulo",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "22:24",
+  "id": "222407_248",
+  "bloco": "brasil",
+  "portal": "politica",
+  "ed": "BRASIL",
+  "titulo": "Governo Lula estuda mudar a Constituição para conter gastos a partir de 2027; saúde e educação ficam de fora",
+  "titulo_orig": "Governo Lula estuda mudanças na Constituição para conter gastos públicos a partir de 2027",
+  "link": "https://rbtv.com.br/noticia/35634/governo-lula-estuda-mudancas-na-constituicao-para-conter-gastos-publicos-a-partir-de-2027",
+  "fonte": "REDE BRASIL DE TELEVISÃO",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
