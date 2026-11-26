@@ -73526,5 +73526,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-25/211850_6.jpg",
   "media_id": "17982604874918958"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "21:44",
+  "id": "212005_9",
+  "bloco": "brasil",
+  "portal": "one",
+  "ed": "BRASIL",
+  "titulo": "Banco Central aprova regras para frear o endividamento das famílias; veja o que muda no crédito",
+  "titulo_orig": "CMN e BC anunciam novas regras para conter endividamento das famílias",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cmn-e-bc-anunciam-novas-regras-para-conter-endividamento-das-familias",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-25/212005_9.jpg",
+  "media_id": "17926326147223211"
  }
 ]
