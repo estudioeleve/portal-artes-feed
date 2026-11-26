@@ -74758,5 +74758,19 @@
   "fonte": "Nova Lima News",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "10:22",
+  "id": "101256_52",
+  "bloco": "comercio",
+  "portal": "comercio",
+  "ed": "COMÉRCIO",
+  "titulo": "Prévia da inflação sobe 0,22% em novembro, puxada pela comida; tomate dispara quase 39% no mês",
+  "titulo_orig": "IPCA-15 teve alta de 0,22% em novembro",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "artes/2026-11-26/101256_52.jpg",
+  "media_id": "18113096996229270"
  }
 ]
