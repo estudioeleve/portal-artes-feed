@@ -1,36 +1,77 @@
 [
  {
-  "id": 10492,
-  "protocolo": "OC-2026-10492",
-  "instagram_formato": "feed",
-  "midia_tipo": "foto",
-  "relato": "Bom dia ,  estou indignada com a gestão da saúde no nosso município,\r\nontem 24/11 fui buscar insulina na farmácia do São Benedito e não tinha , fui até a farmácia da antiga rodoviária perto do hospital Madalena Calixto e também não tinha insulina nph para caneta ,  a moça disse que tinha frasco mas não tinha seringa para fornecer pois está em falta a meses .  Como que deixam acabar? Semana passada a prefeitura descartou um monte de insulina no lixo.  Pior gestão da saúde em Santa Luzia, um absurdo.",
-  "anonima": true,
-  "nome": "",
+  "id": 11103,
+  "protocolo": "OC-2026-11103",
+  "instagram_formato": "reels",
+  "midia_tipo": "video",
+  "relato": "FISCAL DO POVO NA ESCOLA LÚCIA VIANA DE PAIVA\r\n\r\nO Fiscal do Povo, Fabrício Bom Pastor, foi acionado por moradores para mostrar a situação da Escola Lúcia Viana de Paiva, na região do Baronesa, em Santa Luzia (MG).\r\n\r\nMoradores relatam abandono, falta de estrutura e fiação elétrica exposta, que estaria provocando choques e colocando em risco alunos e funcionários.\r\n\r\nA comunidade cobra providências urgentes das autoridades responsáveis. A segurança dos alunos e profissionais precisa ser prioridade.\r\n\r\nBaronesa – Santa Luzia/MG.",
+  "anonima": false,
+  "nome": "Fabrício Bom Pastor",
   "cidade": null,
   "bairro": null,
   "moldura": "Portal Luziense",
-  "titulo": "Leitora relata falta de insulina e seringas em farmácias municipais de Santa Luzia",
+  "titulo": "Fiscal do povo mostra fiação exposta e falta de estrutura em escola do Baronesa, em Santa Luzia",
   "data": null,
   "extra": {
-   "editoria": "Denúncia · Santa Luzia",
+   "editoria": "Denúncia · Baronesa",
    "tipo": "denuncia",
    "tipo_nome": "Denúncia",
    "cabecalho": "📢 DENÚNCIA DO LEITOR",
-   "assinatura": "",
-   "local": "Farmácias da prefeitura",
+   "assinatura": "Denúncia feita por Fabrício Bom Pastor",
+   "local": "Rua Hungria 55 Baronesa",
    "posicionamento": "",
-   "foto_url": "https://portalonenews.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-07-17-at-15.02.28-360x203-1-1.jpeg",
-   "fotos_url": [
-    "https://portalonenews.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-07-17-at-15.02.28-360x203-1-1.jpeg"
+   "foto_url": "",
+   "fotos_url": [],
+   "videos_url": [
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/VID-20261125-WA0304-1.mp4",
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/VID-20261125-WA03071.mp4",
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/VID-20261125-WA03091.mp4"
    ],
-   "videos_url": [],
-   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-10492-1795612230-site.png",
-   "materia_url": "https://portalonenews.com.br/santa-luzia/leitora-relata-falta-de-insulina-e-seringas-em-farmacias-municipais-de-santa-luzia/",
+   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-11103-1795728609-site.png",
+   "materia_url": "https://portalonenews.com.br/santa-luzia/fiscal-do-povo-mostra-fiacao-exposta-e-falta-de-estrutura-em-escola-do-baronesa-em-santa-luzia/",
    "instagram": "pendente",
    "texto_jornalistico": ""
   },
-  "arquivo": "artes/denuncias/2026-11-25/denuncia_10492.jpg",
-  "acao": "create_image_post"
+  "videos": 3,
+  "arquivo": "videos/2026-11-26/denuncia_11103.mp4",
+  "duracao": 76.8,
+  "quadro": "fotos/denuncias/11103_quadro.jpg",
+  "acao": "create_video_post"
+ },
+ {
+  "id": 11067,
+  "protocolo": "OC-2026-11067",
+  "instagram_formato": "reels",
+  "midia_tipo": "video",
+  "relato": "POSTE CAI COM AS FIAÇÕES NO MEIO DA RUA NOVA ESPERANÇA. PALMITAL. TRAZENDO PERIGO PARA OS MORADORES",
+  "anonima": false,
+  "nome": "Fabrício Bom Pastor",
+  "cidade": null,
+  "bairro": null,
+  "moldura": "Portal Luziense",
+  "titulo": "Fiscal do povo mostra poste caído com fiação no meio de rua do Palmital, em Santa Luzia",
+  "data": null,
+  "extra": {
+   "editoria": "Denúncia · Palmital",
+   "tipo": "denuncia",
+   "tipo_nome": "Denúncia",
+   "cabecalho": "📢 DENÚNCIA DO LEITOR",
+   "assinatura": "Denúncia feita por Fabrício Bom Pastor",
+   "local": "Rua 3 maio ATRAS DA CRECHE PATOTINHA",
+   "posicionamento": "",
+   "foto_url": "",
+   "fotos_url": [],
+   "videos_url": [
+    "https://portalonenews.com.br/wp-content/uploads/2026/11/VID-20261126-WA02061.mp4"
+   ],
+   "capa_site": "https://portalonenews.com.br/wp-content/uploads/denuncias/oc-2026-11067-1795728613-site.png",
+   "materia_url": "https://portalonenews.com.br/santa-luzia/fiscal-do-povo-mostra-poste-caido-com-fiacao-no-meio-de-rua-do-palmital-em-santa-luzia/",
+   "instagram": "pendente",
+   "texto_jornalistico": ""
+  },
+  "arquivo": "videos/2026-11-26/denuncia_11067.mp4",
+  "duracao": 93.5,
+  "quadro": "fotos/denuncias/11067_quadro.jpg",
+  "acao": "create_video_post"
  }
 ]
