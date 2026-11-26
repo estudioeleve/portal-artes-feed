@@ -73484,5 +73484,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "21:29",
+  "id": "202054_162",
+  "bloco": "bh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Justiça condena PBH a pagar R$ 200 mil aos pais de menino que morreu de febre maculosa",
+  "titulo_orig": "Febre maculosa em BH: Justiça condena prefeitura a pagar R$ 200 mil | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/25/prefeitura-de-bh-e-condenada-a-pagar-r-200-mil-a-pais-de-menino-morto-por-febre-maculosa.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-25/202054_162.jpg",
+  "media_id": "18103728353389018"
  }
 ]
