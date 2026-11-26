@@ -73568,5 +73568,61 @@
   "fonte": "LANCE!",
   "arte": "artes/2026-11-25/221312_5.jpg",
   "media_id": "18205468072389012"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "22:22",
+  "id": "221504_207",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "MATOZINHOS",
+  "titulo": "\"Acabou com minha vida\": mãe de cabeleireira morta em Matozinhos diz que filha sonhava com carro e casa",
+  "titulo_orig": "Mulher morta por PM em Matozinhos sonhava em comprar carro e casa própria, revela mãe | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/brasil/sudeste/mg/mulher-morta-por-pm-em-matozinhos-sonhava-em-comprar-carro-e-casa-propria-revela-mae/",
+  "fonte": "Rádio Itatiaia",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "22:22",
+  "id": "221507_177",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Rede avalia apoiar Cleitinho na Assembleia de Minas e Janones articula aproximação com Lula",
+  "titulo_orig": "Janones amarra apoio da Rede a Cleitinho na Assembleia de Minas",
+  "link": "https://www.metropoles.com/minas-gerais/janones-amarra-apoio-da-rede-a-cleitinho-na-assembleia-de-minas",
+  "fonte": "Metrópoles",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "22:22",
+  "id": "221559_42",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Ministros do STF reclamam de falhas no sistema de distribuição de processos da Corte",
+  "titulo_orig": "Ministros reclamam de problemas no sistema de distribuição de ações no STF | Blogs | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/blogs/luisa-martins/politica/ministros-reclamam-de-problemas-no-sistema-de-distribuicao-de-acoes-no-stf/",
+  "fonte": "CNN Brasil",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "22:22",
+  "id": "221801_160",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "REGIÃO METROPOLITANA",
+  "titulo": "PF prende servidor da Câmara de Nova Lima suspeito em esquema de minério que usaria laudo da Defesa Civil",
+  "titulo_orig": "Polícia Federal prende servidor público em Nova Lima; esquema usaria laudo da Defesa Civil para desviar minério - Jornal Minas",
+  "link": "https://jornalminas.com.br/policia-federal-prende-servidor-publico-em-nova-lima-esquema-usaria-laudo-da-defesa-civil-para-desviar-minerio/",
+  "fonte": "Jornal Minas | Home",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
