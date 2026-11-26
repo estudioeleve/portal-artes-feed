@@ -74604,5 +74604,19 @@
   "fonte": "BH 24 Horas",
   "arte": "artes/2026-11-26/091406_1.jpg",
   "media_id": "17957973198312668"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "09:37",
+  "id": "091528_47",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Kim Jong-un visita fábricas de urânio e promete fabricar ainda mais armas nucleares",
+  "titulo_orig": "Kim Jong-un visita instalação de enriquecimento de urânio; FOTOS | G1",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/26/kim-jong-un-visita-instalacao-enriquecimento-de-uranio-promete-construir-mais-armas-nucleares-fotos.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-26/091528_47.jpg",
+  "media_id": "18147575173581938"
  }
 ]
