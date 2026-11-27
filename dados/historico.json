@@ -78594,5 +78594,19 @@
   "fonte": "Por Dentro de Tudo",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "id": "denuncia_11357",
+  "data": "2026-11-27",
+  "hora": "12:45",
+  "media_id": "18139227325674894",
+  "titulo": "Denúncia do leitor OC-2026-11357",
+  "titulo_orig": "",
+  "bloco": "rmbh",
+  "portal": "Portal Luziense",
+  "ed": "DENÚNCIA",
+  "fonte": "Faça sua denúncia",
+  "link": "denuncia:11357",
+  "arte": "videos/2026-11-27/denuncia_11357.mp4"
  }
 ]
