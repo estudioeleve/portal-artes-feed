@@ -875,3 +875,4 @@
 27/11/2026 19:15 - Rodada 19h: denúncias A, B e C vazias. Instagram: limite 100/24h (Windsor) e painel 'too many actions'; pendente 181800_israel (Black Friday EUA, pedido do Israel) tentado de novo, segue no topo de dados/pendentes.json. Site: 9 só site. Santa Luzia MG: nada novo (radar só homônimas).
 27/11/2026 20:13 181800_israel (Black Friday EUA, Reels ONE): painel 'container ERROR' (jsDelivr) e 'too many actions' (raw); publicado pelo Windsor (moldura ONE, sem collab)
 27/11/2026 20:15 pendentes de 17/11 (021223_36, 021319_2, 021323_5, 021336_14, 021535_255) tirados de dados/pendentes.json: notícia de 10 dias atrás (regra do tempo real)
+27/11/2026 20:25 201535_291 (Black Friday recorde, Comércio): painel 'too many actions'; publicado pelo Windsor COM collaborators=@portallcomercio
