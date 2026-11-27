@@ -79910,5 +79910,47 @@
   "fonte": "Hoje em Dia",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "20:20",
+  "id": "201924_19",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Linha 637 muda horários a partir desta sexta e 513 passa a rodar nos fins de semana em BH",
+  "titulo_orig": "Linhas 637 e 513 terão mudanças na operação e ampliação do atendimento em BH - BH 24 Horas",
+  "link": "https://bh24horas.com.br/minas-gerais/linhas-637-e-513-terao-mudancas-na-operacao-e-ampliacao-do-atendimento-em-bh/",
+  "fonte": "BH 24 Horas",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "20:20",
+  "id": "201929_136",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Quem é Edilene Lôbo, jurista mineira cotada para ser a primeira ministra negra do STF",
+  "titulo_orig": "Saiba quem é Edilene Lôbo, jurista mineira cotada para ser a primeira ministra negra do STF",
+  "link": "https://bhaz.com.br/noticias/minas-gerais/saiba-quem-e-edilene-lobo-jurista-mineira-cotada-para-ser-a-primeira-ministra-negra-do-stf/",
+  "fonte": "bhaz.com.br",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "20:20",
+  "id": "201930_104",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "CONTAGEM",
+  "titulo": "Moto de entregador some de condomínio na Cidade Industrial, em Contagem, e família pede ajuda",
+  "titulo_orig": "ALTO FALANTE: Moto usada para entrega por app some de condomínio em Contagem e família pede ajuda para encontrá-la",
+  "link": "https://bhaz.com.br/secoes/alto-falante/alto-falante-moto-e-roubada-dentro-de-condominio-em-contagem/",
+  "fonte": "bhaz.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
