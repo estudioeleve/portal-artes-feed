@@ -1,17 +1,5 @@
 [
  {
-  "id": "161341_104",
-  "data": "2026-11-25T16:19:08-03:00",
-  "titulo": "Túnel da Lagoinha ganha pintura que resgata memória do córrego e das lavadeiras de BH",
-  "linha_fina": "Intervenção 'Memória das Águas', da artista Carol Smocowisk, faz parte da revitalização do Complexo da Lagoinha e deve terminar em março de 2027",
-  "categoria": "belo-horizonte",
-  "texto": "<p>O Túnel da Lagoinha, que liga a região Nordeste ao Centro de Belo Horizonte, está recebendo uma intervenção de arte urbana que resgata a memória do Córrego Lagoinha e das lavadeiras que viveram e trabalharam em suas margens. A ação faz parte da revitalização do Complexo da Lagoinha, segundo a Prefeitura de Belo Horizonte.</p>\n<p>Batizada de \"Memória das Águas\", a obra é assinada pela artista Carol Smocowisk, com os assistentes de pintura Wanatta Rodrigues, Zi Reis e Kawany Tamoyos. A proposta nasceu de uma pesquisa sobre a relação da cidade com seus rios e com as pessoas que construíram o cotidiano junto às águas. A memória das lavadeiras, inclusive, dá nome à praça próxima ao túnel.</p>\n<p>A pintura começou em novembro e foi dividida em duas etapas. A primeira, nas fachadas do sentido Centro-bairro, deve ficar pronta em dezembro. Depois, será a vez do sentido bairro-Centro. A expectativa é concluir toda a intervenção até março de 2027.</p>\n<p>Para a presidenta da Fundação Municipal de Cultura, Bárbara Bof, a obra valoriza referências históricas e culturais da formação da cidade. Segundo ela, a arte urbana ocupa o espaço público, dialoga com o cotidiano e ajuda a contar a história de Belo Horizonte.</p>\n<p>A Lagoinha é um dos bairros mais antigos da capital e passa por um conjunto de ações de requalificação. A expectativa é que a intervenção torne o trajeto mais agradável para motoristas e pedestres que passam diariamente pelo túnel.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/161341_104.jpg",
-  "credito_foto": "Foto: Divulgação/PBH",
-  "fonte": "Prefeitura de Belo Horizonte",
-  "resumos": ""
- },
- {
   "id": "161358_76",
   "data": "2026-11-25T16:19:08-03:00",
   "titulo": "Câmara de BH aprova relatório que aponta falhas nos contratos de ônibus e sugere mudanças na nova licitação",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/111707_37.jpg",
   "credito_foto": "Divulgação/PRF",
   "fonte": "O Tempo",
+  "resumos": ""
+ },
+ {
+  "id": "111556_85",
+  "data": "2026-11-27T11:19:09-03:00",
+  "titulo": "Tenente da PM salva bebê de 23 dias que se engasgou com leite e estava desacordado em Uberaba",
+  "linha_fina": "Pais pararam a viatura de madrugada; o bebê voltou a chorar depois das manobras de desengasgo feitas pelo policial.",
+  "categoria": "minas-gerais",
+  "texto": "<p>Um bebê de 23 dias foi salvo por um tenente da Polícia Militar de Minas Gerais depois de se engasgar com leite materno, na madrugada desta quinta-feira (26), em Uberaba, no Triângulo Mineiro. O menino, chamado José, estava desacordado e com sinais de cianose quando os pais encontraram a viatura no caminho para o hospital.</p><p>O atendimento aconteceu por volta das 3h, na região da Serra Dourada. O tenente Lúcio Moreira fazia patrulhamento com o aspirante Melo e o sargento Reginaldo quando a equipe percebeu um carro em alta velocidade se aproximando. O veículo parou perto da viatura, e a mãe desceu com o filho nos braços pedindo ajuda.</p><p>O bebê estava com a pele e os lábios azulados, sinal de queda na oxigenação do sangue. Como a família ainda estava a cerca de dez minutos do Hospital Regional e a criança não reagia, o tenente iniciou ali mesmo as manobras de desengasgo, com compressões nas costas feitas de forma controlada, lenta e leve.</p><p>Depois de alguns momentos de tensão, o recém-nascido voltou a chorar, sinal de que o socorro tinha funcionado. Os policiais então acompanharam os pais até o hospital, onde o bebê foi avaliado pela equipe médica.</p><p>“Foi preciso muita calma, iniciando de forma lenta e leve. Sempre treinamos a prestação de socorro na Polícia Militar”, afirmou o tenente. Com quase 20 anos de PMMG, ele disse que o salvamento é um dos episódios mais marcantes da carreira e que pensou nos próprios filhos durante o atendimento. Antes de entrar na corporação, Moreira chegou a cursar Fisioterapia.</p><p>Depois de deixar a família no hospital, a equipe voltou ao patrulhamento e, no mesmo turno, participou da prisão de um foragido da Justiça condenado por tráfico de drogas.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/111556_85.jpg",
+  "credito_foto": "Reprodução/PMMG",
+  "fonte": "BH 24 Horas",
   "resumos": ""
  }
 ]
