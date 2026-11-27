@@ -77740,5 +77740,19 @@
   "fonte": "Rádio Itatiaia",
   "arte": "artes/2026-11-27/081432_2.jpg",
   "media_id": "17948782128390589"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "08:29",
+  "id": "081440_34",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "STF mantém exigências para porte de arma das guardas municipais e contraria Moraes",
+  "titulo_orig": "STF contraria Moraes e mantém restrições ao porte de armas de GCMs",
+  "link": "https://www.gazetadopovo.com.br/republica/stf-contraria-moraes-e-mantem-restricoes-ao-porte-de-armas-de-gcms/",
+  "fonte": "Gazeta do Povo",
+  "arte": "artes/2026-11-27/081440_34.jpg",
+  "media_id": "18099721856688396"
  }
 ]
