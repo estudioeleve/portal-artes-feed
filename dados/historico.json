@@ -79322,5 +79322,19 @@
   "fonte": "Jornal Panorama Minas",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "16:30",
+  "id": "161500_95",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "POLÍCIA",
+  "titulo": "Apontado como chefe do TCP em Nanuque, foragido de Minas é preso pelo Bope na Maré",
+  "titulo_orig": "Chefe do TCP em Minas Gerais é preso no Complexo da Maré | G1",
+  "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/27/chefe-do-tcp-em-minas-gerais-e-preso-na-mare.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-27/161500_95.jpg",
+  "media_id": "18107427284011893"
  }
 ]
