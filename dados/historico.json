@@ -78608,5 +78608,19 @@
   "fonte": "Faça sua denúncia",
   "link": "denuncia:11357",
   "arte": "videos/2026-11-27/denuncia_11357.mp4"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "12:46",
+  "id": "123559_0",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Moradores de Congonhas denunciam água barrenta saindo das torneiras há semanas",
+  "titulo_orig": "Moradores denunciam água turva e barrenta em diversos bairros de Congonhas | G1",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/27/moradores-denunciam-agua-turva-e-barrenta-em-diversos-bairros-de-congonhas.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "artes/2026-11-27/123559_0.jpg",
+  "media_id": "18140190508646426"
  }
 ]
