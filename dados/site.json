@@ -1,17 +1,5 @@
 [
  {
-  "id": "081928_62",
-  "data": "2026-11-26T08:24:02-03:00",
-  "titulo": "Quinto dia útil de dezembro cai no sábado, dia 5: veja até quando as empresas devem pagar o salário",
-  "linha_fina": "Pela CLT, sábado conta como dia útil; domingos e feriados ficam fora da contagem do prazo para pagar o salário de novembro.",
-  "categoria": "comercio",
-  "texto": "<p>Empresas que têm funcionários contratados pela Consolidação das Leis do Trabalho (CLT) têm até o quinto dia útil do mês para pagar o salário referente ao mês anterior. Em dezembro de 2026, essa data cai no dia 5, um sábado.</p><p>A regra está no artigo 459 da CLT. Na contagem, são considerados dias úteis os dias de segunda-feira a sábado. Domingos não contam, e feriados nacionais, estaduais ou municipais previstos em lei também ficam de fora.</p><p>Com isso, o calendário de dezembro fica assim: 1º dia útil, terça-feira (1º); 2º dia útil, quarta-feira (2); 3º dia útil, quinta-feira (3); 4º dia útil, sexta-feira (4); e 5º dia útil, sábado (5). Esse é o prazo máximo para o pagamento do salário de novembro.</p><p>Na prática, como o último dia do prazo cai num sábado, empresas que fazem o pagamento por transferência bancária costumam antecipar o depósito para sexta-feira (4), para evitar atraso. Se houver feriado municipal entre os dias 1º e 5, a data limite passa para o dia útil seguinte.</p><p>A contagem vale para os trabalhadores em geral. Categorias específicas podem ter regras diferentes, definidas em acordos ou convenções coletivas, e o empregador deve conferir o que diz o documento da sua categoria.</p><p>Dezembro também é o mês do 13º salário. A primeira parcela deve ser paga até 30 de novembro, e a segunda, até 20 de dezembro. Para pequenos comerciantes, organizar o caixa com antecedência ajuda a cumprir os dois compromissos sem aperto.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/081928_62.jpg",
-  "credito_foto": "Reprodução/Diário do Nordeste",
-  "fonte": "Diário do Nordeste",
-  "resumos": ""
- },
- {
   "id": "081933_7",
   "data": "2026-11-26T08:24:02-03:00",
   "titulo": "Governo vai renovar por mais 30 dias o desconto de R$ 2,12 por litro no diesel, anuncia ministro",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/201930_104.jpg",
   "credito_foto": "Arquivo pessoal/bhaz",
   "fonte": "bhaz",
+  "resumos": ""
+ },
+ {
+  "id": "201916_38",
+  "data": "2026-11-27T20:20:52-03:00",
+  "titulo": "Conta de luz não terá taxa extra em dezembro: Aneel mantém bandeira verde pelo terceiro mês",
+  "linha_fina": "Com as chuvas, os reservatórios melhoraram e as térmicas, mais caras, ficam menos acionadas",
+  "categoria": "brasil",
+  "texto": "<p>A conta de energia elétrica não terá cobrança extra em dezembro. A Agência Nacional de Energia Elétrica (Aneel) manteve a bandeira tarifária verde pelo terceiro mês consecutivo.</p>\n<p>Segundo a Aneel, a decisão reflete as condições favoráveis de geração no país. Com o período chuvoso, os reservatórios e a produção das usinas hidrelétricas melhoraram, o que reduz a necessidade de acionar as termelétricas, que geram energia mais cara.</p>\n<p>O sistema de bandeiras foi criado em 2015 para mostrar ao consumidor quanto está custando gerar a energia usada em residências, comércios e indústrias. Na bandeira verde, não há acréscimo na tarifa.</p>\n<p>Nas demais cores, a conta sobe de acordo com o consumo. Na bandeira amarela, o acréscimo é de R$ 1,88 para cada 100 quilowatts-hora (kWh) consumidos. Na vermelha patamar 1, de R$ 4,46 a cada 100 kWh, e na vermelha patamar 2 o valor é ainda maior.</p>\n<p>As cores são definidas mês a mês, a partir da previsão de custo da geração. Mesmo sem taxa extra, especialistas recomendam atenção ao consumo em dezembro, quando o calor aumenta o uso de ventiladores, ar-condicionado e chuveiro elétrico.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/201916_38.jpg",
+  "credito_foto": "Marcello Casal Jr./Agência Brasil",
+  "fonte": "Agência Brasil",
   "resumos": ""
  }
 ]
