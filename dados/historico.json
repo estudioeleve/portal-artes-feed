@@ -77334,5 +77334,33 @@
   "fonte": "Folha de S.Paulo",
   "arte": "artes/2026-11-27/061611_44.jpg",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "06:31",
+  "id": "063043_74",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Indicação de Lula para vaga no STF deve ficar para 2027, avalia cúpula do Congresso",
+  "titulo_orig": "Cúpula do Congresso avalia que indicação para vaga no STF deve ficar para 2027 | Política | O Globo",
+  "link": "https://oglobo.globo.com/google/amp/politica/noticia/2026/11/27/cupula-do-congresso-avalia-que-indicacao-para-vaga-no-stf-deve-ficar-para-2027.ghtml",
+  "fonte": "O GLOBO",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "06:31",
+  "id": "063046_1",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Operação Vivaldi: como a Ucrânia frustrou o plano da Rússia de cercar o Donbass",
+  "titulo_orig": "Como a Ucrânia frustrou os planos da Rússia para cercar o Donbass | G1",
+  "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/27/operacao-vivaldi-como-ucrania-frustrou-planos-russia-donbass.ghtml",
+  "fonte": "g1.globo.com",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
