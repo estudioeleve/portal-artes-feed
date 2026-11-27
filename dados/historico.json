@@ -78426,5 +78426,61 @@
   "fonte": "oglobo.globo.com",
   "arte": "artes/2026-11-27/120624_html.jpg",
   "media_id": "18140282623646427"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "12:13",
+  "id": "120627_m-mg",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "Cabo da PM denuncia homofobia de superiores dentro de batalhão em Sete Lagoas; corporação apura",
+  "titulo_orig": "Cabo da PM acusa superiores de homofobia em batalhão em MG \n",
+  "link": "https://www.otempo.com.br/cidades/2026/11/27/cabo-da-pm-acusa-superiores-de-homofobia-em-batalhao-em-mg",
+  "fonte": "www.otempo.com.br",
+  "arte": "artes/2026-11-27/120627_m-mg.jpg",
+  "media_id": "18102484937108323"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "12:15",
+  "id": "120630_tico",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Everson chega a 400 jogos pelo Atlético contra o Vasco e alcança Cerezo entre os que mais jogaram",
+  "titulo_orig": "Na história! Everson vai completar 400 jogos com a camisa do Atlético",
+  "link": "https://www.otempo.com.br/sports/atletico/2026/11/27/na-historia-everson-vai-completar-400-jogos-com-a-camisa-do-atletico",
+  "fonte": "www.otempo.com.br",
+  "arte": "artes/2026-11-27/120630_tico.jpg",
+  "media_id": "17921020464262558"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "12:16",
+  "id": "120631_juri",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "BELO HORIZONTE",
+  "titulo": "Família do gari Laudemir pede que delegada Ana Paula Balbino seja julgada pelo Tribunal do Júri",
+  "titulo_orig": "Família de gari pede que delegada seja julgada pelo Tribunal do Júri\n",
+  "link": "https://www.otempo.com.br/cidades/2026/11/27/familia-de-gari-pede-que-delegada-seja-julgada-pelo-tribunal-do-juri",
+  "fonte": "www.otempo.com.br",
+  "arte": "artes/2026-11-27/120631_juri.jpg",
+  "media_id": "17947135629367556"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "12:17",
+  "id": "120632_mes",
+  "bloco": "esporte",
+  "portal": "one",
+  "ed": "ATLÉTICO",
+  "titulo": "Igor Gomes e Tomás Pérez podem se despedir da Arena MRV no jogo do Atlético contra o Vasco",
+  "titulo_orig": "Dupla pode se despedir da Arena MRV pelo Atlético contra o Vasco; veja nomes | Rádio Itatiaia",
+  "link": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/dupla-pode-se-despedir-da-arena-mrv-pelo-atletico-contra-o-vasco-veja-nomes/",
+  "fonte": "www.itatiaia.com.br",
+  "arte": "artes/2026-11-27/120632_mes.jpg",
+  "media_id": "17953498170345850"
  }
 ]
