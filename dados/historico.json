@@ -77908,5 +77908,33 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "09:22",
+  "id": "092152_26",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Senado da França aprova imposto de 3% sobre big techs e empresas de IA que usam notícias da imprensa",
+  "titulo_orig": "Senado francês aprova proposta de imposto de 3% sobre big techs e empresas de IA que usam notícias da imprensa",
+  "link": "https://mediatalks.uol.com.br/2026/11/27/franca-imposto-sobre-big-techs-ia/",
+  "fonte": "UOL",
+  "arte": "",
+  "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "09:22",
+  "id": "092209_67",
+  "bloco": "mundo",
+  "portal": "one",
+  "ed": "MUNDO",
+  "titulo": "Equador vai às urnas no domingo em eleição local que pode consolidar Noboa, com oposição reduzida",
+  "titulo_orig": "Equador: Noboa tenta se consolidar em eleição com oposição reduzida",
+  "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/equador-noboa-tenta-se-consolidar-em-eleicao-com-oposicao-reduzida",
+  "fonte": "agenciabrasil.ebc.com.br",
+  "arte": "",
+  "media_id": "SITE"
  }
 ]
