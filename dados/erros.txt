@@ -868,3 +868,5 @@
 27/11/2026 17:22 171643_52 (greve rodoviários BH, ONE): painel 'too many actions' e Meta sem chave; publicado pelo Windsor
 27/11/2026 17:31 171651_26 (Dino/emendas Flávio, Política): painel bloqueado nesta sessão; publicado pelo Windsor COM collaborators=@portallpolitica
 27/11/2026 17:50 171718_0 (AMM piso enfermagem, Política): painel bloqueado nesta sessão; publicado pelo Windsor COM collaborators=@portallpolitica
+27/11/2026 17:59 171707_57 (caminhões-pipa Norte de Minas) e 171723_23 (motoniveladora Divinópolis), ONE: Windsor 'limite 100/24h'. Site feito; Instagram em dados/pendentes.json.
+27/11/2026 17:59 - Rodada 17h: denúncias A, B e C vazias (conferidas antes de cada post). Instagram: greve rodoviários BH e Rotam Savassi (ONE), Dino/emendas Flávio e AMM piso enfermagem (Política COM @portallpolitica). Limite 100/24h atingido no 5º post. Site: 8 só site. Santa Luzia MG: nada novo (radar só homônimas).
