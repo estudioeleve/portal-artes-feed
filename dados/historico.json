@@ -76830,5 +76830,19 @@
   "fonte": "O Tempo",
   "arte": "artes/2026-11-26/211144_84.jpg",
   "media_id": "18482213074140444"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "21:45",
+  "id": "211211_98",
+  "bloco": "brasil",
+  "portal": "politica",
+  "ed": "BRASIL",
+  "titulo": "Governo Lula rebate Macron, que chamou carne brasileira de “dopada”, e promete defender produtores",
+  "titulo_orig": "Brasil rebate Macron após fala sobre carne 'dopada' e acusa França de protecionismo | G1",
+  "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
+  "fonte": "G1",
+  "arte": "artes/2026-11-26/211211_98.jpg",
+  "media_id": "18094650527689787"
  }
 ]
