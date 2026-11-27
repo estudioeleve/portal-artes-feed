@@ -1,17 +1,5 @@
 [
  {
-  "id": "181734_122",
-  "data": "2026-11-25T18:22:00-03:00",
-  "titulo": "Temporal arranca telhados, derruba fachada e inunda terminal rodoviário de Coronel Fabriciano",
-  "linha_fina": "Chuva forte com ventos provocou alagamentos no Vale do Aço nesta quarta; Inmet alerta para até 100 mm por dia e ventos de 100 km/h.",
-  "categoria": "minas-gerais",
-  "texto": "<p>Uma chuva forte acompanhada de ventos atingiu Coronel Fabriciano, no Vale do Aço, na tarde desta quarta-feira (25) e provocou alagamentos em vários pontos da cidade. Imagens compartilhadas nas redes sociais mostram telhados de casas e placas de estabelecimentos arrancados pelo vento, além de muita enxurrada nas ruas.</p><p>Um dos vídeos mostra o Terminal Rodoviário Rufino da Silva Neto, no Centro, tomado pela água. Com a inundação, as lojas que funcionam no terminal precisaram fechar. Em outro registro, parte da fachada de um estabelecimento comercial desaba.</p><p>Mais cedo, a Prefeitura de Coronel Fabriciano havia emitido aviso de tempestade severa, com previsão de 20 a 40 milímetros de chuva até as 10h desta quinta-feira (26). O Instituto Nacional de Meteorologia (Inmet) também mantém alerta para chuvas intensas no município, com volume que pode chegar a 100 milímetros por dia e ventos de até 100 km/h.</p><p>Até a última atualização, não havia informação oficial sobre feridos ou desabrigados.</p><p>Em situações de risco, a orientação é não atravessar ruas alagadas, ficar longe de árvores, postes e fios e acionar a Defesa Civil pelo 199 ou o Corpo de Bombeiros pelo 193.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/181734_122.jpg",
-  "credito_foto": "Reprodução/Redes sociais",
-  "fonte": "BHAZ",
-  "resumos": ""
- },
- {
   "id": "181828_211",
   "data": "2026-11-25T18:22:00-03:00",
   "titulo": "Funcionária terceirizada da Câmara de Divinópolis morre aos 35 anos após procedimento cirúrgico em BH",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/123617_145.jpg",
   "credito_foto": "Reprodução/Ache Concursos",
   "fonte": "Ache Concursos",
+  "resumos": ""
+ },
+ {
+  "id": "131500_israel",
+  "data": "2026-11-27T13:14:24-03:00",
+  "titulo": "Papai Noel chega de trem a Santa Luzia no sábado, 5 de dezembro, com programação gratuita",
+  "linha_fina": "Trem Natalino da VLI chega à Estaçãozinha a partir das 18h, com casinha do Papai Noel, lembrancinhas e espaço para fotos.",
+  "categoria": "santa-luzia",
+  "texto": "<p>Santa Luzia recebe no próximo sábado, 5 de dezembro, o Trem Natalino – Magia que Conecta 2026. A bordo de uma locomotiva iluminada e decorada, o Papai Noel chega à Estaçãozinha a partir das 18h, em um evento gratuito e aberto a toda a família.</p><p>A iniciativa é da VLI, empresa que opera a ferrovia que corta a cidade, em parceria com a Pro Live MKT e a Prefeitura de Santa Luzia, por meio da Secretaria Municipal de Cultura e Turismo. O material de divulgação também traz a Elos Consultoria e Projetos.</p><p>A programação prevê a tradicional casinha do Papai Noel, a distribuição de lembrancinhas e um espaço especial para fotos com o Bom Velhinho. A expectativa é reunir crianças e famílias na região da Estaçãozinha para acompanhar a chegada da locomotiva.</p><p>A Prefeitura pede que o público acompanhe a passagem do trem mantendo uma distância segura da linha férrea e respeite as orientações das equipes de segurança que estarão no local.</p><p>Segundo a Secretaria de Cultura e Turismo, a ideia é celebrar o Natal em uma cidade que carrega, em sua história, uma forte ligação com a ferrovia. O evento se soma à programação natalina do município, que inclui o Circuito de Presépios.</p><p><strong>Serviço</strong><br>Trem Natalino – Magia que Conecta 2026<br>Data: sábado, 5 de dezembro<br>Horário: a partir das 18h<br>Local: Estaçãozinha, Santa Luzia<br>Entrada: gratuita</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/131500_israel.jpg",
+  "credito_foto": "Divulgação/Prefeitura de Santa Luzia",
+  "fonte": "Secretaria de Cultura e Turismo de Santa Luzia",
   "resumos": ""
  }
 ]
