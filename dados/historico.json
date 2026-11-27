@@ -77936,5 +77936,19 @@
   "fonte": "agenciabrasil.ebc.com.br",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "09:30",
+  "id": "091702_21",
+  "bloco": "minas",
+  "portal": "one",
+  "ed": "MINAS GERAIS",
+  "titulo": "PF faz buscas contra suspeito de compartilhar senhas de sistemas do governo no Vale do Aço",
+  "titulo_orig": "Polícia Federal busca hacker no Vale do Aço",
+  "link": "https://www.em.com.br/gerais/2026/11/7545325-policia-federal-busca-hacker-no-vale-do-aco.html",
+  "fonte": "Estado de Minas",
+  "arte": "artes/2026-11-27/091702_21.jpg",
+  "media_id": "18127195852932768"
  }
 ]
