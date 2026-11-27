@@ -853,3 +853,4 @@
 2026-11-27 12:45 | Denúncia OC-2026-11357: painel deu 'too many actions'; Reels publicado pelo Windsor SEM COLLAB (falta @portaluziense). Título gerado 'População de rua do São Cosme...' pode ser lido como pessoas em situação de rua; o site recusou a troca (já publicada) — Israel, ajustar à mão se quiser ('Leitores pedem poda urgente de mangueira na Rua Iacaiaca, no São Cosme').
 2026-11-27 12:55 | 123605_191 (MEI): painel 'too many actions'; publicado pelo Windsor COM collaborators=@portallcomercio
 27/11/2026 13:15 131500_israel (Trem Natalino Santa Luzia, pedido do Israel): painel 'too many actions' e Windsor 'limite 100/24h'. Site feito; Instagram Luziense no topo de dados/pendentes.json (publicar COM collab @portaluziense).
+27/11/2026 14:13 131500_israel (Trem Natalino): painel 'too many actions'; publicado pelo Windsor COM collaborators=@portaluziense

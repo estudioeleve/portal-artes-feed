@@ -1,26 +1,5 @@
 [
  {
-  "id": "131500_israel",
-  "portal": "luziense",
-  "ed": "SANTA LUZIA",
-  "bloco": "rmbh",
-  "pedido_israel": true,
-  "titulo": "Papai Noel chega de trem a Santa Luzia no sábado, 5 de dezembro, com programação gratuita",
-  "legenda": "🎅 O Papai Noel vai chegar de trem em Santa Luzia!\n\nNo próximo sábado, 5 de dezembro, a cidade recebe o Trem Natalino – Magia que Conecta 2026. A locomotiva iluminada e decorada traz o Bom Velhinho até a Estaçãozinha, a partir das 18h.\n\nA programação é gratuita e terá a tradicional casinha do Papai Noel, distribuição de lembrancinhas e um espaço especial para fotos com o Noel.\n\nA iniciativa é da VLI, em parceria com a Pro Live MKT e a Prefeitura de Santa Luzia, por meio da Secretaria de Cultura e Turismo.\n\n⚠️ A orientação é acompanhar a passagem da locomotiva a uma distância segura da linha férrea e respeitar as equipes de segurança.\n\n#PortalONENews #PortalLuziense #SantaLuzia #Natal #TremNatalino\n\nFonte da foto: Divulgação/Prefeitura de Santa Luzia\nFonte da matéria: Secretaria de Cultura e Turismo de Santa Luzia\nMatéria completa no nosso portal: www.portalonenews.com.br",
-  "linha_fina": "Trem Natalino da VLI chega à Estaçãozinha a partir das 18h, com casinha do Papai Noel, lembrancinhas e espaço para fotos.",
-  "categoria": "santa-luzia",
-  "credito_site": "Divulgação/Prefeitura de Santa Luzia",
-  "fonte_site": "Secretaria de Cultura e Turismo de Santa Luzia",
-  "foto": "fotos/2026-11-27/131500_israel.jpg",
-  "foco": [
-   0.45,
-   0.38
-  ],
-  "linhas": 3,
-  "url_arte": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/73837e10430be9479a015c9af64b0281e0c78c27/artes/2026-11-27/131500_israel.jpg",
-  "arte": "artes/2026-11-27/131500_israel.jpg"
- },
- {
   "bloco": "politica",
   "fonte": "Estadão",
   "titulo": "Randolfe propõe taxa de 3% sobre a receita das big techs para financiar programas de renda básica",
