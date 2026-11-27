@@ -1,17 +1,5 @@
 [
  {
-  "id": "081134_2",
-  "data": "2026-11-25T08:16:13-03:00",
-  "titulo": "Com Artur Jorge, Cruzeiro quase dobra viradas: são sete em 2026, contra quatro no ano passado",
-  "linha_fina": "Raposa já venceu sete jogos de virada no Brasileirão de 2026, todos com o técnico português; em 2025 foram quatro.",
-  "categoria": "cruzeiro",
-  "texto": "<p>A chegada do técnico português Artur Jorge mudou o Cruzeiro em vários aspectos, e um deles chama atenção: o poder de reação. Em 2026, o time celeste já venceu sete partidas de virada, quase o dobro das quatro conquistadas em toda a temporada de 2025.</p><p>No ano passado, apenas duas viradas aconteceram no Campeonato Brasileiro, ambas por 2 a 1, contra Bahia e Red Bull Bragantino. As outras vieram no Campeonato Mineiro, diante do Uberlândia (3 a 1), e na Copa Sul-Americana, contra o Palestino, do Chile (2 a 1). Nas demais vezes em que saiu atrás, a Raposa conseguiu no máximo o empate, o que aconteceu oito vezes.</p><p>Neste ano, todas as sete viradas foram pelo Brasileirão e com Artur Jorge no comando: Red Bull Bragantino (2 a 1, no primeiro turno), Bahia (2 a 1 no primeiro turno e 3 a 2 no segundo), Flamengo (2 a 1), Vitória (3 a 1), Grêmio (4 a 2) e Palmeiras (2 a 1), essas últimas no segundo turno.</p><p>Além das vitórias, o Cruzeiro buscou o empate em cinco jogos de 2026 depois de sair perdendo. Dois deles ainda com Tite no banco e três já com o português.</p><p>Uma explicação para a melhora está na mudança de estilo. Em 2025, sob o comando de Leonardo Jardim, o time era menos de construção e mais de objetividade e contra-ataques, treinado para ser letal. Com Artur Jorge, a equipe passou a ter mais posse e a propor o jogo, o que ajuda quando é preciso correr atrás do resultado.</p><p>O levantamento reforça a boa fase celeste na reta final do Campeonato Brasileiro, em que o time briga na parte de cima da tabela.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/081134_2.jpg",
-  "credito_foto": "Foto: Reprodução/O Tempo",
-  "fonte": "O Tempo",
-  "resumos": ""
- },
- {
   "id": "081152_133",
   "data": "2026-11-25T08:16:13-03:00",
   "titulo": "Globo confirma estreia de \"Avenida Brasil 2\" para 25 de janeiro, noite do aniversário de São Paulo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/061653_40.jpg",
   "credito_foto": "AP/Reprodução g1",
   "fonte": "g1",
+  "resumos": ""
+ },
+ {
+  "id": "062930_html",
+  "data": "2026-11-27T06:30:20-03:00",
+  "titulo": "Oeste e Centro-Sul de BH ficam em alerta de deslizamento até segunda após chuva acima da média",
+  "linha_fina": "Centro-Sul acumula 396 mm, 68% acima do esperado; Oeste e Centro-Sul estão em alerta de risco geológico até segunda (30).",
+  "categoria": "belo-horizonte",
+  "texto": "<p>A quatro dias do fim de novembro, todas as nove regionais de Belo Horizonte já ultrapassaram a média de chuva prevista para o mês, de 236 milímetros. O único ponto de medição ainda abaixo da média é o Hipercentro. Os dados são da Defesa Civil de Belo Horizonte, com acumulado até as 18h de quinta-feira (26), dia em que um temporal com raios, trovoadas e rajadas de vento atingiu a capital.</p><p>A Região Centro-Sul lidera, com 396,2 mm, o equivalente a 167,9% da média. Em seguida aparecem Pampulha, com 365 mm (154,7%), Oeste, com 354,8 mm (150,3%), Noroeste, com 351,4 mm (148,9%), Nordeste, com 324,4 mm (137,5%), e Barreiro, com 322,9 mm (136,8%). Venda Nova soma 305,2 mm (129,3%), Leste, 302,8 mm (128,3%), e Norte, 295 mm (125%). O Hipercentro registra 212,8 mm, ou 90,2% do esperado para o mês.</p><p>Só entre as 13h e as 18h de quinta, a Oeste recebeu 50,6 mm e a Centro-Sul, 44,8 mm. Por causa desses volumes e da previsão de mais chuva, as duas regionais estão em alerta de risco geológico moderado até segunda-feira (30). A Defesa Civil recomenda atenção à saturação do solo e a sinais de quedas de muros, deslizamentos e desabamentos.</p><p>Os sinais de alerta são: água minando da base do barranco, estalos, postes ou árvores inclinados, muros e paredes estufados, portas e janelas emperrando, rachaduras no solo e trincas nas paredes. Se perceber algum deles, a orientação é sair imediatamente do imóvel e ligar para a Defesa Civil (199); em emergência, para o Corpo de Bombeiros (193). Também é recomendado instalar calhas, consertar vazamentos em caixas-d'água, não jogar esgoto, lixo ou entulho em encostas e não fazer cortes altos em barrancos.</p><p>A chuva deve continuar nesta sexta-feira (27). Segundo o Instituto Nacional de Meteorologia (Inmet), o céu fica com muitas nuvens e pancadas isoladas pela manhã, com pancadas e trovoadas à tarde e possibilidade de chuva isolada à noite. A mínima prevista é de 17°C e a máxima, de 24°C.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/062930_html.jpg",
+  "credito_foto": "Gladyston Rodrigues/EM/D.A Press",
+  "fonte": "Estado de Minas e Defesa Civil de BH",
   "resumos": ""
  }
 ]
