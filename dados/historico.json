@@ -78118,5 +78118,19 @@
   "fonte": "CBN",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "10:19",
+  "id": "101426_18",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Pesquisa Nexus/Seta: governo Lula é aprovado por 49% e desaprovado por 47% dos eleitores",
+  "titulo_orig": "Nexus/Seta: Lula é aprovado por 49%; desaprovação é de 47% | CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/politica/nexus-seta-lula-e-aprovado-por-49-desaprovacao-e-de-47/",
+  "fonte": "CNN Brasil",
+  "arte": "artes/2026-11-27/101426_18.jpg",
+  "media_id": "18182631613395022"
  }
 ]
