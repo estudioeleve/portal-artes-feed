@@ -1,17 +1,5 @@
 [
  {
-  "id": "222314_122",
-  "data": "2026-11-25T22:24:32-03:00",
-  "titulo": "Fora dos planos do governo Lula 4, Haddad vai voltar a dar aulas na pós-graduação da USP em 2027",
-  "linha_fina": "Ex-ministro da Fazenda vai lecionar no Departamento de Ciência Política da FFLCH; auxiliares dizem que ele quer se dedicar à vida acadêmica.",
-  "categoria": "politica",
-  "texto": "<p>O ex-ministro da Fazenda Fernando Haddad (PT) vai voltar a dar aulas na Universidade de São Paulo (USP) em 2027, segundo a Folha de S.Paulo. A informação surge num momento em que ele não tem previsão de integrar o próximo governo Lula.</p><p>Haddad vai ministrar a disciplina Acumulação Primitiva, Capitalismo Superindustrial e Classes Sociais na pós-graduação do Departamento de Ciência Política da Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH). Professor da USP desde 1997, ele se afastou da função várias vezes por causa da vida política.</p><p>Segundo auxiliares, a intenção agora é se dedicar à vida acadêmica. Havia expectativa, entre integrantes do PT, de que ele pudesse assumir a Casa Civil, mas, de acordo com a reportagem, o presidente reeleito não ofereceu o cargo. O nome de Haddad também foi citado para o futuro Ministério da Segurança Pública.</p><p>Quando assumiu a Fazenda, em janeiro de 2023, Haddad manteve o salário da USP, de cerca de R$ 17 mil, mediante ressarcimento pelo ministério. Segundo o Portal da Transparência, a Fazenda ressarciu a universidade em R$ 823 mil no período.</p><p>Neste ano, Haddad disputou o Governo de São Paulo e não foi eleito. Antes, foi ministro da Educação, prefeito de São Paulo e candidato à Presidência em 2018.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/222314_122.jpg",
-  "credito_foto": "Reprodução/Folha de S.Paulo",
-  "fonte": "Folha de S.Paulo",
-  "resumos": ""
- },
- {
   "id": "222407_248",
   "data": "2026-11-25T22:24:38-03:00",
   "titulo": "Governo Lula estuda mudar a Constituição para conter gastos a partir de 2027; saúde e educação ficam de fora",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/162121_24.jpg",
   "credito_foto": "Divulgação/Prefeitura de Ibirité",
   "fonte": "Prefeitura de Ibirité",
+  "resumos": ""
+ },
+ {
+  "id": "162900_israel",
+  "data": "2026-11-27T16:33:47-03:00",
+  "titulo": "Black Friday decepciona lojistas de Santa Luzia, e Avenida Brasília tem movimento de dia comum",
+  "linha_fina": "Lojistas da Avenida Brasília dizem que movimento é de dia comum, mesmo depois de reforçar estoques e mudar preços para a data",
+  "categoria": "santa-luzia",
+  "texto": "<p>A Black Friday, que muitos comerciantes de Santa Luzia esperavam ser a melhor data de vendas de 2026, teve movimento de dia comum nesta sexta-feira (27) no principal corredor comercial da cidade, a Avenida Brasília.</p>\n<p>A reportagem do Portal Luziense esteve na avenida no meio da tarde e encontrou calçadas com pouca gente circulando e lojas com vitrines cheias de ofertas, mas com pouco movimento de clientes.</p>\n<p>Muitos lojistas reclamaram do resultado. Segundo eles, o movimento está igual ao de um dia normal, parecido com o de um início de semana, e abaixo até do que costuma ser uma sexta-feira comum no comércio da cidade.</p>\n<p>A frustração é maior porque muitos comerciantes apostaram na data. Para a Black Friday, eles reforçaram os estoques, alteraram preços e montaram promoções, confiando que a sexta-feira traria o melhor faturamento do ano.</p>\n<p>O cenário local acompanha um alerta feito em nível nacional. A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) projetou para a Black Friday deste ano um crescimento de apenas 1,8% nas vendas no país, abaixo dos 3,2% registrados em 2025, por causa dos juros altos e do endividamento das famílias.</p>\n<p>Os lojistas ainda esperam alguma reação no fim de semana e nas próximas semanas, com o pagamento do 13º salário e as compras de Natal.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-27/162900_israel.jpg",
+  "credito_foto": "Israel Fernandes/Portal Luziense",
+  "fonte": "Reportagem Portal Luziense",
   "resumos": ""
  }
 ]
