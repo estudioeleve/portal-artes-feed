@@ -1,27 +1,5 @@
 [
  {
-  "id": "181800_israel",
-  "pedido_israel": true,
-  "so_site": false,
-  "portal": "one",
-  "ed": "VIRALIZOU",
-  "bloco": "mundo",
-  "titulo": "Xerife fecha estacionamento de outlet lotado na Black Friday nos Estados Unidos",
-  "linha_fina": "Vídeo que circula nas redes mostra agente bloqueando a entrada de um centro de compras por excesso de lotação; filas longas marcaram o dia nos EUA",
-  "categoria": "mundo",
-  "foto": "fotos/181800_israel.jpg",
-  "foco": [
-   0.5,
-   0.49
-  ],
-  "credito_site": "Reprodução/Redes sociais",
-  "fonte_site": "Redes sociais",
-  "legenda": "🚫 Lotou: nem estacionamento sobrou!\n\nUm vídeo que circula nas redes sociais nesta sexta-feira (27), dia de Black Friday, mostra um xerife fechando a entrada do estacionamento de um centro de compras nos Estados Unidos por excesso de lotação.\n\nNas imagens, o agente coloca a barreira na via de acesso enquanto uma fila de carros espera para entrar. Segundo a legenda do vídeo, o local é um outlet.\n\nDurante todo o dia, vários vídeos mostraram filas quilométricas em shoppings e centros de compras pelo país, onde a Black Friday abre a temporada de compras de fim de ano.\n\n#PortalONENews #BlackFriday #EstadosUnidos #Viralizou\n\nFonte do vídeo: Reprodução/Redes sociais\n\nMatéria completa no nosso portal: www.portalonenews.com.br\n",
-  "acao": "create_video_post",
-  "video": "dados/reels/blackfriday-xerife-israel.mp4",
-  "video_url": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/e15e7baea776200fafb4f3205a1c5d84d1802f26/dados/reels/blackfriday-xerife-israel.mp4"
- },
- {
   "bloco": "politica",
   "fonte": "Estadão",
   "titulo": "Randolfe propõe taxa de 3% sobre a receita das big techs para financiar programas de renda básica",
