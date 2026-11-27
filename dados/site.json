@@ -1,17 +1,5 @@
 [
  {
-  "id": "061221_90",
-  "data": "2026-11-25T06:18:42-03:00",
-  "titulo": "PF prende na Ilha Grande ex-diretor da Gaviões da Fiel apontado como chefe de esquema de tráfico ligado ao PCC",
-  "linha_fina": "Elvis Riola de Andrade, o \"Cantor\", é o principal alvo da Operação Disfonia; Justiça mandou bloquear até R$ 45,6 milhões em bens.",
-  "categoria": "brasil",
-  "texto": "<p>A Polícia Federal prendeu na manhã desta terça-feira (24), numa pousada na Ilha Grande, no Rio de Janeiro, Elvis Riola de Andrade, conhecido como \"Cantor\", ex-diretor da escola de samba Gaviões da Fiel. Ele é o principal alvo da Operação Disfonia, deflagrada pela Força Integrada de Combate ao Crime Organizado de São Paulo (FICCO-SP) e pelo Gaeco do Ministério Público paulista.</p><p>Segundo o Estadão, Cantor é acusado de liderar uma organização criminosa especializada no tráfico internacional de drogas e na lavagem de dinheiro e é apontado por setores de inteligência da Polícia Militar como integrante do PCC. Durante a prisão, ele tentou se livrar do celular, atirando o aparelho em direção à piscina da pousada.</p><p>A investigação identificou movimentações financeiras consideradas incompatíveis com a renda declarada e o uso de familiares, empresas e terceiros para movimentar recursos e comprar patrimônio. A mulher dele foi presa em Corumbá (MS) quando tentava entrar na Bolívia. Ao todo, foram cumpridos cinco mandados de prisão e onze de busca e apreensão em cidades de São Paulo, no Rio de Janeiro e em Mato Grosso do Sul. A Justiça determinou o bloqueio de bens até o limite de R$ 45,6 milhões.</p><p>Cantor foi condenado a 16 anos de prisão pela morte de um agente penitenciário em 2009. Em janeiro de 2024, chegou a ser preso na Bolívia, mas foi solto ao chegar ao Brasil por um habeas corpus concedido pelo Superior Tribunal de Justiça, decisão depois mantida pelo então presidente do Supremo. A foto que ilustra esta matéria é da prisão dele na Bolívia, em 2024.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-25/061221_90.jpg",
-  "credito_foto": "Reprodução/Felcn (Bolívia), prisão de 2024",
-  "fonte": "Estadão",
-  "resumos": ""
- },
- {
   "id": "061734_85",
   "data": "2026-11-25T06:18:42-03:00",
   "titulo": "Taís Araujo faz 48 anos: atriz foi a primeira protagonista negra de novela contemporânea da Globo",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/231242_110.jpg",
   "credito_foto": "Reprodução/g1 Minas",
   "fonte": "Prefeitura de Belo Horizonte",
+  "resumos": ""
+ },
+ {
+  "id": "231235_73",
+  "data": "2026-11-26T23:18:42-03:00",
+  "titulo": "Homem com 32 ocorrências de furto e 11 passagens pela prisão é detido de novo pela PM em BH",
+  "linha_fina": "Suspeito de 49 anos era alvo de mandado de prisão e foi localizado no bairro Estrela, na Região Centro-Sul",
+  "categoria": "belo-horizonte",
+  "texto": "<p>Um homem de 49 anos, suspeito de envolvimento em mais de 30 ocorrências de furto e com 11 passagens pelo sistema prisional, foi detido novamente pela Polícia Militar nesta quinta-feira (26), em Belo Horizonte. Contra ele havia um mandado de prisão em aberto, expedido pela comarca da capital por causa de uma condenação.</p><p>Segundo a PM, o suspeito era um dos alvos da Operação Compras Seguras, lançada para prevenir crimes contra o patrimônio nas regiões de maior movimento durante as compras de fim de ano, período que inclui a Black Friday, o pagamento do 13º salário e o Natal.</p><p>Ele foi localizado no bairro Estrela, na Região Centro-Sul. De acordo com os militares, nenhum material ilícito foi encontrado com ele no momento da abordagem.</p><p>O histórico levantado pela corporação aponta envolvimento em 32 ocorrências de furto, duas de receptação, duas de uso e consumo de drogas e duas de ameaça. Ainda segundo a PM, ele agia principalmente em bairros da Região Centro-Sul, como Sion, Carmo, São Pedro, Santo Antônio e Savassi, áreas com grande circulação de moradores e consumidores.</p><p>A Polícia Civil confirmou que o homem foi levado à delegacia para as medidas legais cabíveis. A Operação Compras Seguras segue até o fim de dezembro em Belo Horizonte e em outras cidades de Minas, com reforço do policiamento em corredores comerciais, centros de compras e arredores de shoppings.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/231235_73.jpg",
+  "credito_foto": "Divulgação/PMMG",
+  "fonte": "g1 Minas",
   "resumos": ""
  }
 ]
