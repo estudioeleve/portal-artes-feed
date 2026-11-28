@@ -1,17 +1,5 @@
 [
  {
-  "id": "102050_7",
-  "data": "2026-11-26T10:23:33-03:00",
-  "titulo": "Carro carbonizado e corpo são encontrados em estrada no Quinta das Palmeiras, em Pedro Leopoldo",
-  "linha_fina": "Polícia Civil enviou perícia e rabecão; vítima ainda não foi identificada e ninguém foi preso.",
-  "categoria": "pedro-leopoldo",
-  "texto": "<p>Um carro carbonizado e um corpo próximo ao veículo foram encontrados na manhã desta quinta-feira (26) na Estrada Areias, no bairro Quinta das Palmeiras, em Pedro Leopoldo, no Vetor Norte da Região Metropolitana de Belo Horizonte.</p><p>A Polícia Civil de Minas Gerais (PCMG) informou que equipes da perícia técnica e o rabecão foram acionados para fazer os levantamentos iniciais no local. O corpo deve ser levado ao Instituto Médico Legal (IML), onde passará por exames para identificação e para apontar a causa da morte.</p><p>Até a última atualização, ninguém havia sido preso ou conduzido à delegacia. A identidade da vítima e as circunstâncias do caso ainda não foram divulgadas, e também não há informação oficial sobre a quem pertence o veículo.</p><p>Segundo a PCMG, o caso segue em andamento e novas informações devem ser divulgadas conforme o avanço das investigações.</p><p>Quem tiver informações que possam ajudar a polícia pode ligar para o Disque-Denúncia Unificado, pelo número 181. A ligação é gratuita e não é preciso se identificar. O Portal ONE News acompanha o caso e atualiza assim que houver novidades.</p>",
-  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-26/102050_7.jpg",
-  "credito_foto": "Foto: Imagens cedidas/Itatiaia",
-  "fonte": "Itatiaia, com informações da PCMG",
-  "resumos": ""
- },
- {
   "id": "102038_6",
   "data": "2026-11-26T10:23:34-03:00",
   "titulo": "Mulher é baleada pelo ex em ponto de ônibus no Alto Vera Cruz; suspeito tinha medida protetiva",
@@ -4797,6 +4785,18 @@
   "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-28/061232_84.jpg",
   "credito_foto": "Reprodução/Metrópoles",
   "fonte": "Metrópoles",
+  "resumos": ""
+ },
+ {
+  "id": "061839_tos",
+  "data": "2026-11-28T06:18:57-03:00",
+  "titulo": "Fim da escala 6x1 às vésperas do Natal pode elevar em 18% o custo com salários, estimam lojistas de BH",
+  "linha_fina": "Sindilojas tenta adiar a mudança para janeiro, mas CDL/BH vê obstáculo jurídico; temporários e revezamento estão entre as saídas.",
+  "categoria": "comercio",
+  "texto": "<p>O comércio de Belo Horizonte e de Minas Gerais terá pouco tempo para se adaptar à nova jornada de trabalho, que começa a valer em 16 de dezembro, em pleno movimento de Natal. A troca da escala 6x1 pelo modelo 5x2, com dois dias de descanso por semana e sem redução de salário, preocupa os empresários, que temem aumento de custos e dificuldade para manter o atendimento no período de maior venda do ano.</p><p>Segundo o presidente do Sindicato dos Lojistas do Comércio de BH (SindiLojas BH), Salvador Ohana, cálculos da entidade indicam que a mudança pode elevar em cerca de 18% os gastos com salários. Ele também vê risco de impacto nos ganhos dos vendedores no Natal e defende que as regras deveriam ter sido diferentes para cada setor. O sindicato patronal pretende negociar o adiamento da mudança para 1º de janeiro, por meio de um ajuste na convenção coletiva.</p><p>A Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH), porém, considera o adiamento pouco provável. Para o gerente jurídico da entidade, Alexandre Dinelli, como a emenda constitucional já está em vigor, qualquer alteração no prazo seria complexa e praticamente inviável em tão pouco tempo. Na avaliação dele, o lojista terá de reorganizar escalas e folgas justamente quando a procura aumenta.</p><p>Entre as alternativas em discussão estão a contratação de trabalhadores temporários, o revezamento das equipes, a mudança no horário de funcionamento das lojas e o investimento em tecnologia.</p><p>Do lado dos empregados, o presidente do Sindicato dos Comerciários de Belo Horizonte, João Pedro Periard, defende o diálogo entre trabalhadores e patrões para conciliar a nova jornada com as necessidades do setor e garantir o atendimento aos clientes.</p><p>Para o lojista, a adaptação vai exigir planejamento das equipes e negociação entre os representantes patronais e dos trabalhadores, para conciliar os dias de descanso com o funcionamento das lojas em dezembro.</p>",
+  "foto": "https://raw.githubusercontent.com/estudioeleve/portal-artes-feed/main/site/2026-11-28/061839_tos.jpg",
+  "credito_foto": "Divulgação/CDL Governador Valadares",
+  "fonte": "Itatiaia",
   "resumos": ""
  }
 ]
