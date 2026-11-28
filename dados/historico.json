@@ -81240,5 +81240,19 @@
   "fonte": "Diário do Transporte",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-28",
+  "hora": "11:31",
+  "id": "111228_146",
+  "bloco": "rmbh",
+  "portal": "one",
+  "ed": "TRANSPORTE",
+  "titulo": "Metrô de BH tem intervalo de 25 minutos neste sábado e mudanças até quinta por obras na Linha 1",
+  "titulo_orig": "Alterações nos horários do metrô de BH até 3 de dezembro",
+  "link": "https://conexao424.com.br/intervencoes-na-linha-1-do-metro-de-bh-alteram-intervalo-das-viagens-ate-quinta-feira/",
+  "fonte": "Conexão 424",
+  "arte": "artes/2026-11-28/111228_146.jpg",
+  "media_id": "18017003849760485"
  }
 ]
