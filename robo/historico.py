@@ -1,10 +1,24 @@
 """Registra um item do lote como publicado.
 uso: python3 robo/historico.py <id> <media_id>
-     python3 robo/historico.py --resumo   (conta os posts de hoje por bloco)"""
+     python3 robo/historico.py --resumo   (conta os posts de hoje por bloco)
+     python3 robo/historico.py --cota     (limite real: posts nas últimas 24h e quantos pode postar agora)"""
 import json,sys,os,time
 B=os.path.dirname(os.path.abspath(__file__));R=os.path.dirname(B);HF=f'{R}/dados/historico.json'
 H=json.load(open(HF)) if os.path.exists(HF) else []
 hoje=time.strftime('%Y-%m-%d',time.gmtime(time.time()-3*3600))
+if sys.argv[1]=='--cota':
+  # Israel, 27/11/2026: o limite do Instagram é 100 posts em 24 HORAS CORRIDAS (não "por dia"). Conta as últimas 24h e a última hora.
+  import calendar
+  agora=time.time()
+  def ts(h):
+    try: return calendar.timegm(time.strptime(h['data']+' '+h['hora'],'%Y-%m-%d %H:%M'))+3*3600
+    except Exception: return 0
+  ig=[h for h in H if h['media_id'] not in ('NAO_PUBLICADO_leva_teste','SITE')]
+  d24=sum(1 for h in ig if agora-ts(h)<24*3600); d1=sum(1 for h in ig if agora-ts(h)<3600)
+  livre=max(0,100-d24); noticias=max(0,min(4-d1,livre-10)); reserva=min(10,livre)
+  print(f'Ultimas 24h: {d24} posts no Instagram | ultima hora: {d1} | vagas livres: {livre}')
+  print(f'PODE POSTAR NESTA RODADA: {noticias} noticia(s) (teto 4 por hora) | reserva para denuncias e pedidos do Israel: {reserva}')
+  sys.exit()
 if sys.argv[1]=='--resumo':
   d=[h for h in H if h['data']==hoje and h['media_id'] not in ('NAO_PUBLICADO_leva_teste','SITE')];from collections import Counter
   so=[h for h in H if h['data']==hoje and h['media_id']=='SITE']

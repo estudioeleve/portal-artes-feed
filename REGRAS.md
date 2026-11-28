@@ -267,7 +267,7 @@
 
 ## 🚀 CARGA TOTAL E FOCO EM SANTA LUZIA (pedido do Israel, 04/11/2026) — manda mais que as outras regras de volume e de tema
 A redução provisória de 01/11 acabou. "Nós estamos falhando em Santa Luzia."
-- **Volume**: **100 posts por dia no Instagram**: **6 posts por rodada** (a rodada roda de hora em hora, das 6h às 23h), um a cada 8 a 10 minutos. **Notícias só para o site: 8 por rodada.** Se o dia estiver atrasado, 7 posts.
+- **Volume (MUDOU em 27/11/2026, Israel — vale mais que o "6 posts por rodada" escrito no prompt da tarefa)**: no começo da rodada e **antes de cada post** rode `python3 robo/historico.py --cota`. O limite do Instagram é **100 posts em 24 horas corridas** (não "por dia": o que saiu ontem à noite ainda conta hoje). **No máximo 4 notícias por rodada** (teto de 4 por hora), um post a cada 12 a 15 minutos, e só o número que o `--cota` mandar ("PODE POSTAR NESTA RODADA"). **10 vagas ficam sempre guardadas** para denúncias do leitor e pedidos do Israel: notícia comum nunca usa a reserva. Se o `--cota` disser 0, não poste notícia no Instagram (faça só o site). **Notícias só para o site: 8 por rodada.** Motivo: em 27/11 saíram 11 posts na rodada das 12h, o limite estourou às 17h59 e o perfil ficou das 18h às 20h sem nada, com pedido do Israel preso.
 - **Ordem de escolha das pautas** (campo `prio` do `dados/radar.json`; o radar imprime a contagem):
   1. **Santa Luzia (`prio` 1), sempre primeiro**: toda notícia real de Santa Luzia MG que aparecer entra (Instagram e/ou site), moldura `luziense`, até 2 dias para trás. Meta: **pelo menos 2 posts e 3 notícias de site por rodada**, quando houver notícia de verdade.
   2. **Vizinhas e Vetor Norte (`prio` 2)**: Vespasiano, São José da Lapa, Ribeirão das Neves, Sabará, Jaboticatubas, Taquaraçu de Minas, Nova União, Pedro Leopoldo, Matozinhos, Lagoa Santa, Confins, Caeté.
@@ -328,7 +328,7 @@ Tudo o que o Israel vê é em português.
 - Passando de 100 posts no dia: **não publicar nada**. Encerrar a rodada. O contador zera à meia-noite (America/Sao_Paulo).
 
 ## Meta e ritmo
-- Meta do dia: **100 posts** (ver CARGA TOTAL no topo), espaçados. Nunca vários de uma vez: **um post a cada 8 a 12 minutos** dentro da rodada.
+- Meta: perto de **90 posts em 24h** + 10 de reserva (ver CARGA TOTAL no topo e `historico.py --cota`), espaçados. Nunca vários de uma vez: **um post a cada 12 a 15 minutos** dentro da rodada, no máximo 4 notícias por hora.
 - Horários: a grande maioria entre **6h e meia-noite** (5 posts por rodada; se o dia estiver atrasado, até 6).
   Madrugada (0h às 5h59): volume menor, **2 posts por rodada**, com intervalo maior (12 a 20 minutos) e legendas mais curtas.
 - Distribuição das 100 do dia:
