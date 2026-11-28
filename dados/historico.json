@@ -81520,5 +81520,19 @@
   "fonte": "Poder360",
   "arte": "",
   "media_id": "SITE"
+ },
+ {
+  "data": "2026-11-28",
+  "hora": "13:17",
+  "id": "131237_23",
+  "bloco": "politica",
+  "portal": "politica",
+  "ed": "POLÍTICA",
+  "titulo": "Alcolumbre defende o presidente do STJ, Luis Felipe Salomão, para a vaga de Barroso no STF",
+  "titulo_orig": "Alcolumbre sugere presidente do STJ para vaga no STF | SBT News",
+  "link": "https://sbtnews.sbt.com.br/noticia/politica/alcolumbre-sugere-presidente-do-stj-para-vaga-no-stf",
+  "fonte": "SBT News",
+  "arte": "artes/2026-11-28/131237_23.jpg",
+  "media_id": "18083229923774506"
  }
 ]
